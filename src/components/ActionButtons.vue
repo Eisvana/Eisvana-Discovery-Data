@@ -26,12 +26,13 @@ async function loadData() {
   for (const galaxy of galaxies) {
     try {
       const mappedName = galaxyMapping[galaxy];
-      const { default: importedData } = await import(`/src/data/${mappedName}/${mappedName}.json`);
+      const { default: importedData } = await import(`../assets/${mappedName}/${mappedName}.json`);
       json.push(...importedData);
       data.value = json;
       applyFilter();
-    } catch {
+    } catch (error) {
       data.value = [];
+      console.warn(error);
     }
   }
   isLoading.value = false;
