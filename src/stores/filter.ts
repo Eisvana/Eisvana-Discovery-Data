@@ -1,4 +1,5 @@
 import { defineStore } from 'pinia';
+import type { DiscoveryData } from '@/types/data';
 
 interface TextSearch<T> {
   name: T;
@@ -18,6 +19,8 @@ interface State {
     [key: string]: string;
   }
   tagged: '' | boolean;
+  data: DiscoveryData[];
+  filteredData: DiscoveryData[];
 }
 
 export const useFilterStore = defineStore('filter', {
@@ -39,7 +42,9 @@ export const useFilterStore = defineStore('filter', {
       startDate: '',
       endDate: ''
     },
-    tagged: ''
+    tagged: '',
+    data: [],
+    filteredData: []
   }),
 
   getters: {

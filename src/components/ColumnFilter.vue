@@ -68,43 +68,33 @@ const { searchTerms, intersections, date, tagged } = storeToRefs(filterStore);
       <summary>Filter Data</summary>
       <legend>Filter Data:</legend>
       <div class="data-filter">
-        <div
+        <TextFilterInput
           v-if="textInputs.length"
           v-for="textInput in textInputs"
-        >
-          <TextFilterInput
-            v-bind="textInput"
-            v-model:searchTerm="searchTerms[textInput.id]"
-            v-model:intersection="intersections[textInput.id]"
-          />
-        </div>
+          v-bind="textInput"
+          v-model:searchTerm="searchTerms[textInput.id]"
+          v-model:intersection="intersections[textInput.id]"
+        />
 
-        <div v-if="platformSwitches.length">
-          <PlatformCheckboxes
-            v-for="platformSwitch in platformSwitches"
-            v-bind="platformSwitch"
-          />
-        </div>
+        <PlatformCheckboxes
+          v-if="platformSwitches.length"
+          v-for="platformSwitch in platformSwitches"
+          v-bind="platformSwitch"
+        />
 
-        <div
+        <DateInput
           v-if="dateInputs.length"
           v-for="dateInput in dateInputs"
-        >
-          <DateInput
-            v-bind="dateInput"
-            v-model="date[dateInput.id]"
-          />
-        </div>
+          v-bind="dateInput"
+          v-model="date[dateInput.id]"
+        />
 
-        <div
+        <TagSelect
           v-if="selectInputs.length"
           v-for="selectInput in selectInputs"
-        >
-          <TagSelect
-            v-bind="selectInput"
-            v-model="tagged"
-          />
-        </div>
+          v-bind="selectInput"
+          v-model="tagged"
+        />
       </div>
     </details>
   </fieldset>
