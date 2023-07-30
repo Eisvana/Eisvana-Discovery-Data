@@ -40,10 +40,11 @@ async function loadData() {
 function applyFilter() {
   const { startDate = 0, endDate = 0 } = unixTimestamp.value;
   function filterFunc(item: DiscoveryData) {
+    const dayInMs = 86400000;
     const isValidDate =
-      (startDate < item.UnixTimestamp && item.UnixTimestamp < endDate) ||
+      (startDate < item.UnixTimestamp && item.UnixTimestamp < endDate + dayInMs) ||
       (startDate < item.UnixTimestamp && !endDate) ||
-      (!startDate && item.UnixTimestamp < endDate) ||
+      (!startDate && item.UnixTimestamp < endDate + dayInMs) ||
       (!startDate && !endDate);
 
     const isValidPlatform = !platform.value.length || platform.value.includes(item.Platform as Platform);
