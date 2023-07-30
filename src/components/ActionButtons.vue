@@ -1,12 +1,12 @@
 <script setup lang="ts">
 import { useFilterStore } from '@/stores/filter';
-import type { DiscoveryData } from '@/types/data';
+import type { DiscoveryData, Platform } from '@/types/data';
 import { storeToRefs } from 'pinia';
 import { ref } from 'vue';
 
 const filterStore = useFilterStore();
 
-const { data } = storeToRefs(filterStore);
+const { data, filteredData, unixTimestamp, platform, tagged, intersections, searchTerms } = storeToRefs(filterStore);
 
 const isLoading = ref(false);
 
@@ -29,12 +29,56 @@ async function loadData() {
       const { default: importedData } = await import(`/src/data/${mappedName}/${mappedName}.json`);
       json.push(...importedData);
       data.value = json;
-    //  applyFilter();
+      applyFilter();
     } catch {
       data.value = [];
     }
   }
   isLoading.value = false;
+}
+
+function applyFilter() {
+  const { startDate = 0, endDate = 0 } = unixTimestamp.value;
+  function filterFunc(item: DiscoveryData) {
+    const isValidDate =
+      (startDate < item.UnixTimestamp && item.UnixTimestamp < endDate) ||
+      (startDate < item.UnixTimestamp && !endDate) ||
+      (!startDate && item.UnixTimestamp < endDate) ||
+      (!startDate && !endDate);
+
+    const isValidPlatform = !platform.value.length || platform.value.includes(item.Platform as Platform);
+
+    const isValidTagged =
+      tagged.value === '' || (tagged.value && item['Correctly Tagged']) || (!tagged.value && !item['Correctly Tagged']);
+
+    const isValidName =
+      !searchTerms.value.name ||
+      (intersections.value.name === 'includes' && item.Name.includes(searchTerms.value.name)) ||
+      (intersections.value.name === 'is' && item.Name === searchTerms.value.name) ||
+      (intersections.value.name === '!includes' && !item.Name.includes(searchTerms.value.name)) ||
+      (intersections.value.name === '!is' && item.Name !== searchTerms.value.name);
+
+    const isValidGlyphs =
+      !searchTerms.value.glyphs ||
+      (intersections.value.glyphs === 'includes' && item.Glyphs.slice(1).includes(searchTerms.value.glyphs.slice(1))) ||
+      (intersections.value.glyphs === 'is' && item.Glyphs.slice(1) === searchTerms.value.glyphs.slice(1)) ||
+      (intersections.value.glyphs === '!includes' &&
+        !item.Glyphs.slice(1).includes(searchTerms.value.glyphs.slice(1))) ||
+      (intersections.value.glyphs === '!is' && item.Glyphs.slice(1) !== searchTerms.value.glyphs.slice(1));
+
+    const isValidDiscoverer =
+      !searchTerms.value.discoverer ||
+      (intersections.value.discoverer === 'includes' && item.Discoverer.includes(searchTerms.value.discoverer)) ||
+      (intersections.value.discoverer === 'is' && item.Discoverer === searchTerms.value.discoverer) ||
+      (intersections.value.discoverer === '!includes' && !item.Discoverer.includes(searchTerms.value.discoverer)) ||
+      (intersections.value.discoverer === '!is' && item.Discoverer !== searchTerms.value.discoverer);
+
+    return isValidDate && isValidName && isValidPlatform && isValidTagged && isValidGlyphs && isValidDiscoverer;
+  }
+
+  const resultArray = data.value.filter(filterFunc);
+
+  filteredData.value = resultArray;
 }
 </script>
 

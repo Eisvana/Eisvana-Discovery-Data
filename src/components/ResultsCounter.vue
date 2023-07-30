@@ -4,7 +4,7 @@ import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 
 const filterStore = useFilterStore();
-const { data: filteredData } = storeToRefs(filterStore);
+const { filteredData } = storeToRefs(filterStore);
 
 const counter = computed(() => filteredData.value.length);
 </script>

@@ -69,7 +69,6 @@ const dataArray = computed(() => {
 
       textArray.push(newObj);
     }
-    if (textArray.length === 60) break;
   }
   return textArray;
 });
