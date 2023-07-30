@@ -2,9 +2,10 @@
 import { useFilterStore } from '@/stores/filter';
 import { storeToRefs } from 'pinia';
 import Switch from './Switch.vue';
+import type { Galaxy } from '@/types/data';
 
 const props = defineProps<{
-  id: 'euclid' | 'calypso' | 'eissentam';
+  id: Galaxy;
   label: string;
 }>();
 
