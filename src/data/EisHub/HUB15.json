@@ -1,0 +1,4466 @@
+[
+  {
+    "Name": "[HUB15-1] Dradradas",
+    "Glyphs": "0001FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-2] Saroar-Hamu XV",
+    "Glyphs": "0002FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-3] Fuhandl",
+    "Glyphs": "0003FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-4] Tomolith",
+    "Glyphs": "0004FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-5] Lidetat",
+    "Glyphs": "0005FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-6] Vugradi-Zen",
+    "Glyphs": "0006FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-09-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-7] Kebyeloc",
+    "Glyphs": "0007FA557C30",
+    "Discoverer": "Golodupiku",
+    "Platform": "XB",
+    "Timestamp": "2020-12-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-8] Liauro-Arna",
+    "Glyphs": "0008FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-9] Siirto",
+    "Glyphs": "0009FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-00A] Kolare-Muv",
+    "Glyphs": "000AFA557C30",
+    "Discoverer": "Wandering Lisa",
+    "Platform": "ST",
+    "Timestamp": "2022-04-20",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-B] Tovervo",
+    "Glyphs": "000BFA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-C] Mabiloth",
+    "Glyphs": "000CFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-D] Vuusko III",
+    "Glyphs": "000DFA557C30",
+    "Discoverer": "ch1seller",
+    "Platform": "ST",
+    "Timestamp": "2018-10-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "000EFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-F] Apositi-Nosh VIII",
+    "Glyphs": "000FFA557C30",
+    "Discoverer": "Dellers",
+    "Platform": "ST",
+    "Timestamp": "2021-05-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-10] Yanleit-Kiha",
+    "Glyphs": "0010FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-09-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-11] Kuyland-Grupp XVI",
+    "Glyphs": "0011FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-12] Audkasa-Repium",
+    "Glyphs": "0012FA557C30",
+    "Discoverer": "Dellers",
+    "Platform": "ST",
+    "Timestamp": "2021-05-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-13] Mimansk-Orm X",
+    "Glyphs": "0013FA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-14] Edovadras",
+    "Glyphs": "0014FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-21",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0015FA557C30",
+    "Discoverer": "wozamatawiyoo",
+    "Platform": "PS",
+    "Timestamp": "2018-09-12",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-016]  Fotruksi VIII",
+    "Glyphs": "0016FA557C30",
+    "Discoverer": "SoupStore",
+    "Platform": "ST",
+    "Timestamp": "2021-03-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "Raitilsid XVIIIXX",
+    "Glyphs": "0017FA557C30",
+    "Discoverer": "Garlayn Toji",
+    "Platform": "ST",
+    "Timestamp": "2020-11-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HIB 15-18]Olutat-Xok",
+    "Glyphs": "0018FA557C30",
+    "Discoverer": "Lucaribro5762",
+    "Platform": "XB",
+    "Timestamp": "2021-01-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-19] Bifraask",
+    "Glyphs": "0019FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-21",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1A] Rufrekv IX",
+    "Glyphs": "001AFA557C30",
+    "Discoverer": "ch1seller",
+    "Platform": "ST",
+    "Timestamp": "2018-10-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1B] Elbandess",
+    "Glyphs": "001BFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-06",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1C] Spiluy",
+    "Glyphs": "001CFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-06",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1D] Giebref",
+    "Glyphs": "001DFA557C30",
+    "Discoverer": "RagemKagem",
+    "Platform": "PS",
+    "Timestamp": "2021-04-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "001EFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1F] Lovisva",
+    "Glyphs": "001FFA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-20] Haaliluyf",
+    "Glyphs": "0020FA557C30",
+    "Discoverer": "Dellers",
+    "Platform": "ST",
+    "Timestamp": "2021-05-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0021FA557C30",
+    "Discoverer": "Tyler Ewart",
+    "Platform": "XB",
+    "Timestamp": "2022-04-30",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "(NGE-HUB01)Apollo",
+    "Glyphs": "0022FA557C30",
+    "Discoverer": "Sour563",
+    "Platform": "XB",
+    "Timestamp": "2021-06-09",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-23] Sysaask",
+    "Glyphs": "0023FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0024FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-15",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-25] Uperaas",
+    "Glyphs": "0025FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "Meep",
+    "Glyphs": "0026FA557C30",
+    "Discoverer": "Thorschild",
+    "Platform": "XB",
+    "Timestamp": "2021-03-08",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-27] Aavirv IV",
+    "Glyphs": "0027FA557C30",
+    "Discoverer": "AdrenalineMonk1",
+    "Platform": "XB",
+    "Timestamp": "2021-02-02",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-28] Uvaillf",
+    "Glyphs": "0028FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-29] Jojelmat",
+    "Glyphs": "0029FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-09-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-2A] Agidete",
+    "Glyphs": "002AFA557C30",
+    "Discoverer": "Dellers",
+    "Platform": "ST",
+    "Timestamp": "2021-05-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-2B] Lamaas",
+    "Glyphs": "002BFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-2C] Colait-Uvs",
+    "Glyphs": "002CFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "002DFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-2E] Erbergaa XI",
+    "Glyphs": "002EFA557C30",
+    "Discoverer": "Golodupiku",
+    "Platform": "XB",
+    "Timestamp": "2020-11-23",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-2F] Orfatt",
+    "Glyphs": "002FFA557C30",
+    "Discoverer": "Malo maxima",
+    "Platform": "ST",
+    "Timestamp": "2021-06-03",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0030FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0031FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-G2f]Palmik-Zaos",
+    "Glyphs": "0032FA557C30",
+    "Discoverer": "Lucky R0bot",
+    "Platform": "XB",
+    "Timestamp": "2021-03-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0033FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-34] Rottoth",
+    "Glyphs": "0034FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-35] Evendu",
+    "Glyphs": "0035FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-36] Tidskeru V",
+    "Glyphs": "0036FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-37] Hoover Delta",
+    "Glyphs": "0037FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-06-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-38] Fekomaas",
+    "Glyphs": "0038FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2021-01-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0039FA557C30",
+    "Discoverer": "Bahann",
+    "Platform": "ST",
+    "Timestamp": "2021-08-29",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-3A] Lentha-Hid",
+    "Glyphs": "003AFA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "003BFA557C30",
+    "Discoverer": "bradbannana",
+    "Platform": "PS",
+    "Timestamp": "2021-09-03",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "003CFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "003DFA557C30",
+    "Discoverer": "OdaNoburo",
+    "Platform": "PS",
+    "Timestamp": "2022-03-15",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-3E] Lotjarm-Yaman",
+    "Glyphs": "003EFA557C30",
+    "Discoverer": "ncn",
+    "Platform": "ST",
+    "Timestamp": "2022-03-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-3F] Visvenie XVI",
+    "Glyphs": "003FFA557C30",
+    "Discoverer": "ncn",
+    "Platform": "ST",
+    "Timestamp": "2022-03-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0040FA557C30",
+    "Discoverer": "Tickmeister",
+    "Platform": "ST",
+    "Timestamp": "2020-01-07",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "Wetness",
+    "Glyphs": "0041FA557C30",
+    "Discoverer": "Thorschild",
+    "Platform": "XB",
+    "Timestamp": "2021-03-08",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0042FA557C30",
+    "Discoverer": "Tyler Ewart",
+    "Platform": "XB",
+    "Timestamp": "2022-04-30",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-43] Kruymme",
+    "Glyphs": "0043FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-44] Arkoth",
+    "Glyphs": "0044FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-45] Merideth's Ire",
+    "Glyphs": "0045FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-46] Desromet",
+    "Glyphs": "0046FA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0047FA557C30",
+    "Discoverer": "Sourceman",
+    "Platform": "ST",
+    "Timestamp": "2021-01-23",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0048FA557C30",
+    "Discoverer": "Donnkey Hotay",
+    "Platform": "XB",
+    "Timestamp": "2021-02-24",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-49]Yerningild",
+    "Glyphs": "0049FA557C30",
+    "Discoverer": "tylerswift",
+    "Platform": "ST",
+    "Timestamp": "2020-10-02",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-4A] SosaCorp Space",
+    "Glyphs": "004AFA557C30",
+    "Discoverer": "DaKoolA1dMan",
+    "Platform": "XB",
+    "Timestamp": "2020-12-18",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-4B] April Field",
+    "Glyphs": "004BFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-11-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "004CFA557C30",
+    "Discoverer": "Replicant_01",
+    "Platform": "ST",
+    "Timestamp": "2021-03-29",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-4D] Efrittel",
+    "Glyphs": "004DFA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-4E] Seju",
+    "Glyphs": "004EFA557C30",
+    "Discoverer": "EmperorBenja",
+    "Platform": "XB",
+    "Timestamp": "2021-01-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-4F] Gabjor",
+    "Glyphs": "004FFA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-50] Elumoth",
+    "Glyphs": "0050FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-21",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-51] Omvarfre",
+    "Glyphs": "0051FA557C30",
+    "Discoverer": "Dellers",
+    "Platform": "ST",
+    "Timestamp": "2021-05-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-52] Glilith",
+    "Glyphs": "0052FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2021-01-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-53] Rifikat",
+    "Glyphs": "0053FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-54] Lirjata-Eder",
+    "Glyphs": "0054FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "Axis D/M Services Training/Command System",
+    "Glyphs": "0055FA557C30",
+    "Discoverer": "Carbon04",
+    "Platform": "ST",
+    "Timestamp": "2021-01-23",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-56] Corner Garden",
+    "Glyphs": "0056FA557C30",
+    "Discoverer": "Hashy_Bud",
+    "Platform": "PS",
+    "Timestamp": "2021-06-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-52] Uldulith",
+    "Glyphs": "0057FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-20",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-58] Taoloth",
+    "Glyphs": "0058FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "Good Apollo I'm Burning Star IV",
+    "Glyphs": "0059FA557C30",
+    "Discoverer": "l__Simulacra__l",
+    "Platform": "PS",
+    "Timestamp": "2019-08-16",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-5A] Uroduna",
+    "Glyphs": "005AFA557C30",
+    "Discoverer": "DaKoolA1dMan",
+    "Platform": "XB",
+    "Timestamp": "2021-03-06",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-5B] Ivmate",
+    "Glyphs": "005BFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "005CFA557C30",
+    "Discoverer": "Dingoing",
+    "Platform": "PS",
+    "Timestamp": "2021-01-12",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-5D] Lifsbo",
+    "Glyphs": "005DFA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "Nebadon 839",
+    "Glyphs": "005EFA557C30",
+    "Discoverer": "Furantia",
+    "Platform": "ST",
+    "Timestamp": "2020-01-01",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "005FFA557C30",
+    "Discoverer": "voxsq",
+    "Platform": "XB",
+    "Timestamp": "2021-10-24",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-60] Loekre-Mebo",
+    "Glyphs": "0060FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-21",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-AW3] Vatnsusy",
+    "Glyphs": "0061FA557C30",
+    "Discoverer": "Dingoing",
+    "Platform": "PS",
+    "Timestamp": "2021-01-13",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0062FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-63] Ahvero III",
+    "Glyphs": "0063FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-64] Orygagine",
+    "Glyphs": "0064FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-09",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-65] Dapjon VI",
+    "Glyphs": "0065FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-66] Rograftr X",
+    "Glyphs": "0066FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "Hub 13-KJ",
+    "Glyphs": "0067FA557C30",
+    "Discoverer": "voxsq",
+    "Platform": "XB",
+    "Timestamp": "2021-07-23",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-68] Dakenni-Epim",
+    "Glyphs": "0068FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-06-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0069FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-15",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-6A] EggMash",
+    "Glyphs": "006AFA557C30",
+    "Discoverer": "Grabby LaToosh",
+    "Platform": "ST",
+    "Timestamp": "2019-06-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-6B] Perioa",
+    "Glyphs": "006BFA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-6C] Hovoth",
+    "Glyphs": "006CFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-6D] Rutadfang",
+    "Glyphs": "006DFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-06-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "006EFA557C30",
+    "Discoverer": "racinbunny20",
+    "Platform": "PS",
+    "Timestamp": "2019-06-30",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-6F] Tojaask",
+    "Glyphs": "006FFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0070FA557C30",
+    "Discoverer": "Replicant_01",
+    "Platform": "ST",
+    "Timestamp": "2021-03-29",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0071FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2021-01-03",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0072FA557C30",
+    "Discoverer": "Lordofcrows",
+    "Platform": "XB",
+    "Timestamp": "2021-02-12",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0073FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-24] Voilith",
+    "Glyphs": "0074FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-20",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0075FA557C30",
+    "Discoverer": "KesselSmuggler",
+    "Platform": "XB",
+    "Timestamp": "2022-01-22",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-76] Amuude-Omga",
+    "Glyphs": "0076FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0077FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-78] Ketiivaer",
+    "Glyphs": "0078FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-79] Udiovi-Sudo",
+    "Glyphs": "0079FA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-17",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "007AFA557C30",
+    "Discoverer": "WZA",
+    "Platform": "ST",
+    "Timestamp": "2021-01-15",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-7B] Yajafia",
+    "Glyphs": "007BFA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-7C] Obillab-Ibata",
+    "Glyphs": "007CFA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB-15] Asjonss",
+    "Glyphs": "007DFA557C30",
+    "Discoverer": "Knotsogood",
+    "Platform": "ST",
+    "Timestamp": "2021-08-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-7E] Pasatik-Ogadh",
+    "Glyphs": "007EFA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-7F] Donovan's Mer",
+    "Glyphs": "007FFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-80] Hattik",
+    "Glyphs": "0080FA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-04-29",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-81] Rinyetai",
+    "Glyphs": "0081FA557C30",
+    "Discoverer": "Golodupiku",
+    "Platform": "XB",
+    "Timestamp": "2020-12-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-82] Ivguid-Orord XV",
+    "Glyphs": "0082FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-83] Tajani",
+    "Glyphs": "0083FA557C30",
+    "Discoverer": "Golodupiku",
+    "Platform": "XB",
+    "Timestamp": "2020-12-02",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-84] Lugreinsi",
+    "Glyphs": "0084FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-85] Urfilm V",
+    "Glyphs": "0085FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0086FA557C30",
+    "Discoverer": "Fair",
+    "Platform": "ST",
+    "Timestamp": "2019-09-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-87] Abyirju-Urga",
+    "Glyphs": "0087FA557C30",
+    "Discoverer": "Golodupiku",
+    "Platform": "XB",
+    "Timestamp": "2020-11-24",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0088FA557C30",
+    "Discoverer": "Squishy9589",
+    "Platform": "XB",
+    "Timestamp": "2022-05-06",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-89] Judars IV",
+    "Glyphs": "0089FA557C30",
+    "Discoverer": "Golodupiku",
+    "Platform": "XB",
+    "Timestamp": "2020-12-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-8A] Ahkois-Yaan",
+    "Glyphs": "008AFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "008BFA557C30",
+    "Discoverer": "death_in-za",
+    "Platform": "PS",
+    "Timestamp": "2021-06-03",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "008CFA557C30",
+    "Discoverer": "Minion---------x",
+    "Platform": "PS",
+    "Timestamp": "2019-04-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-8D] Bigspelank",
+    "Glyphs": "008DFA557C30",
+    "Discoverer": "Chemwars",
+    "Platform": "ST",
+    "Timestamp": "2020-12-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB16-8E] Erloss",
+    "Glyphs": "008EFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-27",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[]",
+    "Glyphs": "008FFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-21",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-90] Notakjaha XVII",
+    "Glyphs": "0090FA557C30",
+    "Discoverer": "Golodupiku",
+    "Platform": "XB",
+    "Timestamp": "2020-12-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-91] Ammistha",
+    "Glyphs": "0091FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0092FA557C30",
+    "Discoverer": "Dominic Elwell",
+    "Platform": "XB",
+    "Timestamp": "2021-03-04",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-93] Dirborn",
+    "Glyphs": "0093FA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-94] Rumgila",
+    "Glyphs": "0094FA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0095FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-19",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-96] Tirmuu XII",
+    "Glyphs": "0096FA557C30",
+    "Discoverer": "Ace8144",
+    "Platform": "PS",
+    "Timestamp": "2018-10-31",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-97] Hullber-Ulie XVII",
+    "Glyphs": "0097FA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-14",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-98] Fentilteg",
+    "Glyphs": "0098FA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-14",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-99] Presea",
+    "Glyphs": "0099FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-06",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "009AFA557C30",
+    "Discoverer": "Fair",
+    "Platform": "ST",
+    "Timestamp": "2019-09-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-9B] Sentti-Viv",
+    "Glyphs": "009BFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "Kivilavo XDM",
+    "Glyphs": "009CFA557C30",
+    "Discoverer": "zaxncasey2gether",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-9D] Tracker's Guile",
+    "Glyphs": "009DFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-9E] Uzay",
+    "Glyphs": "009EFA557C30",
+    "Discoverer": "Golodupiku",
+    "Platform": "XB",
+    "Timestamp": "2020-12-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "009FFA557C30",
+    "Discoverer": "Ade",
+    "Platform": "ST",
+    "Timestamp": "2020-09-29",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-A0] Udbotak-Maz",
+    "Glyphs": "00A0FA557C30",
+    "Discoverer": "Golodupiku",
+    "Platform": "XB",
+    "Timestamp": "2020-11-23",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00A1FA557C30",
+    "Discoverer": "Grabby LaToosh",
+    "Platform": "ST",
+    "Timestamp": "2019-06-12",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-A2] Yihento-Syal",
+    "Glyphs": "00A2FA557C30",
+    "Discoverer": "Chemwars",
+    "Platform": "ST",
+    "Timestamp": "2020-12-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-A3] Kespridi XIII",
+    "Glyphs": "00A3FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00A4FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-A5] Meoalv",
+    "Glyphs": "00A5FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00A6FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-A7] Oalfur",
+    "Glyphs": "00A7FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-A8] Mirering",
+    "Glyphs": "00A8FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-18",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-A9] Yeskaas",
+    "Glyphs": "00A9FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00AAFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00ABFA557C30",
+    "Discoverer": "Turrao",
+    "Platform": "PS",
+    "Timestamp": "2019-05-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00ACFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00ADFA557C30",
+    "Discoverer": "Tarkony",
+    "Platform": "PS",
+    "Timestamp": "2019-09-27",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-AE] Skufsl-Kanari XV",
+    "Glyphs": "00AEFA557C30",
+    "Discoverer": "Ace8144",
+    "Platform": "PS",
+    "Timestamp": "2018-09-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-AF] Gatakirk",
+    "Glyphs": "00AFFA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00B0FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1B] Onkoht-Noomo",
+    "Glyphs": "00B1FA557C30",
+    "Discoverer": "Golodupiku",
+    "Platform": "XB",
+    "Timestamp": "2020-11-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00B2FA557C30",
+    "Discoverer": "Fair",
+    "Platform": "ST",
+    "Timestamp": "2019-09-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00B3FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "Irvarderg",
+    "Glyphs": "00B4FA557C30",
+    "Discoverer": "Garlayn Toji",
+    "Platform": "ST",
+    "Timestamp": "2020-11-25",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-B5] Stimila",
+    "Glyphs": "00B5FA557C30",
+    "Discoverer": "Golodupiku",
+    "Platform": "XB",
+    "Timestamp": "2020-12-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-B6] Lodka",
+    "Glyphs": "00B6FA557C30",
+    "Discoverer": "Grabby LaToosh",
+    "Platform": "ST",
+    "Timestamp": "2019-06-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-B7] Umenoth",
+    "Glyphs": "00B7FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-B8] Tebomos",
+    "Glyphs": "00B8FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-B9] Hiasof",
+    "Glyphs": "00B9FA557C30",
+    "Discoverer": "Golodupiku",
+    "Platform": "XB",
+    "Timestamp": "2020-12-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-BA] Usjolith",
+    "Glyphs": "00BAFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-17",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-BB] Izzabelle",
+    "Glyphs": "00BBFA557C30",
+    "Discoverer": "Grabby LaToosh",
+    "Platform": "ST",
+    "Timestamp": "2019-06-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-BC] Adseyra-Firma",
+    "Glyphs": "00BCFA557C30",
+    "Discoverer": "Golodupiku",
+    "Platform": "XB",
+    "Timestamp": "2020-12-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-BD] Liusko-Hab IV",
+    "Glyphs": "00BDFA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2020-08-24",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00BEFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-BF] Nediste-Iueh",
+    "Glyphs": "00BFFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-18",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-C0] Lottur-Syser",
+    "Glyphs": "00C0FA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-C1] Vedklarn IV",
+    "Glyphs": "00C1FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-C2] Nippel",
+    "Glyphs": "00C2FA557C30",
+    "Discoverer": "RagemKagem",
+    "Platform": "PS",
+    "Timestamp": "2021-01-24",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-C3] Ajaask",
+    "Glyphs": "00C3FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-C4] Osrita",
+    "Glyphs": "00C4FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-C5] Didarfre",
+    "Glyphs": "00C5FA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-C6] Ripland",
+    "Glyphs": "00C6FA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-09-30",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00C7FA557C30",
+    "Discoverer": "enerjohn78",
+    "Platform": "PS",
+    "Timestamp": "2021-12-04",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00C8FA557C30",
+    "Discoverer": "ProfSRD",
+    "Platform": "PS",
+    "Timestamp": "2021-02-28",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00C9FA557C30",
+    "Discoverer": "GeckoGT",
+    "Platform": "ST",
+    "Timestamp": "2021-05-11",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15]",
+    "Glyphs": "00CAFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-06",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00CBFA557C30",
+    "Discoverer": "DingoZero",
+    "Platform": "XB",
+    "Timestamp": "2021-06-04",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00CCFA557C30",
+    "Discoverer": "xXTyTheKillaXx",
+    "Platform": "XB",
+    "Timestamp": "2019-08-07",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-CD] Rumoth",
+    "Glyphs": "00CDFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-CE] Kajsa-Jaoa VI",
+    "Glyphs": "00CEFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-23",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-CF] Tulunde-Tot",
+    "Glyphs": "00CFFA557C30",
+    "Discoverer": "Golodupiku",
+    "Platform": "XB",
+    "Timestamp": "2020-12-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00D0FA557C30",
+    "Discoverer": "Garro",
+    "Platform": "ST",
+    "Timestamp": "2020-11-13",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "HUB15-D1",
+    "Glyphs": "00D1FA557C30",
+    "Discoverer": "Chemwars",
+    "Platform": "ST",
+    "Timestamp": "2020-12-12",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-D2] Tinman",
+    "Glyphs": "00D2FA557C30",
+    "Discoverer": "Grabby LaToosh",
+    "Platform": "ST",
+    "Timestamp": "2019-06-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-D3] Iistam-Wigho II",
+    "Glyphs": "00D3FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-D4] Vesocyke",
+    "Glyphs": "00D4FA557C30",
+    "Discoverer": "Chemwars",
+    "Platform": "ST",
+    "Timestamp": "2020-12-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-D5] Kulofal-Futu",
+    "Glyphs": "00D5FA557C30",
+    "Discoverer": "Chemwars",
+    "Platform": "ST",
+    "Timestamp": "2020-12-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-D6] Anmaaterg",
+    "Glyphs": "00D6FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2021-01-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-D7] Levisisk XI",
+    "Glyphs": "00D7FA557C30",
+    "Discoverer": "Golodupiku",
+    "Platform": "XB",
+    "Timestamp": "2020-12-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-B8] Keen Oasis",
+    "Glyphs": "00D8FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-18",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00D9FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-19",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-DA] Migeno-Tup VI",
+    "Glyphs": "00DAFA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-DB] Yulansr-Pech",
+    "Glyphs": "00DBFA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-14",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-DC] Odludio-Cag",
+    "Glyphs": "00DCFA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00DDFA557C30",
+    "Discoverer": "Wowie",
+    "Platform": "ST",
+    "Timestamp": "2021-01-12",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-DE] Pulosuus",
+    "Glyphs": "00DEFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-18",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-DF] Eatholith",
+    "Glyphs": "00DFFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-21",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-E0] Barhet-Xala XIX",
+    "Glyphs": "00E0FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-E1] Mundaas",
+    "Glyphs": "00E1FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2021-01-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-E2] Eistus-Azuna",
+    "Glyphs": "00E2FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-18",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00E3FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00E4FA557C30",
+    "Discoverer": "Scinetik",
+    "Platform": "PS",
+    "Timestamp": "2021-09-03",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-E5] Renskaa",
+    "Glyphs": "00E5FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-E6] Insinf",
+    "Glyphs": "00E6FA557C30",
+    "Discoverer": "Golodupiku",
+    "Platform": "XB",
+    "Timestamp": "2020-12-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-E7] Snotuda",
+    "Glyphs": "00E7FA557C30",
+    "Discoverer": "Juusukun",
+    "Platform": "PS",
+    "Timestamp": "2019-06-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00E8FA557C30",
+    "Discoverer": "NigthmareDawn",
+    "Platform": "PS",
+    "Timestamp": "2022-04-16",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-E9] Enthan",
+    "Glyphs": "00E9FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-EA] In the game",
+    "Glyphs": "00EAFA557C30",
+    "Discoverer": "Golodupiku",
+    "Platform": "XB",
+    "Timestamp": "2020-12-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-EB] Gosneske",
+    "Glyphs": "00EBFA557C30",
+    "Discoverer": "Golodupiku",
+    "Platform": "XB",
+    "Timestamp": "2020-12-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-EC] Unktioaa",
+    "Glyphs": "00ECFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-ED] Isrodun",
+    "Glyphs": "00EDFA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2021-01-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "HUB15-EE",
+    "Glyphs": "00EEFA557C30",
+    "Discoverer": "Chemwars",
+    "Platform": "ST",
+    "Timestamp": "2020-12-12",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUBB15-F] Lehtol-Edsf",
+    "Glyphs": "00EFFA557C30",
+    "Discoverer": "Golodupiku",
+    "Platform": "XB",
+    "Timestamp": "2020-11-23",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-F0] Jearkro",
+    "Glyphs": "00F0FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-F1] Tessunnos",
+    "Glyphs": "00F1FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-F2] Lalbeink",
+    "Glyphs": "00F2FA557C30",
+    "Discoverer": "Chemwars",
+    "Platform": "ST",
+    "Timestamp": "2020-12-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-F3] Utionent",
+    "Glyphs": "00F3FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-03",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-F4] Nekiskl-Erri III",
+    "Glyphs": "00F4FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-F5] Afskaas",
+    "Glyphs": "00F5FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-F6] Ooshomos",
+    "Glyphs": "00F6FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-21",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-F7] Carlit",
+    "Glyphs": "00F7FA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-14",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-F8] Alauta XVI",
+    "Glyphs": "00F8FA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-14",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-F9] Lesesjour XVIII",
+    "Glyphs": "00F9FA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00FAFA557C30",
+    "Discoverer": "DaKoolA1dMan",
+    "Platform": "XB",
+    "Timestamp": "2020-12-29",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-FB] Nemaask",
+    "Glyphs": "00FBFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-21",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-FC] Etoval-Dak",
+    "Glyphs": "00FCFA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-FD] Ouluker",
+    "Glyphs": "00FDFA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-FE] Hulidov-Oevus",
+    "Glyphs": "00FEFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-FF] Roskomos",
+    "Glyphs": "00FFFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-21",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0100FA557C30",
+    "Discoverer": "Dark Warlord644",
+    "Platform": "XB",
+    "Timestamp": "2021-09-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-101] Enworbia",
+    "Glyphs": "0101FA557C30",
+    "Discoverer": "Dingoing",
+    "Platform": "PS",
+    "Timestamp": "2021-01-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-102] Yokilalsgil XII",
+    "Glyphs": "0102FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-103] Kitromos",
+    "Glyphs": "0103FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0104FA557C30",
+    "Discoverer": "Fair",
+    "Platform": "ST",
+    "Timestamp": "2019-09-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-105] Mohetsbe",
+    "Glyphs": "0105FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-106] Eadera",
+    "Glyphs": "0106FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-7] Bristowpro",
+    "Glyphs": "0107FA557C30",
+    "Discoverer": "bristowpro",
+    "Platform": "PS",
+    "Timestamp": "2021-01-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0108FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0109FA557C30",
+    "Discoverer": "MordecaiZer0",
+    "Platform": "XB",
+    "Timestamp": "2020-05-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-10A] Okitari",
+    "Glyphs": "010AFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-10B] Bhag'thera",
+    "Glyphs": "010BFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-02",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "010CFA557C30",
+    "Discoverer": "Davion",
+    "Platform": "ST",
+    "Timestamp": "2020-03-20",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-10D] Eikume",
+    "Glyphs": "010DFA557C30",
+    "Discoverer": "Chemwars",
+    "Platform": "ST",
+    "Timestamp": "2020-12-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-10E] Smulai",
+    "Glyphs": "010EFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "010FFA557C30",
+    "Discoverer": "Abigail",
+    "Platform": "ST",
+    "Timestamp": "2021-02-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-110] Enkanen-Radag",
+    "Glyphs": "0110FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2021-01-09",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-111] Ooafhenn",
+    "Glyphs": "0111FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-06",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0112FA557C30",
+    "Discoverer": "Dominic Elwell",
+    "Platform": "XB",
+    "Timestamp": "2021-03-04",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-113] Rakenings",
+    "Glyphs": "0113FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-06",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0114FA557C30",
+    "Discoverer": "Hexaflexigon",
+    "Platform": "GX",
+    "Timestamp": "2021-05-31",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-115] Suaalie-Frya",
+    "Glyphs": "0115FA557C30",
+    "Discoverer": "RagemKagem",
+    "Platform": "PS",
+    "Timestamp": "2021-01-31",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0116FA557C30",
+    "Discoverer": "BlackWaterOz64",
+    "Platform": "PS",
+    "Timestamp": "2020-08-28",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-18D] Unbarh",
+    "Glyphs": "0117FA557C30",
+    "Discoverer": "Dingoing",
+    "Platform": "PS",
+    "Timestamp": "2021-01-13",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0118FA557C30",
+    "Discoverer": "GeckoGT",
+    "Platform": "ST",
+    "Timestamp": "2021-03-21",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-119] Hakostoa VI",
+    "Glyphs": "0119FA557C30",
+    "Discoverer": "ch1seller",
+    "Platform": "ST",
+    "Timestamp": "2018-10-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "011AFA557C30",
+    "Discoverer": "TaoHypnos",
+    "Platform": "PS",
+    "Timestamp": "2020-04-25",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "011BFA557C30",
+    "Discoverer": "GeckoGT",
+    "Platform": "ST",
+    "Timestamp": "2021-05-11",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "011CFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "011DFA557C30",
+    "Discoverer": "MordecaiZer0",
+    "Platform": "XB",
+    "Timestamp": "2020-05-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "011EFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "011FFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-120] Lireinno IV",
+    "Glyphs": "0120FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-121] Vefilma-Abbet",
+    "Glyphs": "0121FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0122FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-15",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "Akopio",
+    "Glyphs": "0123FA557C30",
+    "Discoverer": "Charian_",
+    "Platform": "PS",
+    "Timestamp": "2021-09-23",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0124FA557C30",
+    "Discoverer": "BlackWaterOz64",
+    "Platform": "PS",
+    "Timestamp": "2020-08-28",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-125] Delinko",
+    "Glyphs": "0125FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2022-03-28",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0126FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-127] Etbaas",
+    "Glyphs": "0127FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-128] Dotusa",
+    "Glyphs": "0128FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0129FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-12A] Feskaas",
+    "Glyphs": "012AFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-17",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "012BFA557C30",
+    "Discoverer": "Tarkony",
+    "Platform": "PS",
+    "Timestamp": "2019-09-27",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-12C] Icolarin",
+    "Glyphs": "012CFA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-12D] Sakilith",
+    "Glyphs": "012DFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-21",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-12E] Kayaask",
+    "Glyphs": "012EFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "012FFA557C30",
+    "Discoverer": "DaKoolA1dMan",
+    "Platform": "XB",
+    "Timestamp": "2020-12-29",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-130] Siappa-Neykan",
+    "Glyphs": "0130FA557C30",
+    "Discoverer": "ch1seller",
+    "Platform": "ST",
+    "Timestamp": "2018-10-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0131FA557C30",
+    "Discoverer": "Graysdir",
+    "Platform": "XB",
+    "Timestamp": "2021-01-28",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-132] Turkaask",
+    "Glyphs": "0132FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-21",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-133] Iknolith",
+    "Glyphs": "0133FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-21",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0134FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-135] Kodunaas",
+    "Glyphs": "0135FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-18",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0136FA557C30",
+    "Discoverer": "gabrielgs997",
+    "Platform": "XB",
+    "Timestamp": "2021-01-28",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0137FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0138FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0139FA557C30",
+    "Discoverer": "Hangover",
+    "Platform": "ST",
+    "Timestamp": "2020-05-16",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "013AFA557C30",
+    "Discoverer": "NigthmareDawn",
+    "Platform": "PS",
+    "Timestamp": "2022-04-16",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "013BFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "013CFA557C30",
+    "Discoverer": "Saint Parallelogram",
+    "Platform": "ST",
+    "Timestamp": "2021-11-01",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-13D] Atssokra",
+    "Glyphs": "013DFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-13E] Raderi",
+    "Glyphs": "013EFA557C30",
+    "Discoverer": "Quentenium",
+    "Platform": "XB",
+    "Timestamp": "2021-07-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-13F] Edgref-Takew IV",
+    "Glyphs": "013FFA557C30",
+    "Discoverer": "Golodupiku",
+    "Platform": "XB",
+    "Timestamp": "2020-12-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-140] Benttyp II",
+    "Glyphs": "0140FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0141FA557C30",
+    "Discoverer": "bogdanc90",
+    "Platform": "PS",
+    "Timestamp": "2021-04-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-142] Eksesja",
+    "Glyphs": "0142FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-143] Degula",
+    "Glyphs": "0143FA557C30",
+    "Discoverer": "Diversecape",
+    "Platform": "ST",
+    "Timestamp": "2018-08-26",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-144] Gagnilo",
+    "Glyphs": "0144FA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0145FA557C30",
+    "Discoverer": "MagicMat",
+    "Platform": "PS",
+    "Timestamp": "2020-07-23",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0146FA557C30",
+    "Discoverer": "ilosamart",
+    "Platform": "PS",
+    "Timestamp": "2020-06-28",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0147FA557C30",
+    "Discoverer": "MordecaiZer0",
+    "Platform": "XB",
+    "Timestamp": "2020-05-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-148] Rulomoth",
+    "Glyphs": "0148FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0149FA557C30",
+    "Discoverer": "zaxncasey2gether",
+    "Platform": "ST",
+    "Timestamp": "2022-05-01",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-14A] Sovurde-Aioi",
+    "Glyphs": "014AFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-18",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-14B] Guloth",
+    "Glyphs": "014BFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "014CFA557C30",
+    "Discoverer": "[MC] Inlex",
+    "Platform": "ST",
+    "Timestamp": "2018-08-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "014DFA557C30",
+    "Discoverer": "Pdog",
+    "Platform": "ST",
+    "Timestamp": "2021-01-23",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-14E] Aanittel",
+    "Glyphs": "014EFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-18",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "014FFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-150] Jodaas",
+    "Glyphs": "0150FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-151] Thandi-Gau",
+    "Glyphs": "0151FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-152] Lilqvis-Riven",
+    "Glyphs": "0152FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0153FA557C30",
+    "Discoverer": "PurpleDevilDucky",
+    "Platform": "PS",
+    "Timestamp": "2021-06-06",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-154] Nefarst",
+    "Glyphs": "0154FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-155] Agbokuda",
+    "Glyphs": "0155FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-156] Optings",
+    "Glyphs": "0156FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-157] Cipering",
+    "Glyphs": "0157FA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-158] Alnars-Ako",
+    "Glyphs": "0158FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-06",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0159FA557C30",
+    "Discoverer": "ilosamart",
+    "Platform": "PS",
+    "Timestamp": "2020-06-28",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-15A] Diglafjogu",
+    "Glyphs": "015AFA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "015BFA557C30",
+    "Discoverer": "Zanzibar",
+    "Platform": "ST",
+    "Timestamp": "2020-10-02",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "015CFA557C30",
+    "Discoverer": "ilosamart",
+    "Platform": "PS",
+    "Timestamp": "2020-06-28",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-15D] Packnin",
+    "Glyphs": "015DFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "015EFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-19",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "015FFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-160] Porttune",
+    "Glyphs": "0160FA557C30",
+    "Discoverer": "JohnSafV",
+    "Platform": "XB",
+    "Timestamp": "2021-01-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0161FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0162FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-163] Kingfisher",
+    "Glyphs": "0163FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-17",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0164FA557C30",
+    "Discoverer": "eah420",
+    "Platform": "PS",
+    "Timestamp": "2020-02-09",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-165] Idurus-Bogbi",
+    "Glyphs": "0165FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-06-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-166] Vikmyen",
+    "Glyphs": "0166FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2021-01-17",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-167] Keudei-Hii IV",
+    "Glyphs": "0167FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-168] Illupp-Ofbe",
+    "Glyphs": "0168FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-168+1] Situgars VIII",
+    "Glyphs": "0169FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-16A] Krettav-Uchuo",
+    "Glyphs": "016AFA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-16B] Teysaikat",
+    "Glyphs": "016BFA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "016CFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-15",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-16D] Xifilian",
+    "Glyphs": "016DFA557C30",
+    "Discoverer": "ch1seller",
+    "Platform": "ST",
+    "Timestamp": "2018-10-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUM15-16E] Nivarsk X",
+    "Glyphs": "016EFA557C30",
+    "Discoverer": "Wandering Lisa",
+    "Platform": "ST",
+    "Timestamp": "2022-04-07",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-16F] Arelle-Mudal",
+    "Glyphs": "016FFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-170] Yurdarsen V",
+    "Glyphs": "0170FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-171] Lahetet-Blem",
+    "Glyphs": "0171FA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-172] Auridi",
+    "Glyphs": "0172FA557C30",
+    "Discoverer": "JohnSafV",
+    "Platform": "XB",
+    "Timestamp": "2021-01-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0173FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2021-01-04",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-092] Efermeon",
+    "Glyphs": "0174FA557C30",
+    "Discoverer": "Charian_",
+    "Platform": "PS",
+    "Timestamp": "2021-03-07",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "Nabe IV",
+    "Glyphs": "0175FA557C30",
+    "Discoverer": "ilMasa",
+    "Platform": "ST",
+    "Timestamp": "2021-02-27",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-176] Feyolith",
+    "Glyphs": "0176FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-21",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-177] Raum V",
+    "Glyphs": "0177FA557C30",
+    "Discoverer": "speedometer66",
+    "Platform": "PS",
+    "Timestamp": "2018-11-24",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-178] Omoosho XIX",
+    "Glyphs": "0178FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-24",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0179FA557C30",
+    "Discoverer": "DarkOakMetarex",
+    "Platform": "ST",
+    "Timestamp": "2021-09-03",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-17A] Riholba",
+    "Glyphs": "017AFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-03",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-17B] Flying Rhino",
+    "Glyphs": "017BFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "017CFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "017DFA557C30",
+    "Discoverer": "EskimoNoise",
+    "Platform": "ST",
+    "Timestamp": "2018-09-06",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-17E] Ukryummeri",
+    "Glyphs": "017EFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-21",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "017FFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-15",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-180] Luskjahv XIX",
+    "Glyphs": "0180FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0181FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0182FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0183FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-15",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0184FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-185] Dofanga-Liari",
+    "Glyphs": "0185FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0186FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-15",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-187] Ettesva-Musa",
+    "Glyphs": "0187FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0188FA557C30",
+    "Discoverer": "Admiral Nelson",
+    "Platform": "ST",
+    "Timestamp": "2020-07-19",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0189FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-15",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-18A] Fikais-Sko",
+    "Glyphs": "018AFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-06-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-18B] Poisuel-Tiran",
+    "Glyphs": "018BFA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-18C] Idlige",
+    "Glyphs": "018CFA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-18D] Sayksik-Elt",
+    "Glyphs": "018DFA557C30",
+    "Discoverer": "Ace8144",
+    "Platform": "PS",
+    "Timestamp": "2019-08-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "018EFA557C30",
+    "Discoverer": "Lianeras",
+    "Platform": "PS",
+    "Timestamp": "2021-10-20",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-18F] Totoko-Lij I",
+    "Glyphs": "018FFA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-190] Sosa Dimension",
+    "Glyphs": "0190FA557C30",
+    "Discoverer": "DaKoolA1dMan",
+    "Platform": "XB",
+    "Timestamp": "2020-12-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0191FA557C30",
+    "Discoverer": "GeckoGT",
+    "Platform": "ST",
+    "Timestamp": "2021-03-21",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0192FA557C30",
+    "Discoverer": "Zanzibar",
+    "Platform": "ST",
+    "Timestamp": "2020-10-02",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0193FA557C30",
+    "Discoverer": "voxsq",
+    "Platform": "XB",
+    "Timestamp": "2021-10-24",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-194] Voymoth",
+    "Glyphs": "0194FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-21",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-195] Kopask-Natan",
+    "Glyphs": "0195FA557C30",
+    "Discoverer": "Dellers",
+    "Platform": "ST",
+    "Timestamp": "2021-04-21",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-196] Apyrum",
+    "Glyphs": "0196FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-03",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-197] Makradras",
+    "Glyphs": "0197FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-198] Lablod",
+    "Glyphs": "0198FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-199] Ukerhe",
+    "Glyphs": "0199FA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-19A] Momundi",
+    "Glyphs": "019AFA557C30",
+    "Discoverer": "RagemKagem",
+    "Platform": "PS",
+    "Timestamp": "2021-04-18",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "019BFA557C30",
+    "Discoverer": "DarkOakMetarex",
+    "Platform": "ST",
+    "Timestamp": "2021-09-03",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-19C] Oflaas",
+    "Glyphs": "019CFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-19D] Aulutt-Urb",
+    "Glyphs": "019DFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-03",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "Wagwan",
+    "Glyphs": "019EFA557C30",
+    "Discoverer": "lemony_fox",
+    "Platform": "PS",
+    "Timestamp": "2021-09-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "019FFA557C30",
+    "Discoverer": "bradbannana",
+    "Platform": "PS",
+    "Timestamp": "2021-08-21",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1A0] Birche IX",
+    "Glyphs": "01A0FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1A1] Nandlu-Tubo",
+    "Glyphs": "01A1FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1A2] Elhelta-Chos XII",
+    "Glyphs": "01A2FA557C30",
+    "Discoverer": "Quentenium",
+    "Platform": "XB",
+    "Timestamp": "2021-07-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1A3] Omemonent",
+    "Glyphs": "01A3FA557C30",
+    "Discoverer": "Wandering Lisa",
+    "Platform": "ST",
+    "Timestamp": "2022-04-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1A4] Gitsret-Komag",
+    "Glyphs": "01A4FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01A5FA557C30",
+    "Discoverer": "[MC] Inlex",
+    "Platform": "ST",
+    "Timestamp": "2018-08-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1A6] Iptumis",
+    "Glyphs": "01A6FA557C30",
+    "Discoverer": "Golodupiku",
+    "Platform": "XB",
+    "Timestamp": "2020-12-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01A7FA557C30",
+    "Discoverer": "GuajiroSoy",
+    "Platform": "XB",
+    "Timestamp": "2020-09-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1A8] Rindasa-Mihar",
+    "Glyphs": "01A8FA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1A9] Ergrens-Ish",
+    "Glyphs": "01A9FA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1AA] Tadfal-Urrus",
+    "Glyphs": "01AAFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-06-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-01ab] Hallrina",
+    "Glyphs": "01ABFA557C30",
+    "Discoverer": "VedDovah",
+    "Platform": "PS",
+    "Timestamp": "2022-04-20",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1AC] Upungoth",
+    "Glyphs": "01ACFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "Gilead",
+    "Glyphs": "01ADFA557C30",
+    "Discoverer": "SrMcGillicuddy",
+    "Platform": "PS",
+    "Timestamp": "2020-01-10",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1AE] Abjoro",
+    "Glyphs": "01AEFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-18",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1AF] Lofsegnum",
+    "Glyphs": "01AFFA557C30",
+    "Discoverer": "Dellers",
+    "Platform": "ST",
+    "Timestamp": "2021-05-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-G52] Josey",
+    "Glyphs": "01B0FA557C30",
+    "Discoverer": "Dingoing",
+    "Platform": "PS",
+    "Timestamp": "2021-01-13",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01B1FA557C30",
+    "Discoverer": "BlackWaterOz64",
+    "Platform": "PS",
+    "Timestamp": "2018-12-30",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01B2FA557C30",
+    "Discoverer": "GrizzyJustice4U",
+    "Platform": "XB",
+    "Timestamp": "2020-05-18",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1B3] Vaaring",
+    "Glyphs": "01B3FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1B4] Nugjalje",
+    "Glyphs": "01B4FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01B5FA557C30",
+    "Discoverer": "DarkOakMetarex",
+    "Platform": "ST",
+    "Timestamp": "2021-09-03",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1B6] Orjalith",
+    "Glyphs": "01B6FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1B7] Cussip Vahol XIII",
+    "Glyphs": "01B7FA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1B8] Ameraask",
+    "Glyphs": "01B8FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1B9] Lotraufar",
+    "Glyphs": "01B9FA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1BA] Dillvadras",
+    "Glyphs": "01BAFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-21",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1BB] Nolosol",
+    "Glyphs": "01BBFA557C30",
+    "Discoverer": "RagemKagem",
+    "Platform": "PS",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1BC] Exfilith",
+    "Glyphs": "01BCFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1BD] Partolith",
+    "Glyphs": "01BDFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1BE] Hurutoth",
+    "Glyphs": "01BEFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1BF] Omo Color",
+    "Glyphs": "01BFFA557C30",
+    "Discoverer": "Dellers",
+    "Platform": "ST",
+    "Timestamp": "2021-05-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01C0FA557C30",
+    "Discoverer": "SunSpot",
+    "Platform": "ST",
+    "Timestamp": "2020-01-31",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01C1FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-15",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1C2] Segund",
+    "Glyphs": "01C2FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[Flutaf-Eku",
+    "Glyphs": "01C3FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-19",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01C4FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01C5FA557C30",
+    "Discoverer": "Tyler Ewart",
+    "Platform": "XB",
+    "Timestamp": "2022-04-30",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1CS] Vokatifi XII",
+    "Glyphs": "01C6FA557C30",
+    "Discoverer": "Tobasco da Gama",
+    "Platform": "ST",
+    "Timestamp": "2021-07-03",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-137] Kioloth",
+    "Glyphs": "01C7FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-21",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1C8] Imeoal",
+    "Glyphs": "01C8FA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-18",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1C9] Skaas",
+    "Glyphs": "01C9FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1CA] Kosholligh",
+    "Glyphs": "01CAFA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "Uboend-IzuisXXXX",
+    "Glyphs": "01CBFA557C30",
+    "Discoverer": "Garlayn Toji",
+    "Platform": "ST",
+    "Timestamp": "2020-11-25",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1CC] Meigna-Garey",
+    "Glyphs": "01CCFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1CD] Yesteloth",
+    "Glyphs": "01CDFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1CE] Oadalu-Iow",
+    "Glyphs": "01CEFA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1CF] Arosmyand",
+    "Glyphs": "01CFFA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01D0FA557C30",
+    "Discoverer": "DIPPITY96",
+    "Platform": "XB",
+    "Timestamp": "2020-07-08",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1D1] Lautti Nar XII",
+    "Glyphs": "01D1FA557C30",
+    "Discoverer": "RagemKagem",
+    "Platform": "PS",
+    "Timestamp": "2021-01-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1D2] Avlevyke",
+    "Glyphs": "01D2FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1D3] Mapokol",
+    "Glyphs": "01D3FA557C30",
+    "Discoverer": "EmperorBenja",
+    "Platform": "XB",
+    "Timestamp": "2021-01-09",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1D4] Egigsleg",
+    "Glyphs": "01D4FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-06-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01D5FA557C30",
+    "Discoverer": "Donnkey Hotay",
+    "Platform": "XB",
+    "Timestamp": "2021-02-24",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1D6] Galduda-Aji",
+    "Glyphs": "01D6FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1D7] Rodamma-Tuur",
+    "Glyphs": "01D7FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-01D8] Ondlede-Rizh",
+    "Glyphs": "01D8FA557C30",
+    "Discoverer": "ncn",
+    "Platform": "ST",
+    "Timestamp": "2022-03-09",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1D9] Botulkoia",
+    "Glyphs": "01D9FA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1DA] Rikkaas",
+    "Glyphs": "01DAFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1DB] Emgarove XVIII",
+    "Glyphs": "01DBFA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01DCFA557C30",
+    "Discoverer": "Macman1960",
+    "Platform": "XB",
+    "Timestamp": "2020-07-12",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "Xol",
+    "Glyphs": "01DDFA557C30",
+    "Discoverer": "Mephisto",
+    "Platform": "ST",
+    "Timestamp": "2018-12-08",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1DE] Ulkasj",
+    "Glyphs": "01DEFA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01DFFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1E0] Hennoth",
+    "Glyphs": "01E0FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01E1FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1E2] Ivscyk-Wach",
+    "Glyphs": "01E2FA557C30",
+    "Discoverer": "ch1seller",
+    "Platform": "ST",
+    "Timestamp": "2018-10-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1E3] Taulukk-Prokh",
+    "Glyphs": "01E3FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1E4] Limare",
+    "Glyphs": "01E4FA557C30",
+    "Discoverer": "DaKoolA1dMan",
+    "Platform": "XB",
+    "Timestamp": "2021-01-24",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1E5] Urustun",
+    "Glyphs": "01E5FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01E6FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-22",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-108] Adistu Onjo",
+    "Glyphs": "01E7FA557C30",
+    "Discoverer": "Dingoing",
+    "Platform": "PS",
+    "Timestamp": "2021-01-13",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1E8] Vibildar",
+    "Glyphs": "01E8FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1E9] Kadaask",
+    "Glyphs": "01E9FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1EA] Ainalah X",
+    "Glyphs": "01EAFA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1EB] Londur-Noga XIV",
+    "Glyphs": "01EBFA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1EC] Daudka",
+    "Glyphs": "01ECFA557C30",
+    "Discoverer": "Ginkyway",
+    "Platform": "ST",
+    "Timestamp": "2021-01-26",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1ED] Vigenr",
+    "Glyphs": "01EDFA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01EEFA557C30",
+    "Discoverer": "mutbone",
+    "Platform": "PS",
+    "Timestamp": "2019-08-11",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1EF] Ossimoth",
+    "Glyphs": "01EFFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1F0] Nusipun",
+    "Glyphs": "01F0FA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1F1] Angaask",
+    "Glyphs": "01F1FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1F2] Pidarh X",
+    "Glyphs": "01F2FA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1F3] Deleder",
+    "Glyphs": "01F3FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1F4] Rovonmuod",
+    "Glyphs": "01F4FA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01F5FA557C30",
+    "Discoverer": "ilosamart",
+    "Platform": "PS",
+    "Timestamp": "2020-06-28",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1F6] Tukoposit",
+    "Glyphs": "01F6FA557C30",
+    "Discoverer": "DaKoolA1dMan",
+    "Platform": "XB",
+    "Timestamp": "2020-12-18",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1F7] Iaattu",
+    "Glyphs": "01F7FA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1F8] Frityi XII",
+    "Glyphs": "01F8FA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1F9] Pastigo-Mona",
+    "Glyphs": "01F9FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-03",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01FAFA557C30",
+    "Discoverer": "Paul_Brenard",
+    "Platform": "PS",
+    "Timestamp": "2021-08-30",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01FBFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-25",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01FCFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[Hub-15] Tatmagning V",
+    "Glyphs": "01FDFA557C30",
+    "Discoverer": "Rrrahh-General",
+    "Platform": "PS",
+    "Timestamp": "2020-07-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-1FE] Lutaria XII",
+    "Glyphs": "01FEFA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-1FF] Vopnafab",
+    "Glyphs": "01FFFA557C30",
+    "Discoverer": "Tobasco da Gama",
+    "Platform": "ST",
+    "Timestamp": "2021-07-03",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-200] Guprotoa",
+    "Glyphs": "0200FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-01-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-201] Riromyn",
+    "Glyphs": "0201FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-03",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-202] Isafja-Orh",
+    "Glyphs": "0202FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-203] Stjout-Aska XIV",
+    "Glyphs": "0203FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-204] Ladbarordn",
+    "Glyphs": "0204FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2021-02-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0205FA557C30",
+    "Discoverer": "zaxncasey2gether",
+    "Platform": "ST",
+    "Timestamp": "2022-05-07",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-206] Maritys-Iun",
+    "Glyphs": "0206FA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB0]",
+    "Glyphs": "0207FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-20",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-208] Usjako-Rupp",
+    "Glyphs": "0208FA557C30",
+    "Discoverer": "Kroman",
+    "Platform": "ST",
+    "Timestamp": "2018-08-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0209FA557C30",
+    "Discoverer": "MordecaiZer0",
+    "Platform": "XB",
+    "Timestamp": "2020-05-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "020AFA557C30",
+    "Discoverer": "Rrrahh-General",
+    "Platform": "PS",
+    "Timestamp": "2020-09-10",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "020BFA557C30",
+    "Discoverer": "wozamatawiyoo",
+    "Platform": "PS",
+    "Timestamp": "2018-09-12",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "020CFA557C30",
+    "Discoverer": "Fake JD",
+    "Platform": "ST",
+    "Timestamp": "2018-12-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "020DFA557C30",
+    "Discoverer": "ilosamart",
+    "Platform": "PS",
+    "Timestamp": "2020-06-28",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "020EFA557C30",
+    "Discoverer": "Bahann",
+    "Platform": "ST",
+    "Timestamp": "2021-08-29",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-20F] Onligs-Pompa",
+    "Glyphs": "020FFA557C30",
+    "Discoverer": "ch1seller",
+    "Platform": "ST",
+    "Timestamp": "2018-10-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0210FA557C30",
+    "Discoverer": "mbub",
+    "Platform": "ST",
+    "Timestamp": "2021-02-10",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-211] Ajsa V",
+    "Glyphs": "0211FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15] Enworbiat",
+    "Glyphs": "0212FA557C30",
+    "Discoverer": "Dingoing",
+    "Platform": "PS",
+    "Timestamp": "2021-01-31",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-213] Dudaloknut",
+    "Glyphs": "0213FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0214FA557C30",
+    "Discoverer": "L_Turn",
+    "Platform": "ST",
+    "Timestamp": "2020-11-04",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-215] Eskaas",
+    "Glyphs": "0215FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-12-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-216] Tobreio",
+    "Glyphs": "0216FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2021-02-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-217] Hiasekun",
+    "Glyphs": "0217FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-26",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0218FA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-12",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-219] Pimusea",
+    "Glyphs": "0219FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-21A] Iapend",
+    "Glyphs": "021AFA557C30",
+    "Discoverer": "Ginkyway",
+    "Platform": "ST",
+    "Timestamp": "2021-01-26",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-21B] Rysetala",
+    "Glyphs": "021BFA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-21C] Kaksho",
+    "Glyphs": "021CFA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-21D] Tumannem I",
+    "Glyphs": "021DFA557C30",
+    "Discoverer": "DaKoolA1dMan",
+    "Platform": "XB",
+    "Timestamp": "2020-12-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "YD-N07/12",
+    "Glyphs": "021EFA557C30",
+    "Discoverer": "Mephisto",
+    "Platform": "ST",
+    "Timestamp": "2018-12-07",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-21F] Vedbota-Irno",
+    "Glyphs": "021FFA557C30",
+    "Discoverer": "Bahann",
+    "Platform": "ST",
+    "Timestamp": "2021-08-09",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-220] Tudalria",
+    "Glyphs": "0220FA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-221] Iisiri",
+    "Glyphs": "0221FA557C30",
+    "Discoverer": "KinG Asssassin",
+    "Platform": "XB",
+    "Timestamp": "2021-01-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0222FA557C30",
+    "Discoverer": "XxMeeHoyMinoyxX",
+    "Platform": "XB",
+    "Timestamp": "2022-04-19",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-223] Kelunda-Kuyarv XV",
+    "Glyphs": "0223FA557C30",
+    "Discoverer": "ch1seller",
+    "Platform": "ST",
+    "Timestamp": "2018-10-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-224] Anntarh-Udre",
+    "Glyphs": "0224FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0225FA557C30",
+    "Discoverer": "Archer142",
+    "Platform": "XB",
+    "Timestamp": "2018-09-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-226] Denaskr",
+    "Glyphs": "0226FA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-02",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-227] Nuspekt-Amcan",
+    "Glyphs": "0227FA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0228FA557C30",
+    "Discoverer": "Wespe",
+    "Platform": "ST",
+    "Timestamp": "2021-09-04",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB14-229]Yelangeli",
+    "Glyphs": "0229FA557C30",
+    "Discoverer": "casey1931",
+    "Platform": "PS",
+    "Timestamp": "2018-12-27",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-22A] Odmiynd-Olev",
+    "Glyphs": "022AFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-03",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "022BFA557C30",
+    "Discoverer": "Mimsley",
+    "Platform": "PS",
+    "Timestamp": "2020-09-12",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB15-22C] Punktu-Higas",
+    "Glyphs": "022CFA557C30",
+    "Discoverer": "Lenni",
+    "Platform": "ST",
+    "Timestamp": "2022-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-22D] Eatkam",
+    "Glyphs": "022DFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-03",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB15-22E] Sigiljalj",
+    "Glyphs": "022EFA557C30",
+    "Discoverer": "iggdawg",
+    "Platform": "ST",
+    "Timestamp": "2021-02-11",
+    "Correctly Tagged": true
+  }
+]

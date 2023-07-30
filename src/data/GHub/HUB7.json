@@ -1,0 +1,4354 @@
+[
+  {
+    "Name": "",
+    "Glyphs": "0001F9557C2F",
+    "Discoverer": "SirWalt159",
+    "Platform": "XB",
+    "Timestamp": "2018-10-02",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-2] Tisiphone",
+    "Glyphs": "0002F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-13",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0003F9557C2F",
+    "Discoverer": "foamy6305",
+    "Platform": "PS",
+    "Timestamp": "2018-08-10",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-4] Erebor",
+    "Glyphs": "0004F9557C2F",
+    "Discoverer": "SpecialK050",
+    "Platform": "PS",
+    "Timestamp": "2019-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0005F9557C2F",
+    "Discoverer": "PCvsMAC",
+    "Platform": "PS",
+    "Timestamp": "2018-09-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0006F9557C2F",
+    "Discoverer": "PCvsMAC",
+    "Platform": "PS",
+    "Timestamp": "2018-09-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0007F9557C2F",
+    "Discoverer": "PCvsMAC",
+    "Platform": "PS",
+    "Timestamp": "2018-09-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0008F9557C2F",
+    "Discoverer": "PCvsMAC",
+    "Platform": "PS",
+    "Timestamp": "2018-09-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-9] Jakshof",
+    "Glyphs": "0009F9557C2F",
+    "Discoverer": "FoolishOwl",
+    "Platform": "ST",
+    "Timestamp": "2018-09-03",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-A] Rurhant XVI",
+    "Glyphs": "000AF9557C2F",
+    "Discoverer": "FoolishOwl",
+    "Platform": "ST",
+    "Timestamp": "2018-09-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-B] Larngibunja",
+    "Glyphs": "000BF9557C2F",
+    "Discoverer": "zhunt69",
+    "Platform": "ST",
+    "Timestamp": "2019-01-09",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-C] Dafoe",
+    "Glyphs": "000CF9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-01-31",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "000DF9557C2F",
+    "Discoverer": "Maybe a Walrus",
+    "Platform": "ST",
+    "Timestamp": "2019-11-28",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "000EF9557C2F",
+    "Discoverer": "Shadowhenge",
+    "Platform": "ST",
+    "Timestamp": "2018-08-11",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-F] Lakasuud",
+    "Glyphs": "000FF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2020-01-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-10] Lapjodan",
+    "Glyphs": "0010F9557C2F",
+    "Discoverer": "Zeta",
+    "Platform": "ST",
+    "Timestamp": "2018-09-02",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-11] Holwood",
+    "Glyphs": "0011F9557C2F",
+    "Discoverer": "Ceadophile",
+    "Platform": "PS",
+    "Timestamp": "2018-08-28",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0012F9557C2F",
+    "Discoverer": "Ceadophile",
+    "Platform": "PS",
+    "Timestamp": "2018-08-28",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-13] Velssatava",
+    "Glyphs": "0013F9557C2F",
+    "Discoverer": "FoolishOwl",
+    "Platform": "ST",
+    "Timestamp": "2018-09-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-14] Otatni-Uipi VI",
+    "Glyphs": "0014F9557C2F",
+    "Discoverer": "Maveryck",
+    "Platform": "ST",
+    "Timestamp": "2018-09-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-15] Eskus",
+    "Glyphs": "0015F9557C2F",
+    "Discoverer": "Zeta",
+    "Platform": "ST",
+    "Timestamp": "2018-08-31",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-16] Morozko",
+    "Glyphs": "0016F9557C2F",
+    "Discoverer": "Lothar-viking",
+    "Platform": "PS",
+    "Timestamp": "2018-10-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0017F9557C2F",
+    "Discoverer": "Maybe a Walrus",
+    "Platform": "ST",
+    "Timestamp": "2019-11-28",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0018F9557C2F",
+    "Discoverer": "JollyPillow30",
+    "Platform": "ST",
+    "Timestamp": "2019-08-19",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-0019] Hydaelyn Prime",
+    "Glyphs": "0019F9557C2F",
+    "Discoverer": "orochiserge",
+    "Platform": "PS",
+    "Timestamp": "2018-08-06",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1A] Anvism",
+    "Glyphs": "001AF9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-09-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1B] Nesvikka VIII",
+    "Glyphs": "001BF9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2019-02-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1C] Ibildn",
+    "Glyphs": "001CF9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-12-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1D] Toarve-Rioka XV",
+    "Glyphs": "001DF9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-09-03",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1E] Interrobang Vortex",
+    "Glyphs": "001EF9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-09-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1F] Safnosr X",
+    "Glyphs": "001FF9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-09-23",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "Xáı",
+    "Glyphs": "0020F9557C2F",
+    "Discoverer": "Skyline853",
+    "Platform": "PS",
+    "Timestamp": "2018-08-15",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-21] Jamaica",
+    "Glyphs": "0021F9557C2F",
+    "Discoverer": "ardwill234",
+    "Platform": "PS",
+    "Timestamp": "2018-08-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-22] Z",
+    "Glyphs": "0022F9557C2F",
+    "Discoverer": "SpecialK050",
+    "Platform": "PS",
+    "Timestamp": "2018-12-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-23] Desolate War",
+    "Glyphs": "0023F9557C2F",
+    "Discoverer": "Morphieus312",
+    "Platform": "PS",
+    "Timestamp": "2018-08-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-024] Paradise Lost",
+    "Glyphs": "0024F9557C2F",
+    "Discoverer": "RaginCajun_85",
+    "Platform": "PS",
+    "Timestamp": "2018-08-16",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-25] MST3K Revival",
+    "Glyphs": "0025F9557C2F",
+    "Discoverer": "Lothar-viking",
+    "Platform": "PS",
+    "Timestamp": "2018-08-14",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-26] Tuldur",
+    "Glyphs": "0026F9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-09",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-27] Aquarius",
+    "Glyphs": "0027F9557C2F",
+    "Discoverer": "D3L-R1O",
+    "Platform": "PS",
+    "Timestamp": "2019-03-31",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0028F9557C2F",
+    "Discoverer": "PCvsMAC",
+    "Platform": "PS",
+    "Timestamp": "2018-09-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-29] Supernatural",
+    "Glyphs": "0029F9557C2F",
+    "Discoverer": "SilfenPaths",
+    "Platform": "PS",
+    "Timestamp": "2019-01-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-2A] Iografi XIII",
+    "Glyphs": "002AF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2020-01-21",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-2B] Uggabj",
+    "Glyphs": "002BF9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "002CF9557C2F",
+    "Discoverer": "YUNG RANDD",
+    "Platform": "ST",
+    "Timestamp": "2019-01-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-2D] Mulcahy",
+    "Glyphs": "002DF9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-02-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-2E] Miovik XI",
+    "Glyphs": "002EF9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-2F] Atning-Dikai",
+    "Glyphs": "002FF9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0030F9557C2F",
+    "Discoverer": "PCvsMAC",
+    "Platform": "PS",
+    "Timestamp": "2018-09-25",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0031F9557C2F",
+    "Discoverer": "Ceadophile",
+    "Platform": "PS",
+    "Timestamp": "2018-08-28",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0032F9557C2F",
+    "Discoverer": "polroc333",
+    "Platform": "PS",
+    "Timestamp": "2018-11-09",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-33] Sword",
+    "Glyphs": "0033F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-08-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-34] Proving Grounds",
+    "Glyphs": "0034F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-05-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-35] Xenophon",
+    "Glyphs": "0035F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-02-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-36] Borlaug's Conflux",
+    "Glyphs": "0036F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-02-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-37] Reunaoss",
+    "Glyphs": "0037F9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0038F9557C2F",
+    "Discoverer": "dweer",
+    "Platform": "ST",
+    "Timestamp": "2018-10-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-39] Gitningusv",
+    "Glyphs": "0039F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2020-01-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-3A]",
+    "Glyphs": "003AF9557C2F",
+    "Discoverer": "AtomicBiff",
+    "Platform": "PS",
+    "Timestamp": "2018-08-06",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "003BF9557C2F",
+    "Discoverer": "drddaydstryr",
+    "Platform": "PS",
+    "Timestamp": "2018-10-03",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-3C] Shoxx",
+    "Glyphs": "003CF9557C2F",
+    "Discoverer": "Sh0ckWav337JA",
+    "Platform": "PS",
+    "Timestamp": "2018-08-18",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-3D] Goldthwait",
+    "Glyphs": "003DF9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-03-23",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-3E] Sivastr XIV",
+    "Glyphs": "003EF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2020-03-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "003FF9557C2F",
+    "Discoverer": "PCvsMAC",
+    "Platform": "PS",
+    "Timestamp": "2018-09-25",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-40] Socrates Victorium",
+    "Glyphs": "0040F9557C2F",
+    "Discoverer": "YUNG RANDD",
+    "Platform": "ST",
+    "Timestamp": "2019-01-06",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-41] Niles",
+    "Glyphs": "0041F9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-01-28",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-42] Magrathea",
+    "Glyphs": "0042F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-04-28",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-43] Taflutt",
+    "Glyphs": "0043F9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-09-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-44] Docfoe",
+    "Glyphs": "0044F9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-04-28",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-45] Cetari-Ele",
+    "Glyphs": "0045F9557C2F",
+    "Discoverer": "Lothar-viking",
+    "Platform": "PS",
+    "Timestamp": "2018-09-30",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-46] Lulluppt",
+    "Glyphs": "0046F9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-47] Afssol XIX",
+    "Glyphs": "0047F9557C2F",
+    "Discoverer": "Corvus",
+    "Platform": "ST",
+    "Timestamp": "2020-11-28",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0048F9557C2F",
+    "Discoverer": "Zeta",
+    "Platform": "ST",
+    "Timestamp": "2018-10-02",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0049F9557C2F",
+    "Discoverer": "Roostallion",
+    "Platform": "ST",
+    "Timestamp": "2018-08-09",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-4A] Vicerin's Blush",
+    "Glyphs": "004AF9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-09-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "004BF9557C2F",
+    "Discoverer": "sedna16",
+    "Platform": "ST",
+    "Timestamp": "2020-02-27",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "004CF9557C2F",
+    "Discoverer": "Ceadophile",
+    "Platform": "PS",
+    "Timestamp": "2018-08-27",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-4D] Ressund-Nindui",
+    "Glyphs": "004DF9557C2F",
+    "Discoverer": "Maveryck",
+    "Platform": "ST",
+    "Timestamp": "2018-09-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "004EF9557C2F",
+    "Discoverer": "Born2Bleed",
+    "Platform": "PS",
+    "Timestamp": "2018-08-19",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-4F] Ovirda-Hizd XIV",
+    "Glyphs": "004FF9557C2F",
+    "Discoverer": "FoolishOwl",
+    "Platform": "ST",
+    "Timestamp": "2018-09-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-50] Pokopa-Teko",
+    "Glyphs": "0050F9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0051F9557C2F",
+    "Discoverer": "jchinique",
+    "Platform": "PS",
+    "Timestamp": "2019-05-02",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-52] Nummel-Ohand",
+    "Glyphs": "0052F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2020-03-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-53] Desennas VII",
+    "Glyphs": "0053F9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-09-09",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-54] Tovalba IV",
+    "Glyphs": "0054F9557C2F",
+    "Discoverer": "FoolishOwl",
+    "Platform": "ST",
+    "Timestamp": "2018-09-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0055F9557C2F",
+    "Discoverer": "Sashydziej",
+    "Platform": "PS",
+    "Timestamp": "2018-08-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-56] Sayski",
+    "Glyphs": "0056F9557C2F",
+    "Discoverer": "FoolishOwl",
+    "Platform": "ST",
+    "Timestamp": "2018-09-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0057F9557C2F",
+    "Discoverer": "Piflik",
+    "Platform": "PS",
+    "Timestamp": "2020-04-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-58] Captive Visions",
+    "Glyphs": "0058F9557C2F",
+    "Discoverer": "shreddedcrevice",
+    "Platform": "PS",
+    "Timestamp": "2018-11-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-59] Resankao",
+    "Glyphs": "0059F9557C2F",
+    "Discoverer": "YUNG RANDD",
+    "Platform": "ST",
+    "Timestamp": "2019-01-06",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB-7] Aronis II",
+    "Glyphs": "005AF9557C2F",
+    "Discoverer": "Lokilookalike",
+    "Platform": "PS",
+    "Timestamp": "2019-09-02",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-5B] Hall",
+    "Glyphs": "005BF9557C2F",
+    "Discoverer": "Lothar-viking",
+    "Platform": "PS",
+    "Timestamp": "2018-08-21",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-5C] Malm",
+    "Glyphs": "005CF9557C2F",
+    "Discoverer": "Phaedrus29",
+    "Platform": "PS",
+    "Timestamp": "2020-02-02",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "005DF9557C2F",
+    "Discoverer": "G1LB3RTS0N",
+    "Platform": "XB",
+    "Timestamp": "2019-07-11",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-5E] Korvarikk",
+    "Glyphs": "005EF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2020-01-29",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-5F] Wahlgorep",
+    "Glyphs": "005FF9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-09",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0060F9557C2F",
+    "Discoverer": "orochiserge",
+    "Platform": "PS",
+    "Timestamp": "2018-08-09",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-61] Magaera",
+    "Glyphs": "0061F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-13",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0062F9557C2F",
+    "Discoverer": "MaRrTiNeZ",
+    "Platform": "XB",
+    "Timestamp": "2018-10-09",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-63] Lacess-Sarau IV",
+    "Glyphs": "0063F9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-64] Eenaryash",
+    "Glyphs": "0064F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2020-01-13",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-65] Gamma Orellius",
+    "Glyphs": "0065F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0066F9557C2F",
+    "Discoverer": "mandelhart",
+    "Platform": "ST",
+    "Timestamp": "2019-12-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB6-67] Oftirp III",
+    "Glyphs": "0067F9557C2F",
+    "Discoverer": "MendoWarrior",
+    "Platform": "ST",
+    "Timestamp": "2020-11-11",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0068F9557C2F",
+    "Discoverer": "DabAssassin69",
+    "Platform": "PS",
+    "Timestamp": "2018-09-07",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-Sixty Nine] Non Profanity Name",
+    "Glyphs": "0069F9557C2F",
+    "Discoverer": "zhunt69",
+    "Platform": "ST",
+    "Timestamp": "2019-01-19",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-6A] Naossa X",
+    "Glyphs": "006AF9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-6B] Bisketland",
+    "Glyphs": "006BF9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-04-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "006CF9557C2F",
+    "Discoverer": "SATANisAcryBABY",
+    "Platform": "XB",
+    "Timestamp": "2019-11-08",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "006DF9557C2F",
+    "Discoverer": "YUNG RANDD",
+    "Platform": "ST",
+    "Timestamp": "2019-01-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-6E] Potentiality",
+    "Glyphs": "006EF9557C2F",
+    "Discoverer": "OzSluggish",
+    "Platform": "PS",
+    "Timestamp": "2018-08-21",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-6F] Giuskada",
+    "Glyphs": "006FF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2020-01-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-70] Yanqi",
+    "Glyphs": "0070F9557C2F",
+    "Discoverer": "xgmrx",
+    "Platform": "PS",
+    "Timestamp": "2018-08-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-71] Taelemm",
+    "Glyphs": "0071F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2020-01-13",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-72] Erhvar",
+    "Glyphs": "0072F9557C2F",
+    "Discoverer": "Zeta",
+    "Platform": "ST",
+    "Timestamp": "2018-09-09",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0073F9557C2F",
+    "Discoverer": "trimmigrant420",
+    "Platform": "PS",
+    "Timestamp": "2018-09-30",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-74] Luftant",
+    "Glyphs": "0074F9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0075F9557C2F",
+    "Discoverer": "YUNG RANDD",
+    "Platform": "ST",
+    "Timestamp": "2019-01-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-76] Silence",
+    "Glyphs": "0076F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-13",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB",
+    "Glyphs": "0077F9557C2F",
+    "Discoverer": "Morphieus312",
+    "Platform": "PS",
+    "Timestamp": "2018-08-15",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-78] The Attic",
+    "Glyphs": "0078F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-02-24",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-79] Charybdis",
+    "Glyphs": "0079F9557C2F",
+    "Discoverer": "Bittergrin",
+    "Platform": "ST",
+    "Timestamp": "2018-08-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "Atlas 3",
+    "Glyphs": "007AF9557C2F",
+    "Discoverer": "jure-grando",
+    "Platform": "PS",
+    "Timestamp": "2018-08-31",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-7B] Jotalou",
+    "Glyphs": "007BF9557C2F",
+    "Discoverer": "Prof Mcpwnsauce",
+    "Platform": "XB",
+    "Timestamp": "2019-09-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-7C] Bunibridj",
+    "Glyphs": "007CF9557C2F",
+    "Discoverer": "zhunt69",
+    "Platform": "ST",
+    "Timestamp": "2019-01-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[Hub7 ]",
+    "Glyphs": "007DF9557C2F",
+    "Discoverer": "Rrrahh-General",
+    "Platform": "PS",
+    "Timestamp": "2019-05-01",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-7E] Nietzsche's Crossing",
+    "Glyphs": "007EF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-7F] Karloff LXXXVIII",
+    "Glyphs": "007FF9557C2F",
+    "Discoverer": "Karlfeldt",
+    "Platform": "ST",
+    "Timestamp": "2019-01-27",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-80] Evermite",
+    "Glyphs": "0080F9557C2F",
+    "Discoverer": "invenire",
+    "Platform": "PS",
+    "Timestamp": "2018-08-06",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-81] Hazra",
+    "Glyphs": "0081F9557C2F",
+    "Discoverer": "dangerdorian",
+    "Platform": "PS",
+    "Timestamp": "2019-04-03",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-82) Rama Lama Ding Dong",
+    "Glyphs": "0082F9557C2F",
+    "Discoverer": "Lukrister",
+    "Platform": "ST",
+    "Timestamp": "2019-08-11",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-083]",
+    "Glyphs": "0083F9557C2F",
+    "Discoverer": "PCvsMAC",
+    "Platform": "PS",
+    "Timestamp": "2018-09-25",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0084F9557C2F",
+    "Discoverer": "ZombieDust",
+    "Platform": "ST",
+    "Timestamp": "2018-08-17",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-85] Tarth",
+    "Glyphs": "0085F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "Abandon Emeril",
+    "Glyphs": "0086F9557C2F",
+    "Discoverer": "ADAMANTIUM1209",
+    "Platform": "PS",
+    "Timestamp": "2019-03-29",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-87] Clayton",
+    "Glyphs": "0087F9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-04-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0088F9557C2F",
+    "Discoverer": "MallowHippy",
+    "Platform": "PS",
+    "Timestamp": "2018-10-31",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-89] Yenleidal",
+    "Glyphs": "0089F9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-8A] Iovikn IX",
+    "Glyphs": "008AF9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-8B] Opis Adonix",
+    "Glyphs": "008BF9557C2F",
+    "Discoverer": "YUNG RANDD",
+    "Platform": "ST",
+    "Timestamp": "2019-01-06",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-8C] Warp Zone",
+    "Glyphs": "008CF9557C2F",
+    "Discoverer": "shreddedcrevice",
+    "Platform": "PS",
+    "Timestamp": "2018-10-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-8D]",
+    "Glyphs": "008DF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-06",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-8E] Mimanet-Ban",
+    "Glyphs": "008EF9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-8F] Aufarvn-Hepet",
+    "Glyphs": "008FF9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-90] Bihnutu-Limda",
+    "Glyphs": "0090F9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-91] Olufjof",
+    "Glyphs": "0091F9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0092F9557C2F",
+    "Discoverer": "YUNG RANDD",
+    "Platform": "ST",
+    "Timestamp": "2019-01-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0093F9557C2F",
+    "Discoverer": "ChaoticSpire",
+    "Platform": "PS",
+    "Timestamp": "2018-11-02",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-94] Grissom",
+    "Glyphs": "0094F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-02-24",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-95] Cryptesthesia",
+    "Glyphs": "0095F9557C2F",
+    "Discoverer": "shreddedcrevice",
+    "Platform": "PS",
+    "Timestamp": "2018-10-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-96] Ugly John",
+    "Glyphs": "0096F9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-02-13",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-97] Rogafiju",
+    "Glyphs": "0097F9557C2F",
+    "Discoverer": "boardsofandross",
+    "Platform": "PS",
+    "Timestamp": "2018-08-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-98] Yellow Fever",
+    "Glyphs": "0098F9557C2F",
+    "Discoverer": "Gnostalgic",
+    "Platform": "PS",
+    "Timestamp": "2019-08-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-99] Samarkand",
+    "Glyphs": "0099F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-25",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-9A]Za Warudo",
+    "Glyphs": "009AF9557C2F",
+    "Discoverer": "Isekawa",
+    "Platform": "ST",
+    "Timestamp": "2018-08-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-9B] Erberu",
+    "Glyphs": "009BF9557C2F",
+    "Discoverer": "shreddedcrevice",
+    "Platform": "PS",
+    "Timestamp": "2019-01-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-9C] Vincent II",
+    "Glyphs": "009CF9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-02-23",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "009DF9557C2F",
+    "Discoverer": "Vaross",
+    "Platform": "ST",
+    "Timestamp": "2018-11-06",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-9E] Guinevere",
+    "Glyphs": "009EF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-05-13",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-9F] Atlas Shrugs",
+    "Glyphs": "009FF9557C2F",
+    "Discoverer": "CapnStankBeard",
+    "Platform": "PS",
+    "Timestamp": "2019-12-23",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-A0] Jojelm-Lillu",
+    "Glyphs": "00A0F9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "Durchfall 2 Atlas3",
+    "Glyphs": "00A1F9557C2F",
+    "Discoverer": "jure-grando",
+    "Platform": "PS",
+    "Timestamp": "2018-08-31",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00A2F9557C2F",
+    "Discoverer": "PCvsMAC",
+    "Platform": "PS",
+    "Timestamp": "2018-09-25",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-A3] Tidset",
+    "Glyphs": "00A3F9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-A4] Nugaldraf",
+    "Glyphs": "00A4F9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-A5] Compof",
+    "Glyphs": "00A5F9557C2F",
+    "Discoverer": "shreddedcrevice",
+    "Platform": "PS",
+    "Timestamp": "2018-11-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-A6] Lemarkis",
+    "Glyphs": "00A6F9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-A7] Aginal-Glic",
+    "Glyphs": "00A7F9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-A8] Tar Valon",
+    "Glyphs": "00A8F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-02-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-A9] Nenysumidi IX",
+    "Glyphs": "00A9F9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-AA] Vitnin-Ninyasm",
+    "Glyphs": "00AAF9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-AB] Litjara-Lufirm",
+    "Glyphs": "00ABF9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00ACF9557C2F",
+    "Discoverer": "CHEESY_GAMER95",
+    "Platform": "PS",
+    "Timestamp": "2018-08-25",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00ADF9557C2F",
+    "Discoverer": "CHEESY_GAMER95",
+    "Platform": "PS",
+    "Timestamp": "2018-09-03",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-AE] Diagri",
+    "Glyphs": "00AEF9557C2F",
+    "Discoverer": "Prof Mcpwnsauce",
+    "Platform": "XB",
+    "Timestamp": "2020-09-30",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00AFF9557C2F",
+    "Discoverer": "Warchilo",
+    "Platform": "ST",
+    "Timestamp": "2018-08-31",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-B0] Peperingar",
+    "Glyphs": "00B0F9557C2F",
+    "Discoverer": "FoolishOwl",
+    "Platform": "ST",
+    "Timestamp": "2018-09-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-B1] Ceti Alpha",
+    "Glyphs": "00B1F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-25",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-B2] Badji-Dadjing",
+    "Glyphs": "00B2F9557C2F",
+    "Discoverer": "zhunt69",
+    "Platform": "ST",
+    "Timestamp": "2019-01-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-B3] Cariate AGT",
+    "Glyphs": "00B3F9557C2F",
+    "Discoverer": "Matthew71NSW",
+    "Platform": "PS",
+    "Timestamp": "2018-08-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-B4] Spiner",
+    "Glyphs": "00B4F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-29",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-B5] Fair Wind",
+    "Glyphs": "00B5F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-05-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-B6] Sigil",
+    "Glyphs": "00B6F9557C2F",
+    "Discoverer": "SpecialK050",
+    "Platform": "PS",
+    "Timestamp": "2018-12-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00B7F9557C2F",
+    "Discoverer": "sperlingaz---",
+    "Platform": "PS",
+    "Timestamp": "2018-08-29",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-B8] Ratamacue",
+    "Glyphs": "00B8F9557C2F",
+    "Discoverer": "Kibbles",
+    "Platform": "ST",
+    "Timestamp": "2018-10-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-B9]  Smeg",
+    "Glyphs": "00B9F9557C2F",
+    "Discoverer": "Greylox",
+    "Platform": "ST",
+    "Timestamp": "2019-03-31",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-BA] Blade Master",
+    "Glyphs": "00BAF9557C2F",
+    "Discoverer": "Lothar-viking",
+    "Platform": "PS",
+    "Timestamp": "2018-08-13",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00BBF9557C2F",
+    "Discoverer": "PCvsMAC",
+    "Platform": "PS",
+    "Timestamp": "2018-09-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00BCF9557C2F",
+    "Discoverer": "PCvsMAC",
+    "Platform": "PS",
+    "Timestamp": "2018-09-25",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00BDF9557C2F",
+    "Discoverer": "PCvsMAC",
+    "Platform": "PS",
+    "Timestamp": "2018-09-25",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "ISEA Capone",
+    "Glyphs": "00BEF9557C2F",
+    "Discoverer": "barna140",
+    "Platform": "PS",
+    "Timestamp": "2020-11-17",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-BF] Yodings-Mii II",
+    "Glyphs": "00BFF9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-C0] Yerning-Ruoka X",
+    "Glyphs": "00C0F9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB-7] Buffy the vampire slayer",
+    "Glyphs": "00C1F9557C2F",
+    "Discoverer": "deadbunnysurfing",
+    "Platform": "ST",
+    "Timestamp": "2018-09-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-C2] Uldessu-Mik",
+    "Glyphs": "00C2F9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-C3] Kohas Nopa",
+    "Glyphs": "00C3F9557C2F",
+    "Discoverer": "YUNG RANDD",
+    "Platform": "ST",
+    "Timestamp": "2019-01-06",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00C4F9557C2F",
+    "Discoverer": "CHEESY_GAMER95",
+    "Platform": "PS",
+    "Timestamp": "2018-09-03",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-C5] Bison Cabin",
+    "Glyphs": "00C5F9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-02-23",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-C6] Solo",
+    "Glyphs": "00C6F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00C7F9557C2F",
+    "Discoverer": "CHEESY_GAMER95",
+    "Platform": "PS",
+    "Timestamp": "2018-09-03",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00C8F9557C2F",
+    "Discoverer": "polroc333",
+    "Platform": "PS",
+    "Timestamp": "2018-11-09",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-C9] Karloff LXII",
+    "Glyphs": "00C9F9557C2F",
+    "Discoverer": "Karlfeldt",
+    "Platform": "ST",
+    "Timestamp": "2019-01-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00CAF9557C2F",
+    "Discoverer": "Crip_Vorlund_lll",
+    "Platform": "PS",
+    "Timestamp": "2019-05-12",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-CB] Rubber City",
+    "Glyphs": "00CBF9557C2F",
+    "Discoverer": "shreddedcrevice",
+    "Platform": "PS",
+    "Timestamp": "2018-10-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00CCF9557C2F",
+    "Discoverer": "Jaremaru",
+    "Platform": "PS",
+    "Timestamp": "2018-09-02",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00CDF9557C2F",
+    "Discoverer": "JxllyRxgxr",
+    "Platform": "PS",
+    "Timestamp": "2020-04-15",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[Hub7-CE] Rifice-Asu III",
+    "Glyphs": "00CEF9557C2F",
+    "Discoverer": "Rrrahh-General",
+    "Platform": "PS",
+    "Timestamp": "2019-04-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-CF] Equinox",
+    "Glyphs": "00CFF9557C2F",
+    "Discoverer": "SpecialK050",
+    "Platform": "PS",
+    "Timestamp": "2018-10-31",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00D0F9557C2F",
+    "Discoverer": "stFrancis art",
+    "Platform": "XB",
+    "Timestamp": "2019-04-19",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00D1F9557C2F",
+    "Discoverer": "IWantToPotato",
+    "Platform": "PS",
+    "Timestamp": "2019-06-19",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-D4] Errhan-Ags XI",
+    "Glyphs": "00D2F9557C2F",
+    "Discoverer": "Lothar-viking",
+    "Platform": "PS",
+    "Timestamp": "2018-09-30",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00D3F9557C2F",
+    "Discoverer": "joejor69902",
+    "Platform": "ST",
+    "Timestamp": "2018-08-18",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00D4F9557C2F",
+    "Discoverer": "ZippyX819",
+    "Platform": "PS",
+    "Timestamp": "2019-12-23",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-D5] Minax",
+    "Glyphs": "00D5F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-05-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00D6F9557C2F",
+    "Discoverer": "PCvsMAC",
+    "Platform": "PS",
+    "Timestamp": "2018-09-25",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-D7] Uroddal-Orc XIII",
+    "Glyphs": "00D7F9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-D8] Vatinos",
+    "Glyphs": "00D8F9557C2F",
+    "Discoverer": "YUNG RANDD",
+    "Platform": "ST",
+    "Timestamp": "2019-01-06",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-D9] Loekrette",
+    "Glyphs": "00D9F9557C2F",
+    "Discoverer": "Phaedrus29",
+    "Platform": "PS",
+    "Timestamp": "2020-01-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-DA] Karloff LXV",
+    "Glyphs": "00DAF9557C2F",
+    "Discoverer": "Karlfeldt",
+    "Platform": "ST",
+    "Timestamp": "2019-01-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-DB] Justur-Ullu",
+    "Glyphs": "00DBF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-03",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "Desiderata",
+    "Glyphs": "00DCF9557C2F",
+    "Discoverer": "PCvsMAC",
+    "Platform": "PS",
+    "Timestamp": "2019-04-15",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-DD] Orygigi-Mag",
+    "Glyphs": "00DDF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2020-01-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00DEF9557C2F",
+    "Discoverer": "Jaremaru",
+    "Platform": "PS",
+    "Timestamp": "2018-09-02",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-0DF] Cancer",
+    "Glyphs": "00DFF9557C2F",
+    "Discoverer": "The_Ghost_Sloth",
+    "Platform": "ST",
+    "Timestamp": "2020-06-16",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-00E0]",
+    "Glyphs": "00E0F9557C2F",
+    "Discoverer": "invenire",
+    "Platform": "PS",
+    "Timestamp": "2018-08-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-E1] Dikenter",
+    "Glyphs": "00E1F9557C2F",
+    "Discoverer": "FoolishOwl",
+    "Platform": "ST",
+    "Timestamp": "2018-09-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-E2] Grendel",
+    "Glyphs": "00E2F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-28",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00E3F9557C2F",
+    "Discoverer": "Roko Prč",
+    "Platform": "ST",
+    "Timestamp": "2019-08-23",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-E4] Specialist",
+    "Glyphs": "00E4F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-30",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-E5] Carriganor",
+    "Glyphs": "00E5F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-26",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-E6] Perani-Yed",
+    "Glyphs": "00E6F9557C2F",
+    "Discoverer": "Bittergrin",
+    "Platform": "ST",
+    "Timestamp": "2018-08-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-E7] Buddy Hollander II",
+    "Glyphs": "00E7F9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-02-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-E8] Hard Times",
+    "Glyphs": "00E8F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-29",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-E9] Seyrus",
+    "Glyphs": "00E9F9557C2F",
+    "Discoverer": "Kibbles",
+    "Platform": "ST",
+    "Timestamp": "2018-10-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "Ark Tombstone Doc",
+    "Glyphs": "00EAF9557C2F",
+    "Discoverer": "docjay",
+    "Platform": "ST",
+    "Timestamp": "2018-08-20",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-EB] Arkenstone",
+    "Glyphs": "00EBF9557C2F",
+    "Discoverer": "SpecialK050",
+    "Platform": "PS",
+    "Timestamp": "2019-09-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-EC] Kakerhe System",
+    "Glyphs": "00ECF9557C2F",
+    "Discoverer": "Maveryck",
+    "Platform": "ST",
+    "Timestamp": "2018-09-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00EDF9557C2F",
+    "Discoverer": "rockies31",
+    "Platform": "PS",
+    "Timestamp": "2019-09-09",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-EE] Igognup XII",
+    "Glyphs": "00EEF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2020-01-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-EF] Totammi",
+    "Glyphs": "00EFF9557C2F",
+    "Discoverer": "Lothar-viking",
+    "Platform": "PS",
+    "Timestamp": "2018-10-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00F0F9557C2F",
+    "Discoverer": "Willdcook5150",
+    "Platform": "PS",
+    "Timestamp": "2019-01-08",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00F1F9557C2F",
+    "Discoverer": "ZombieDust",
+    "Platform": "ST",
+    "Timestamp": "2018-08-17",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-F2] Slotuso-Tashi XVI",
+    "Glyphs": "00F2F9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00F3F9557C2F",
+    "Discoverer": "PCvsMAC",
+    "Platform": "PS",
+    "Timestamp": "2018-09-25",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00F4F9557C2F",
+    "Discoverer": "Defiance053",
+    "Platform": "ST",
+    "Timestamp": "2019-01-06",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00F5F9557C2F",
+    "Discoverer": "Jaremaru",
+    "Platform": "PS",
+    "Timestamp": "2018-09-02",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-F6] Galway",
+    "Glyphs": "00F6F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-18",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00F7F9557C2F",
+    "Discoverer": "PARAGON",
+    "Platform": "ST",
+    "Timestamp": "2018-08-29",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-F8] Maslukk-Ran IX",
+    "Glyphs": "00F8F9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-02-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB6-F9] Ayntif-Fono",
+    "Glyphs": "00F9F9557C2F",
+    "Discoverer": "MendoWarrior",
+    "Platform": "ST",
+    "Timestamp": "2020-11-11",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-FA] Thuban",
+    "Glyphs": "00FAF9557C2F",
+    "Discoverer": "Lord",
+    "Platform": "ST",
+    "Timestamp": "2018-08-13",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-FB] Trinity",
+    "Glyphs": "00FBF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-02-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-FC] Outback",
+    "Glyphs": "00FCF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-02-24",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-FD] Try",
+    "Glyphs": "00FDF9557C2F",
+    "Discoverer": "DesignationG",
+    "Platform": "PS",
+    "Timestamp": "2019-05-24",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-FE] Glaucon",
+    "Glyphs": "00FEF9557C2F",
+    "Discoverer": "Phaedrus29",
+    "Platform": "PS",
+    "Timestamp": "2020-01-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00FFF9557C2F",
+    "Discoverer": "Roko Prč",
+    "Platform": "ST",
+    "Timestamp": "2019-08-23",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "HUB 7-100 Found Waldo",
+    "Glyphs": "0100F9557C2F",
+    "Discoverer": "practical_1",
+    "Platform": "PS",
+    "Timestamp": "2020-02-18",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-101] Copernicus",
+    "Glyphs": "0101F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-27",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-102] Ugufresty",
+    "Glyphs": "0102F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2020-01-17",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "TIERNAN VII",
+    "Glyphs": "0103F9557C2F",
+    "Discoverer": "nanreitxela",
+    "Platform": "PS",
+    "Timestamp": "2018-08-23",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-104] Draco",
+    "Glyphs": "0104F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-29",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-105] Twin Sword",
+    "Glyphs": "0105F9557C2F",
+    "Discoverer": "You'veGotRedOnYou",
+    "Platform": "ST",
+    "Timestamp": "2019-09-18",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-E6] Grodin VII",
+    "Glyphs": "0106F9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-02-17",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-107] the Umber",
+    "Glyphs": "0107F9557C2F",
+    "Discoverer": "Dosmun",
+    "Platform": "PS",
+    "Timestamp": "2018-08-17",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-180] Oligarch",
+    "Glyphs": "0108F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-21",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB1-...] Ooga Booga",
+    "Glyphs": "0109F9557C2F",
+    "Discoverer": "ANN0Y1N0RANG3",
+    "Platform": "PS",
+    "Timestamp": "2018-08-07",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-10A]",
+    "Glyphs": "010AF9557C2F",
+    "Discoverer": "RaginCajun_85",
+    "Platform": "PS",
+    "Timestamp": "2018-08-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "010BF9557C2F",
+    "Discoverer": "sperlingaz---",
+    "Platform": "PS",
+    "Timestamp": "2018-08-29",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-10C] Sopieborn",
+    "Glyphs": "010CF9557C2F",
+    "Discoverer": "nighthawktex",
+    "Platform": "PS",
+    "Timestamp": "2019-12-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-10D] Lolfest",
+    "Glyphs": "010DF9557C2F",
+    "Discoverer": "Phaedrus29",
+    "Platform": "PS",
+    "Timestamp": "2020-01-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "010EF9557C2F",
+    "Discoverer": "Philzor90",
+    "Platform": "PS",
+    "Timestamp": "2018-08-11",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-10F] Gugrund Holk",
+    "Glyphs": "010FF9557C2F",
+    "Discoverer": "boardsofandross",
+    "Platform": "PS",
+    "Timestamp": "2018-08-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0110F9557C2F",
+    "Discoverer": "Jormundagiir",
+    "Platform": "XB",
+    "Timestamp": "2018-09-19",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0111F9557C2F",
+    "Discoverer": "ghetto_fresch",
+    "Platform": "PS",
+    "Timestamp": "2019-07-20",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-112] Eppali X",
+    "Glyphs": "0112F9557C2F",
+    "Discoverer": "FoolishOwl",
+    "Platform": "ST",
+    "Timestamp": "2018-12-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0113F9557C2F",
+    "Discoverer": "MintE",
+    "Platform": "ST",
+    "Timestamp": "2019-07-04",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "Hub7-114 Lettugar IV",
+    "Glyphs": "0114F9557C2F",
+    "Discoverer": "ApexFatality93",
+    "Platform": "PS",
+    "Timestamp": "2020-07-13",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-115] Antare",
+    "Glyphs": "0115F9557C2F",
+    "Discoverer": "SpecialK050",
+    "Platform": "PS",
+    "Timestamp": "2019-06-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0116F9557C2F",
+    "Discoverer": "PCvsMAC",
+    "Platform": "PS",
+    "Timestamp": "2018-09-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-117] Uossii",
+    "Glyphs": "0117F9557C2F",
+    "Discoverer": "Corvus",
+    "Platform": "ST",
+    "Timestamp": "2020-11-29",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-118] Simmons' Canticle",
+    "Glyphs": "0118F9557C2F",
+    "Discoverer": "SilfenPaths",
+    "Platform": "PS",
+    "Timestamp": "2019-01-26",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0119F9557C2F",
+    "Discoverer": "CHEESY_GAMER95",
+    "Platform": "PS",
+    "Timestamp": "2018-08-25",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-11A] Thesau XVI",
+    "Glyphs": "011AF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2020-02-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-11B] Infantry",
+    "Glyphs": "011BF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-11C] Cukelpoi",
+    "Glyphs": "011CF9557C2F",
+    "Discoverer": "boardsofandross",
+    "Platform": "PS",
+    "Timestamp": "2018-08-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "011DF9557C2F",
+    "Discoverer": "Roko Prč",
+    "Platform": "ST",
+    "Timestamp": "2019-08-23",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[Hub7-11E] Sinister Hub",
+    "Glyphs": "011EF9557C2F",
+    "Discoverer": "Rrrahh-General",
+    "Platform": "PS",
+    "Timestamp": "2019-04-07",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-11F] Nofetrek",
+    "Glyphs": "011FF9557C2F",
+    "Discoverer": "Kibbles",
+    "Platform": "ST",
+    "Timestamp": "2019-01-18",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0120F9557C2F",
+    "Discoverer": "Mellun",
+    "Platform": "ST",
+    "Timestamp": "2020-05-27",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-126] Duodoro",
+    "Glyphs": "0121F9557C2F",
+    "Discoverer": "OzSluggish",
+    "Platform": "PS",
+    "Timestamp": "2018-08-15",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0122F9557C2F",
+    "Discoverer": "badmeetsme3",
+    "Platform": "PS",
+    "Timestamp": "2018-08-20",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-123] Chuckville",
+    "Glyphs": "0123F9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-03-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-124] Azure Vastness",
+    "Glyphs": "0124F9557C2F",
+    "Discoverer": "Lothar-viking",
+    "Platform": "PS",
+    "Timestamp": "2018-09-29",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-125] Honkort-Soseng VI",
+    "Glyphs": "0125F9557C2F",
+    "Discoverer": "FoolishOwl",
+    "Platform": "ST",
+    "Timestamp": "2018-09-23",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0126F9557C2F",
+    "Discoverer": "Ceadophile",
+    "Platform": "PS",
+    "Timestamp": "2018-08-27",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0127F9557C2F",
+    "Discoverer": "mr_phishead",
+    "Platform": "PS",
+    "Timestamp": "2019-05-22",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0128F9557C2F",
+    "Discoverer": "YUNG RANDD",
+    "Platform": "ST",
+    "Timestamp": "2019-01-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0129F9557C2F",
+    "Discoverer": "Marclej",
+    "Platform": "ST",
+    "Timestamp": "2018-08-16",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-12A] Desligste",
+    "Glyphs": "012AF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2020-01-17",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-12B] Drak",
+    "Glyphs": "012BF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-02-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-12C] Greyjoy",
+    "Glyphs": "012CF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-05-20",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-12D] Villlu-Legan",
+    "Glyphs": "012DF9557C2F",
+    "Discoverer": "Corvus",
+    "Platform": "ST",
+    "Timestamp": "2020-11-29",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-12E] Iearkro-Zama",
+    "Glyphs": "012EF9557C2F",
+    "Discoverer": "FoolishOwl",
+    "Platform": "ST",
+    "Timestamp": "2018-09-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-12F] Treole",
+    "Glyphs": "012FF9557C2F",
+    "Discoverer": "Zeta",
+    "Platform": "ST",
+    "Timestamp": "2018-09-02",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0130F9557C2F",
+    "Discoverer": "PARAGON",
+    "Platform": "ST",
+    "Timestamp": "2018-08-29",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0131F9557C2F",
+    "Discoverer": "Piflik",
+    "Platform": "PS",
+    "Timestamp": "2020-02-22",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-132] Watershed",
+    "Glyphs": "0132F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-133] Curie Point",
+    "Glyphs": "0133F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-02-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-134]",
+    "Glyphs": "0134F9557C2F",
+    "Discoverer": "invenire",
+    "Platform": "PS",
+    "Timestamp": "2018-08-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0135F9557C2F",
+    "Discoverer": "morphilng",
+    "Platform": "ST",
+    "Timestamp": "2018-10-23",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0136F9557C2F",
+    "Discoverer": "xFreakzilla",
+    "Platform": "PS",
+    "Timestamp": "2018-12-13",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-137] Mattni-Neping",
+    "Glyphs": "0137F9557C2F",
+    "Discoverer": "nighthawktex",
+    "Platform": "PS",
+    "Timestamp": "2019-12-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0138F9557C2F",
+    "Discoverer": "Kowski42",
+    "Platform": "PS",
+    "Timestamp": "2018-08-23",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-139] Zebes",
+    "Glyphs": "0139F9557C2F",
+    "Discoverer": "zoitspider",
+    "Platform": "ST",
+    "Timestamp": "2018-08-17",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "013AF9557C2F",
+    "Discoverer": "ljwheat",
+    "Platform": "ST",
+    "Timestamp": "2019-11-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "013BF9557C2F",
+    "Discoverer": "polroc333",
+    "Platform": "PS",
+    "Timestamp": "2018-11-09",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-13C] Lilo I",
+    "Glyphs": "013CF9557C2F",
+    "Discoverer": "Maveryck",
+    "Platform": "ST",
+    "Timestamp": "2018-09-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "013DF9557C2F",
+    "Discoverer": "Halbatroll",
+    "Platform": "XB",
+    "Timestamp": "2020-11-02",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "013EF9557C2F",
+    "Discoverer": "rednobby1",
+    "Platform": "PS",
+    "Timestamp": "2019-12-01",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB-7-13F] Drokonono",
+    "Glyphs": "013FF9557C2F",
+    "Discoverer": "deadbunnysurfing",
+    "Platform": "ST",
+    "Timestamp": "2018-09-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-140] Elorda-Jap",
+    "Glyphs": "0140F9557C2F",
+    "Discoverer": "FoolishOwl",
+    "Platform": "ST",
+    "Timestamp": "2018-12-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0141F9557C2F",
+    "Discoverer": "orochiserge",
+    "Platform": "PS",
+    "Timestamp": "2019-08-19",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0142F9557C2F",
+    "Discoverer": "G1LB3RTS0N",
+    "Platform": "XB",
+    "Timestamp": "2019-07-11",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0143F9557C2F",
+    "Discoverer": "Zeta",
+    "Platform": "ST",
+    "Timestamp": "2018-10-02",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-144] Stormcrow",
+    "Glyphs": "0144F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-03",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-145] McCoy",
+    "Glyphs": "0145F9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-02-02",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-146] Lucifer",
+    "Glyphs": "0146F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-02-18",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-147] Seinfeld",
+    "Glyphs": "0147F9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-01-27",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-148] Aes Sedai",
+    "Glyphs": "0148F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-05-06",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-149] Ivyholoman",
+    "Glyphs": "0149F9557C2F",
+    "Discoverer": "boardsofandross",
+    "Platform": "PS",
+    "Timestamp": "2018-08-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "014AF9557C2F",
+    "Discoverer": "CHEESY_GAMER95",
+    "Platform": "PS",
+    "Timestamp": "2018-09-03",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-14B]",
+    "Glyphs": "014BF9557C2F",
+    "Discoverer": "Smashed",
+    "Platform": "ST",
+    "Timestamp": "2018-08-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-14C] Accesia",
+    "Glyphs": "014CF9557C2F",
+    "Discoverer": "Phaedrus29",
+    "Platform": "PS",
+    "Timestamp": "2020-03-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "014DF9557C2F",
+    "Discoverer": "HK",
+    "Platform": "ST",
+    "Timestamp": "2018-08-16",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-14E] Omni",
+    "Glyphs": "014EF9557C2F",
+    "Discoverer": "SpecialK050",
+    "Platform": "PS",
+    "Timestamp": "2018-12-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "014FF9557C2F",
+    "Discoverer": "PCvsMAC",
+    "Platform": "PS",
+    "Timestamp": "2018-09-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-150]Lanarfir",
+    "Glyphs": "0150F9557C2F",
+    "Discoverer": "sedna16",
+    "Platform": "ST",
+    "Timestamp": "2020-02-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0151F9557C2F",
+    "Discoverer": "MintE",
+    "Platform": "ST",
+    "Timestamp": "2019-07-04",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7- 152 ]Anomalous Apples",
+    "Glyphs": "0152F9557C2F",
+    "Discoverer": "sherrlon",
+    "Platform": "PS",
+    "Timestamp": "2019-02-18",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB8-153]",
+    "Glyphs": "0153F9557C2F",
+    "Discoverer": "AtomicBiff",
+    "Platform": "PS",
+    "Timestamp": "2018-08-10",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0154F9557C2F",
+    "Discoverer": "Ceadophile",
+    "Platform": "PS",
+    "Timestamp": "2018-08-28",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0155F9557C2F",
+    "Discoverer": "orochiserge",
+    "Platform": "PS",
+    "Timestamp": "2019-08-24",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0156F9557C2F",
+    "Discoverer": "dmitriso77",
+    "Platform": "ST",
+    "Timestamp": "2018-08-29",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-157] Zuv'lom's Six Suitors",
+    "Glyphs": "0157F9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-09-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-158] Mirri - Gurag",
+    "Glyphs": "0158F9557C2F",
+    "Discoverer": "zhunt69",
+    "Platform": "ST",
+    "Timestamp": "2019-01-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-159] Aronis VI",
+    "Glyphs": "0159F9557C2F",
+    "Discoverer": "Lokilookalike",
+    "Platform": "PS",
+    "Timestamp": "2019-09-02",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "015AF9557C2F",
+    "Discoverer": "PCvsMAC",
+    "Platform": "PS",
+    "Timestamp": "2018-09-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-15B] Callipygian",
+    "Glyphs": "015BF9557C2F",
+    "Discoverer": "zhunt69",
+    "Platform": "ST",
+    "Timestamp": "2018-08-19",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-15C] Grodin",
+    "Glyphs": "015CF9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-02-02",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "015DF9557C2F",
+    "Discoverer": "Jaremaru",
+    "Platform": "PS",
+    "Timestamp": "2018-09-02",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "015EF9557C2F",
+    "Discoverer": "CHEESY_GAMER95",
+    "Platform": "PS",
+    "Timestamp": "2018-08-25",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "015FF9557C2F",
+    "Discoverer": "PCvsMAC",
+    "Platform": "PS",
+    "Timestamp": "2018-09-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-160] Roland",
+    "Glyphs": "0160F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-31",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0161F9557C2F",
+    "Discoverer": "VarryFattyTuna",
+    "Platform": "PS",
+    "Timestamp": "2020-06-01",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0162F9557C2F",
+    "Discoverer": "TurboAlex02",
+    "Platform": "PS",
+    "Timestamp": "2019-08-17",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-163] Fenunar",
+    "Glyphs": "0163F9557C2F",
+    "Discoverer": "sedna16",
+    "Platform": "ST",
+    "Timestamp": "2020-02-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0164F9557C2F",
+    "Discoverer": "MrSager77",
+    "Platform": "PS",
+    "Timestamp": "2019-02-12",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-165] Lufilit",
+    "Glyphs": "0165F9557C2F",
+    "Discoverer": "Phaedrus29",
+    "Platform": "PS",
+    "Timestamp": "2020-01-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0166F9557C2F",
+    "Discoverer": "Zeta",
+    "Platform": "ST",
+    "Timestamp": "2018-10-02",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0167F9557C2F",
+    "Discoverer": "Prof Mcpwnsauce",
+    "Platform": "XB",
+    "Timestamp": "2019-03-12",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-168] Moon Moon",
+    "Glyphs": "0168F9557C2F",
+    "Discoverer": "SpecialK050",
+    "Platform": "PS",
+    "Timestamp": "2019-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0169F9557C2F",
+    "Discoverer": "Jaremaru",
+    "Platform": "PS",
+    "Timestamp": "2018-09-02",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "016AF9557C2F",
+    "Discoverer": "MintE",
+    "Platform": "ST",
+    "Timestamp": "2019-07-04",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "016BF9557C2F",
+    "Discoverer": "Maybe a Walrus",
+    "Platform": "ST",
+    "Timestamp": "2019-11-28",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-16C] Sativa",
+    "Glyphs": "016CF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-02-24",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "016DF9557C2F",
+    "Discoverer": "CHEESY_GAMER95",
+    "Platform": "PS",
+    "Timestamp": "2018-08-25",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "016EF9557C2F",
+    "Discoverer": "xFreakzilla",
+    "Platform": "PS",
+    "Timestamp": "2018-12-13",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "Udge Wallows",
+    "Glyphs": "016FF9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-09-23",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0170F9557C2F",
+    "Discoverer": "Willdcook5150",
+    "Platform": "PS",
+    "Timestamp": "2019-01-08",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-171] Mvemba",
+    "Glyphs": "0171F9557C2F",
+    "Discoverer": "bruno_bfr",
+    "Platform": "PS",
+    "Timestamp": "2020-04-29",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0172F9557C2F",
+    "Discoverer": "Halbatroll",
+    "Platform": "XB",
+    "Timestamp": "2020-11-02",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-173] Gadot",
+    "Glyphs": "0173F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-24",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0174F9557C2F",
+    "Discoverer": "Ceadophile",
+    "Platform": "PS",
+    "Timestamp": "2018-08-27",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0175F9557C2F",
+    "Discoverer": "kicker_of_elves",
+    "Platform": "ST",
+    "Timestamp": "2020-10-22",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0176F9557C2F",
+    "Discoverer": "ANN0Y1N0RANG3",
+    "Platform": "PS",
+    "Timestamp": "2018-08-09",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-177] Rudnetpla",
+    "Glyphs": "0177F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2020-01-14",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0178F9557C2F",
+    "Discoverer": "HungryAphid68",
+    "Platform": "PS",
+    "Timestamp": "2019-01-12",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0179F9557C2F",
+    "Discoverer": "HK",
+    "Platform": "ST",
+    "Timestamp": "2018-08-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-17A] Online",
+    "Glyphs": "017AF9557C2F",
+    "Discoverer": "Phaedrus29",
+    "Platform": "PS",
+    "Timestamp": "2020-01-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "017BF9557C2F",
+    "Discoverer": "SpecialK050",
+    "Platform": "PS",
+    "Timestamp": "2020-01-24",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "017CF9557C2F",
+    "Discoverer": "rummrover",
+    "Platform": "PS",
+    "Timestamp": "2019-12-26",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-17D] Ladbaro",
+    "Glyphs": "017DF9557C2F",
+    "Discoverer": "Phaedrus29",
+    "Platform": "PS",
+    "Timestamp": "2020-01-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-17E] Puma",
+    "Glyphs": "017EF9557C2F",
+    "Discoverer": "Lothar-viking",
+    "Platform": "PS",
+    "Timestamp": "2020-10-28",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-17F] Laurel",
+    "Glyphs": "017FF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-18",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-180] Errikk",
+    "Glyphs": "0180F9557C2F",
+    "Discoverer": "Toby_Johansson",
+    "Platform": "PS",
+    "Timestamp": "2018-08-06",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-181] Tanav'oh",
+    "Glyphs": "0181F9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-09-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-182] Lutsammi",
+    "Glyphs": "0182F9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-09-03",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0183F9557C2F",
+    "Discoverer": "CHEESY_GAMER95",
+    "Platform": "PS",
+    "Timestamp": "2018-09-01",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0184F9557C2F",
+    "Discoverer": "CHEESY_GAMER95",
+    "Platform": "PS",
+    "Timestamp": "2018-09-01",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-185] Huteikk-Nabei",
+    "Glyphs": "0185F9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-09-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-186] Gachet",
+    "Glyphs": "0186F9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-03-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-187] Extill-Ezen",
+    "Glyphs": "0187F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2020-03-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0188F9557C2F",
+    "Discoverer": "MrSager77",
+    "Platform": "PS",
+    "Timestamp": "2019-02-12",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-189] Dana Carvey",
+    "Glyphs": "0189F9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-01-23",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "018AF9557C2F",
+    "Discoverer": "xLockDownx49",
+    "Platform": "PS",
+    "Timestamp": "2018-08-23",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-18B] Gilgamesh",
+    "Glyphs": "018BF9557C2F",
+    "Discoverer": "bruno_bfr",
+    "Platform": "PS",
+    "Timestamp": "2020-04-29",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-18C] Hawking Peak",
+    "Glyphs": "018CF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-02-24",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "HUB7-18D Vokopinga IV",
+    "Glyphs": "018DF9557C2F",
+    "Discoverer": "Halbatroll",
+    "Platform": "XB",
+    "Timestamp": "2020-10-22",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "HUB7-18E Ifrosto",
+    "Glyphs": "018EF9557C2F",
+    "Discoverer": "Halbatroll",
+    "Platform": "XB",
+    "Timestamp": "2020-10-22",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-18F] Tusgrafsso",
+    "Glyphs": "018FF9557C2F",
+    "Discoverer": "Phaedrus29",
+    "Platform": "PS",
+    "Timestamp": "2020-01-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-190] Ubrikstan X",
+    "Glyphs": "0190F9557C2F",
+    "Discoverer": "nighthawktex",
+    "Platform": "PS",
+    "Timestamp": "2019-12-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-191] Seondeok",
+    "Glyphs": "0191F9557C2F",
+    "Discoverer": "bruno_bfr",
+    "Platform": "PS",
+    "Timestamp": "2020-04-29",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-192] Grinch",
+    "Glyphs": "0192F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-03",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0193F9557C2F",
+    "Discoverer": "Zeta",
+    "Platform": "ST",
+    "Timestamp": "2018-10-02",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0194F9557C2F",
+    "Discoverer": "Ceadophile",
+    "Platform": "PS",
+    "Timestamp": "2018-08-28",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-195] Alecto",
+    "Glyphs": "0195F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-13",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-196] Yefirdi",
+    "Glyphs": "0196F9557C2F",
+    "Discoverer": "Phaedrus29",
+    "Platform": "PS",
+    "Timestamp": "2020-01-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0197F9557C2F",
+    "Discoverer": "Captain Kirk",
+    "Platform": "ST",
+    "Timestamp": "2019-09-03",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0198F9557C2F",
+    "Discoverer": "Zeta",
+    "Platform": "ST",
+    "Timestamp": "2018-10-02",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-199] Blick",
+    "Glyphs": "0199F9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-04-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-19A] Lavoines",
+    "Glyphs": "019AF9557C2F",
+    "Discoverer": "Zeta",
+    "Platform": "ST",
+    "Timestamp": "2018-09-09",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "019BF9557C2F",
+    "Discoverer": "Shocash",
+    "Platform": "PS",
+    "Timestamp": "2019-08-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "019CF9557C2F",
+    "Discoverer": "CHEESY_GAMER95",
+    "Platform": "PS",
+    "Timestamp": "2018-09-03",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-19D] Galled-Inta",
+    "Glyphs": "019DF9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-09-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "HUB 7-19E Class M",
+    "Glyphs": "019EF9557C2F",
+    "Discoverer": "practical_1",
+    "Platform": "PS",
+    "Timestamp": "2020-02-20",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-19F] Saint-Rémy-de-Provence",
+    "Glyphs": "019FF9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-01-30",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1A0] Sigma 597",
+    "Glyphs": "01A0F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-05-06",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1A1] Omicron Beta",
+    "Glyphs": "01A1F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-04-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1A",
+    "Glyphs": "01A2F9557C2F",
+    "Discoverer": "ardwill234",
+    "Platform": "PS",
+    "Timestamp": "2018-08-11",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01A3F9557C2F",
+    "Discoverer": "richrags73",
+    "Platform": "PS",
+    "Timestamp": "2020-04-30",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01A4F9557C2F",
+    "Discoverer": "WhatTheGek",
+    "Platform": "PS",
+    "Timestamp": "2019-12-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01A5F9557C2F",
+    "Discoverer": "DocCollaco",
+    "Platform": "PS",
+    "Timestamp": "2018-08-13",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01A6F9557C2F",
+    "Discoverer": "HK",
+    "Platform": "ST",
+    "Timestamp": "2018-08-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1A7] Quadruplet",
+    "Glyphs": "01A7F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-05-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1A8] Behooteus",
+    "Glyphs": "01A8F9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-05-13",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1A9] Westeros",
+    "Glyphs": "01A9F9557C2F",
+    "Discoverer": "think--12",
+    "Platform": "PS",
+    "Timestamp": "2018-08-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[Hub7-1AA] Timu",
+    "Glyphs": "01AAF9557C2F",
+    "Discoverer": "ArsenaLC",
+    "Platform": "PS",
+    "Timestamp": "2018-08-12",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1AB] Herlast-Ebnye",
+    "Glyphs": "01ABF9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-09-03",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1AC] Adjacu-Lumbar X",
+    "Glyphs": "01ACF9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-09-09",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1AD] Karloff LXX",
+    "Glyphs": "01ADF9557C2F",
+    "Discoverer": "Karlfeldt",
+    "Platform": "ST",
+    "Timestamp": "2019-01-23",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1AE] Rhiannon",
+    "Glyphs": "01AEF9557C2F",
+    "Discoverer": "Flexecutioner",
+    "Platform": "ST",
+    "Timestamp": "2019-08-18",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1AF] Lighthouse",
+    "Glyphs": "01AFF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-01-30",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1B0] Traveller's Rest",
+    "Glyphs": "01B0F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-02-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1B1] Newton",
+    "Glyphs": "01B1F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-02",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1B2] Arx Hyacintho",
+    "Glyphs": "01B2F9557C2F",
+    "Discoverer": "Prof Mcpwnsauce",
+    "Platform": "XB",
+    "Timestamp": "2019-09-28",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01B3F9557C2F",
+    "Discoverer": "MintE",
+    "Platform": "ST",
+    "Timestamp": "2019-07-04",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB1-...] 24k Magic",
+    "Glyphs": "01B4F9557C2F",
+    "Discoverer": "ANN0Y1N0RANG3",
+    "Platform": "PS",
+    "Timestamp": "2018-08-07",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1B5] Sun Dog",
+    "Glyphs": "01B5F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01B6F9557C2F",
+    "Discoverer": "MintE",
+    "Platform": "ST",
+    "Timestamp": "2019-07-04",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1B7] Thraxia",
+    "Glyphs": "01B7F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-17",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01B8F9557C2F",
+    "Discoverer": "glowpoint",
+    "Platform": "ST",
+    "Timestamp": "2018-10-04",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1B9] Skyrim",
+    "Glyphs": "01B9F9557C2F",
+    "Discoverer": "think--12",
+    "Platform": "PS",
+    "Timestamp": "2018-08-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[ARK] Queen's Space",
+    "Glyphs": "01BAF9557C2F",
+    "Discoverer": "Ibiza4me",
+    "Platform": "PS",
+    "Timestamp": "2018-08-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[ARK] Ocean of Fantasy",
+    "Glyphs": "01BBF9557C2F",
+    "Discoverer": "Ibiza4me",
+    "Platform": "PS",
+    "Timestamp": "2018-08-13",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1BC] Eden's Triplets",
+    "Glyphs": "01BCF9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-11-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1BD] Tokundi-Maca",
+    "Glyphs": "01BDF9557C2F",
+    "Discoverer": "Black Cat Lair",
+    "Platform": "XB",
+    "Timestamp": "2019-12-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01BEF9557C2F",
+    "Discoverer": "xFreakzilla",
+    "Platform": "PS",
+    "Timestamp": "2018-12-09",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1BF] Cerberus",
+    "Glyphs": "01BFF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-02-25",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1C0]-Tokyo4",
+    "Glyphs": "01C0F9557C2F",
+    "Discoverer": "bcbud119",
+    "Platform": "PS",
+    "Timestamp": "2019-04-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1C1] Iihinsapri VIII",
+    "Glyphs": "01C1F9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-09-09",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1C2] Potakmo-Biba X",
+    "Glyphs": "01C2F9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-09-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1C3] Laredo",
+    "Glyphs": "01C3F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-04-01",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1C4] Rembrandt",
+    "Glyphs": "01C4F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-22",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01C5F9557C2F",
+    "Discoverer": "Ceadophile",
+    "Platform": "PS",
+    "Timestamp": "2018-08-28",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-",
+    "Glyphs": "01C6F9557C2F",
+    "Discoverer": "nephtis666",
+    "Platform": "PS",
+    "Timestamp": "2019-05-08",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1C7] Kikvammr",
+    "Glyphs": "01C7F9557C2F",
+    "Discoverer": "Xennodren",
+    "Platform": "ST",
+    "Timestamp": "2020-04-24",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1C8] Katsumera XIX",
+    "Glyphs": "01C8F9557C2F",
+    "Discoverer": "boardsofandross",
+    "Platform": "PS",
+    "Timestamp": "2018-08-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01C9F9557C2F",
+    "Discoverer": "G1LB3RTS0N",
+    "Platform": "XB",
+    "Timestamp": "2019-07-11",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1CA] Thorne",
+    "Glyphs": "01CAF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1CB] Udvarve",
+    "Glyphs": "01CBF9557C2F",
+    "Discoverer": "Phaedrus29",
+    "Platform": "PS",
+    "Timestamp": "2020-01-31",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1CC] Oddard",
+    "Glyphs": "01CCF9557C2F",
+    "Discoverer": "Phaedrus29",
+    "Platform": "PS",
+    "Timestamp": "2020-02-16",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1CD] Eageli-Alds XVII",
+    "Glyphs": "01CDF9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-09-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1CE] Maheikk's Quintet",
+    "Glyphs": "01CEF9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2019-02-02",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1CF] Cordon Sanitaire",
+    "Glyphs": "01CFF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-10",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[ARK] Cardinal's Domain",
+    "Glyphs": "01D0F9557C2F",
+    "Discoverer": "Ibiza4me",
+    "Platform": "PS",
+    "Timestamp": "2018-08-13",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01D1F9557C2F",
+    "Discoverer": "CHEESY_GAMER95",
+    "Platform": "PS",
+    "Timestamp": "2018-08-25",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1D2] Blackthorne",
+    "Glyphs": "01D2F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-02-25",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01D3F9557C2F",
+    "Discoverer": "ljwheat",
+    "Platform": "ST",
+    "Timestamp": "2019-11-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01D4F9557C2F",
+    "Discoverer": "Hattori Blade",
+    "Platform": "ST",
+    "Timestamp": "2019-06-19",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01D5F9557C2F",
+    "Discoverer": "Matt-Patt_NZ",
+    "Platform": "PS",
+    "Timestamp": "2019-04-11",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01D6F9557C2F",
+    "Discoverer": "polroc333",
+    "Platform": "PS",
+    "Timestamp": "2018-11-09",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1D7] Ren Q",
+    "Glyphs": "01D7F9557C2F",
+    "Discoverer": "Phaedrus29",
+    "Platform": "PS",
+    "Timestamp": "2020-01-30",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01D8F9557C2F",
+    "Discoverer": "Warcrown",
+    "Platform": "ST",
+    "Timestamp": "2018-11-24",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01D9F9557C2F",
+    "Discoverer": "polroc333",
+    "Platform": "PS",
+    "Timestamp": "2018-11-09",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1DA] Gilligan",
+    "Glyphs": "01DAF9557C2F",
+    "Discoverer": "think--12",
+    "Platform": "PS",
+    "Timestamp": "2018-08-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1DB] Rhia",
+    "Glyphs": "01DBF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-21",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01DCF9557C2F",
+    "Discoverer": "G1LB3RTS0N",
+    "Platform": "XB",
+    "Timestamp": "2019-07-11",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01DDF9557C2F",
+    "Discoverer": "orochiserge",
+    "Platform": "PS",
+    "Timestamp": "2019-08-19",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1DE] Juxtaposed",
+    "Glyphs": "01DEF9557C2F",
+    "Discoverer": "Cicaro115",
+    "Platform": "PS",
+    "Timestamp": "2019-08-28",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1DF] Lunar Desolation",
+    "Glyphs": "01DFF9557C2F",
+    "Discoverer": "Morphieus312",
+    "Platform": "PS",
+    "Timestamp": "2018-08-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[ARK] Smuggler's Respite",
+    "Glyphs": "01E0F9557C2F",
+    "Discoverer": "Ibiza4me",
+    "Platform": "PS",
+    "Timestamp": "2018-08-13",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1E1] Fhloston Paradise",
+    "Glyphs": "01E1F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-02-18",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1E2] Hulast-Yatsu",
+    "Glyphs": "01E2F9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-12-26",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01E3F9557C2F",
+    "Discoverer": "CHEESY_GAMER95",
+    "Platform": "PS",
+    "Timestamp": "2018-08-25",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1E4] Nedkati's 5 Temperaments",
+    "Glyphs": "01E4F9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-09-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1E5] Horn 'o Plenty",
+    "Glyphs": "01E5F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-02-27",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1E6] On the Rocks",
+    "Glyphs": "01E6F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-02-27",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1E7] Mousekewitz",
+    "Glyphs": "01E7F9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-02-13",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01E8F9557C2F",
+    "Discoverer": "PCvsMAC",
+    "Platform": "PS",
+    "Timestamp": "2018-09-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1E9] Hammer",
+    "Glyphs": "01E9F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-02-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1EA] Vifondem",
+    "Glyphs": "01EAF9557C2F",
+    "Discoverer": "Lothar-viking",
+    "Platform": "PS",
+    "Timestamp": "2018-11-05",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1EB] Larinta",
+    "Glyphs": "01EBF9557C2F",
+    "Discoverer": "Phaedrus29",
+    "Platform": "PS",
+    "Timestamp": "2020-01-30",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01ECF9557C2F",
+    "Discoverer": "Hollypopuk",
+    "Platform": "XB",
+    "Timestamp": "2020-01-09",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1ED]",
+    "Glyphs": "01EDF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-01-30",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1EE] Agamemnon",
+    "Glyphs": "01EEF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-13",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "|Hub7-1EF| Doom of Men",
+    "Glyphs": "01EFF9557C2F",
+    "Discoverer": "ImGandalfTehGray",
+    "Platform": "PS",
+    "Timestamp": "2018-08-16",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01F0F9557C2F",
+    "Discoverer": "Worse0619",
+    "Platform": "PS",
+    "Timestamp": "2018-09-03",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01F1F9557C2F",
+    "Discoverer": "G1LB3RTS0N",
+    "Platform": "XB",
+    "Timestamp": "2019-07-11",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01F2F9557C2F",
+    "Discoverer": "room",
+    "Platform": "ST",
+    "Timestamp": "2018-12-15",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1F3] Capstone",
+    "Glyphs": "01F3F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1F4] Rosa Toxicum",
+    "Glyphs": "01F4F9557C2F",
+    "Discoverer": "Prof Mcpwnsauce",
+    "Platform": "XB",
+    "Timestamp": "2019-03-12",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[Hub7-1F5]",
+    "Glyphs": "01F5F9557C2F",
+    "Discoverer": "ArsenaLC",
+    "Platform": "PS",
+    "Timestamp": "2018-08-12",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01F6F9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2019-05-22",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1F7] Ictony's Fall",
+    "Glyphs": "01F7F9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-09-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[ARK] Emperor's Pity",
+    "Glyphs": "01F8F9557C2F",
+    "Discoverer": "Ibiza4me",
+    "Platform": "PS",
+    "Timestamp": "2018-08-13",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1F9] Tuslonta",
+    "Glyphs": "01F9F9557C2F",
+    "Discoverer": "CaptPausert",
+    "Platform": "PS",
+    "Timestamp": "2018-09-13",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-1FA] Gomorrah",
+    "Glyphs": "01FAF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01FBF9557C2F",
+    "Discoverer": "[bloom]",
+    "Platform": "ST",
+    "Timestamp": "2020-04-01",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[ARK] Mists of Despair",
+    "Glyphs": "01FCF9557C2F",
+    "Discoverer": "Ibiza4me",
+    "Platform": "PS",
+    "Timestamp": "2018-08-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1FD]",
+    "Glyphs": "01FDF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-02-27",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01FEF9557C2F",
+    "Discoverer": "RastusSyx",
+    "Platform": "ST",
+    "Timestamp": "2020-07-21",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-1FF] Elesian",
+    "Glyphs": "01FFF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-02-17",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-200] Numine XI",
+    "Glyphs": "0200F9557C2F",
+    "Discoverer": "Maveryck",
+    "Platform": "ST",
+    "Timestamp": "2018-09-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-201] Tepper's Grass",
+    "Glyphs": "0201F9557C2F",
+    "Discoverer": "hollyworks",
+    "Platform": "PS",
+    "Timestamp": "2018-08-25",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-202] Tempest",
+    "Glyphs": "0202F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-30",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0203F9557C2F",
+    "Discoverer": "Halbatroll",
+    "Platform": "XB",
+    "Timestamp": "2020-11-02",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0204F9557C2F",
+    "Discoverer": "PCvsMAC",
+    "Platform": "PS",
+    "Timestamp": "2018-09-05",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0205F9557C2F",
+    "Discoverer": "ElevenRelic549",
+    "Platform": "XB",
+    "Timestamp": "2018-09-29",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB8-206]",
+    "Glyphs": "0206F9557C2F",
+    "Discoverer": "JFO008",
+    "Platform": "PS",
+    "Timestamp": "2018-08-13",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0207F9557C2F",
+    "Discoverer": "JEDavis5384",
+    "Platform": "PS",
+    "Timestamp": "2019-07-31",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0208F9557C2F",
+    "Discoverer": "dfkappy",
+    "Platform": "ST",
+    "Timestamp": "2018-08-12",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0209F9557C2F",
+    "Discoverer": "polroc333",
+    "Platform": "PS",
+    "Timestamp": "2018-09-21",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[ARK-V] Ashen Claw",
+    "Glyphs": "020AF9557C2F",
+    "Discoverer": "Ibiza4me",
+    "Platform": "PS",
+    "Timestamp": "2018-08-13",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[ARK] Oni's Prophecy",
+    "Glyphs": "020BF9557C2F",
+    "Discoverer": "Ibiza4me",
+    "Platform": "PS",
+    "Timestamp": "2018-08-13",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-20C] Tropical Oasis",
+    "Glyphs": "020CF9557C2F",
+    "Discoverer": "Morphieus312",
+    "Platform": "PS",
+    "Timestamp": "2018-08-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[ARK] Concecrated Fire",
+    "Glyphs": "020DF9557C2F",
+    "Discoverer": "Ibiza4me",
+    "Platform": "PS",
+    "Timestamp": "2018-08-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[ARK] Hova's Folly",
+    "Glyphs": "020EF9557C2F",
+    "Discoverer": "Ibiza4me",
+    "Platform": "PS",
+    "Timestamp": "2018-08-14",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "020FF9557C2F",
+    "Discoverer": "CHEESY_GAMER95",
+    "Platform": "PS",
+    "Timestamp": "2018-09-03",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7 - F5] Ghouls Sanctuary",
+    "Glyphs": "0210F9557C2F",
+    "Discoverer": "xLockDownx49",
+    "Platform": "PS",
+    "Timestamp": "2018-08-20",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-211] Laceri",
+    "Glyphs": "0211F9557C2F",
+    "Discoverer": "Toby_Johansson",
+    "Platform": "PS",
+    "Timestamp": "2018-08-07",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-212] Slunkusj",
+    "Glyphs": "0212F9557C2F",
+    "Discoverer": "FoolishOwl",
+    "Platform": "ST",
+    "Timestamp": "2018-09-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0213F9557C2F",
+    "Discoverer": "Ceadophile",
+    "Platform": "PS",
+    "Timestamp": "2018-08-28",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-214] Aulutio",
+    "Glyphs": "0214F9557C2F",
+    "Discoverer": "Bearded Lizard",
+    "Platform": "ST",
+    "Timestamp": "2018-08-31",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-215] Bravo Sierra",
+    "Glyphs": "0215F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-03",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-216] Emerald",
+    "Glyphs": "0216F9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-15",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0217F9557C2F",
+    "Discoverer": "WeaponX",
+    "Platform": "ST",
+    "Timestamp": "2018-10-02",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-218] Nandra",
+    "Glyphs": "0218F9557C2F",
+    "Discoverer": "Corvus",
+    "Platform": "ST",
+    "Timestamp": "2020-11-29",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-219] Alpine",
+    "Glyphs": "0219F9557C2F",
+    "Discoverer": "rtechsmith",
+    "Platform": "ST",
+    "Timestamp": "2019-03-30",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-21A] Saphiret",
+    "Glyphs": "021AF9557C2F",
+    "Discoverer": "SilfenPaths",
+    "Platform": "PS",
+    "Timestamp": "2018-08-11",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "021BF9557C2F",
+    "Discoverer": "FrytasPrincess",
+    "Platform": "PS",
+    "Timestamp": "2018-11-04",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-21C] Magh Meall",
+    "Glyphs": "021CF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-02-18",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "021DF9557C2F",
+    "Discoverer": "haunter6572",
+    "Platform": "XB",
+    "Timestamp": "2018-11-22",
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB7-21E] Nova Scotia",
+    "Glyphs": "021EF9557C2F",
+    "Discoverer": "docteurmccoy",
+    "Platform": "PS",
+    "Timestamp": "2020-05-08",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB7-21F] Cornelius",
+    "Glyphs": "021FF9557C2F",
+    "Discoverer": "swampcastle",
+    "Platform": "PS",
+    "Timestamp": "2019-03-04",
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0220F9557C2F",
+    "Discoverer": "Eskerian",
+    "Platform": "ST",
+    "Timestamp": "2019-08-21",
+    "Correctly Tagged": false
+  }
+]
