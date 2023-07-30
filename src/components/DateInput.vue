@@ -2,6 +2,7 @@
 defineProps<{
   label: string;
   id: string;
+  modelValue: string;
 }>();
 </script>
 
@@ -11,6 +12,8 @@ defineProps<{
     <input
       :id="id"
       type="date"
+      :value="modelValue"
+      @change="$emit('update:modelValue', ($event.target as HTMLInputElement).value)"
     />
   </label>
 </template>

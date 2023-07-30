@@ -1,42 +1,64 @@
 import { defineStore } from 'pinia';
 
-interface TextSearch {
-  searchTerm: string;
-  intersection: string;
+interface TextSearch<T> {
+  name: T;
+  glyphs: T;
+  discoverer: T;
+  [key: string]: T;
 }
 
 interface State {
-  galaxy: string[];
-  name: TextSearch;
-  glyphs: TextSearch;
-  discoverer: TextSearch;
-  platform: string[];
-  date: string[];
-  tagged: boolean | undefined;
+  galaxy: Array<'euclid' | 'calypso' | 'eissentam'>;
+  searchTerms: TextSearch<string>;
+  intersections: TextSearch<'includes' | 'is' | '!includes' | '!is'>;
+  platform: Array<'ST' | 'PS' | 'XB' | 'GX' | 'NI'>;
+  date: {
+    startDate: string;
+    endDate: string;
+    [key: string]: string;
+  }
+  tagged: '' | boolean;
 }
 
 export const useFilterStore = defineStore('filter', {
   state: (): State => ({
     galaxy: [],
-    name: {
-      searchTerm: '',
-      intersection: ''
+    searchTerms: {
+      name: '',
+      glyphs: '',
+      discoverer: '',
     },
-    glyphs: {
-      searchTerm: '',
-      intersection: ''
+    intersections: {
+      name: 'includes',
+      glyphs: 'includes',
+      discoverer: 'includes',
     },
-    discoverer: {
-      searchTerm: '',
-      intersection: ''
-    },
+
     platform: [],
-    date: [],
-    tagged: undefined
+    date: {
+      startDate: '',
+      endDate: ''
+    },
+    tagged: ''
   }),
 
   getters: {
-
+    unixTimestamp: (state) => {
+      const dateObj = state.date;
+      const numberDateObj: {
+        startDate: number;
+        endDate: number;
+        [key: string]: number;
+      } = {
+        startDate: 0,
+        endDate: 0,
+      };
+      for (const date in dateObj) {
+        const timestamp = new Date(dateObj[date]).valueOf();
+        numberDateObj[date] = isNaN(timestamp) ? 0 : timestamp;
+      }
+      return numberDateObj;
+    },
   },
 
   actions: {

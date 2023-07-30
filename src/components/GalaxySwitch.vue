@@ -4,7 +4,7 @@ import { storeToRefs } from 'pinia';
 import Switch from './Switch.vue';
 
 const props = defineProps<{
-  id: string;
+  id: 'euclid' | 'calypso' | 'eissentam';
   label: string;
 }>();
 

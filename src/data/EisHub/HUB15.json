@@ -5,6 +5,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-19",
+    "UnixTimestamp": 1608354013000,
     "Correctly Tagged": true
   },
   {
@@ -13,6 +14,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-08",
+    "UnixTimestamp": 1599599909000,
     "Correctly Tagged": true
   },
   {
@@ -21,6 +23,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-08",
+    "UnixTimestamp": 1599599623000,
     "Correctly Tagged": true
   },
   {
@@ -29,6 +32,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-19",
+    "UnixTimestamp": 1608355904000,
     "Correctly Tagged": true
   },
   {
@@ -37,6 +41,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651924992000,
     "Correctly Tagged": true
   },
   {
@@ -45,6 +50,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-09-01",
+    "UnixTimestamp": 1630522857000,
     "Correctly Tagged": true
   },
   {
@@ -53,6 +59,7 @@
     "Discoverer": "Golodupiku",
     "Platform": "XB",
     "Timestamp": "2020-12-10",
+    "UnixTimestamp": 1607558453000,
     "Correctly Tagged": true
   },
   {
@@ -61,6 +68,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651929959000,
     "Correctly Tagged": true
   },
   {
@@ -69,6 +77,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651930414000,
     "Correctly Tagged": true
   },
   {
@@ -77,6 +86,7 @@
     "Discoverer": "Wandering Lisa",
     "Platform": "ST",
     "Timestamp": "2022-04-20",
+    "UnixTimestamp": 1650472460000,
     "Correctly Tagged": false
   },
   {
@@ -85,6 +95,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651930776000,
     "Correctly Tagged": true
   },
   {
@@ -93,6 +104,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-20",
+    "UnixTimestamp": 1608446093000,
     "Correctly Tagged": true
   },
   {
@@ -101,6 +113,7 @@
     "Discoverer": "ch1seller",
     "Platform": "ST",
     "Timestamp": "2018-10-22",
+    "UnixTimestamp": 1540196142000,
     "Correctly Tagged": true
   },
   {
@@ -109,6 +122,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055322000,
     "Correctly Tagged": false
   },
   {
@@ -117,6 +131,7 @@
     "Discoverer": "Dellers",
     "Platform": "ST",
     "Timestamp": "2021-05-11",
+    "UnixTimestamp": 1620698881000,
     "Correctly Tagged": true
   },
   {
@@ -125,6 +140,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-09-01",
+    "UnixTimestamp": 1630521624000,
     "Correctly Tagged": true
   },
   {
@@ -133,6 +149,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651931116000,
     "Correctly Tagged": true
   },
   {
@@ -141,6 +158,7 @@
     "Discoverer": "Dellers",
     "Platform": "ST",
     "Timestamp": "2021-05-10",
+    "UnixTimestamp": 1620683437000,
     "Correctly Tagged": true
   },
   {
@@ -149,6 +167,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-19",
+    "UnixTimestamp": 1534636912000,
     "Correctly Tagged": true
   },
   {
@@ -157,6 +176,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-21",
+    "UnixTimestamp": 1608529577000,
     "Correctly Tagged": true
   },
   {
@@ -165,6 +185,7 @@
     "Discoverer": "wozamatawiyoo",
     "Platform": "PS",
     "Timestamp": "2018-09-12",
+    "UnixTimestamp": 1536707734000,
     "Correctly Tagged": false
   },
   {
@@ -173,6 +194,7 @@
     "Discoverer": "SoupStore",
     "Platform": "ST",
     "Timestamp": "2021-03-26",
+    "UnixTimestamp": 1616726952000,
     "Correctly Tagged": false
   },
   {
@@ -181,6 +203,7 @@
     "Discoverer": "Garlayn Toji",
     "Platform": "ST",
     "Timestamp": "2020-11-26",
+    "UnixTimestamp": 1606377811000,
     "Correctly Tagged": false
   },
   {
@@ -189,6 +212,7 @@
     "Discoverer": "Lucaribro5762",
     "Platform": "XB",
     "Timestamp": "2021-01-14",
+    "UnixTimestamp": 1610665039000,
     "Correctly Tagged": false
   },
   {
@@ -197,6 +221,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-21",
+    "UnixTimestamp": 1608534204000,
     "Correctly Tagged": true
   },
   {
@@ -205,6 +230,7 @@
     "Discoverer": "ch1seller",
     "Platform": "ST",
     "Timestamp": "2018-10-19",
+    "UnixTimestamp": 1539960742000,
     "Correctly Tagged": true
   },
   {
@@ -213,6 +239,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-06",
+    "UnixTimestamp": 1599363992000,
     "Correctly Tagged": true
   },
   {
@@ -221,6 +248,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-06",
+    "UnixTimestamp": 1599363145000,
     "Correctly Tagged": true
   },
   {
@@ -229,6 +257,7 @@
     "Discoverer": "RagemKagem",
     "Platform": "PS",
     "Timestamp": "2021-04-11",
+    "UnixTimestamp": 1618109369000,
     "Correctly Tagged": true
   },
   {
@@ -237,6 +266,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055361000,
     "Correctly Tagged": false
   },
   {
@@ -245,6 +275,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651931599000,
     "Correctly Tagged": true
   },
   {
@@ -253,6 +284,7 @@
     "Discoverer": "Dellers",
     "Platform": "ST",
     "Timestamp": "2021-05-11",
+    "UnixTimestamp": 1620734382000,
     "Correctly Tagged": true
   },
   {
@@ -261,6 +293,7 @@
     "Discoverer": "Tyler Ewart",
     "Platform": "XB",
     "Timestamp": "2022-04-30",
+    "UnixTimestamp": 1651328805000,
     "Correctly Tagged": false
   },
   {
@@ -269,6 +302,7 @@
     "Discoverer": "Sour563",
     "Platform": "XB",
     "Timestamp": "2021-06-09",
+    "UnixTimestamp": 1623224536000,
     "Correctly Tagged": false
   },
   {
@@ -277,6 +311,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-20",
+    "UnixTimestamp": 1608440796000,
     "Correctly Tagged": true
   },
   {
@@ -285,6 +320,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-15",
+    "UnixTimestamp": 1600195946000,
     "Correctly Tagged": false
   },
   {
@@ -293,6 +329,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-20",
+    "UnixTimestamp": 1608443640000,
     "Correctly Tagged": true
   },
   {
@@ -301,6 +338,7 @@
     "Discoverer": "Thorschild",
     "Platform": "XB",
     "Timestamp": "2021-03-08",
+    "UnixTimestamp": 1615181468000,
     "Correctly Tagged": false
   },
   {
@@ -309,6 +347,7 @@
     "Discoverer": "AdrenalineMonk1",
     "Platform": "XB",
     "Timestamp": "2021-02-02",
+    "UnixTimestamp": 1612233800000,
     "Correctly Tagged": true
   },
   {
@@ -317,6 +356,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651932145000,
     "Correctly Tagged": true
   },
   {
@@ -325,6 +365,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-09-01",
+    "UnixTimestamp": 1630500671000,
     "Correctly Tagged": true
   },
   {
@@ -333,6 +374,7 @@
     "Discoverer": "Dellers",
     "Platform": "ST",
     "Timestamp": "2021-05-11",
+    "UnixTimestamp": 1620712161000,
     "Correctly Tagged": true
   },
   {
@@ -341,6 +383,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-16",
+    "UnixTimestamp": 1608095684000,
     "Correctly Tagged": true
   },
   {
@@ -349,6 +392,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-22",
+    "UnixTimestamp": 1600811893000,
     "Correctly Tagged": true
   },
   {
@@ -357,6 +401,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055543000,
     "Correctly Tagged": false
   },
   {
@@ -365,6 +410,7 @@
     "Discoverer": "Golodupiku",
     "Platform": "XB",
     "Timestamp": "2020-11-23",
+    "UnixTimestamp": 1606168390000,
     "Correctly Tagged": true
   },
   {
@@ -373,6 +419,7 @@
     "Discoverer": "Malo maxima",
     "Platform": "ST",
     "Timestamp": "2021-06-03",
+    "UnixTimestamp": 1622695132000,
     "Correctly Tagged": true
   },
   {
@@ -381,6 +428,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055726000,
     "Correctly Tagged": false
   },
   {
@@ -389,6 +437,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055754000,
     "Correctly Tagged": false
   },
   {
@@ -397,6 +446,7 @@
     "Discoverer": "Lucky R0bot",
     "Platform": "XB",
     "Timestamp": "2021-03-14",
+    "UnixTimestamp": 1615754293000,
     "Correctly Tagged": false
   },
   {
@@ -405,6 +455,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055418000,
     "Correctly Tagged": false
   },
   {
@@ -413,6 +464,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-15",
+    "UnixTimestamp": 1608069594000,
     "Correctly Tagged": true
   },
   {
@@ -421,6 +473,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-22",
+    "UnixTimestamp": 1611340835000,
     "Correctly Tagged": true
   },
   {
@@ -429,6 +482,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651932507000,
     "Correctly Tagged": true
   },
   {
@@ -437,6 +491,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-06-01",
+    "UnixTimestamp": 1622554360000,
     "Correctly Tagged": true
   },
   {
@@ -445,6 +500,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2021-01-04",
+    "UnixTimestamp": 1609739980000,
     "Correctly Tagged": true
   },
   {
@@ -453,6 +509,7 @@
     "Discoverer": "Bahann",
     "Platform": "ST",
     "Timestamp": "2021-08-29",
+    "UnixTimestamp": 1630201828000,
     "Correctly Tagged": false
   },
   {
@@ -461,6 +518,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651933044000,
     "Correctly Tagged": true
   },
   {
@@ -469,6 +527,7 @@
     "Discoverer": "bradbannana",
     "Platform": "PS",
     "Timestamp": "2021-09-03",
+    "UnixTimestamp": 1630622894000,
     "Correctly Tagged": false
   },
   {
@@ -477,6 +536,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055410000,
     "Correctly Tagged": false
   },
   {
@@ -485,6 +545,7 @@
     "Discoverer": "OdaNoburo",
     "Platform": "PS",
     "Timestamp": "2022-03-15",
+    "UnixTimestamp": 1647375370000,
     "Correctly Tagged": false
   },
   {
@@ -493,6 +554,7 @@
     "Discoverer": "ncn",
     "Platform": "ST",
     "Timestamp": "2022-03-10",
+    "UnixTimestamp": 1646881228000,
     "Correctly Tagged": true
   },
   {
@@ -501,6 +563,7 @@
     "Discoverer": "ncn",
     "Platform": "ST",
     "Timestamp": "2022-03-10",
+    "UnixTimestamp": 1646881591000,
     "Correctly Tagged": true
   },
   {
@@ -509,6 +572,7 @@
     "Discoverer": "Tickmeister",
     "Platform": "ST",
     "Timestamp": "2020-01-07",
+    "UnixTimestamp": 1578369248000,
     "Correctly Tagged": false
   },
   {
@@ -517,6 +581,7 @@
     "Discoverer": "Thorschild",
     "Platform": "XB",
     "Timestamp": "2021-03-08",
+    "UnixTimestamp": 1615181502000,
     "Correctly Tagged": false
   },
   {
@@ -525,6 +590,7 @@
     "Discoverer": "Tyler Ewart",
     "Platform": "XB",
     "Timestamp": "2022-04-30",
+    "UnixTimestamp": 1651328749000,
     "Correctly Tagged": false
   },
   {
@@ -533,6 +599,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651933423000,
     "Correctly Tagged": true
   },
   {
@@ -541,6 +608,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-22",
+    "UnixTimestamp": 1608614274000,
     "Correctly Tagged": true
   },
   {
@@ -549,6 +617,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-07",
+    "UnixTimestamp": 1610033593000,
     "Correctly Tagged": true
   },
   {
@@ -557,6 +626,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-16",
+    "UnixTimestamp": 1534380344000,
     "Correctly Tagged": true
   },
   {
@@ -565,6 +635,7 @@
     "Discoverer": "Sourceman",
     "Platform": "ST",
     "Timestamp": "2021-01-23",
+    "UnixTimestamp": 1611416479000,
     "Correctly Tagged": false
   },
   {
@@ -573,6 +644,7 @@
     "Discoverer": "Donnkey Hotay",
     "Platform": "XB",
     "Timestamp": "2021-02-24",
+    "UnixTimestamp": 1614187312000,
     "Correctly Tagged": false
   },
   {
@@ -581,6 +653,7 @@
     "Discoverer": "tylerswift",
     "Platform": "ST",
     "Timestamp": "2020-10-02",
+    "UnixTimestamp": 1601616188000,
     "Correctly Tagged": true
   },
   {
@@ -589,6 +662,7 @@
     "Discoverer": "DaKoolA1dMan",
     "Platform": "XB",
     "Timestamp": "2020-12-18",
+    "UnixTimestamp": 1608256390000,
     "Correctly Tagged": true
   },
   {
@@ -597,6 +671,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-11-01",
+    "UnixTimestamp": 1635776734000,
     "Correctly Tagged": true
   },
   {
@@ -605,6 +680,7 @@
     "Discoverer": "Replicant_01",
     "Platform": "ST",
     "Timestamp": "2021-03-29",
+    "UnixTimestamp": 1617050632000,
     "Correctly Tagged": false
   },
   {
@@ -613,6 +689,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651933787000,
     "Correctly Tagged": true
   },
   {
@@ -621,6 +698,7 @@
     "Discoverer": "EmperorBenja",
     "Platform": "XB",
     "Timestamp": "2021-01-10",
+    "UnixTimestamp": 1610264630000,
     "Correctly Tagged": true
   },
   {
@@ -629,6 +707,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651934358000,
     "Correctly Tagged": true
   },
   {
@@ -637,6 +716,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-21",
+    "UnixTimestamp": 1608585188000,
     "Correctly Tagged": true
   },
   {
@@ -645,6 +725,7 @@
     "Discoverer": "Dellers",
     "Platform": "ST",
     "Timestamp": "2021-05-10",
+    "UnixTimestamp": 1620666089000,
     "Correctly Tagged": true
   },
   {
@@ -653,6 +734,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2021-01-04",
+    "UnixTimestamp": 1609739638000,
     "Correctly Tagged": true
   },
   {
@@ -661,6 +743,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651934690000,
     "Correctly Tagged": true
   },
   {
@@ -669,6 +752,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651935324000,
     "Correctly Tagged": true
   },
   {
@@ -677,6 +761,7 @@
     "Discoverer": "Carbon04",
     "Platform": "ST",
     "Timestamp": "2021-01-23",
+    "UnixTimestamp": 1611366196000,
     "Correctly Tagged": false
   },
   {
@@ -685,6 +770,7 @@
     "Discoverer": "Hashy_Bud",
     "Platform": "PS",
     "Timestamp": "2021-06-12",
+    "UnixTimestamp": 1623519687000,
     "Correctly Tagged": true
   },
   {
@@ -693,6 +779,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-20",
+    "UnixTimestamp": 1608445556000,
     "Correctly Tagged": false
   },
   {
@@ -701,6 +788,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-20",
+    "UnixTimestamp": 1608444999000,
     "Correctly Tagged": true
   },
   {
@@ -709,6 +797,7 @@
     "Discoverer": "l__Simulacra__l",
     "Platform": "PS",
     "Timestamp": "2019-08-16",
+    "UnixTimestamp": 1565971171000,
     "Correctly Tagged": false
   },
   {
@@ -717,6 +806,7 @@
     "Discoverer": "DaKoolA1dMan",
     "Platform": "XB",
     "Timestamp": "2021-03-06",
+    "UnixTimestamp": 1615050579000,
     "Correctly Tagged": true
   },
   {
@@ -725,6 +815,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-12",
+    "UnixTimestamp": 1599937428000,
     "Correctly Tagged": true
   },
   {
@@ -733,6 +824,7 @@
     "Discoverer": "Dingoing",
     "Platform": "PS",
     "Timestamp": "2021-01-12",
+    "UnixTimestamp": 1610490575000,
     "Correctly Tagged": false
   },
   {
@@ -741,6 +833,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651935820000,
     "Correctly Tagged": true
   },
   {
@@ -749,6 +842,7 @@
     "Discoverer": "Furantia",
     "Platform": "ST",
     "Timestamp": "2020-01-01",
+    "UnixTimestamp": 1577837152000,
     "Correctly Tagged": false
   },
   {
@@ -757,6 +851,7 @@
     "Discoverer": "voxsq",
     "Platform": "XB",
     "Timestamp": "2021-10-24",
+    "UnixTimestamp": 1635031583000,
     "Correctly Tagged": false
   },
   {
@@ -765,6 +860,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-21",
+    "UnixTimestamp": 1600639396000,
     "Correctly Tagged": true
   },
   {
@@ -773,6 +869,7 @@
     "Discoverer": "Dingoing",
     "Platform": "PS",
     "Timestamp": "2021-01-13",
+    "UnixTimestamp": 1610494364000,
     "Correctly Tagged": false
   },
   {
@@ -781,6 +878,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055259000,
     "Correctly Tagged": false
   },
   {
@@ -789,6 +887,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651936196000,
     "Correctly Tagged": true
   },
   {
@@ -797,6 +896,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-09",
+    "UnixTimestamp": 1599623582000,
     "Correctly Tagged": true
   },
   {
@@ -805,6 +905,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-08",
+    "UnixTimestamp": 1599596492000,
     "Correctly Tagged": true
   },
   {
@@ -813,6 +914,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651937265000,
     "Correctly Tagged": true
   },
   {
@@ -821,6 +923,7 @@
     "Discoverer": "voxsq",
     "Platform": "XB",
     "Timestamp": "2021-07-23",
+    "UnixTimestamp": 1627060266000,
     "Correctly Tagged": false
   },
   {
@@ -829,6 +932,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-06-07",
+    "UnixTimestamp": 1623089817000,
     "Correctly Tagged": true
   },
   {
@@ -837,6 +941,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-15",
+    "UnixTimestamp": 1600195956000,
     "Correctly Tagged": false
   },
   {
@@ -845,6 +950,7 @@
     "Discoverer": "Grabby LaToosh",
     "Platform": "ST",
     "Timestamp": "2019-06-12",
+    "UnixTimestamp": 1560314756000,
     "Correctly Tagged": true
   },
   {
@@ -853,6 +959,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651937399000,
     "Correctly Tagged": true
   },
   {
@@ -861,6 +968,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-20",
+    "UnixTimestamp": 1608442874000,
     "Correctly Tagged": true
   },
   {
@@ -869,6 +977,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-06-01",
+    "UnixTimestamp": 1622554821000,
     "Correctly Tagged": true
   },
   {
@@ -877,6 +986,7 @@
     "Discoverer": "racinbunny20",
     "Platform": "PS",
     "Timestamp": "2019-06-30",
+    "UnixTimestamp": 1561867556000,
     "Correctly Tagged": false
   },
   {
@@ -885,6 +995,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-20",
+    "UnixTimestamp": 1608442119000,
     "Correctly Tagged": true
   },
   {
@@ -893,6 +1004,7 @@
     "Discoverer": "Replicant_01",
     "Platform": "ST",
     "Timestamp": "2021-03-29",
+    "UnixTimestamp": 1617050803000,
     "Correctly Tagged": false
   },
   {
@@ -901,6 +1013,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2021-01-03",
+    "UnixTimestamp": 1609714540000,
     "Correctly Tagged": false
   },
   {
@@ -909,6 +1022,7 @@
     "Discoverer": "Lordofcrows",
     "Platform": "XB",
     "Timestamp": "2021-02-12",
+    "UnixTimestamp": 1613152768000,
     "Correctly Tagged": false
   },
   {
@@ -917,6 +1031,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055284000,
     "Correctly Tagged": false
   },
   {
@@ -925,6 +1040,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-20",
+    "UnixTimestamp": 1608444678000,
     "Correctly Tagged": false
   },
   {
@@ -933,6 +1049,7 @@
     "Discoverer": "KesselSmuggler",
     "Platform": "XB",
     "Timestamp": "2022-01-22",
+    "UnixTimestamp": 1642833670000,
     "Correctly Tagged": false
   },
   {
@@ -941,6 +1058,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651937884000,
     "Correctly Tagged": true
   },
   {
@@ -949,6 +1067,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055378000,
     "Correctly Tagged": false
   },
   {
@@ -957,6 +1076,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651938311000,
     "Correctly Tagged": true
   },
   {
@@ -965,6 +1085,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-17",
+    "UnixTimestamp": 1534470239000,
     "Correctly Tagged": true
   },
   {
@@ -973,6 +1094,7 @@
     "Discoverer": "WZA",
     "Platform": "ST",
     "Timestamp": "2021-01-15",
+    "UnixTimestamp": 1610748857000,
     "Correctly Tagged": false
   },
   {
@@ -981,6 +1103,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609473802000,
     "Correctly Tagged": true
   },
   {
@@ -989,6 +1112,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-11",
+    "UnixTimestamp": 1534023899000,
     "Correctly Tagged": true
   },
   {
@@ -997,6 +1121,7 @@
     "Discoverer": "Knotsogood",
     "Platform": "ST",
     "Timestamp": "2021-08-05",
+    "UnixTimestamp": 1628133482000,
     "Correctly Tagged": false
   },
   {
@@ -1005,6 +1130,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-16",
+    "UnixTimestamp": 1534379636000,
     "Correctly Tagged": true
   },
   {
@@ -1013,6 +1139,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-04",
+    "UnixTimestamp": 1609734636000,
     "Correctly Tagged": true
   },
   {
@@ -1021,6 +1148,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-04-29",
+    "UnixTimestamp": 1619702392000,
     "Correctly Tagged": true
   },
   {
@@ -1029,6 +1157,7 @@
     "Discoverer": "Golodupiku",
     "Platform": "XB",
     "Timestamp": "2020-12-05",
+    "UnixTimestamp": 1607186247000,
     "Correctly Tagged": true
   },
   {
@@ -1037,6 +1166,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-08",
+    "UnixTimestamp": 1599594905000,
     "Correctly Tagged": true
   },
   {
@@ -1045,6 +1175,7 @@
     "Discoverer": "Golodupiku",
     "Platform": "XB",
     "Timestamp": "2020-12-02",
+    "UnixTimestamp": 1606944336000,
     "Correctly Tagged": true
   },
   {
@@ -1053,6 +1184,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-22",
+    "UnixTimestamp": 1611330744000,
     "Correctly Tagged": true
   },
   {
@@ -1061,6 +1193,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-22",
+    "UnixTimestamp": 1600750874000,
     "Correctly Tagged": true
   },
   {
@@ -1069,6 +1202,7 @@
     "Discoverer": "Fair",
     "Platform": "ST",
     "Timestamp": "2019-09-05",
+    "UnixTimestamp": 1567683336000,
     "Correctly Tagged": false
   },
   {
@@ -1077,6 +1211,7 @@
     "Discoverer": "Golodupiku",
     "Platform": "XB",
     "Timestamp": "2020-11-24",
+    "UnixTimestamp": 1606237393000,
     "Correctly Tagged": true
   },
   {
@@ -1085,6 +1220,7 @@
     "Discoverer": "Squishy9589",
     "Platform": "XB",
     "Timestamp": "2022-05-06",
+    "UnixTimestamp": 1651803034000,
     "Correctly Tagged": false
   },
   {
@@ -1093,6 +1229,7 @@
     "Discoverer": "Golodupiku",
     "Platform": "XB",
     "Timestamp": "2020-12-11",
+    "UnixTimestamp": 1607723382000,
     "Correctly Tagged": true
   },
   {
@@ -1101,6 +1238,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-22",
+    "UnixTimestamp": 1611350108000,
     "Correctly Tagged": true
   },
   {
@@ -1109,6 +1247,7 @@
     "Discoverer": "death_in-za",
     "Platform": "PS",
     "Timestamp": "2021-06-03",
+    "UnixTimestamp": 1622701530000,
     "Correctly Tagged": false
   },
   {
@@ -1117,6 +1256,7 @@
     "Discoverer": "Minion---------x",
     "Platform": "PS",
     "Timestamp": "2019-04-05",
+    "UnixTimestamp": 1554473757000,
     "Correctly Tagged": false
   },
   {
@@ -1125,6 +1265,7 @@
     "Discoverer": "Chemwars",
     "Platform": "ST",
     "Timestamp": "2020-12-12",
+    "UnixTimestamp": 1607731214000,
     "Correctly Tagged": true
   },
   {
@@ -1133,6 +1274,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-27",
+    "UnixTimestamp": 1611777925000,
     "Correctly Tagged": false
   },
   {
@@ -1141,6 +1283,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-21",
+    "UnixTimestamp": 1600640320000,
     "Correctly Tagged": false
   },
   {
@@ -1149,6 +1292,7 @@
     "Discoverer": "Golodupiku",
     "Platform": "XB",
     "Timestamp": "2020-12-10",
+    "UnixTimestamp": 1607558250000,
     "Correctly Tagged": true
   },
   {
@@ -1157,6 +1301,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-22",
+    "UnixTimestamp": 1611342870000,
     "Correctly Tagged": true
   },
   {
@@ -1165,6 +1310,7 @@
     "Discoverer": "Dominic Elwell",
     "Platform": "XB",
     "Timestamp": "2021-03-04",
+    "UnixTimestamp": 1614886061000,
     "Correctly Tagged": false
   },
   {
@@ -1173,6 +1319,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-20",
+    "UnixTimestamp": 1534746937000,
     "Correctly Tagged": true
   },
   {
@@ -1181,6 +1328,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-20",
+    "UnixTimestamp": 1534746865000,
     "Correctly Tagged": true
   },
   {
@@ -1189,6 +1337,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-19",
+    "UnixTimestamp": 1600493604000,
     "Correctly Tagged": false
   },
   {
@@ -1197,6 +1346,7 @@
     "Discoverer": "Ace8144",
     "Platform": "PS",
     "Timestamp": "2018-10-31",
+    "UnixTimestamp": 1540955516000,
     "Correctly Tagged": true
   },
   {
@@ -1205,6 +1355,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-14",
+    "UnixTimestamp": 1534206983000,
     "Correctly Tagged": true
   },
   {
@@ -1213,6 +1364,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-14",
+    "UnixTimestamp": 1534206684000,
     "Correctly Tagged": true
   },
   {
@@ -1221,6 +1373,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-06",
+    "UnixTimestamp": 1612621835000,
     "Correctly Tagged": true
   },
   {
@@ -1229,6 +1382,7 @@
     "Discoverer": "Fair",
     "Platform": "ST",
     "Timestamp": "2019-09-05",
+    "UnixTimestamp": 1567683348000,
     "Correctly Tagged": false
   },
   {
@@ -1237,6 +1391,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-05",
+    "UnixTimestamp": 1612543021000,
     "Correctly Tagged": true
   },
   {
@@ -1245,6 +1400,7 @@
     "Discoverer": "zaxncasey2gether",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651876227000,
     "Correctly Tagged": false
   },
   {
@@ -1253,6 +1409,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-04",
+    "UnixTimestamp": 1609735241000,
     "Correctly Tagged": true
   },
   {
@@ -1261,6 +1418,7 @@
     "Discoverer": "Golodupiku",
     "Platform": "XB",
     "Timestamp": "2020-12-05",
+    "UnixTimestamp": 1607186451000,
     "Correctly Tagged": true
   },
   {
@@ -1269,6 +1427,7 @@
     "Discoverer": "Ade",
     "Platform": "ST",
     "Timestamp": "2020-09-29",
+    "UnixTimestamp": 1601399675000,
     "Correctly Tagged": false
   },
   {
@@ -1277,6 +1436,7 @@
     "Discoverer": "Golodupiku",
     "Platform": "XB",
     "Timestamp": "2020-11-23",
+    "UnixTimestamp": 1606169012000,
     "Correctly Tagged": true
   },
   {
@@ -1285,6 +1445,7 @@
     "Discoverer": "Grabby LaToosh",
     "Platform": "ST",
     "Timestamp": "2019-06-12",
+    "UnixTimestamp": 1560349305000,
     "Correctly Tagged": false
   },
   {
@@ -1293,6 +1454,7 @@
     "Discoverer": "Chemwars",
     "Platform": "ST",
     "Timestamp": "2020-12-12",
+    "UnixTimestamp": 1607731264000,
     "Correctly Tagged": true
   },
   {
@@ -1301,6 +1463,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651938659000,
     "Correctly Tagged": true
   },
   {
@@ -1309,6 +1472,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-26",
+    "UnixTimestamp": 1601148842000,
     "Correctly Tagged": false
   },
   {
@@ -1317,6 +1481,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651939001000,
     "Correctly Tagged": true
   },
   {
@@ -1325,6 +1490,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-26",
+    "UnixTimestamp": 1601148998000,
     "Correctly Tagged": false
   },
   {
@@ -1333,6 +1499,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-04",
+    "UnixTimestamp": 1599193417000,
     "Correctly Tagged": true
   },
   {
@@ -1341,6 +1508,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-18",
+    "UnixTimestamp": 1613654420000,
     "Correctly Tagged": true
   },
   {
@@ -1349,6 +1517,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-16",
+    "UnixTimestamp": 1608078772000,
     "Correctly Tagged": true
   },
   {
@@ -1357,6 +1526,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055531000,
     "Correctly Tagged": false
   },
   {
@@ -1365,6 +1535,7 @@
     "Discoverer": "Turrao",
     "Platform": "PS",
     "Timestamp": "2019-05-14",
+    "UnixTimestamp": 1557798954000,
     "Correctly Tagged": false
   },
   {
@@ -1373,6 +1544,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-26",
+    "UnixTimestamp": 1601148821000,
     "Correctly Tagged": false
   },
   {
@@ -1381,6 +1553,7 @@
     "Discoverer": "Tarkony",
     "Platform": "PS",
     "Timestamp": "2019-09-27",
+    "UnixTimestamp": 1569565990000,
     "Correctly Tagged": false
   },
   {
@@ -1389,6 +1562,7 @@
     "Discoverer": "Ace8144",
     "Platform": "PS",
     "Timestamp": "2018-09-08",
+    "UnixTimestamp": 1536376579000,
     "Correctly Tagged": true
   },
   {
@@ -1397,6 +1571,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-04",
+    "UnixTimestamp": 1533410943000,
     "Correctly Tagged": true
   },
   {
@@ -1405,6 +1580,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055748000,
     "Correctly Tagged": false
   },
   {
@@ -1413,6 +1589,7 @@
     "Discoverer": "Golodupiku",
     "Platform": "XB",
     "Timestamp": "2020-11-26",
+    "UnixTimestamp": 1606347338000,
     "Correctly Tagged": false
   },
   {
@@ -1421,6 +1598,7 @@
     "Discoverer": "Fair",
     "Platform": "ST",
     "Timestamp": "2019-09-05",
+    "UnixTimestamp": 1567683355000,
     "Correctly Tagged": false
   },
   {
@@ -1429,6 +1607,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055624000,
     "Correctly Tagged": false
   },
   {
@@ -1437,6 +1616,7 @@
     "Discoverer": "Garlayn Toji",
     "Platform": "ST",
     "Timestamp": "2020-11-25",
+    "UnixTimestamp": 1606345055000,
     "Correctly Tagged": false
   },
   {
@@ -1445,6 +1625,7 @@
     "Discoverer": "Golodupiku",
     "Platform": "XB",
     "Timestamp": "2020-12-04",
+    "UnixTimestamp": 1607119469000,
     "Correctly Tagged": true
   },
   {
@@ -1453,6 +1634,7 @@
     "Discoverer": "Grabby LaToosh",
     "Platform": "ST",
     "Timestamp": "2019-06-15",
+    "UnixTimestamp": 1560619437000,
     "Correctly Tagged": true
   },
   {
@@ -1461,6 +1643,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-16",
+    "UnixTimestamp": 1608098075000,
     "Correctly Tagged": true
   },
   {
@@ -1469,6 +1652,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-15",
+    "UnixTimestamp": 1608072790000,
     "Correctly Tagged": true
   },
   {
@@ -1477,6 +1661,7 @@
     "Discoverer": "Golodupiku",
     "Platform": "XB",
     "Timestamp": "2020-12-04",
+    "UnixTimestamp": 1607120683000,
     "Correctly Tagged": true
   },
   {
@@ -1485,6 +1670,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-17",
+    "UnixTimestamp": 1608185508000,
     "Correctly Tagged": true
   },
   {
@@ -1493,6 +1679,7 @@
     "Discoverer": "Grabby LaToosh",
     "Platform": "ST",
     "Timestamp": "2019-06-15",
+    "UnixTimestamp": 1560616267000,
     "Correctly Tagged": true
   },
   {
@@ -1501,6 +1688,7 @@
     "Discoverer": "Golodupiku",
     "Platform": "XB",
     "Timestamp": "2020-12-05",
+    "UnixTimestamp": 1607186888000,
     "Correctly Tagged": true
   },
   {
@@ -1509,6 +1697,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2020-08-24",
+    "UnixTimestamp": 1598221473000,
     "Correctly Tagged": true
   },
   {
@@ -1517,6 +1706,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055520000,
     "Correctly Tagged": false
   },
   {
@@ -1525,6 +1715,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-18",
+    "UnixTimestamp": 1613660521000,
     "Correctly Tagged": true
   },
   {
@@ -1533,6 +1724,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-12",
+    "UnixTimestamp": 1534031325000,
     "Correctly Tagged": true
   },
   {
@@ -1541,6 +1733,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-20",
+    "UnixTimestamp": 1600577789000,
     "Correctly Tagged": true
   },
   {
@@ -1549,6 +1742,7 @@
     "Discoverer": "RagemKagem",
     "Platform": "PS",
     "Timestamp": "2021-01-24",
+    "UnixTimestamp": 1611453654000,
     "Correctly Tagged": true
   },
   {
@@ -1557,6 +1751,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609526468000,
     "Correctly Tagged": true
   },
   {
@@ -1565,6 +1760,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-19",
+    "UnixTimestamp": 1600493337000,
     "Correctly Tagged": true
   },
   {
@@ -1573,6 +1769,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-19",
+    "UnixTimestamp": 1534636872000,
     "Correctly Tagged": true
   },
   {
@@ -1581,6 +1778,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-09-30",
+    "UnixTimestamp": 1538337122000,
     "Correctly Tagged": true
   },
   {
@@ -1589,6 +1787,7 @@
     "Discoverer": "enerjohn78",
     "Platform": "PS",
     "Timestamp": "2021-12-04",
+    "UnixTimestamp": 1638612820000,
     "Correctly Tagged": false
   },
   {
@@ -1597,6 +1796,7 @@
     "Discoverer": "ProfSRD",
     "Platform": "PS",
     "Timestamp": "2021-02-28",
+    "UnixTimestamp": 1614528113000,
     "Correctly Tagged": false
   },
   {
@@ -1605,6 +1805,7 @@
     "Discoverer": "GeckoGT",
     "Platform": "ST",
     "Timestamp": "2021-05-11",
+    "UnixTimestamp": 1620695266000,
     "Correctly Tagged": false
   },
   {
@@ -1613,6 +1814,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-06",
+    "UnixTimestamp": 1599417076000,
     "Correctly Tagged": false
   },
   {
@@ -1621,6 +1823,7 @@
     "Discoverer": "DingoZero",
     "Platform": "XB",
     "Timestamp": "2021-06-04",
+    "UnixTimestamp": 1622804041000,
     "Correctly Tagged": false
   },
   {
@@ -1629,6 +1832,7 @@
     "Discoverer": "xXTyTheKillaXx",
     "Platform": "XB",
     "Timestamp": "2019-08-07",
+    "UnixTimestamp": 1565201005000,
     "Correctly Tagged": false
   },
   {
@@ -1637,6 +1841,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-16",
+    "UnixTimestamp": 1608099533000,
     "Correctly Tagged": true
   },
   {
@@ -1645,6 +1850,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-23",
+    "UnixTimestamp": 1600814434000,
     "Correctly Tagged": true
   },
   {
@@ -1653,6 +1859,7 @@
     "Discoverer": "Golodupiku",
     "Platform": "XB",
     "Timestamp": "2020-12-05",
+    "UnixTimestamp": 1607184351000,
     "Correctly Tagged": true
   },
   {
@@ -1661,6 +1868,7 @@
     "Discoverer": "Garro",
     "Platform": "ST",
     "Timestamp": "2020-11-13",
+    "UnixTimestamp": 1605272851000,
     "Correctly Tagged": false
   },
   {
@@ -1669,6 +1877,7 @@
     "Discoverer": "Chemwars",
     "Platform": "ST",
     "Timestamp": "2020-12-12",
+    "UnixTimestamp": 1607731276000,
     "Correctly Tagged": false
   },
   {
@@ -1677,6 +1886,7 @@
     "Discoverer": "Grabby LaToosh",
     "Platform": "ST",
     "Timestamp": "2019-06-15",
+    "UnixTimestamp": 1560617633000,
     "Correctly Tagged": true
   },
   {
@@ -1685,6 +1895,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-08",
+    "UnixTimestamp": 1599597150000,
     "Correctly Tagged": true
   },
   {
@@ -1693,6 +1904,7 @@
     "Discoverer": "Chemwars",
     "Platform": "ST",
     "Timestamp": "2020-12-12",
+    "UnixTimestamp": 1607731320000,
     "Correctly Tagged": true
   },
   {
@@ -1701,6 +1913,7 @@
     "Discoverer": "Chemwars",
     "Platform": "ST",
     "Timestamp": "2020-12-12",
+    "UnixTimestamp": 1607731180000,
     "Correctly Tagged": true
   },
   {
@@ -1709,6 +1922,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2021-01-11",
+    "UnixTimestamp": 1610383313000,
     "Correctly Tagged": true
   },
   {
@@ -1717,6 +1931,7 @@
     "Discoverer": "Golodupiku",
     "Platform": "XB",
     "Timestamp": "2020-12-11",
+    "UnixTimestamp": 1607722222000,
     "Correctly Tagged": true
   },
   {
@@ -1725,6 +1940,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-18",
+    "UnixTimestamp": 1613654945000,
     "Correctly Tagged": false
   },
   {
@@ -1733,6 +1949,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-19",
+    "UnixTimestamp": 1600493498000,
     "Correctly Tagged": false
   },
   {
@@ -1741,6 +1958,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-15",
+    "UnixTimestamp": 1534295840000,
     "Correctly Tagged": true
   },
   {
@@ -1749,6 +1967,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-14",
+    "UnixTimestamp": 1534208088000,
     "Correctly Tagged": true
   },
   {
@@ -1757,6 +1976,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-15",
+    "UnixTimestamp": 1534298471000,
     "Correctly Tagged": true
   },
   {
@@ -1765,6 +1985,7 @@
     "Discoverer": "Wowie",
     "Platform": "ST",
     "Timestamp": "2021-01-12",
+    "UnixTimestamp": 1610474799000,
     "Correctly Tagged": false
   },
   {
@@ -1773,6 +1994,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-18",
+    "UnixTimestamp": 1610990841000,
     "Correctly Tagged": true
   },
   {
@@ -1781,6 +2003,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-21",
+    "UnixTimestamp": 1608587724000,
     "Correctly Tagged": true
   },
   {
@@ -1789,6 +2012,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-20",
+    "UnixTimestamp": 1600579729000,
     "Correctly Tagged": true
   },
   {
@@ -1797,6 +2021,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2021-01-04",
+    "UnixTimestamp": 1609738765000,
     "Correctly Tagged": true
   },
   {
@@ -1805,6 +2030,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-18",
+    "UnixTimestamp": 1611001187000,
     "Correctly Tagged": true
   },
   {
@@ -1813,6 +2039,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055629000,
     "Correctly Tagged": false
   },
   {
@@ -1821,6 +2048,7 @@
     "Discoverer": "Scinetik",
     "Platform": "PS",
     "Timestamp": "2021-09-03",
+    "UnixTimestamp": 1630703869000,
     "Correctly Tagged": false
   },
   {
@@ -1829,6 +2057,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-16",
+    "UnixTimestamp": 1608073340000,
     "Correctly Tagged": true
   },
   {
@@ -1837,6 +2066,7 @@
     "Discoverer": "Golodupiku",
     "Platform": "XB",
     "Timestamp": "2020-12-11",
+    "UnixTimestamp": 1607721485000,
     "Correctly Tagged": true
   },
   {
@@ -1845,6 +2075,7 @@
     "Discoverer": "Juusukun",
     "Platform": "PS",
     "Timestamp": "2019-06-10",
+    "UnixTimestamp": 1560132854000,
     "Correctly Tagged": true
   },
   {
@@ -1853,6 +2084,7 @@
     "Discoverer": "NigthmareDawn",
     "Platform": "PS",
     "Timestamp": "2022-04-16",
+    "UnixTimestamp": 1650120664000,
     "Correctly Tagged": false
   },
   {
@@ -1861,6 +2093,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651939875000,
     "Correctly Tagged": true
   },
   {
@@ -1869,6 +2102,7 @@
     "Discoverer": "Golodupiku",
     "Platform": "XB",
     "Timestamp": "2020-12-04",
+    "UnixTimestamp": 1607122383000,
     "Correctly Tagged": true
   },
   {
@@ -1877,6 +2111,7 @@
     "Discoverer": "Golodupiku",
     "Platform": "XB",
     "Timestamp": "2020-12-12",
+    "UnixTimestamp": 1607787655000,
     "Correctly Tagged": true
   },
   {
@@ -1885,6 +2120,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-05",
+    "UnixTimestamp": 1612546902000,
     "Correctly Tagged": true
   },
   {
@@ -1893,6 +2129,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2021-01-11",
+    "UnixTimestamp": 1610319618000,
     "Correctly Tagged": true
   },
   {
@@ -1901,6 +2138,7 @@
     "Discoverer": "Chemwars",
     "Platform": "ST",
     "Timestamp": "2020-12-12",
+    "UnixTimestamp": 1607731328000,
     "Correctly Tagged": false
   },
   {
@@ -1909,6 +2147,7 @@
     "Discoverer": "Golodupiku",
     "Platform": "XB",
     "Timestamp": "2020-11-23",
+    "UnixTimestamp": 1606152682000,
     "Correctly Tagged": false
   },
   {
@@ -1917,6 +2156,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651940291000,
     "Correctly Tagged": true
   },
   {
@@ -1925,6 +2165,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-22",
+    "UnixTimestamp": 1600746922000,
     "Correctly Tagged": true
   },
   {
@@ -1933,6 +2174,7 @@
     "Discoverer": "Chemwars",
     "Platform": "ST",
     "Timestamp": "2020-12-12",
+    "UnixTimestamp": 1607731229000,
     "Correctly Tagged": true
   },
   {
@@ -1941,6 +2183,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-03",
+    "UnixTimestamp": 1612380430000,
     "Correctly Tagged": true
   },
   {
@@ -1949,6 +2192,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-08",
+    "UnixTimestamp": 1599598358000,
     "Correctly Tagged": true
   },
   {
@@ -1957,6 +2201,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-16",
+    "UnixTimestamp": 1608078941000,
     "Correctly Tagged": true
   },
   {
@@ -1965,6 +2210,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-21",
+    "UnixTimestamp": 1608529278000,
     "Correctly Tagged": true
   },
   {
@@ -1973,6 +2219,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-14",
+    "UnixTimestamp": 1534206277000,
     "Correctly Tagged": true
   },
   {
@@ -1981,6 +2228,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-14",
+    "UnixTimestamp": 1534273444000,
     "Correctly Tagged": true
   },
   {
@@ -1989,6 +2237,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609475772000,
     "Correctly Tagged": true
   },
   {
@@ -1997,6 +2246,7 @@
     "Discoverer": "DaKoolA1dMan",
     "Platform": "XB",
     "Timestamp": "2020-12-29",
+    "UnixTimestamp": 1609258919000,
     "Correctly Tagged": false
   },
   {
@@ -2005,6 +2255,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-21",
+    "UnixTimestamp": 1608586260000,
     "Correctly Tagged": true
   },
   {
@@ -2013,6 +2264,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-19",
+    "UnixTimestamp": 1534636846000,
     "Correctly Tagged": true
   },
   {
@@ -2021,6 +2273,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-16",
+    "UnixTimestamp": 1534379140000,
     "Correctly Tagged": true
   },
   {
@@ -2029,6 +2282,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-10",
+    "UnixTimestamp": 1612991901000,
     "Correctly Tagged": true
   },
   {
@@ -2037,6 +2291,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-21",
+    "UnixTimestamp": 1608585589000,
     "Correctly Tagged": true
   },
   {
@@ -2045,6 +2300,7 @@
     "Discoverer": "Dark Warlord644",
     "Platform": "XB",
     "Timestamp": "2021-09-05",
+    "UnixTimestamp": 1630829532000,
     "Correctly Tagged": false
   },
   {
@@ -2053,6 +2309,7 @@
     "Discoverer": "Dingoing",
     "Platform": "PS",
     "Timestamp": "2021-01-10",
+    "UnixTimestamp": 1610255655000,
     "Correctly Tagged": true
   },
   {
@@ -2061,6 +2318,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-08",
+    "UnixTimestamp": 1599594503000,
     "Correctly Tagged": true
   },
   {
@@ -2069,6 +2327,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-15",
+    "UnixTimestamp": 1608070017000,
     "Correctly Tagged": true
   },
   {
@@ -2077,6 +2336,7 @@
     "Discoverer": "Fair",
     "Platform": "ST",
     "Timestamp": "2019-09-05",
+    "UnixTimestamp": 1567683343000,
     "Correctly Tagged": false
   },
   {
@@ -2085,6 +2345,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651940666000,
     "Correctly Tagged": true
   },
   {
@@ -2093,6 +2354,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-04",
+    "UnixTimestamp": 1612470128000,
     "Correctly Tagged": true
   },
   {
@@ -2101,6 +2363,7 @@
     "Discoverer": "bristowpro",
     "Platform": "PS",
     "Timestamp": "2021-01-14",
+    "UnixTimestamp": 1610580047000,
     "Correctly Tagged": false
   },
   {
@@ -2109,6 +2372,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055711000,
     "Correctly Tagged": false
   },
   {
@@ -2117,6 +2381,7 @@
     "Discoverer": "MordecaiZer0",
     "Platform": "XB",
     "Timestamp": "2020-05-05",
+    "UnixTimestamp": 1588659670000,
     "Correctly Tagged": false
   },
   {
@@ -2125,6 +2390,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-16",
+    "UnixTimestamp": 1608078557000,
     "Correctly Tagged": true
   },
   {
@@ -2133,6 +2399,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-02",
+    "UnixTimestamp": 1609557220000,
     "Correctly Tagged": true
   },
   {
@@ -2141,6 +2408,7 @@
     "Discoverer": "Davion",
     "Platform": "ST",
     "Timestamp": "2020-03-20",
+    "UnixTimestamp": 1584703998000,
     "Correctly Tagged": false
   },
   {
@@ -2149,6 +2417,7 @@
     "Discoverer": "Chemwars",
     "Platform": "ST",
     "Timestamp": "2020-12-12",
+    "UnixTimestamp": 1607731190000,
     "Correctly Tagged": true
   },
   {
@@ -2157,6 +2426,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-04",
+    "UnixTimestamp": 1612470815000,
     "Correctly Tagged": true
   },
   {
@@ -2165,6 +2435,7 @@
     "Discoverer": "Abigail",
     "Platform": "ST",
     "Timestamp": "2021-02-14",
+    "UnixTimestamp": 1613339804000,
     "Correctly Tagged": false
   },
   {
@@ -2173,6 +2444,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2021-01-09",
+    "UnixTimestamp": 1610217146000,
     "Correctly Tagged": true
   },
   {
@@ -2181,6 +2453,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-06",
+    "UnixTimestamp": 1599416677000,
     "Correctly Tagged": true
   },
   {
@@ -2189,6 +2462,7 @@
     "Discoverer": "Dominic Elwell",
     "Platform": "XB",
     "Timestamp": "2021-03-04",
+    "UnixTimestamp": 1614847846000,
     "Correctly Tagged": false
   },
   {
@@ -2197,6 +2471,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-06",
+    "UnixTimestamp": 1599367697000,
     "Correctly Tagged": true
   },
   {
@@ -2205,6 +2480,7 @@
     "Discoverer": "Hexaflexigon",
     "Platform": "GX",
     "Timestamp": "2021-05-31",
+    "UnixTimestamp": 1622483353000,
     "Correctly Tagged": false
   },
   {
@@ -2213,6 +2489,7 @@
     "Discoverer": "RagemKagem",
     "Platform": "PS",
     "Timestamp": "2021-01-31",
+    "UnixTimestamp": 1612115234000,
     "Correctly Tagged": true
   },
   {
@@ -2221,6 +2498,7 @@
     "Discoverer": "BlackWaterOz64",
     "Platform": "PS",
     "Timestamp": "2020-08-28",
+    "UnixTimestamp": 1598598735000,
     "Correctly Tagged": false
   },
   {
@@ -2229,6 +2507,7 @@
     "Discoverer": "Dingoing",
     "Platform": "PS",
     "Timestamp": "2021-01-13",
+    "UnixTimestamp": 1610494266000,
     "Correctly Tagged": false
   },
   {
@@ -2237,6 +2516,7 @@
     "Discoverer": "GeckoGT",
     "Platform": "ST",
     "Timestamp": "2021-03-21",
+    "UnixTimestamp": 1616354435000,
     "Correctly Tagged": false
   },
   {
@@ -2245,6 +2525,7 @@
     "Discoverer": "ch1seller",
     "Platform": "ST",
     "Timestamp": "2018-10-19",
+    "UnixTimestamp": 1539962750000,
     "Correctly Tagged": true
   },
   {
@@ -2253,6 +2534,7 @@
     "Discoverer": "TaoHypnos",
     "Platform": "PS",
     "Timestamp": "2020-04-25",
+    "UnixTimestamp": 1587799864000,
     "Correctly Tagged": false
   },
   {
@@ -2261,6 +2543,7 @@
     "Discoverer": "GeckoGT",
     "Platform": "ST",
     "Timestamp": "2021-05-11",
+    "UnixTimestamp": 1620764986000,
     "Correctly Tagged": false
   },
   {
@@ -2269,6 +2552,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-26",
+    "UnixTimestamp": 1601148942000,
     "Correctly Tagged": false
   },
   {
@@ -2277,6 +2561,7 @@
     "Discoverer": "MordecaiZer0",
     "Platform": "XB",
     "Timestamp": "2020-05-05",
+    "UnixTimestamp": 1588659645000,
     "Correctly Tagged": false
   },
   {
@@ -2285,6 +2570,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055769000,
     "Correctly Tagged": false
   },
   {
@@ -2293,6 +2579,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055762000,
     "Correctly Tagged": false
   },
   {
@@ -2301,6 +2588,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651941003000,
     "Correctly Tagged": true
   },
   {
@@ -2309,6 +2597,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-04",
+    "UnixTimestamp": 1612401071000,
     "Correctly Tagged": true
   },
   {
@@ -2317,6 +2606,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-15",
+    "UnixTimestamp": 1600196080000,
     "Correctly Tagged": false
   },
   {
@@ -2325,6 +2615,7 @@
     "Discoverer": "Charian_",
     "Platform": "PS",
     "Timestamp": "2021-09-23",
+    "UnixTimestamp": 1632371474000,
     "Correctly Tagged": false
   },
   {
@@ -2333,6 +2624,7 @@
     "Discoverer": "BlackWaterOz64",
     "Platform": "PS",
     "Timestamp": "2020-08-28",
+    "UnixTimestamp": 1598601047000,
     "Correctly Tagged": false
   },
   {
@@ -2341,6 +2633,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2022-03-28",
+    "UnixTimestamp": 1648494212000,
     "Correctly Tagged": true
   },
   {
@@ -2349,6 +2642,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055536000,
     "Correctly Tagged": false
   },
   {
@@ -2357,6 +2651,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-19",
+    "UnixTimestamp": 1608353828000,
     "Correctly Tagged": true
   },
   {
@@ -2365,6 +2660,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-19",
+    "UnixTimestamp": 1611078517000,
     "Correctly Tagged": true
   },
   {
@@ -2373,6 +2669,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-26",
+    "UnixTimestamp": 1601148692000,
     "Correctly Tagged": false
   },
   {
@@ -2381,6 +2678,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-17",
+    "UnixTimestamp": 1608184617000,
     "Correctly Tagged": true
   },
   {
@@ -2389,6 +2687,7 @@
     "Discoverer": "Tarkony",
     "Platform": "PS",
     "Timestamp": "2019-09-27",
+    "UnixTimestamp": 1569565997000,
     "Correctly Tagged": false
   },
   {
@@ -2397,6 +2696,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609473583000,
     "Correctly Tagged": true
   },
   {
@@ -2405,6 +2705,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-21",
+    "UnixTimestamp": 1608531265000,
     "Correctly Tagged": true
   },
   {
@@ -2413,6 +2714,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-22",
+    "UnixTimestamp": 1608615371000,
     "Correctly Tagged": true
   },
   {
@@ -2421,6 +2723,7 @@
     "Discoverer": "DaKoolA1dMan",
     "Platform": "XB",
     "Timestamp": "2020-12-29",
+    "UnixTimestamp": 1609259128000,
     "Correctly Tagged": false
   },
   {
@@ -2429,6 +2732,7 @@
     "Discoverer": "ch1seller",
     "Platform": "ST",
     "Timestamp": "2018-10-19",
+    "UnixTimestamp": 1539948055000,
     "Correctly Tagged": true
   },
   {
@@ -2437,6 +2741,7 @@
     "Discoverer": "Graysdir",
     "Platform": "XB",
     "Timestamp": "2021-01-28",
+    "UnixTimestamp": 1611865745000,
     "Correctly Tagged": false
   },
   {
@@ -2445,6 +2750,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-21",
+    "UnixTimestamp": 1608585911000,
     "Correctly Tagged": true
   },
   {
@@ -2453,6 +2759,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-21",
+    "UnixTimestamp": 1608585750000,
     "Correctly Tagged": true
   },
   {
@@ -2461,6 +2768,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-26",
+    "UnixTimestamp": 1601148310000,
     "Correctly Tagged": false
   },
   {
@@ -2469,6 +2777,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-18",
+    "UnixTimestamp": 1608269206000,
     "Correctly Tagged": true
   },
   {
@@ -2477,6 +2786,7 @@
     "Discoverer": "gabrielgs997",
     "Platform": "XB",
     "Timestamp": "2021-01-28",
+    "UnixTimestamp": 1611874248000,
     "Correctly Tagged": false
   },
   {
@@ -2485,6 +2795,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-26",
+    "UnixTimestamp": 1601148810000,
     "Correctly Tagged": false
   },
   {
@@ -2493,6 +2804,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-26",
+    "UnixTimestamp": 1601148521000,
     "Correctly Tagged": false
   },
   {
@@ -2501,6 +2813,7 @@
     "Discoverer": "Hangover",
     "Platform": "ST",
     "Timestamp": "2020-05-16",
+    "UnixTimestamp": 1589640783000,
     "Correctly Tagged": false
   },
   {
@@ -2509,6 +2822,7 @@
     "Discoverer": "NigthmareDawn",
     "Platform": "PS",
     "Timestamp": "2022-04-16",
+    "UnixTimestamp": 1650120649000,
     "Correctly Tagged": false
   },
   {
@@ -2517,6 +2831,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055495000,
     "Correctly Tagged": false
   },
   {
@@ -2525,6 +2840,7 @@
     "Discoverer": "Saint Parallelogram",
     "Platform": "ST",
     "Timestamp": "2021-11-01",
+    "UnixTimestamp": 1635794533000,
     "Correctly Tagged": false
   },
   {
@@ -2533,6 +2849,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-19",
+    "UnixTimestamp": 1611088012000,
     "Correctly Tagged": true
   },
   {
@@ -2541,6 +2858,7 @@
     "Discoverer": "Quentenium",
     "Platform": "XB",
     "Timestamp": "2021-07-05",
+    "UnixTimestamp": 1625512204000,
     "Correctly Tagged": true
   },
   {
@@ -2549,6 +2867,7 @@
     "Discoverer": "Golodupiku",
     "Platform": "XB",
     "Timestamp": "2020-12-10",
+    "UnixTimestamp": 1607558441000,
     "Correctly Tagged": true
   },
   {
@@ -2557,6 +2876,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651941334000,
     "Correctly Tagged": true
   },
   {
@@ -2565,6 +2885,7 @@
     "Discoverer": "bogdanc90",
     "Platform": "PS",
     "Timestamp": "2021-04-26",
+    "UnixTimestamp": 1619388690000,
     "Correctly Tagged": false
   },
   {
@@ -2573,6 +2894,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651941836000,
     "Correctly Tagged": true
   },
   {
@@ -2581,6 +2903,7 @@
     "Discoverer": "Diversecape",
     "Platform": "ST",
     "Timestamp": "2018-08-26",
+    "UnixTimestamp": 1535238051000,
     "Correctly Tagged": true
   },
   {
@@ -2589,6 +2912,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609471040000,
     "Correctly Tagged": true
   },
   {
@@ -2597,6 +2921,7 @@
     "Discoverer": "MagicMat",
     "Platform": "PS",
     "Timestamp": "2020-07-23",
+    "UnixTimestamp": 1595464859000,
     "Correctly Tagged": false
   },
   {
@@ -2605,6 +2930,7 @@
     "Discoverer": "ilosamart",
     "Platform": "PS",
     "Timestamp": "2020-06-28",
+    "UnixTimestamp": 1593296469000,
     "Correctly Tagged": false
   },
   {
@@ -2613,6 +2939,7 @@
     "Discoverer": "MordecaiZer0",
     "Platform": "XB",
     "Timestamp": "2020-05-05",
+    "UnixTimestamp": 1588659632000,
     "Correctly Tagged": false
   },
   {
@@ -2621,6 +2948,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-22",
+    "UnixTimestamp": 1608616670000,
     "Correctly Tagged": true
   },
   {
@@ -2629,6 +2957,7 @@
     "Discoverer": "zaxncasey2gether",
     "Platform": "ST",
     "Timestamp": "2022-05-01",
+    "UnixTimestamp": 1651360590000,
     "Correctly Tagged": false
   },
   {
@@ -2637,6 +2966,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-18",
+    "UnixTimestamp": 1610997561000,
     "Correctly Tagged": true
   },
   {
@@ -2645,6 +2975,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-20",
+    "UnixTimestamp": 1608446396000,
     "Correctly Tagged": true
   },
   {
@@ -2653,6 +2984,7 @@
     "Discoverer": "[MC] Inlex",
     "Platform": "ST",
     "Timestamp": "2018-08-14",
+    "UnixTimestamp": 1534208204000,
     "Correctly Tagged": false
   },
   {
@@ -2661,6 +2993,7 @@
     "Discoverer": "Pdog",
     "Platform": "ST",
     "Timestamp": "2021-01-23",
+    "UnixTimestamp": 1611367614000,
     "Correctly Tagged": false
   },
   {
@@ -2669,6 +3002,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-18",
+    "UnixTimestamp": 1611000217000,
     "Correctly Tagged": true
   },
   {
@@ -2677,6 +3011,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-26",
+    "UnixTimestamp": 1601149252000,
     "Correctly Tagged": false
   },
   {
@@ -2685,6 +3020,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-15",
+    "UnixTimestamp": 1608069882000,
     "Correctly Tagged": true
   },
   {
@@ -2693,6 +3029,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651942191000,
     "Correctly Tagged": true
   },
   {
@@ -2701,6 +3038,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-22",
+    "UnixTimestamp": 1600810361000,
     "Correctly Tagged": true
   },
   {
@@ -2709,6 +3047,7 @@
     "Discoverer": "PurpleDevilDucky",
     "Platform": "PS",
     "Timestamp": "2021-06-06",
+    "UnixTimestamp": 1622991512000,
     "Correctly Tagged": false
   },
   {
@@ -2717,6 +3056,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-22",
+    "UnixTimestamp": 1611342576000,
     "Correctly Tagged": true
   },
   {
@@ -2725,6 +3065,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-04",
+    "UnixTimestamp": 1612470549000,
     "Correctly Tagged": true
   },
   {
@@ -2733,6 +3074,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-19",
+    "UnixTimestamp": 1611081755000,
     "Correctly Tagged": true
   },
   {
@@ -2741,6 +3083,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-19",
+    "UnixTimestamp": 1534636895000,
     "Correctly Tagged": true
   },
   {
@@ -2749,6 +3092,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-06",
+    "UnixTimestamp": 1599415416000,
     "Correctly Tagged": true
   },
   {
@@ -2757,6 +3101,7 @@
     "Discoverer": "ilosamart",
     "Platform": "PS",
     "Timestamp": "2020-06-28",
+    "UnixTimestamp": 1593296462000,
     "Correctly Tagged": false
   },
   {
@@ -2765,6 +3110,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609477106000,
     "Correctly Tagged": true
   },
   {
@@ -2773,6 +3119,7 @@
     "Discoverer": "Zanzibar",
     "Platform": "ST",
     "Timestamp": "2020-10-02",
+    "UnixTimestamp": 1601664666000,
     "Correctly Tagged": false
   },
   {
@@ -2781,6 +3128,7 @@
     "Discoverer": "ilosamart",
     "Platform": "PS",
     "Timestamp": "2020-06-28",
+    "UnixTimestamp": 1593296454000,
     "Correctly Tagged": false
   },
   {
@@ -2789,6 +3137,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-16",
+    "UnixTimestamp": 1600228238000,
     "Correctly Tagged": true
   },
   {
@@ -2797,6 +3146,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-19",
+    "UnixTimestamp": 1600493449000,
     "Correctly Tagged": false
   },
   {
@@ -2805,6 +3155,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-26",
+    "UnixTimestamp": 1601148246000,
     "Correctly Tagged": false
   },
   {
@@ -2813,6 +3164,7 @@
     "Discoverer": "JohnSafV",
     "Platform": "XB",
     "Timestamp": "2021-01-12",
+    "UnixTimestamp": 1610483690000,
     "Correctly Tagged": true
   },
   {
@@ -2821,6 +3173,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-26",
+    "UnixTimestamp": 1601148221000,
     "Correctly Tagged": false
   },
   {
@@ -2829,6 +3182,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-26",
+    "UnixTimestamp": 1601148276000,
     "Correctly Tagged": false
   },
   {
@@ -2837,6 +3191,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-17",
+    "UnixTimestamp": 1610917845000,
     "Correctly Tagged": true
   },
   {
@@ -2845,6 +3200,7 @@
     "Discoverer": "eah420",
     "Platform": "PS",
     "Timestamp": "2020-02-09",
+    "UnixTimestamp": 1581214676000,
     "Correctly Tagged": false
   },
   {
@@ -2853,6 +3209,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-06-07",
+    "UnixTimestamp": 1623088488000,
     "Correctly Tagged": true
   },
   {
@@ -2861,6 +3218,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2021-01-17",
+    "UnixTimestamp": 1610843985000,
     "Correctly Tagged": true
   },
   {
@@ -2869,6 +3227,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651942529000,
     "Correctly Tagged": true
   },
   {
@@ -2877,6 +3236,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-20",
+    "UnixTimestamp": 1613834006000,
     "Correctly Tagged": true
   },
   {
@@ -2885,6 +3245,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651942797000,
     "Correctly Tagged": true
   },
   {
@@ -2893,6 +3254,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651943190000,
     "Correctly Tagged": true
   },
   {
@@ -2901,6 +3263,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-08",
+    "UnixTimestamp": 1652011680000,
     "Correctly Tagged": true
   },
   {
@@ -2909,6 +3272,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-15",
+    "UnixTimestamp": 1600196002000,
     "Correctly Tagged": false
   },
   {
@@ -2917,6 +3281,7 @@
     "Discoverer": "ch1seller",
     "Platform": "ST",
     "Timestamp": "2018-10-22",
+    "UnixTimestamp": 1540192208000,
     "Correctly Tagged": true
   },
   {
@@ -2925,6 +3290,7 @@
     "Discoverer": "Wandering Lisa",
     "Platform": "ST",
     "Timestamp": "2022-04-07",
+    "UnixTimestamp": 1649368189000,
     "Correctly Tagged": false
   },
   {
@@ -2933,6 +3299,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-19",
+    "UnixTimestamp": 1611082616000,
     "Correctly Tagged": true
   },
   {
@@ -2941,6 +3308,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-08",
+    "UnixTimestamp": 1652012149000,
     "Correctly Tagged": true
   },
   {
@@ -2949,6 +3317,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609470118000,
     "Correctly Tagged": true
   },
   {
@@ -2957,6 +3326,7 @@
     "Discoverer": "JohnSafV",
     "Platform": "XB",
     "Timestamp": "2021-01-12",
+    "UnixTimestamp": 1610482716000,
     "Correctly Tagged": true
   },
   {
@@ -2965,6 +3335,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2021-01-04",
+    "UnixTimestamp": 1609736897000,
     "Correctly Tagged": false
   },
   {
@@ -2973,6 +3344,7 @@
     "Discoverer": "Charian_",
     "Platform": "PS",
     "Timestamp": "2021-03-07",
+    "UnixTimestamp": 1615109171000,
     "Correctly Tagged": false
   },
   {
@@ -2981,6 +3353,7 @@
     "Discoverer": "ilMasa",
     "Platform": "ST",
     "Timestamp": "2021-02-27",
+    "UnixTimestamp": 1614461950000,
     "Correctly Tagged": false
   },
   {
@@ -2989,6 +3362,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-21",
+    "UnixTimestamp": 1608587476000,
     "Correctly Tagged": true
   },
   {
@@ -2997,6 +3371,7 @@
     "Discoverer": "speedometer66",
     "Platform": "PS",
     "Timestamp": "2018-11-24",
+    "UnixTimestamp": 1543077708000,
     "Correctly Tagged": true
   },
   {
@@ -3005,6 +3380,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-24",
+    "UnixTimestamp": 1600924192000,
     "Correctly Tagged": true
   },
   {
@@ -3013,6 +3389,7 @@
     "Discoverer": "DarkOakMetarex",
     "Platform": "ST",
     "Timestamp": "2021-09-03",
+    "UnixTimestamp": 1630630860000,
     "Correctly Tagged": false
   },
   {
@@ -3021,6 +3398,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-03",
+    "UnixTimestamp": 1612385655000,
     "Correctly Tagged": true
   },
   {
@@ -3029,6 +3407,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-19",
+    "UnixTimestamp": 1611088551000,
     "Correctly Tagged": true
   },
   {
@@ -3037,6 +3416,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055252000,
     "Correctly Tagged": false
   },
   {
@@ -3045,6 +3425,7 @@
     "Discoverer": "EskimoNoise",
     "Platform": "ST",
     "Timestamp": "2018-09-06",
+    "UnixTimestamp": 1536251724000,
     "Correctly Tagged": false
   },
   {
@@ -3053,6 +3434,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-21",
+    "UnixTimestamp": 1600718831000,
     "Correctly Tagged": true
   },
   {
@@ -3061,6 +3443,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-15",
+    "UnixTimestamp": 1600195937000,
     "Correctly Tagged": false
   },
   {
@@ -3069,6 +3452,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-08",
+    "UnixTimestamp": 1652012441000,
     "Correctly Tagged": true
   },
   {
@@ -3077,6 +3461,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-26",
+    "UnixTimestamp": 1601148453000,
     "Correctly Tagged": false
   },
   {
@@ -3085,6 +3470,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055423000,
     "Correctly Tagged": false
   },
   {
@@ -3093,6 +3479,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-15",
+    "UnixTimestamp": 1600195995000,
     "Correctly Tagged": false
   },
   {
@@ -3101,6 +3488,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055461000,
     "Correctly Tagged": false
   },
   {
@@ -3109,6 +3497,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-19",
+    "UnixTimestamp": 1611083917000,
     "Correctly Tagged": true
   },
   {
@@ -3117,6 +3506,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-15",
+    "UnixTimestamp": 1600195972000,
     "Correctly Tagged": false
   },
   {
@@ -3125,6 +3515,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-22",
+    "UnixTimestamp": 1611331047000,
     "Correctly Tagged": true
   },
   {
@@ -3133,6 +3524,7 @@
     "Discoverer": "Admiral Nelson",
     "Platform": "ST",
     "Timestamp": "2020-07-19",
+    "UnixTimestamp": 1595182215000,
     "Correctly Tagged": false
   },
   {
@@ -3141,6 +3533,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-15",
+    "UnixTimestamp": 1600206258000,
     "Correctly Tagged": false
   },
   {
@@ -3149,6 +3542,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-06-07",
+    "UnixTimestamp": 1623090627000,
     "Correctly Tagged": true
   },
   {
@@ -3157,6 +3551,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609470760000,
     "Correctly Tagged": true
   },
   {
@@ -3165,6 +3560,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609474726000,
     "Correctly Tagged": true
   },
   {
@@ -3173,6 +3569,7 @@
     "Discoverer": "Ace8144",
     "Platform": "PS",
     "Timestamp": "2019-08-19",
+    "UnixTimestamp": 1566247233000,
     "Correctly Tagged": true
   },
   {
@@ -3181,6 +3578,7 @@
     "Discoverer": "Lianeras",
     "Platform": "PS",
     "Timestamp": "2021-10-20",
+    "UnixTimestamp": 1634753343000,
     "Correctly Tagged": false
   },
   {
@@ -3189,6 +3587,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609477311000,
     "Correctly Tagged": true
   },
   {
@@ -3197,6 +3596,7 @@
     "Discoverer": "DaKoolA1dMan",
     "Platform": "XB",
     "Timestamp": "2020-12-11",
+    "UnixTimestamp": 1607664802000,
     "Correctly Tagged": true
   },
   {
@@ -3205,6 +3605,7 @@
     "Discoverer": "GeckoGT",
     "Platform": "ST",
     "Timestamp": "2021-03-21",
+    "UnixTimestamp": 1616354441000,
     "Correctly Tagged": false
   },
   {
@@ -3213,6 +3614,7 @@
     "Discoverer": "Zanzibar",
     "Platform": "ST",
     "Timestamp": "2020-10-02",
+    "UnixTimestamp": 1601664674000,
     "Correctly Tagged": false
   },
   {
@@ -3221,6 +3623,7 @@
     "Discoverer": "voxsq",
     "Platform": "XB",
     "Timestamp": "2021-10-24",
+    "UnixTimestamp": 1635031588000,
     "Correctly Tagged": false
   },
   {
@@ -3229,6 +3632,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-21",
+    "UnixTimestamp": 1608534452000,
     "Correctly Tagged": true
   },
   {
@@ -3237,6 +3641,7 @@
     "Discoverer": "Dellers",
     "Platform": "ST",
     "Timestamp": "2021-04-21",
+    "UnixTimestamp": 1619009900000,
     "Correctly Tagged": true
   },
   {
@@ -3245,6 +3650,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-03",
+    "UnixTimestamp": 1612385280000,
     "Correctly Tagged": true
   },
   {
@@ -3253,6 +3659,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-20",
+    "UnixTimestamp": 1608476914000,
     "Correctly Tagged": true
   },
   {
@@ -3261,6 +3668,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-08",
+    "UnixTimestamp": 1652013120000,
     "Correctly Tagged": true
   },
   {
@@ -3269,6 +3677,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609477403000,
     "Correctly Tagged": true
   },
   {
@@ -3277,6 +3686,7 @@
     "Discoverer": "RagemKagem",
     "Platform": "PS",
     "Timestamp": "2021-04-18",
+    "UnixTimestamp": 1618721820000,
     "Correctly Tagged": true
   },
   {
@@ -3285,6 +3695,7 @@
     "Discoverer": "DarkOakMetarex",
     "Platform": "ST",
     "Timestamp": "2021-09-03",
+    "UnixTimestamp": 1630630735000,
     "Correctly Tagged": false
   },
   {
@@ -3293,6 +3704,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-20",
+    "UnixTimestamp": 1608445714000,
     "Correctly Tagged": true
   },
   {
@@ -3301,6 +3713,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-03",
+    "UnixTimestamp": 1612388063000,
     "Correctly Tagged": true
   },
   {
@@ -3309,6 +3722,7 @@
     "Discoverer": "lemony_fox",
     "Platform": "PS",
     "Timestamp": "2021-09-26",
+    "UnixTimestamp": 1632660898000,
     "Correctly Tagged": false
   },
   {
@@ -3317,6 +3731,7 @@
     "Discoverer": "bradbannana",
     "Platform": "PS",
     "Timestamp": "2021-08-21",
+    "UnixTimestamp": 1629528117000,
     "Correctly Tagged": false
   },
   {
@@ -3325,6 +3740,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-08",
+    "UnixTimestamp": 1652013518000,
     "Correctly Tagged": true
   },
   {
@@ -3333,6 +3749,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-22",
+    "UnixTimestamp": 1611331742000,
     "Correctly Tagged": true
   },
   {
@@ -3341,6 +3758,7 @@
     "Discoverer": "Quentenium",
     "Platform": "XB",
     "Timestamp": "2021-07-05",
+    "UnixTimestamp": 1625512452000,
     "Correctly Tagged": true
   },
   {
@@ -3349,6 +3767,7 @@
     "Discoverer": "Wandering Lisa",
     "Platform": "ST",
     "Timestamp": "2022-04-07",
+    "UnixTimestamp": 1649367275000,
     "Correctly Tagged": true
   },
   {
@@ -3357,6 +3776,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-08",
+    "UnixTimestamp": 1652013918000,
     "Correctly Tagged": true
   },
   {
@@ -3365,6 +3785,7 @@
     "Discoverer": "[MC] Inlex",
     "Platform": "ST",
     "Timestamp": "2018-08-14",
+    "UnixTimestamp": 1534212717000,
     "Correctly Tagged": false
   },
   {
@@ -3373,6 +3794,7 @@
     "Discoverer": "Golodupiku",
     "Platform": "XB",
     "Timestamp": "2020-12-10",
+    "UnixTimestamp": 1607558274000,
     "Correctly Tagged": true
   },
   {
@@ -3381,6 +3803,7 @@
     "Discoverer": "GuajiroSoy",
     "Platform": "XB",
     "Timestamp": "2020-09-26",
+    "UnixTimestamp": 1601081782000,
     "Correctly Tagged": false
   },
   {
@@ -3389,6 +3812,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609470336000,
     "Correctly Tagged": true
   },
   {
@@ -3397,6 +3821,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609477673000,
     "Correctly Tagged": true
   },
   {
@@ -3405,6 +3830,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-06-07",
+    "UnixTimestamp": 1623082930000,
     "Correctly Tagged": true
   },
   {
@@ -3413,6 +3839,7 @@
     "Discoverer": "VedDovah",
     "Platform": "PS",
     "Timestamp": "2022-04-20",
+    "UnixTimestamp": 1650480285000,
     "Correctly Tagged": false
   },
   {
@@ -3421,6 +3848,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-22",
+    "UnixTimestamp": 1608617197000,
     "Correctly Tagged": true
   },
   {
@@ -3429,6 +3857,7 @@
     "Discoverer": "SrMcGillicuddy",
     "Platform": "PS",
     "Timestamp": "2020-01-10",
+    "UnixTimestamp": 1578621954000,
     "Correctly Tagged": false
   },
   {
@@ -3437,6 +3866,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-18",
+    "UnixTimestamp": 1610998803000,
     "Correctly Tagged": true
   },
   {
@@ -3445,6 +3875,7 @@
     "Discoverer": "Dellers",
     "Platform": "ST",
     "Timestamp": "2021-05-11",
+    "UnixTimestamp": 1620684567000,
     "Correctly Tagged": true
   },
   {
@@ -3453,6 +3884,7 @@
     "Discoverer": "Dingoing",
     "Platform": "PS",
     "Timestamp": "2021-01-13",
+    "UnixTimestamp": 1610494333000,
     "Correctly Tagged": false
   },
   {
@@ -3461,6 +3893,7 @@
     "Discoverer": "BlackWaterOz64",
     "Platform": "PS",
     "Timestamp": "2018-12-30",
+    "UnixTimestamp": 1546174457000,
     "Correctly Tagged": false
   },
   {
@@ -3469,6 +3902,7 @@
     "Discoverer": "GrizzyJustice4U",
     "Platform": "XB",
     "Timestamp": "2020-05-18",
+    "UnixTimestamp": 1589833006000,
     "Correctly Tagged": false
   },
   {
@@ -3477,6 +3911,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-19",
+    "UnixTimestamp": 1611084192000,
     "Correctly Tagged": true
   },
   {
@@ -3485,6 +3920,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-19",
+    "UnixTimestamp": 1611024693000,
     "Correctly Tagged": true
   },
   {
@@ -3493,6 +3929,7 @@
     "Discoverer": "DarkOakMetarex",
     "Platform": "ST",
     "Timestamp": "2021-09-03",
+    "UnixTimestamp": 1630630511000,
     "Correctly Tagged": false
   },
   {
@@ -3501,6 +3938,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-20",
+    "UnixTimestamp": 1608504140000,
     "Correctly Tagged": true
   },
   {
@@ -3509,6 +3947,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-10",
+    "UnixTimestamp": 1533871876000,
     "Correctly Tagged": true
   },
   {
@@ -3517,6 +3956,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-22",
+    "UnixTimestamp": 1608617008000,
     "Correctly Tagged": true
   },
   {
@@ -3525,6 +3965,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609476754000,
     "Correctly Tagged": true
   },
   {
@@ -3533,6 +3974,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-21",
+    "UnixTimestamp": 1608586800000,
     "Correctly Tagged": true
   },
   {
@@ -3541,6 +3983,7 @@
     "Discoverer": "RagemKagem",
     "Platform": "PS",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609478944000,
     "Correctly Tagged": true
   },
   {
@@ -3549,6 +3992,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-20",
+    "UnixTimestamp": 1608478408000,
     "Correctly Tagged": true
   },
   {
@@ -3557,6 +4001,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-20",
+    "UnixTimestamp": 1608477411000,
     "Correctly Tagged": true
   },
   {
@@ -3565,6 +4010,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609526230000,
     "Correctly Tagged": true
   },
   {
@@ -3573,6 +4019,7 @@
     "Discoverer": "Dellers",
     "Platform": "ST",
     "Timestamp": "2021-05-11",
+    "UnixTimestamp": 1620723301000,
     "Correctly Tagged": true
   },
   {
@@ -3581,6 +4028,7 @@
     "Discoverer": "SunSpot",
     "Platform": "ST",
     "Timestamp": "2020-01-31",
+    "UnixTimestamp": 1580430598000,
     "Correctly Tagged": false
   },
   {
@@ -3589,6 +4037,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-15",
+    "UnixTimestamp": 1600206273000,
     "Correctly Tagged": false
   },
   {
@@ -3597,6 +4046,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-08",
+    "UnixTimestamp": 1652014680000,
     "Correctly Tagged": true
   },
   {
@@ -3605,6 +4055,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-19",
+    "UnixTimestamp": 1611086244000,
     "Correctly Tagged": false
   },
   {
@@ -3613,6 +4064,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-26",
+    "UnixTimestamp": 1601148539000,
     "Correctly Tagged": false
   },
   {
@@ -3621,6 +4073,7 @@
     "Discoverer": "Tyler Ewart",
     "Platform": "XB",
     "Timestamp": "2022-04-30",
+    "UnixTimestamp": 1651328921000,
     "Correctly Tagged": false
   },
   {
@@ -3629,6 +4082,7 @@
     "Discoverer": "Tobasco da Gama",
     "Platform": "ST",
     "Timestamp": "2021-07-03",
+    "UnixTimestamp": 1625336030000,
     "Correctly Tagged": false
   },
   {
@@ -3637,6 +4091,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-21",
+    "UnixTimestamp": 1608530194000,
     "Correctly Tagged": false
   },
   {
@@ -3645,6 +4100,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-18",
+    "UnixTimestamp": 1534624284000,
     "Correctly Tagged": true
   },
   {
@@ -3653,6 +4109,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-20",
+    "UnixTimestamp": 1608503524000,
     "Correctly Tagged": true
   },
   {
@@ -3661,6 +4118,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609472634000,
     "Correctly Tagged": true
   },
   {
@@ -3669,6 +4127,7 @@
     "Discoverer": "Garlayn Toji",
     "Platform": "ST",
     "Timestamp": "2020-11-25",
+    "UnixTimestamp": 1606345016000,
     "Correctly Tagged": false
   },
   {
@@ -3677,6 +4136,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-16",
+    "UnixTimestamp": 1600207947000,
     "Correctly Tagged": true
   },
   {
@@ -3685,6 +4145,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609527067000,
     "Correctly Tagged": true
   },
   {
@@ -3693,6 +4154,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609476955000,
     "Correctly Tagged": true
   },
   {
@@ -3701,6 +4163,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609474811000,
     "Correctly Tagged": true
   },
   {
@@ -3709,6 +4172,7 @@
     "Discoverer": "DIPPITY96",
     "Platform": "XB",
     "Timestamp": "2020-07-08",
+    "UnixTimestamp": 1594160927000,
     "Correctly Tagged": false
   },
   {
@@ -3717,6 +4181,7 @@
     "Discoverer": "RagemKagem",
     "Platform": "PS",
     "Timestamp": "2021-01-07",
+    "UnixTimestamp": 1609989843000,
     "Correctly Tagged": true
   },
   {
@@ -3725,6 +4190,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-19",
+    "UnixTimestamp": 1611021938000,
     "Correctly Tagged": true
   },
   {
@@ -3733,6 +4199,7 @@
     "Discoverer": "EmperorBenja",
     "Platform": "XB",
     "Timestamp": "2021-01-09",
+    "UnixTimestamp": 1610172440000,
     "Correctly Tagged": true
   },
   {
@@ -3741,6 +4208,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-06-07",
+    "UnixTimestamp": 1623090212000,
     "Correctly Tagged": true
   },
   {
@@ -3749,6 +4217,7 @@
     "Discoverer": "Donnkey Hotay",
     "Platform": "XB",
     "Timestamp": "2021-02-24",
+    "UnixTimestamp": 1614187434000,
     "Correctly Tagged": false
   },
   {
@@ -3757,6 +4226,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-08",
+    "UnixTimestamp": 1652015247000,
     "Correctly Tagged": true
   },
   {
@@ -3765,6 +4235,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-19",
+    "UnixTimestamp": 1611024321000,
     "Correctly Tagged": true
   },
   {
@@ -3773,6 +4244,7 @@
     "Discoverer": "ncn",
     "Platform": "ST",
     "Timestamp": "2022-03-09",
+    "UnixTimestamp": 1646846268000,
     "Correctly Tagged": false
   },
   {
@@ -3781,6 +4253,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-20",
+    "UnixTimestamp": 1534738931000,
     "Correctly Tagged": true
   },
   {
@@ -3789,6 +4262,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-20",
+    "UnixTimestamp": 1608484705000,
     "Correctly Tagged": true
   },
   {
@@ -3797,6 +4271,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609476224000,
     "Correctly Tagged": true
   },
   {
@@ -3805,6 +4280,7 @@
     "Discoverer": "Macman1960",
     "Platform": "XB",
     "Timestamp": "2020-07-12",
+    "UnixTimestamp": 1594514191000,
     "Correctly Tagged": false
   },
   {
@@ -3813,6 +4289,7 @@
     "Discoverer": "Mephisto",
     "Platform": "ST",
     "Timestamp": "2018-12-08",
+    "UnixTimestamp": 1544293716000,
     "Correctly Tagged": false
   },
   {
@@ -3821,6 +4298,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609476088000,
     "Correctly Tagged": true
   },
   {
@@ -3829,6 +4307,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-26",
+    "UnixTimestamp": 1601148940000,
     "Correctly Tagged": false
   },
   {
@@ -3837,6 +4316,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-19",
+    "UnixTimestamp": 1608356897000,
     "Correctly Tagged": true
   },
   {
@@ -3845,6 +4325,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055941000,
     "Correctly Tagged": false
   },
   {
@@ -3853,6 +4334,7 @@
     "Discoverer": "ch1seller",
     "Platform": "ST",
     "Timestamp": "2018-10-22",
+    "UnixTimestamp": 1540193100000,
     "Correctly Tagged": true
   },
   {
@@ -3861,6 +4343,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-08",
+    "UnixTimestamp": 1652015420000,
     "Correctly Tagged": true
   },
   {
@@ -3869,6 +4352,7 @@
     "Discoverer": "DaKoolA1dMan",
     "Platform": "XB",
     "Timestamp": "2021-01-24",
+    "UnixTimestamp": 1611520497000,
     "Correctly Tagged": true
   },
   {
@@ -3877,6 +4361,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-08",
+    "UnixTimestamp": 1652015881000,
     "Correctly Tagged": true
   },
   {
@@ -3885,6 +4370,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-22",
+    "UnixTimestamp": 1611338908000,
     "Correctly Tagged": false
   },
   {
@@ -3893,6 +4379,7 @@
     "Discoverer": "Dingoing",
     "Platform": "PS",
     "Timestamp": "2021-01-13",
+    "UnixTimestamp": 1610494396000,
     "Correctly Tagged": false
   },
   {
@@ -3901,6 +4388,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-19",
+    "UnixTimestamp": 1611023288000,
     "Correctly Tagged": true
   },
   {
@@ -3909,6 +4397,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-20",
+    "UnixTimestamp": 1608441476000,
     "Correctly Tagged": true
   },
   {
@@ -3917,6 +4406,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-08",
+    "UnixTimestamp": 1652017458000,
     "Correctly Tagged": true
   },
   {
@@ -3925,6 +4415,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-08",
+    "UnixTimestamp": 1652017850000,
     "Correctly Tagged": true
   },
   {
@@ -3933,6 +4424,7 @@
     "Discoverer": "Ginkyway",
     "Platform": "ST",
     "Timestamp": "2021-01-26",
+    "UnixTimestamp": 1611620254000,
     "Correctly Tagged": true
   },
   {
@@ -3941,6 +4433,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-08",
+    "UnixTimestamp": 1652018200000,
     "Correctly Tagged": true
   },
   {
@@ -3949,6 +4442,7 @@
     "Discoverer": "mutbone",
     "Platform": "PS",
     "Timestamp": "2019-08-11",
+    "UnixTimestamp": 1565481882000,
     "Correctly Tagged": false
   },
   {
@@ -3957,6 +4451,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-20",
+    "UnixTimestamp": 1608502355000,
     "Correctly Tagged": true
   },
   {
@@ -3965,6 +4460,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609470500000,
     "Correctly Tagged": true
   },
   {
@@ -3973,6 +4469,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-20",
+    "UnixTimestamp": 1608504482000,
     "Correctly Tagged": true
   },
   {
@@ -3981,6 +4478,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609472098000,
     "Correctly Tagged": true
   },
   {
@@ -3989,6 +4487,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-19",
+    "UnixTimestamp": 1611089876000,
     "Correctly Tagged": true
   },
   {
@@ -3997,6 +4496,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609474982000,
     "Correctly Tagged": true
   },
   {
@@ -4005,6 +4505,7 @@
     "Discoverer": "ilosamart",
     "Platform": "PS",
     "Timestamp": "2020-06-28",
+    "UnixTimestamp": 1593296475000,
     "Correctly Tagged": false
   },
   {
@@ -4013,6 +4514,7 @@
     "Discoverer": "DaKoolA1dMan",
     "Platform": "XB",
     "Timestamp": "2020-12-18",
+    "UnixTimestamp": 1608251993000,
     "Correctly Tagged": true
   },
   {
@@ -4021,6 +4523,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609473137000,
     "Correctly Tagged": true
   },
   {
@@ -4029,6 +4532,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609477551000,
     "Correctly Tagged": true
   },
   {
@@ -4037,6 +4541,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-03",
+    "UnixTimestamp": 1612386973000,
     "Correctly Tagged": true
   },
   {
@@ -4045,6 +4550,7 @@
     "Discoverer": "Paul_Brenard",
     "Platform": "PS",
     "Timestamp": "2021-08-30",
+    "UnixTimestamp": 1630333245000,
     "Correctly Tagged": false
   },
   {
@@ -4053,6 +4559,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-25",
+    "UnixTimestamp": 1614264956000,
     "Correctly Tagged": false
   },
   {
@@ -4061,6 +4568,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-14",
+    "UnixTimestamp": 1600055946000,
     "Correctly Tagged": false
   },
   {
@@ -4069,6 +4577,7 @@
     "Discoverer": "Rrrahh-General",
     "Platform": "PS",
     "Timestamp": "2020-07-14",
+    "UnixTimestamp": 1594685478000,
     "Correctly Tagged": false
   },
   {
@@ -4077,6 +4586,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-08",
+    "UnixTimestamp": 1652018788000,
     "Correctly Tagged": true
   },
   {
@@ -4085,6 +4595,7 @@
     "Discoverer": "Tobasco da Gama",
     "Platform": "ST",
     "Timestamp": "2021-07-03",
+    "UnixTimestamp": 1625337514000,
     "Correctly Tagged": true
   },
   {
@@ -4093,6 +4604,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-01-22",
+    "UnixTimestamp": 1611341284000,
     "Correctly Tagged": true
   },
   {
@@ -4101,6 +4613,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-03",
+    "UnixTimestamp": 1612381172000,
     "Correctly Tagged": true
   },
   {
@@ -4109,6 +4622,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-12",
+    "UnixTimestamp": 1599884994000,
     "Correctly Tagged": true
   },
   {
@@ -4117,6 +4631,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-08",
+    "UnixTimestamp": 1652019022000,
     "Correctly Tagged": true
   },
   {
@@ -4125,6 +4640,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2021-02-01",
+    "UnixTimestamp": 1612196942000,
     "Correctly Tagged": true
   },
   {
@@ -4133,6 +4649,7 @@
     "Discoverer": "zaxncasey2gether",
     "Platform": "ST",
     "Timestamp": "2022-05-07",
+    "UnixTimestamp": 1651876236000,
     "Correctly Tagged": false
   },
   {
@@ -4141,6 +4658,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609468943000,
     "Correctly Tagged": true
   },
   {
@@ -4149,6 +4667,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-20",
+    "UnixTimestamp": 1608502768000,
     "Correctly Tagged": false
   },
   {
@@ -4157,6 +4676,7 @@
     "Discoverer": "Kroman",
     "Platform": "ST",
     "Timestamp": "2018-08-11",
+    "UnixTimestamp": 1534021630000,
     "Correctly Tagged": true
   },
   {
@@ -4165,6 +4685,7 @@
     "Discoverer": "MordecaiZer0",
     "Platform": "XB",
     "Timestamp": "2020-05-05",
+    "UnixTimestamp": 1588659583000,
     "Correctly Tagged": false
   },
   {
@@ -4173,6 +4694,7 @@
     "Discoverer": "Rrrahh-General",
     "Platform": "PS",
     "Timestamp": "2020-09-10",
+    "UnixTimestamp": 1599748089000,
     "Correctly Tagged": false
   },
   {
@@ -4181,6 +4703,7 @@
     "Discoverer": "wozamatawiyoo",
     "Platform": "PS",
     "Timestamp": "2018-09-12",
+    "UnixTimestamp": 1536707715000,
     "Correctly Tagged": false
   },
   {
@@ -4189,6 +4712,7 @@
     "Discoverer": "Fake JD",
     "Platform": "ST",
     "Timestamp": "2018-12-14",
+    "UnixTimestamp": 1544761611000,
     "Correctly Tagged": false
   },
   {
@@ -4197,6 +4721,7 @@
     "Discoverer": "ilosamart",
     "Platform": "PS",
     "Timestamp": "2020-06-28",
+    "UnixTimestamp": 1593296484000,
     "Correctly Tagged": false
   },
   {
@@ -4205,6 +4730,7 @@
     "Discoverer": "Bahann",
     "Platform": "ST",
     "Timestamp": "2021-08-29",
+    "UnixTimestamp": 1630202014000,
     "Correctly Tagged": false
   },
   {
@@ -4213,6 +4739,7 @@
     "Discoverer": "ch1seller",
     "Platform": "ST",
     "Timestamp": "2018-10-22",
+    "UnixTimestamp": 1540192636000,
     "Correctly Tagged": true
   },
   {
@@ -4221,6 +4748,7 @@
     "Discoverer": "mbub",
     "Platform": "ST",
     "Timestamp": "2021-02-10",
+    "UnixTimestamp": 1612990104000,
     "Correctly Tagged": false
   },
   {
@@ -4229,6 +4757,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-08",
+    "UnixTimestamp": 1652019545000,
     "Correctly Tagged": true
   },
   {
@@ -4237,6 +4766,7 @@
     "Discoverer": "Dingoing",
     "Platform": "PS",
     "Timestamp": "2021-01-31",
+    "UnixTimestamp": 1612084634000,
     "Correctly Tagged": false
   },
   {
@@ -4245,6 +4775,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-08",
+    "UnixTimestamp": 1652019840000,
     "Correctly Tagged": true
   },
   {
@@ -4253,6 +4784,7 @@
     "Discoverer": "L_Turn",
     "Platform": "ST",
     "Timestamp": "2020-11-04",
+    "UnixTimestamp": 1604446060000,
     "Correctly Tagged": false
   },
   {
@@ -4261,6 +4793,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-12-19",
+    "UnixTimestamp": 1608357497000,
     "Correctly Tagged": true
   },
   {
@@ -4269,6 +4802,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2021-02-01",
+    "UnixTimestamp": 1612193550000,
     "Correctly Tagged": true
   },
   {
@@ -4277,6 +4811,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-26",
+    "UnixTimestamp": 1601135576000,
     "Correctly Tagged": true
   },
   {
@@ -4285,6 +4820,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-12",
+    "UnixTimestamp": 1599884732000,
     "Correctly Tagged": false
   },
   {
@@ -4293,6 +4829,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-11",
+    "UnixTimestamp": 1613064132000,
     "Correctly Tagged": true
   },
   {
@@ -4301,6 +4838,7 @@
     "Discoverer": "Ginkyway",
     "Platform": "ST",
     "Timestamp": "2021-01-26",
+    "UnixTimestamp": 1611684544000,
     "Correctly Tagged": true
   },
   {
@@ -4309,6 +4847,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609468494000,
     "Correctly Tagged": true
   },
   {
@@ -4317,6 +4856,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609469212000,
     "Correctly Tagged": true
   },
   {
@@ -4325,6 +4865,7 @@
     "Discoverer": "DaKoolA1dMan",
     "Platform": "XB",
     "Timestamp": "2020-12-10",
+    "UnixTimestamp": 1607560448000,
     "Correctly Tagged": true
   },
   {
@@ -4333,6 +4874,7 @@
     "Discoverer": "Mephisto",
     "Platform": "ST",
     "Timestamp": "2018-12-07",
+    "UnixTimestamp": 1544201252000,
     "Correctly Tagged": false
   },
   {
@@ -4341,6 +4883,7 @@
     "Discoverer": "Bahann",
     "Platform": "ST",
     "Timestamp": "2021-08-09",
+    "UnixTimestamp": 1628545118000,
     "Correctly Tagged": true
   },
   {
@@ -4349,6 +4892,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609475286000,
     "Correctly Tagged": true
   },
   {
@@ -4357,6 +4901,7 @@
     "Discoverer": "KinG Asssassin",
     "Platform": "XB",
     "Timestamp": "2021-01-01",
+    "UnixTimestamp": 1609475358000,
     "Correctly Tagged": true
   },
   {
@@ -4365,6 +4910,7 @@
     "Discoverer": "XxMeeHoyMinoyxX",
     "Platform": "XB",
     "Timestamp": "2022-04-19",
+    "UnixTimestamp": 1650393075000,
     "Correctly Tagged": false
   },
   {
@@ -4373,6 +4919,7 @@
     "Discoverer": "ch1seller",
     "Platform": "ST",
     "Timestamp": "2018-10-19",
+    "UnixTimestamp": 1539971131000,
     "Correctly Tagged": true
   },
   {
@@ -4381,6 +4928,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-08",
+    "UnixTimestamp": 1652020323000,
     "Correctly Tagged": true
   },
   {
@@ -4389,6 +4937,7 @@
     "Discoverer": "Archer142",
     "Platform": "XB",
     "Timestamp": "2018-09-14",
+    "UnixTimestamp": 1536944594000,
     "Correctly Tagged": false
   },
   {
@@ -4397,6 +4946,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-02",
+    "UnixTimestamp": 1612233025000,
     "Correctly Tagged": true
   },
   {
@@ -4405,6 +4955,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-08",
+    "UnixTimestamp": 1652020756000,
     "Correctly Tagged": true
   },
   {
@@ -4413,6 +4964,7 @@
     "Discoverer": "Wespe",
     "Platform": "ST",
     "Timestamp": "2021-09-04",
+    "UnixTimestamp": 1630780357000,
     "Correctly Tagged": false
   },
   {
@@ -4421,6 +4973,7 @@
     "Discoverer": "casey1931",
     "Platform": "PS",
     "Timestamp": "2018-12-27",
+    "UnixTimestamp": 1545922430000,
     "Correctly Tagged": false
   },
   {
@@ -4429,6 +4982,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-03",
+    "UnixTimestamp": 1612383556000,
     "Correctly Tagged": true
   },
   {
@@ -4437,6 +4991,7 @@
     "Discoverer": "Mimsley",
     "Platform": "PS",
     "Timestamp": "2020-09-12",
+    "UnixTimestamp": 1599885744000,
     "Correctly Tagged": false
   },
   {
@@ -4445,6 +5000,7 @@
     "Discoverer": "Lenni",
     "Platform": "ST",
     "Timestamp": "2022-05-08",
+    "UnixTimestamp": 1652021108000,
     "Correctly Tagged": true
   },
   {
@@ -4453,6 +5009,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-03",
+    "UnixTimestamp": 1612382143000,
     "Correctly Tagged": true
   },
   {
@@ -4461,6 +5018,7 @@
     "Discoverer": "iggdawg",
     "Platform": "ST",
     "Timestamp": "2021-02-11",
+    "UnixTimestamp": 1613064389000,
     "Correctly Tagged": true
   }
 ]

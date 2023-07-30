@@ -4,5 +4,6 @@ export interface DiscoveryData {
 	Discoverer: string;
 	Platform: string;
 	Timestamp: string;
+	UnixTimestamp: number;
 	"Correctly Tagged": boolean;
 }
