@@ -6,7 +6,7 @@ import { ref } from 'vue';
 
 const filterStore = useFilterStore();
 
-const { data, filteredData, unixTimestamp, platform, tagged, intersections, searchTerms } = storeToRefs(filterStore);
+const { filteredData, unixTimestamp, platform, tagged, intersections, searchTerms } = storeToRefs(filterStore);
 
 const isLoading = ref(false);
 
@@ -22,17 +22,15 @@ async function loadData() {
     try {
       const { default: importedData } = await import(`../assets/${galaxy}/${galaxy}.json`);
       json.push(...importedData);
-      data.value = json;
-      applyFilter();
     } catch (error) {
-      data.value = [];
       console.warn(error);
     }
   }
+  applyFilter(json);
   isLoading.value = false;
 }
 
-function applyFilter() {
+function applyFilter(data: DiscoveryData[]) {
   const { startDate = 0, endDate = 0 } = unixTimestamp.value;
   function filterFunc(item: DiscoveryData) {
     const dayInMs = 86400000;
@@ -72,9 +70,7 @@ function applyFilter() {
     return isValidDate && isValidName && isValidPlatform && isValidTagged && isValidGlyphs && isValidDiscoverer;
   }
 
-  const resultArray = data.value.filter(filterFunc);
-
-  filteredData.value = resultArray;
+  filteredData.value = data.filter(filterFunc);
 }
 </script>
 
