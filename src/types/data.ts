@@ -10,4 +10,4 @@ export interface DiscoveryData {
 
 export type Platform = "ST" | "PS" | "XB" | "GX" | "NI";
 
-export type Galaxy = 'euclid' | 'calypso' | 'eissentam';
+export type Galaxy = 'GHub' | 'CalHub' | 'EisHub';

@@ -14,19 +14,13 @@ const resetStore = () => filterStore.$reset();
 
 async function loadData() {
   const galaxies = filterStore.galaxy;
-  const galaxyMapping = {
-    euclid: 'GHub',
-    calypso: 'CalHub',
-    eissentam: 'EisHub',
-  };
 
   const json: DiscoveryData[] = [];
 
   isLoading.value = true;
   for (const galaxy of galaxies) {
     try {
-      const mappedName = galaxyMapping[galaxy];
-      const { default: importedData } = await import(`../assets/${mappedName}/${mappedName}.json`);
+      const { default: importedData } = await import(`../assets/${galaxy}/${galaxy}.json`);
       json.push(...importedData);
       data.value = json;
       applyFilter();

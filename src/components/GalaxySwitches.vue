@@ -4,15 +4,15 @@ import GalaxySwitch from './GalaxySwitch.vue';
 
 const galaxies = [
   {
-    id: 'euclid',
+    id: 'GHub',
     label: 'Euclid',
   },
   {
-    id: 'calypso',
+    id: 'CalHub',
     label: 'Calypso',
   },
   {
-    id: 'eissentam',
+    id: 'EisHub',
     label: 'Eissentam',
   },
 ];

@@ -1,5 +1,5 @@
 import { defineStore } from 'pinia';
-import type { DiscoveryData, Platform } from '@/types/data';
+import type { DiscoveryData, Galaxy, Platform } from '@/types/data';
 
 interface TextSearch<T> {
   name: T;
@@ -9,7 +9,7 @@ interface TextSearch<T> {
 }
 
 interface State {
-  galaxy: Array<'euclid' | 'calypso' | 'eissentam'>;
+  galaxy: Galaxy[];
   searchTerms: TextSearch<string>;
   intersections: TextSearch<'includes' | 'is' | '!includes' | '!is'>;
   platform: Array<Platform>;
