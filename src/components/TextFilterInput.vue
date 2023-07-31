@@ -4,6 +4,7 @@ defineProps<{
   id: string;
   intersection: string;
   searchTerm: string;
+  caseSensitivity: boolean;
 }>();
 </script>
 
@@ -34,14 +35,16 @@ defineProps<{
       </select>
 
       <label
-        for=""
+        v-if="id !== 'glyphs'"
         class="switch-label"
       >
         Case Sensitive
         <input
+          :value="caseSensitivity"
           type="checkbox"
           role="switch"
           class="switch"
+          @change="$emit('update:caseSensitivity', ($event.target as HTMLInputElement).checked)"
         />
       </label>
     </div>

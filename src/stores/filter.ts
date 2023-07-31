@@ -12,6 +12,7 @@ interface State {
   galaxy: Galaxy[];
   searchTerms: TextSearch<string>;
   intersections: TextSearch<'includes' | 'is' | '!includes' | '!is'>;
+  caseSensitivity: TextSearch<boolean>;
   platform: Array<Platform>;
   date: {
     startDate: string;
@@ -35,6 +36,11 @@ export const useFilterStore = defineStore('filter', {
       name: 'includes',
       glyphs: 'includes',
       discoverer: 'includes',
+    },
+    caseSensitivity: {
+      name: false,
+      glyphs: false,
+      discoverer: false,
     },
 
     platform: [],
