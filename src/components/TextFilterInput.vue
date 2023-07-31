@@ -38,5 +38,6 @@ defineProps<{
   display: flex;
   flex-direction: column;
   flex-grow: 1;
+  flex-basis: 30%;
 }
 </style>

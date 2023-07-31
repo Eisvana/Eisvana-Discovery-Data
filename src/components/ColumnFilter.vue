@@ -8,7 +8,7 @@ import { storeToRefs } from 'pinia';
 
 const textInputs = [
   {
-    label: 'Name',
+    label: 'System Name',
     id: 'name',
   },
   {
