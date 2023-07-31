@@ -6,7 +6,8 @@ import { ref } from 'vue';
 
 const filterStore = useFilterStore();
 
-const { filteredData, unixTimestamp, platform, tagged, intersections, searchTerms } = storeToRefs(filterStore);
+const { filteredData, unixTimestamp, platform, tagged, intersections, searchTerms, caseSensitivity } =
+  storeToRefs(filterStore);
 
 const isLoading = ref(false);
 
@@ -32,7 +33,28 @@ async function loadData() {
 
 function applyFilter(data: DiscoveryData[]) {
   const { startDate = 0, endDate = 0 } = unixTimestamp.value;
+
+  // handle case sensitivity option
+  const searchName = caseSensitivity.value.name ? searchTerms.value.name : searchTerms.value.name.toLowerCase();
+  const searchDiscoverer = caseSensitivity.value.discoverer
+    ? searchTerms.value.discoverer
+    : searchTerms.value.discoverer.toLowerCase();
+
+  // shorten variable names
+  const intersectionName = intersections.value.name;
+  const intersectionGlyphs = intersections.value.glyphs;
+  const intersectionDiscoverer = intersections.value.discoverer;
+  const searchGlyphs = searchTerms.value.glyphs.slice(1).toUpperCase();
+
   function filterFunc(item: DiscoveryData) {
+    // handle case sensitivity option
+    const itemName = caseSensitivity.value.name ? item.Name : item.Name.toLowerCase();
+    const itemDiscoverer = caseSensitivity.value.discoverer ? item.Discoverer : item.Discoverer.toLowerCase();
+
+    // shorten variable names
+    const itemGlyphs = item.Glyphs.slice(1);
+
+    // begin filtering
     const dayInMs = 86400000;
     const isValidDate =
       (startDate < item.UnixTimestamp && item.UnixTimestamp < endDate + dayInMs) ||
@@ -46,26 +68,25 @@ function applyFilter(data: DiscoveryData[]) {
       tagged.value === '' || (tagged.value && item['Correctly Tagged']) || (!tagged.value && !item['Correctly Tagged']);
 
     const isValidName =
-      !searchTerms.value.name ||
-      (intersections.value.name === 'includes' && item.Name.includes(searchTerms.value.name)) ||
-      (intersections.value.name === 'is' && item.Name === searchTerms.value.name) ||
-      (intersections.value.name === '!includes' && !item.Name.includes(searchTerms.value.name)) ||
-      (intersections.value.name === '!is' && item.Name !== searchTerms.value.name);
+      !searchName ||
+      (intersectionName === 'includes' && itemName.includes(searchName)) ||
+      (intersectionName === 'is' && itemName === searchName) ||
+      (intersectionName === '!includes' && !itemName.includes(searchName)) ||
+      (intersectionName === '!is' && itemName !== searchName);
 
     const isValidGlyphs =
-      !searchTerms.value.glyphs ||
-      (intersections.value.glyphs === 'includes' && item.Glyphs.slice(1).includes(searchTerms.value.glyphs.slice(1))) ||
-      (intersections.value.glyphs === 'is' && item.Glyphs.slice(1) === searchTerms.value.glyphs.slice(1)) ||
-      (intersections.value.glyphs === '!includes' &&
-        !item.Glyphs.slice(1).includes(searchTerms.value.glyphs.slice(1))) ||
-      (intersections.value.glyphs === '!is' && item.Glyphs.slice(1) !== searchTerms.value.glyphs.slice(1));
+      !searchGlyphs ||
+      (intersectionGlyphs === 'includes' && itemGlyphs.includes(searchGlyphs)) ||
+      (intersectionGlyphs === 'is' && itemGlyphs === searchGlyphs) ||
+      (intersectionGlyphs === '!includes' && !itemGlyphs.includes(searchGlyphs)) ||
+      (intersectionGlyphs === '!is' && itemGlyphs !== searchGlyphs);
 
     const isValidDiscoverer =
-      !searchTerms.value.discoverer ||
-      (intersections.value.discoverer === 'includes' && item.Discoverer.includes(searchTerms.value.discoverer)) ||
-      (intersections.value.discoverer === 'is' && item.Discoverer === searchTerms.value.discoverer) ||
-      (intersections.value.discoverer === '!includes' && !item.Discoverer.includes(searchTerms.value.discoverer)) ||
-      (intersections.value.discoverer === '!is' && item.Discoverer !== searchTerms.value.discoverer);
+      !searchDiscoverer ||
+      (intersectionDiscoverer === 'includes' && itemDiscoverer.includes(searchDiscoverer)) ||
+      (intersectionDiscoverer === 'is' && itemDiscoverer === searchDiscoverer) ||
+      (intersectionDiscoverer === '!includes' && !itemDiscoverer.includes(searchDiscoverer)) ||
+      (intersectionDiscoverer === '!is' && itemDiscoverer !== searchDiscoverer);
 
     return isValidDate && isValidName && isValidPlatform && isValidTagged && isValidGlyphs && isValidDiscoverer;
   }

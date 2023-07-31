@@ -8,7 +8,7 @@ import { storeToRefs } from 'pinia';
 
 const textInputs = [
   {
-    label: 'Name',
+    label: 'System Name',
     id: 'name',
   },
   {
@@ -59,7 +59,7 @@ const selectInputs = [
 ];
 
 const filterStore = useFilterStore();
-const { searchTerms, intersections, date, tagged } = storeToRefs(filterStore);
+const { searchTerms, intersections, caseSensitivity, date, tagged } = storeToRefs(filterStore);
 </script>
 
 <template>
@@ -74,6 +74,7 @@ const { searchTerms, intersections, date, tagged } = storeToRefs(filterStore);
           v-bind="textInput"
           v-model:searchTerm="searchTerms[textInput.id]"
           v-model:intersection="intersections[textInput.id]"
+          v-model:caseSensitivity="caseSensitivity[textInput.id]"
         />
 
         <PlatformCheckboxes
