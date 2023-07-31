@@ -57,10 +57,10 @@ function applyFilter(data: DiscoveryData[]) {
     // begin filtering
     const dayInMs = 86400000;
     const isValidDate =
+      (!startDate && !endDate) ||
       (startDate < item.UnixTimestamp && item.UnixTimestamp < endDate + dayInMs) ||
       (startDate < item.UnixTimestamp && !endDate) ||
-      (!startDate && item.UnixTimestamp < endDate + dayInMs) ||
-      (!startDate && !endDate);
+      (!startDate && item.UnixTimestamp < endDate + dayInMs);
 
     const isValidPlatform = !platform.value.length || platform.value.includes(item.Platform as Platform);
 
