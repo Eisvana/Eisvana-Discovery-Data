@@ -20,16 +20,31 @@ defineProps<{
       />
     </label>
 
-    <select
-      :value="intersection"
-      name="intersection"
-      @input="$emit('update:intersection', ($event.target as HTMLSelectElement).value)"
-    >
-      <option value="includes">Includes</option>
-      <option value="is">Is exactly</option>
-      <option value="!includes">Doesn't include</option>
-      <option value="!is">Is not</option>
-    </select>
+    <div class="filter-adjustments">
+      <select
+        :value="intersection"
+        class="intersection-select"
+        name="intersection"
+        @input="$emit('update:intersection', ($event.target as HTMLSelectElement).value)"
+      >
+        <option value="includes">Includes</option>
+        <option value="is">Is exactly</option>
+        <option value="!includes">Doesn't include</option>
+        <option value="!is">Is not</option>
+      </select>
+
+      <label
+        for=""
+        class="switch-label"
+      >
+        Case Sensitive
+        <input
+          type="checkbox"
+          role="switch"
+          class="switch"
+        />
+      </label>
+    </div>
   </div>
 </template>
 
@@ -39,5 +54,41 @@ defineProps<{
   flex-direction: column;
   flex-grow: 1;
   flex-basis: 30%;
+}
+
+.filter-adjustments {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 0.5rem;
+  container-type: inline-size;
+
+  .intersection-select {
+    flex-basis: content;
+    flex-grow: 1;
+  }
+
+  .switch-label {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    gap: 0.5rem 0.2rem;
+    flex-grow: 1;
+  }
+
+  @container (width < 300px) {
+    .switch-label {
+      justify-content: center;
+      align-items: flex-end;
+      align-content: flex-start;
+      flex-direction: unset;
+
+      .switch {
+        order: -1;
+      }
+    }
+  }
 }
 </style>
