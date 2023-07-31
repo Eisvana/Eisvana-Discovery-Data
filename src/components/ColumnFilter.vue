@@ -3,6 +3,8 @@ import PlatformCheckboxes from './PlatformCheckboxes.vue';
 import DateInput from './DateInput.vue';
 import TagSelect from './TagSelect.vue';
 import TextFilterInput from './TextFilterInput.vue';
+import { useFilterStore } from '@/stores/filter';
+import { storeToRefs } from 'pinia';
 
 const textInputs = [
   {
@@ -28,7 +30,7 @@ const platformSwitches = [
       PS: 'PlayStation',
       XB: 'Xbox',
       GX: 'GOG',
-      SI: 'Nintendo Switch',
+      NI: 'Nintendo Switch',
     },
   },
 ];
@@ -36,11 +38,11 @@ const platformSwitches = [
 const dateInputs = [
   {
     label: 'Startdate',
-    id: 'startdate',
+    id: 'startDate',
   },
   {
     label: 'Enddate',
-    id: 'enddate',
+    id: 'endDate',
   },
 ];
 
@@ -55,6 +57,9 @@ const selectInputs = [
     },
   },
 ];
+
+const filterStore = useFilterStore();
+const { searchTerms, intersections, date, tagged } = storeToRefs(filterStore);
 </script>
 
 <template>
@@ -63,33 +68,33 @@ const selectInputs = [
       <summary>Filter Data</summary>
       <legend>Filter Data:</legend>
       <div class="data-filter">
-        <div
+        <TextFilterInput
           v-if="textInputs.length"
           v-for="textInput in textInputs"
-        >
-          <TextFilterInput v-bind="textInput" />
-        </div>
+          v-bind="textInput"
+          v-model:searchTerm="searchTerms[textInput.id]"
+          v-model:intersection="intersections[textInput.id]"
+        />
 
-        <div v-if="platformSwitches.length">
-          <PlatformCheckboxes
-            v-for="platformSwitch in platformSwitches"
-            v-bind="platformSwitch"
-          />
-        </div>
+        <PlatformCheckboxes
+          v-if="platformSwitches.length"
+          v-for="platformSwitch in platformSwitches"
+          v-bind="platformSwitch"
+        />
 
-        <div
+        <DateInput
           v-if="dateInputs.length"
           v-for="dateInput in dateInputs"
-        >
-          <DateInput v-bind="dateInput" />
-        </div>
+          v-bind="dateInput"
+          v-model="date[dateInput.id]"
+        />
 
-        <div
+        <TagSelect
           v-if="selectInputs.length"
           v-for="selectInput in selectInputs"
-        >
-          <TagSelect v-bind="selectInput" />
-        </div>
+          v-bind="selectInput"
+          v-model="tagged"
+        />
       </div>
     </details>
   </fieldset>

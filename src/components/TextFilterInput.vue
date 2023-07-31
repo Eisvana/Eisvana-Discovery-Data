@@ -2,6 +2,8 @@
 defineProps<{
   label: string;
   id: string;
+  intersection: string;
+  searchTerm: string;
 }>();
 </script>
 
@@ -12,11 +14,17 @@ defineProps<{
       <input
         :id="id"
         :name="id"
+        :value="searchTerm"
         type="text"
+        @input="$emit('update:searchTerm', ($event.target as HTMLInputElement).value)"
       />
     </label>
 
-    <select name="intersection">
+    <select
+      :value="intersection"
+      name="intersection"
+      @input="$emit('update:intersection', ($event.target as HTMLSelectElement).value)"
+    >
       <option value="includes">Includes</option>
       <option value="is">Is exactly</option>
       <option value="!includes">Doesn't include</option>
