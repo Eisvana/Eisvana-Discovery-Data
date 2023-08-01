@@ -1,0 +1,5051 @@
+[
+  {
+    "Name": "[HUB4-1] Kianji XVII",
+    "Glyphs": "0001F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-11",
+    "UnixTimestamp": 1576028289000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-5] Olinyo-Ergu",
+    "Glyphs": "0005F9556C31",
+    "Discoverer": "pch13",
+    "Platform": "ST",
+    "Timestamp": "2021-11-15",
+    "UnixTimestamp": 1636931453000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-6] Aifennin",
+    "Glyphs": "0006F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568239691000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-7] Nangren-Dosent",
+    "Glyphs": "0007F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-12",
+    "UnixTimestamp": 1576186445000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-008] Neghanta",
+    "Glyphs": "0008F9556C31",
+    "Discoverer": "BowelCoward",
+    "Platform": "ST",
+    "Timestamp": "2022-05-10",
+    "UnixTimestamp": 1652214695000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-9] Bukyunni",
+    "Glyphs": "0009F9556C31",
+    "Discoverer": "JayPee",
+    "Platform": "ST",
+    "Timestamp": "2023-06-19",
+    "UnixTimestamp": 1687155859000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-C] Roripug",
+    "Glyphs": "000CF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-22",
+    "UnixTimestamp": 1576990066000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-D] Gaseung",
+    "Glyphs": "000DF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-11",
+    "UnixTimestamp": 1576036797000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-E] Orlyanh",
+    "Glyphs": "000EF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-11",
+    "UnixTimestamp": 1576036138000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-F] Normandy",
+    "Glyphs": "000FF9556C31",
+    "Discoverer": "COMANDeR_GAN0N",
+    "Platform": "PS",
+    "Timestamp": "2019-07-11",
+    "UnixTimestamp": 1562831845000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-10] Odunhu",
+    "Glyphs": "0010F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-12",
+    "UnixTimestamp": 1576177438000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-11] Duchub",
+    "Glyphs": "0011F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-12",
+    "UnixTimestamp": 1576182544000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0013F9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-29",
+    "UnixTimestamp": 1656462065000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0014F9556C31",
+    "Discoverer": "alwaysreadysir",
+    "Platform": "ST",
+    "Timestamp": "2018-10-16",
+    "UnixTimestamp": 1539719355000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0015F9556C31",
+    "Discoverer": "MadSand360Man",
+    "Platform": "XB",
+    "Timestamp": "2021-12-25",
+    "UnixTimestamp": 1640394266000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-016] Qejinxo",
+    "Glyphs": "0016F9556C31",
+    "Discoverer": "BowelCoward",
+    "Platform": "ST",
+    "Timestamp": "2022-05-10",
+    "UnixTimestamp": 1652219313000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-17] Gochagnamc",
+    "Glyphs": "0017F9556C31",
+    "Discoverer": "Kokopelli129",
+    "Platform": "XB",
+    "Timestamp": "2022-09-27",
+    "UnixTimestamp": 1664303407000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-18] Glaida-Achi",
+    "Glyphs": "0018F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-11",
+    "UnixTimestamp": 1568225491000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-1D] Adingga-Roto",
+    "Glyphs": "001DF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576211004000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "001EF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576213429000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0020F9556C31",
+    "Discoverer": "adwillingham",
+    "Platform": "PS",
+    "Timestamp": "2020-04-18",
+    "UnixTimestamp": 1587238665000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-23] Zuishi-Tujo",
+    "Glyphs": "0023F9556C31",
+    "Discoverer": "pch13",
+    "Platform": "ST",
+    "Timestamp": "2021-11-14",
+    "UnixTimestamp": 1636920935000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0024F9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-08-03",
+    "UnixTimestamp": 1659507198000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-25] Fuquan-Ias",
+    "Glyphs": "0025F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-12",
+    "UnixTimestamp": 1576182745000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-26] Nurtun",
+    "Glyphs": "0026F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-11",
+    "UnixTimestamp": 1568228235000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-27] Dexois",
+    "Glyphs": "0027F9556C31",
+    "Discoverer": "jlrmarin",
+    "Platform": "ST",
+    "Timestamp": "2022-02-26",
+    "UnixTimestamp": 1645871187000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-28] Zycu Sector A",
+    "Glyphs": "0028F9556C31",
+    "Discoverer": "Zycu",
+    "Platform": "ST",
+    "Timestamp": "2022-06-29",
+    "UnixTimestamp": 1656470789000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0029F9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-29",
+    "UnixTimestamp": 1656462006000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-2C] Hooey XIV",
+    "Glyphs": "002CF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568241771000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-2D] Wancangf",
+    "Glyphs": "002DF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-12",
+    "UnixTimestamp": 1576186261000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-2E] Gejiaws",
+    "Glyphs": "002EF9556C31",
+    "Discoverer": "Frozesnev",
+    "Platform": "XB",
+    "Timestamp": "2022-02-12",
+    "UnixTimestamp": 1644693652000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "Tony Danza XDM",
+    "Glyphs": "002FF9556C31",
+    "Discoverer": "zaxncasey2gether",
+    "Platform": "ST",
+    "Timestamp": "2022-05-08",
+    "UnixTimestamp": 1651976951000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-30] Ertang",
+    "Glyphs": "0030F9556C31",
+    "Discoverer": "jlrmarin",
+    "Platform": "ST",
+    "Timestamp": "2022-02-27",
+    "UnixTimestamp": 1645943798000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4] Coqenz-Roli II",
+    "Glyphs": "0032F9556C31",
+    "Discoverer": "DrPrime8",
+    "Platform": "ST",
+    "Timestamp": "2022-04-06",
+    "UnixTimestamp": 1649226287000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-35] Yiijia",
+    "Glyphs": "0035F9556C31",
+    "Discoverer": "jlrmarin",
+    "Platform": "ST",
+    "Timestamp": "2022-02-15",
+    "UnixTimestamp": 1644914522000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-36] Habugo",
+    "Glyphs": "0036F9556C31",
+    "Discoverer": "jlrmarin",
+    "Platform": "ST",
+    "Timestamp": "2022-02-15",
+    "UnixTimestamp": 1644896196000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-37] Umxuk",
+    "Glyphs": "0037F9556C31",
+    "Discoverer": "jlrmarin",
+    "Platform": "ST",
+    "Timestamp": "2022-02-18",
+    "UnixTimestamp": 1645170446000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-138] Urangma XV",
+    "Glyphs": "0038F9556C31",
+    "Discoverer": "SullyKiwi",
+    "Platform": "PS",
+    "Timestamp": "2022-09-28",
+    "UnixTimestamp": 1664373559000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-3A] Suixiexi",
+    "Glyphs": "003AF9556C31",
+    "Discoverer": "Theana Gaterau",
+    "Platform": "ST",
+    "Timestamp": "2021-11-22",
+    "UnixTimestamp": 1637602800000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "003DF9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-29",
+    "UnixTimestamp": 1656461813000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "003EF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2020-10-24",
+    "UnixTimestamp": 1603492776000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-3F] Lutaitu-Eybur",
+    "Glyphs": "003FF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-09",
+    "UnixTimestamp": 1567982505000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0041F9556C31",
+    "Discoverer": "Drac-Ula132",
+    "Platform": "PS",
+    "Timestamp": "2021-04-22",
+    "UnixTimestamp": 1619085406000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-43]Nugraouis",
+    "Glyphs": "0043F9556C31",
+    "Discoverer": "trystansr",
+    "Platform": "ST",
+    "Timestamp": "2020-02-16",
+    "UnixTimestamp": 1581827698000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-44] Gujinz-Yag",
+    "Glyphs": "0044F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-11",
+    "UnixTimestamp": 1576038633000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-46] Enxian",
+    "Glyphs": "0046F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-12",
+    "UnixTimestamp": 1576177078000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0047F9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-08-03",
+    "UnixTimestamp": 1659507452000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-48] Shanqi",
+    "Glyphs": "0048F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-12",
+    "UnixTimestamp": 1576177744000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-49] Haoyii",
+    "Glyphs": "0049F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-12",
+    "UnixTimestamp": 1576179603000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-4A] Pazhul",
+    "Glyphs": "004AF9556C31",
+    "Discoverer": "Frozesnev",
+    "Platform": "XB",
+    "Timestamp": "2022-02-13",
+    "UnixTimestamp": 1644742079000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-4B] Etsetse-Vange",
+    "Glyphs": "004BF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-11",
+    "UnixTimestamp": 1576034848000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-4D] Luhoringin",
+    "Glyphs": "004DF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568242343000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-4F] Inagca",
+    "Glyphs": "004FF9556C31",
+    "Discoverer": "ApexFatality93",
+    "Platform": "ST",
+    "Timestamp": "2021-11-03",
+    "UnixTimestamp": 1635974022000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-50] Udoijiaxi",
+    "Glyphs": "0050F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-09",
+    "UnixTimestamp": 1567983161000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0052F9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-29",
+    "UnixTimestamp": 1656462048000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-53]Gongolin",
+    "Glyphs": "0053F9556C31",
+    "Discoverer": "trystansr",
+    "Platform": "ST",
+    "Timestamp": "2020-02-16",
+    "UnixTimestamp": 1581827938000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-54] Agbung VIII",
+    "Glyphs": "0054F9556C31",
+    "Discoverer": "Sappho",
+    "Platform": "ST",
+    "Timestamp": "2022-01-12",
+    "UnixTimestamp": 1642008940000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-55] Maqukang",
+    "Glyphs": "0055F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568240101000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-56] Xaincu",
+    "Glyphs": "0056F9556C31",
+    "Discoverer": "Frozesnev",
+    "Platform": "XB",
+    "Timestamp": "2022-02-12",
+    "UnixTimestamp": 1644702685000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-57] Jueyuan",
+    "Glyphs": "0057F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-12",
+    "UnixTimestamp": 1576182954000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-59] Memory Of Fay",
+    "Glyphs": "0059F9556C31",
+    "Discoverer": "Frozesnev",
+    "Platform": "XB",
+    "Timestamp": "2022-02-12",
+    "UnixTimestamp": 1644691886000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "005BF9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-29",
+    "UnixTimestamp": 1656462014000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-5D] Eipinn",
+    "Glyphs": "005DF9556C31",
+    "Discoverer": "Frozesnev",
+    "Platform": "XB",
+    "Timestamp": "2022-02-12",
+    "UnixTimestamp": 1644692629000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-5E] Nacangsa",
+    "Glyphs": "005EF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-11",
+    "UnixTimestamp": 1568225935000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-5F] Biluoh-Ayvor XI",
+    "Glyphs": "005FF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-11",
+    "UnixTimestamp": 1568223917000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-60] Ragxinx-Egur VI",
+    "Glyphs": "0060F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-11",
+    "UnixTimestamp": 1568238354000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0061F9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-29",
+    "UnixTimestamp": 1656462419000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0062F9556C31",
+    "Discoverer": "Kayak",
+    "Platform": "ST",
+    "Timestamp": "2022-04-21",
+    "UnixTimestamp": 1650492536000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0065F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2020-10-24",
+    "UnixTimestamp": 1603492761000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0066F9556C31",
+    "Discoverer": "cloudtwirl",
+    "Platform": "ST",
+    "Timestamp": "2022-07-30",
+    "UnixTimestamp": 1659186365000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-67] Hubalsan",
+    "Glyphs": "0067F9556C31",
+    "Discoverer": "pch13",
+    "Platform": "ST",
+    "Timestamp": "2021-11-15",
+    "UnixTimestamp": 1636933115000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-68] Iazayu",
+    "Glyphs": "0068F9556C31",
+    "Discoverer": "jlrmarin",
+    "Platform": "ST",
+    "Timestamp": "2022-02-25",
+    "UnixTimestamp": 1645757154000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "006BF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2020-11-14",
+    "UnixTimestamp": 1605327931000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-6C] Muxinl-Jaus",
+    "Glyphs": "006CF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-12",
+    "UnixTimestamp": 1576185500000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-6D] Baatan XIX",
+    "Glyphs": "006DF9556C31",
+    "Discoverer": "jlrmarin",
+    "Platform": "ST",
+    "Timestamp": "2022-02-14",
+    "UnixTimestamp": 1644812767000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-6F] Agoinku",
+    "Glyphs": "006FF9556C31",
+    "Discoverer": "SullyKiwi",
+    "Platform": "PS",
+    "Timestamp": "2022-09-28",
+    "UnixTimestamp": 1664371822000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-72] Hibiaws",
+    "Glyphs": "0072F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-11",
+    "UnixTimestamp": 1576035100000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-73] New Beginnings",
+    "Glyphs": "0073F9556C31",
+    "Discoverer": "ApexFatality93",
+    "Platform": "ST",
+    "Timestamp": "2021-10-31",
+    "UnixTimestamp": 1635707918000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-74] Ninurti-Aol",
+    "Glyphs": "0074F9556C31",
+    "Discoverer": "Theana Gaterau",
+    "Platform": "ST",
+    "Timestamp": "2021-11-22",
+    "UnixTimestamp": 1637617045000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-75] Dafengd-Nidsb XIII",
+    "Glyphs": "0075F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-11",
+    "UnixTimestamp": 1576035740000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0076F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576213738000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-77] Aochuzh-Eomi",
+    "Glyphs": "0077F9556C31",
+    "Discoverer": "Kokopelli129",
+    "Platform": "XB",
+    "Timestamp": "2022-09-27",
+    "UnixTimestamp": 1664301752000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-79] Nizadga-Ohist BH",
+    "Glyphs": "0079F9556C31",
+    "Discoverer": "COMANDeR_GAN0N",
+    "Platform": "PS",
+    "Timestamp": "2019-07-05",
+    "UnixTimestamp": 1562287537000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-7A] Abbetu-Diger",
+    "Glyphs": "007AF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-11",
+    "UnixTimestamp": 1568224980000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "007DF9556C31",
+    "Discoverer": "Quentenium",
+    "Platform": "XB",
+    "Timestamp": "2022-07-08",
+    "UnixTimestamp": 1657271277000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-07E] Dinqwayu",
+    "Glyphs": "007EF9556C31",
+    "Discoverer": "BowelCoward",
+    "Platform": "ST",
+    "Timestamp": "2022-05-13",
+    "UnixTimestamp": 1652455373000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-80] Menxio-Owaq",
+    "Glyphs": "0080F9556C31",
+    "Discoverer": "pch13",
+    "Platform": "ST",
+    "Timestamp": "2021-11-14",
+    "UnixTimestamp": 1636860024000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-81] Earna",
+    "Glyphs": "0081F9556C31",
+    "Discoverer": "IonFromZion",
+    "Platform": "PS",
+    "Timestamp": "2023-06-01",
+    "UnixTimestamp": 1685645564000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0082F9556C31",
+    "Discoverer": "CondoleezzaRice",
+    "Platform": "PS",
+    "Timestamp": "2019-07-31",
+    "UnixTimestamp": 1564535481000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-083] Aasuanqi III",
+    "Glyphs": "0083F9556C31",
+    "Discoverer": "BowelCoward",
+    "Platform": "ST",
+    "Timestamp": "2022-05-11",
+    "UnixTimestamp": 1652234174000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-84] Qamquk",
+    "Glyphs": "0084F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-09",
+    "UnixTimestamp": 1567983739000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0085F9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-22",
+    "UnixTimestamp": 1655869425000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0086F9556C31",
+    "Discoverer": "Terathorn3927",
+    "Platform": "XB",
+    "Timestamp": "2022-05-13",
+    "UnixTimestamp": 1652469585000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0087F9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-08-03",
+    "UnixTimestamp": 1659507410000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0089F9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-22",
+    "UnixTimestamp": 1655868977000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "008AF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2020-11-14",
+    "UnixTimestamp": 1605328022000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "008BF9556C31",
+    "Discoverer": "HKXLVII",
+    "Platform": "PS",
+    "Timestamp": "2020-05-25",
+    "UnixTimestamp": 1590366986000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "008DF9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-22",
+    "UnixTimestamp": 1655868960000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "008EF9556C31",
+    "Discoverer": "HKXLVII",
+    "Platform": "PS",
+    "Timestamp": "2020-05-25",
+    "UnixTimestamp": 1590366576000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-8F] Tuanxo-Rami",
+    "Glyphs": "008FF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-09",
+    "UnixTimestamp": 1567986174000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-90] Etangy",
+    "Glyphs": "0090F9556C31",
+    "Discoverer": "Theana Gaterau",
+    "Platform": "ST",
+    "Timestamp": "2021-11-22",
+    "UnixTimestamp": 1637600551000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-91] Seronge",
+    "Glyphs": "0091F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-09",
+    "UnixTimestamp": 1567984819000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-93] Pajulu",
+    "Glyphs": "0093F9556C31",
+    "Discoverer": "pch13",
+    "Platform": "ST",
+    "Timestamp": "2021-11-14",
+    "UnixTimestamp": 1636860863000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-94] Imenning",
+    "Glyphs": "0094F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576208131000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-98] Urqenzh-Niows Vl",
+    "Glyphs": "0098F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576208390000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-09A] Surcom-Liynka",
+    "Glyphs": "009AF9556C31",
+    "Discoverer": "BowelCoward",
+    "Platform": "ST",
+    "Timestamp": "2022-05-11",
+    "UnixTimestamp": 1652304811000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "009BF9556C31",
+    "Discoverer": "Jericho-9000",
+    "Platform": "PS",
+    "Timestamp": "2022-07-23",
+    "UnixTimestamp": 1658580604000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "009CF9556C31",
+    "Discoverer": "Quentenium",
+    "Platform": "XB",
+    "Timestamp": "2022-11-10",
+    "UnixTimestamp": 1668070456000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-124] Neninni",
+    "Glyphs": "009DF9556C31",
+    "Discoverer": "enerjohn78",
+    "Platform": "PS",
+    "Timestamp": "2022-08-10",
+    "UnixTimestamp": 1660106826000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "Prump I",
+    "Glyphs": "009EF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-09",
+    "UnixTimestamp": 1567985688000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "009FF9556C31",
+    "Discoverer": "Terathorn3927",
+    "Platform": "XB",
+    "Timestamp": "2022-05-17",
+    "UnixTimestamp": 1652815929000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00A0F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2020-11-14",
+    "UnixTimestamp": 1605327999000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00A2F9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-22",
+    "UnixTimestamp": 1655868952000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00A3F9556C31",
+    "Discoverer": "EmAuKo",
+    "Platform": "GX",
+    "Timestamp": "2023-07-07",
+    "UnixTimestamp": 1688736488000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00A4F9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-29",
+    "UnixTimestamp": 1656461949000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00A5F9556C31",
+    "Discoverer": "WarriorinSuit",
+    "Platform": "ST",
+    "Timestamp": "2021-07-25",
+    "UnixTimestamp": 1627241822000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-A6] Eonpow-Aiba",
+    "Glyphs": "00A6F9556C31",
+    "Discoverer": "CoolioColophon",
+    "Platform": "ST",
+    "Timestamp": "2022-04-17",
+    "UnixTimestamp": 1650209312000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-A7] Rutogqe",
+    "Glyphs": "00A7F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-10-02",
+    "UnixTimestamp": 1570019405000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00A8F9556C31",
+    "Discoverer": "Yaxitoshi",
+    "Platform": "PS",
+    "Timestamp": "2022-09-06",
+    "UnixTimestamp": 1662428758000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-A9] Haxiaoj",
+    "Glyphs": "00A9F9556C31",
+    "Discoverer": "jlrmarin",
+    "Platform": "ST",
+    "Timestamp": "2022-05-04",
+    "UnixTimestamp": 1651658008000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00ABF9556C31",
+    "Discoverer": "ElevatedOof",
+    "Platform": "PS",
+    "Timestamp": "2022-04-30",
+    "UnixTimestamp": 1651331286000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-AC] Yonubig",
+    "Glyphs": "00ACF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-11",
+    "UnixTimestamp": 1568229396000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-B1] Iawson-Tenes",
+    "Glyphs": "00B1F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568243802000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00B4F9556C31",
+    "Discoverer": "EggDust",
+    "Platform": "XB",
+    "Timestamp": "2018-09-13",
+    "UnixTimestamp": 1536860425000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-B9] Aizhou-Dul",
+    "Glyphs": "00B9F9556C31",
+    "Discoverer": "WiederholdsRule",
+    "Platform": "ST",
+    "Timestamp": "2023-03-18",
+    "UnixTimestamp": 1679179529000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-BA] Ihezel-Den VI",
+    "Glyphs": "00BAF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-09",
+    "UnixTimestamp": 1567982184000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00BBF9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-29",
+    "UnixTimestamp": 1656462465000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-BC] Ongtang",
+    "Glyphs": "00BCF9556C31",
+    "Discoverer": "Kokopelli129",
+    "Platform": "XB",
+    "Timestamp": "2022-09-29",
+    "UnixTimestamp": 1664425910000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00BDF9556C31",
+    "Discoverer": "SweeetSmammich",
+    "Platform": "PS",
+    "Timestamp": "2022-07-27",
+    "UnixTimestamp": 1658889147000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "Prump III",
+    "Glyphs": "00BEF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2022-07-31",
+    "UnixTimestamp": 1659219908000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "Transgrrrlz",
+    "Glyphs": "00BFF9556C31",
+    "Discoverer": "Victoria",
+    "Platform": "ST",
+    "Timestamp": "2022-11-17",
+    "UnixTimestamp": 1668652140000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00C1F9556C31",
+    "Discoverer": "Kirkus",
+    "Platform": "ST",
+    "Timestamp": "2022-11-09",
+    "UnixTimestamp": 1668015135000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-C2] Oimaomo",
+    "Glyphs": "00C2F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568243250000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-C3] Eeoo-Luhe",
+    "Glyphs": "00C3F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576207940000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00C7F9556C31",
+    "Discoverer": "Chiken Sombrero",
+    "Platform": "ST",
+    "Timestamp": "2022-09-28",
+    "UnixTimestamp": 1664388582000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-0C8] Icangj",
+    "Glyphs": "00C8F9556C31",
+    "Discoverer": "BowelCoward",
+    "Platform": "ST",
+    "Timestamp": "2022-05-13",
+    "UnixTimestamp": 1652407959000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-C9] Xiongz XVII",
+    "Glyphs": "00C9F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-11",
+    "UnixTimestamp": 1576028267000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00CBF9556C31",
+    "Discoverer": "Black Sheep",
+    "Platform": "ST",
+    "Timestamp": "2020-02-19",
+    "UnixTimestamp": 1582120886000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-CC] Mynuudel",
+    "Glyphs": "00CCF9556C31",
+    "Discoverer": "WiederholdsRule",
+    "Platform": "ST",
+    "Timestamp": "2023-04-03",
+    "UnixTimestamp": 1680480009000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-CE] Kashelon",
+    "Glyphs": "00CEF9556C31",
+    "Discoverer": "WiederholdsRule",
+    "Platform": "ST",
+    "Timestamp": "2023-04-03",
+    "UnixTimestamp": 1680543695000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-D1] Zezhic-Ado",
+    "Glyphs": "00D1F9556C31",
+    "Discoverer": "pch13",
+    "Platform": "ST",
+    "Timestamp": "2021-11-14",
+    "UnixTimestamp": 1636864108000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00D2F9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-22",
+    "UnixTimestamp": 1655869298000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-0D3] Uulaixar",
+    "Glyphs": "00D3F9556C31",
+    "Discoverer": "BowelCoward",
+    "Platform": "ST",
+    "Timestamp": "2022-05-11",
+    "UnixTimestamp": 1652220802000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-D5] Damquk-Hohho",
+    "Glyphs": "00D5F9556C31",
+    "Discoverer": "Theana Gaterau",
+    "Platform": "ST",
+    "Timestamp": "2021-11-22",
+    "UnixTimestamp": 1637616716000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00D6F9556C31",
+    "Discoverer": "DANdannyDAN9529",
+    "Platform": "XB",
+    "Timestamp": "2023-04-12",
+    "UnixTimestamp": 1681305528000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-D7] Aonang-Ensk",
+    "Glyphs": "00D7F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-09",
+    "UnixTimestamp": 1567987292000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-D8] Asampo",
+    "Glyphs": "00D8F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-18",
+    "UnixTimestamp": 1568811240000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-D9] Obeilin-Lob",
+    "Glyphs": "00D9F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-08",
+    "UnixTimestamp": 1567979926000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-DA] Abqenx-Noarm III",
+    "Glyphs": "00DAF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-09",
+    "UnixTimestamp": 1567986951000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-DB] Minninn-Dat",
+    "Glyphs": "00DBF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-09",
+    "UnixTimestamp": 1567985113000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-DE] Doimar",
+    "Glyphs": "00DEF9556C31",
+    "Discoverer": "pch13",
+    "Platform": "ST",
+    "Timestamp": "2021-11-14",
+    "UnixTimestamp": 1636861758000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00DFF9556C31",
+    "Discoverer": "DaddyThicc88",
+    "Platform": "XB",
+    "Timestamp": "2022-10-08",
+    "UnixTimestamp": 1665258005000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00E3F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576213415000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-E6] Insogxu-Divezh",
+    "Glyphs": "00E6F9556C31",
+    "Discoverer": "Thee Italic",
+    "Platform": "XB",
+    "Timestamp": "2023-05-24",
+    "UnixTimestamp": 1684906979000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00E7F9556C31",
+    "Discoverer": "evantime",
+    "Platform": "ST",
+    "Timestamp": "2021-07-24",
+    "UnixTimestamp": 1627089580000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-E8] Zitongk-Macan",
+    "Glyphs": "00E8F9556C31",
+    "Discoverer": "pch13",
+    "Platform": "ST",
+    "Timestamp": "2021-11-14",
+    "UnixTimestamp": 1636870816000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-0E9] Mandan-Akskuj",
+    "Glyphs": "00E9F9556C31",
+    "Discoverer": "BowelCoward",
+    "Platform": "ST",
+    "Timestamp": "2022-05-13",
+    "UnixTimestamp": 1652394576000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUBx-EB] Alone Together",
+    "Glyphs": "00EBF9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2020-03-07",
+    "UnixTimestamp": 1583551066000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-15B] Dayonq-Sejon V",
+    "Glyphs": "00ECF9556C31",
+    "Discoverer": "SullyKiwi",
+    "Platform": "PS",
+    "Timestamp": "2022-09-27",
+    "UnixTimestamp": 1664303247000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-ED] Poshell",
+    "Glyphs": "00EDF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-09",
+    "UnixTimestamp": 1567982831000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-EE] Apugarr",
+    "Glyphs": "00EEF9556C31",
+    "Discoverer": "Theana Gaterau",
+    "Platform": "ST",
+    "Timestamp": "2021-11-22",
+    "UnixTimestamp": 1637601774000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00EFF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2020-11-14",
+    "UnixTimestamp": 1605327959000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00F0F9556C31",
+    "Discoverer": "CANCER SLUGG",
+    "Platform": "XB",
+    "Timestamp": "2023-04-12",
+    "UnixTimestamp": 1681280497000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-F1] Neungsung",
+    "Glyphs": "00F1F9556C31",
+    "Discoverer": "jlrmarin",
+    "Platform": "ST",
+    "Timestamp": "2022-02-19",
+    "UnixTimestamp": 1645268602000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00F4F9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-29",
+    "UnixTimestamp": 1656461959000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-F5] Remyanc",
+    "Glyphs": "00F5F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-09",
+    "UnixTimestamp": 1567986615000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-F7] Oonguchun Xl",
+    "Glyphs": "00F7F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576210247000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "00F8F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576213435000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-0FB] Chuanugch XII",
+    "Glyphs": "00FBF9556C31",
+    "Discoverer": "BowelCoward",
+    "Platform": "ST",
+    "Timestamp": "2022-05-12",
+    "UnixTimestamp": 1652308648000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-FC] Umadin",
+    "Glyphs": "00FCF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-11",
+    "UnixTimestamp": 1576028255000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-FD]Ijinqi-She XIX",
+    "Glyphs": "00FDF9556C31",
+    "Discoverer": "Zappz232",
+    "Platform": "XB",
+    "Timestamp": "2022-08-14",
+    "UnixTimestamp": 1660463532000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "00FFF9556C31",
+    "Discoverer": "Quentenium",
+    "Platform": "XB",
+    "Timestamp": "2022-11-10",
+    "UnixTimestamp": 1668070465000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0101F9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-08-03",
+    "UnixTimestamp": 1659507444000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-102] Ogxungj",
+    "Glyphs": "0102F9556C31",
+    "Discoverer": "pch13",
+    "Platform": "ST",
+    "Timestamp": "2021-11-14",
+    "UnixTimestamp": 1636869698000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0103F9556C31",
+    "Discoverer": "pch13",
+    "Platform": "ST",
+    "Timestamp": "2021-11-06",
+    "UnixTimestamp": 1636170043000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0104F9556C31",
+    "Discoverer": "NAMExUNKNOWN587",
+    "Platform": "XB",
+    "Timestamp": "2023-05-21",
+    "UnixTimestamp": 1684698797000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-107] Hovdar",
+    "Glyphs": "0107F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-09",
+    "UnixTimestamp": 1567981768000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0109F9556C31",
+    "Discoverer": "cloudtwirl",
+    "Platform": "ST",
+    "Timestamp": "2022-07-30",
+    "UnixTimestamp": 1659186360000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-10A] Goibay-Orodu",
+    "Glyphs": "010AF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-12",
+    "UnixTimestamp": 1576187041000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-10B] Uelingl-Ukorv ll",
+    "Glyphs": "010BF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-12",
+    "UnixTimestamp": 1576187505000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "010CF9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-29",
+    "UnixTimestamp": 1656462371000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-10D] Aykana",
+    "Glyphs": "010DF9556C31",
+    "Discoverer": "BowelCoward",
+    "Platform": "ST",
+    "Timestamp": "2022-05-13",
+    "UnixTimestamp": 1652406712000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-10F] Agianlonq",
+    "Glyphs": "010FF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-12",
+    "UnixTimestamp": 1576188991000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-110] Iranna",
+    "Glyphs": "0110F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-11",
+    "UnixTimestamp": 1568229632000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0112F9556C31",
+    "Discoverer": "Karmella",
+    "Platform": "ST",
+    "Timestamp": "2020-12-08",
+    "UnixTimestamp": 1607386700000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-113] Urmaiyin",
+    "Glyphs": "0113F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-20",
+    "UnixTimestamp": 1568980309000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-115] Cozhon",
+    "Glyphs": "0115F9556C31",
+    "Discoverer": "EarlessTrout",
+    "Platform": "XB",
+    "Timestamp": "2022-10-01",
+    "UnixTimestamp": 1664615583000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-116] Lucheon V",
+    "Glyphs": "0116F9556C31",
+    "Discoverer": "Goblin Mode",
+    "Platform": "ST",
+    "Timestamp": "2023-03-12",
+    "UnixTimestamp": 1678585590000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-117] Anuudel",
+    "Glyphs": "0117F9556C31",
+    "Discoverer": "SullyKiwi",
+    "Platform": "PS",
+    "Timestamp": "2022-09-26",
+    "UnixTimestamp": 1664206410000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0118F9556C31",
+    "Discoverer": "Kayak",
+    "Platform": "ST",
+    "Timestamp": "2022-04-21",
+    "UnixTimestamp": 1650492566000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-11A] Zuunkhari",
+    "Glyphs": "011AF9556C31",
+    "Discoverer": "pch13",
+    "Platform": "ST",
+    "Timestamp": "2021-11-14",
+    "UnixTimestamp": 1636862343000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-11B] Meeigwo",
+    "Glyphs": "011BF9556C31",
+    "Discoverer": "billlcarr",
+    "Platform": "GX",
+    "Timestamp": "2019-09-07",
+    "UnixTimestamp": 1567821718000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "Fuzi-Neet IX",
+    "Glyphs": "011CF9556C31",
+    "Discoverer": "SullyKiwi",
+    "Platform": "PS",
+    "Timestamp": "2022-09-26",
+    "UnixTimestamp": 1664207012000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "knapper1",
+    "Glyphs": "011DF9556C31",
+    "Discoverer": "n.knappblezius",
+    "Platform": "ST",
+    "Timestamp": "2021-09-24",
+    "UnixTimestamp": 1632493447000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-11E] Degadon-Zakai",
+    "Glyphs": "011EF9556C31",
+    "Discoverer": "WiederholdsRule",
+    "Platform": "ST",
+    "Timestamp": "2023-04-02",
+    "UnixTimestamp": 1680389602000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "011FF9556C31",
+    "Discoverer": "pch13",
+    "Platform": "ST",
+    "Timestamp": "2021-11-14",
+    "UnixTimestamp": 1636869837000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "HUB4-120 [Hasoilae]",
+    "Glyphs": "0120F9556C31",
+    "Discoverer": "pch13",
+    "Platform": "ST",
+    "Timestamp": "2021-11-05",
+    "UnixTimestamp": 1636151321000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "Unniao",
+    "Glyphs": "0121F9556C31",
+    "Discoverer": "pch13",
+    "Platform": "ST",
+    "Timestamp": "2021-11-14",
+    "UnixTimestamp": 1636873330000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-123] Shifennon lX",
+    "Glyphs": "0123F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-12",
+    "UnixTimestamp": 1576187344000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-124] Lichue-Zushi ll",
+    "Glyphs": "0124F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-12",
+    "UnixTimestamp": 1576187794000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-125] Amqenx",
+    "Glyphs": "0125F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-12",
+    "UnixTimestamp": 1576188061000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-126] Induibu-Lumb",
+    "Glyphs": "0126F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-12",
+    "UnixTimestamp": 1576189281000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-128] Zenmen-Xalas",
+    "Glyphs": "0128F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-12",
+    "UnixTimestamp": 1576189546000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0129F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2020-11-14",
+    "UnixTimestamp": 1605327948000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "012CF9556C31",
+    "Discoverer": "Kirkus",
+    "Platform": "ST",
+    "Timestamp": "2022-10-26",
+    "UnixTimestamp": 1666736729000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-12D] Piaobeidi",
+    "Glyphs": "012DF9556C31",
+    "Discoverer": "EarlessTrout",
+    "Platform": "XB",
+    "Timestamp": "2022-10-01",
+    "UnixTimestamp": 1664618944000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "012EF9556C31",
+    "Discoverer": "Cash",
+    "Platform": "ST",
+    "Timestamp": "2022-08-18",
+    "UnixTimestamp": 1660799400000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-12F] Nopowen-Mono XVI",
+    "Glyphs": "012FF9556C31",
+    "Discoverer": "jlrmarin",
+    "Platform": "ST",
+    "Timestamp": "2022-02-26",
+    "UnixTimestamp": 1645872295000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0130F9556C31",
+    "Discoverer": "nathanamon",
+    "Platform": "PS",
+    "Timestamp": "2020-07-19",
+    "UnixTimestamp": 1595194652000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0133F9556C31",
+    "Discoverer": "DANdannyDAN9529",
+    "Platform": "XB",
+    "Timestamp": "2023-04-12",
+    "UnixTimestamp": 1681312703000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-136]",
+    "Glyphs": "0136F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-11",
+    "UnixTimestamp": 1576028275000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0138F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576213556000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0139F9556C31",
+    "Discoverer": "SoloAseen",
+    "Platform": "ST",
+    "Timestamp": "2023-05-01",
+    "UnixTimestamp": 1682952133000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-13A] Nugwein IV",
+    "Glyphs": "013AF9556C31",
+    "Discoverer": "pch13",
+    "Platform": "ST",
+    "Timestamp": "2021-11-14",
+    "UnixTimestamp": 1636929474000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "013CF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576213676000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-13D] Igwons",
+    "Glyphs": "013DF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-11",
+    "UnixTimestamp": 1576028282000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "013EF9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-22",
+    "UnixTimestamp": 1655869506000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "013FF9556C31",
+    "Discoverer": "MRP1994",
+    "Platform": "XB",
+    "Timestamp": "2022-08-08",
+    "UnixTimestamp": 1659993371000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-141] Kanqabgar IX",
+    "Glyphs": "0141F9556C31",
+    "Discoverer": "EarlessTrout",
+    "Platform": "XB",
+    "Timestamp": "2022-09-23",
+    "UnixTimestamp": 1663951824000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-142] Ugkuit XII",
+    "Glyphs": "0142F9556C31",
+    "Discoverer": "cassiddidy",
+    "Platform": "PS",
+    "Timestamp": "2022-02-06",
+    "UnixTimestamp": 1644109216000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-143] Ibma-Aru",
+    "Glyphs": "0143F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-11",
+    "UnixTimestamp": 1568229108000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-144] Bayzhou XIII",
+    "Glyphs": "0144F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-09",
+    "UnixTimestamp": 1567980508000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-147] Mexuk",
+    "Glyphs": "0147F9556C31",
+    "Discoverer": "Zappz232",
+    "Platform": "XB",
+    "Timestamp": "2022-08-15",
+    "UnixTimestamp": 1660548216000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-148] Neijin",
+    "Glyphs": "0148F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568290564000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "Knapper14",
+    "Glyphs": "0150F9556C31",
+    "Discoverer": "n.knappblezius",
+    "Platform": "ST",
+    "Timestamp": "2021-09-24",
+    "UnixTimestamp": 1632496709000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0151F9556C31",
+    "Discoverer": "NAMExUNKNOWN587",
+    "Platform": "XB",
+    "Timestamp": "2023-05-21",
+    "UnixTimestamp": 1684698813000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-152] Miehalla",
+    "Glyphs": "0152F9556C31",
+    "Discoverer": "BowelCoward",
+    "Platform": "ST",
+    "Timestamp": "2022-05-11",
+    "UnixTimestamp": 1652232734000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-153] Arvaik",
+    "Glyphs": "0153F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-12",
+    "UnixTimestamp": 1576183342000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0154F9556C31",
+    "Discoverer": "cloudtwirl",
+    "Platform": "ST",
+    "Timestamp": "2022-07-30",
+    "UnixTimestamp": 1659186316000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0156F9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-29",
+    "UnixTimestamp": 1656461999000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "Zycu Colony [Alpha System]",
+    "Glyphs": "0157F9556C31",
+    "Discoverer": "Zycu",
+    "Platform": "ST",
+    "Timestamp": "2022-06-28",
+    "UnixTimestamp": 1656451792000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0158F9556C31",
+    "Discoverer": "soundofmadness",
+    "Platform": "PS",
+    "Timestamp": "2021-12-28",
+    "UnixTimestamp": 1640648835000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-15B] Ranchy XVIII",
+    "Glyphs": "015BF9556C31",
+    "Discoverer": "SullyKiwi",
+    "Platform": "PS",
+    "Timestamp": "2022-09-26",
+    "UnixTimestamp": 1664206184000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-15C] Jedexiusm",
+    "Glyphs": "015CF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568245703000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-15E] Hugluomu",
+    "Glyphs": "015EF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568246002000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0160F9556C31",
+    "Discoverer": "evantime",
+    "Platform": "ST",
+    "Timestamp": "2021-07-24",
+    "UnixTimestamp": 1627089522000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0161F9556C31",
+    "Discoverer": "Thee Italic",
+    "Platform": "XB",
+    "Timestamp": "2022-07-15",
+    "UnixTimestamp": 1657850410000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-162] Iuquan-Sesy XI",
+    "Glyphs": "0162F9556C31",
+    "Discoverer": "billlcarr",
+    "Platform": "GX",
+    "Timestamp": "2019-09-07",
+    "UnixTimestamp": 1567813930000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-163] Zigongh-Rovoc",
+    "Glyphs": "0163F9556C31",
+    "Discoverer": "billlcarr",
+    "Platform": "GX",
+    "Timestamp": "2019-09-07",
+    "UnixTimestamp": 1567814621000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0164F9556C31",
+    "Discoverer": "Kayak",
+    "Platform": "ST",
+    "Timestamp": "2022-04-21",
+    "UnixTimestamp": 1650492549000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0166F9556C31",
+    "Discoverer": "MRP1994",
+    "Platform": "XB",
+    "Timestamp": "2022-08-08",
+    "UnixTimestamp": 1659993504000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-EJ05] Gekstar 8922",
+    "Glyphs": "0167F9556C31",
+    "Discoverer": "enerjohn78",
+    "Platform": "PS",
+    "Timestamp": "2022-08-10",
+    "UnixTimestamp": 1660105722000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0168F9556C31",
+    "Discoverer": "Terathorn3927",
+    "Platform": "XB",
+    "Timestamp": "2022-05-17",
+    "UnixTimestamp": 1652815935000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0169F9556C31",
+    "Discoverer": "Frozesnev",
+    "Platform": "XB",
+    "Timestamp": "2023-04-10",
+    "UnixTimestamp": 1681117579000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "016AF9556C31",
+    "Discoverer": "Giovacool8226",
+    "Platform": "XB",
+    "Timestamp": "2023-06-02",
+    "UnixTimestamp": 1685739244000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-16B] Odangn-Odat VIII",
+    "Glyphs": "016BF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568240299000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "016DF9556C31",
+    "Discoverer": "Zycu",
+    "Platform": "ST",
+    "Timestamp": "2022-06-28",
+    "UnixTimestamp": 1656448708000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "016EF9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-29",
+    "UnixTimestamp": 1656461990000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0171F9556C31",
+    "Discoverer": "Zycu",
+    "Platform": "ST",
+    "Timestamp": "2022-06-28",
+    "UnixTimestamp": 1656448717000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-172] Chendumae",
+    "Glyphs": "0172F9556C31",
+    "Discoverer": "jlrmarin",
+    "Platform": "ST",
+    "Timestamp": "2022-02-25",
+    "UnixTimestamp": 1645812781000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-175] Yedexo-Gatae",
+    "Glyphs": "0175F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568247978000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-179] Inpu",
+    "Glyphs": "0179F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-09",
+    "UnixTimestamp": 1567981494000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-17A] Sineung-Tuzeh",
+    "Glyphs": "017AF9556C31",
+    "Discoverer": "pch13",
+    "Platform": "ST",
+    "Timestamp": "2021-11-17",
+    "UnixTimestamp": 1637119676000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "017CF9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-08-03",
+    "UnixTimestamp": 1659507224000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-17D] Nihaoy-Numa",
+    "Glyphs": "017DF9556C31",
+    "Discoverer": "pch13",
+    "Platform": "ST",
+    "Timestamp": "2021-11-15",
+    "UnixTimestamp": 1636933655000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "017FF9556C31",
+    "Discoverer": "willdathrill001",
+    "Platform": "XB",
+    "Timestamp": "2021-02-10",
+    "UnixTimestamp": 1612928267000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0180F9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-29",
+    "UnixTimestamp": 1656461964000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-183] Sichan",
+    "Glyphs": "0183F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-11",
+    "UnixTimestamp": 1568236564000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-185] Amxoisan",
+    "Glyphs": "0185F9556C31",
+    "Discoverer": "jlrmarin",
+    "Platform": "ST",
+    "Timestamp": "2022-02-25",
+    "UnixTimestamp": 1645745583000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0186F9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-22",
+    "UnixTimestamp": 1655869416000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "018AF9556C31",
+    "Discoverer": "Capt. Marvel",
+    "Platform": "ST",
+    "Timestamp": "2023-04-05",
+    "UnixTimestamp": 1680711598000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "018CF9556C31",
+    "Discoverer": "DANdannyDAN9529",
+    "Platform": "XB",
+    "Timestamp": "2023-04-12",
+    "UnixTimestamp": 1681312738000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "018DF9556C31",
+    "Discoverer": "Zappz232",
+    "Platform": "XB",
+    "Timestamp": "2023-04-07",
+    "UnixTimestamp": 1680819158000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-190] Explorer's Glory",
+    "Glyphs": "0190F9556C31",
+    "Discoverer": "Thegoodswife",
+    "Platform": "XB",
+    "Timestamp": "2023-05-30",
+    "UnixTimestamp": 1685433548000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-192] Yaxiayag VI",
+    "Glyphs": "0192F9556C31",
+    "Discoverer": "WiederholdsRule",
+    "Platform": "ST",
+    "Timestamp": "2023-04-01",
+    "UnixTimestamp": 1680332785000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-193] Keyunna",
+    "Glyphs": "0193F9556C31",
+    "Discoverer": "WiederholdsRule",
+    "Platform": "ST",
+    "Timestamp": "2023-03-31",
+    "UnixTimestamp": 1680282453000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0194F9556C31",
+    "Discoverer": "willdathrill001",
+    "Platform": "XB",
+    "Timestamp": "2021-03-03",
+    "UnixTimestamp": 1614729838000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "Knapper15",
+    "Glyphs": "0197F9556C31",
+    "Discoverer": "n.knappblezius",
+    "Platform": "ST",
+    "Timestamp": "2021-09-24",
+    "UnixTimestamp": 1632496716000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-198] Ouguan-Ose",
+    "Glyphs": "0198F9556C31",
+    "Discoverer": "pch13",
+    "Platform": "ST",
+    "Timestamp": "2021-11-14",
+    "UnixTimestamp": 1636922999000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-19A] Niaomin-Yume IX",
+    "Glyphs": "019AF9556C31",
+    "Discoverer": "WiederholdsRule",
+    "Platform": "ST",
+    "Timestamp": "2023-03-31",
+    "UnixTimestamp": 1680287462000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "019BF9556C31",
+    "Discoverer": "cloudtwirl",
+    "Platform": "ST",
+    "Timestamp": "2022-07-30",
+    "UnixTimestamp": 1659186323000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "019EF9556C31",
+    "Discoverer": "NAMExUNKNOWN587",
+    "Platform": "XB",
+    "Timestamp": "2023-05-21",
+    "UnixTimestamp": 1684688165000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "019FF9556C31",
+    "Discoverer": "Frozesnev",
+    "Platform": "XB",
+    "Timestamp": "2023-04-10",
+    "UnixTimestamp": 1681117546000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01A0F9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-29",
+    "UnixTimestamp": 1656461979000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01A1F9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-29",
+    "UnixTimestamp": 1656461984000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-1A2] Uhshijin",
+    "Glyphs": "01A2F9556C31",
+    "Discoverer": "jlrmarin",
+    "Platform": "ST",
+    "Timestamp": "2022-02-25",
+    "UnixTimestamp": 1645781105000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-1A4] Baqenz-Kad",
+    "Glyphs": "01A4F9556C31",
+    "Discoverer": "Zappz232",
+    "Platform": "XB",
+    "Timestamp": "2022-09-11",
+    "UnixTimestamp": 1662885384000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-1A5] Oiyuanni",
+    "Glyphs": "01A5F9556C31",
+    "Discoverer": "Frozesnev",
+    "Platform": "XB",
+    "Timestamp": "2022-02-12",
+    "UnixTimestamp": 1644703286000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-1A9] Brongx XVIII",
+    "Glyphs": "01A9F9556C31",
+    "Discoverer": "billlcarr",
+    "Platform": "GX",
+    "Timestamp": "2019-09-08",
+    "UnixTimestamp": 1567911516000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-1AA] Laohuag-Ots XVII",
+    "Glyphs": "01AAF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568246349000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01ACF9556C31",
+    "Discoverer": "swiftclaw10",
+    "Platform": "ST",
+    "Timestamp": "2023-05-03",
+    "UnixTimestamp": 1683136733000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-1AD] Giqinegsh",
+    "Glyphs": "01ADF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568291854000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-1AE] Oquenro-Loyhe",
+    "Glyphs": "01AEF9556C31",
+    "Discoverer": "Theana Gaterau",
+    "Platform": "ST",
+    "Timestamp": "2021-11-22",
+    "UnixTimestamp": 1637619674000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-1AF] Enantao-Alde",
+    "Glyphs": "01AFF9556C31",
+    "Discoverer": "SullyKiwi",
+    "Platform": "PS",
+    "Timestamp": "2022-09-27",
+    "UnixTimestamp": 1664265094000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01B1F9556C31",
+    "Discoverer": "DeadMoose13",
+    "Platform": "XB",
+    "Timestamp": "2022-05-05",
+    "UnixTimestamp": 1651784329000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-1B2] Mishan-Fulle",
+    "Glyphs": "01B2F9556C31",
+    "Discoverer": "jlrmarin",
+    "Platform": "ST",
+    "Timestamp": "2022-02-25",
+    "UnixTimestamp": 1645779434000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-1B5] Himenx",
+    "Glyphs": "01B5F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-12",
+    "UnixTimestamp": 1576189782000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01BAF9556C31",
+    "Discoverer": "猫腻233ღ",
+    "Platform": "ST",
+    "Timestamp": "2018-08-26",
+    "UnixTimestamp": 1535265779000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-1BB] Racangyua",
+    "Glyphs": "01BBF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568290790000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01BCF9556C31",
+    "Discoverer": "tspec31",
+    "Platform": "PS",
+    "Timestamp": "2020-11-29",
+    "UnixTimestamp": 1606684264000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-1BD] Abyaix",
+    "Glyphs": "01BDF9556C31",
+    "Discoverer": "Zappz232",
+    "Platform": "XB",
+    "Timestamp": "2022-08-17",
+    "UnixTimestamp": 1660720942000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-1BE] Humban-Xic IX",
+    "Glyphs": "01BEF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-11",
+    "UnixTimestamp": 1568224307000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "The Hub is Dead",
+    "Glyphs": "01BFF9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-08-03",
+    "UnixTimestamp": 1659506882000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01C0F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2020-11-14",
+    "UnixTimestamp": 1605327940000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-1C1] Aqingka",
+    "Glyphs": "01C1F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-11",
+    "UnixTimestamp": 1576036579000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01C3F9556C31",
+    "Discoverer": "Suacybread",
+    "Platform": "ST",
+    "Timestamp": "2022-08-23",
+    "UnixTimestamp": 1661232865000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-1C5] Fosunc III",
+    "Glyphs": "01C5F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568243489000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-1C6] Netungdui lX",
+    "Glyphs": "01C6F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576207586000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-1C7] Dehuita-Depen X",
+    "Glyphs": "01C7F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568244177000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-1C8] Dujinme-Iayi",
+    "Glyphs": "01C8F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576205302000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-1C9] Qongai II",
+    "Glyphs": "01C9F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568247246000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-1CA] Awolagax",
+    "Glyphs": "01CAF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568245213000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-1CB] Oggugu-Boku",
+    "Glyphs": "01CBF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576204842000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01CCF9556C31",
+    "Discoverer": "DANdannyDAN9529",
+    "Platform": "XB",
+    "Timestamp": "2023-04-12",
+    "UnixTimestamp": 1681309064000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-1CD] Vaikan",
+    "Glyphs": "01CDF9556C31",
+    "Discoverer": "Zappz232",
+    "Platform": "XB",
+    "Timestamp": "2022-09-11",
+    "UnixTimestamp": 1662876857000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-1CE] Gediawsh",
+    "Glyphs": "01CEF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576204695000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01CFF9556C31",
+    "Discoverer": "Drac-Ula132",
+    "Platform": "PS",
+    "Timestamp": "2021-04-19",
+    "UnixTimestamp": 1618833458000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-1D1] Sadenq",
+    "Glyphs": "01D1F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568290243000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01D2F9556C31",
+    "Discoverer": "WarriorinSuit",
+    "Platform": "ST",
+    "Timestamp": "2021-07-25",
+    "UnixTimestamp": 1627241839000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01D3F9556C31",
+    "Discoverer": "Wortzenhein",
+    "Platform": "ST",
+    "Timestamp": "2022-02-08",
+    "UnixTimestamp": 1644347861000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01D7F9556C31",
+    "Discoverer": "Quentenium",
+    "Platform": "XB",
+    "Timestamp": "2022-11-10",
+    "UnixTimestamp": 1668070488000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01DAF9556C31",
+    "Discoverer": "CaptainQuoth",
+    "Platform": "ST",
+    "Timestamp": "2022-04-16",
+    "UnixTimestamp": 1650093322000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-1DD] Nokouphr",
+    "Glyphs": "01DDF9556C31",
+    "Discoverer": "Zappz232",
+    "Platform": "XB",
+    "Timestamp": "2022-08-15",
+    "UnixTimestamp": 1660557116000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-1DE] Yushuey VI",
+    "Glyphs": "01DEF9556C31",
+    "Discoverer": "BowelCoward",
+    "Platform": "ST",
+    "Timestamp": "2022-05-13",
+    "UnixTimestamp": 1652455826000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-1DF] Lodingze",
+    "Glyphs": "01DFF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576204987000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01E1F9556C31",
+    "Discoverer": "xSammy0402",
+    "Platform": "PS",
+    "Timestamp": "2020-09-01",
+    "UnixTimestamp": 1598926918000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-1E4] Gotogqenx IX",
+    "Glyphs": "01E4F9556C31",
+    "Discoverer": "pch13",
+    "Platform": "ST",
+    "Timestamp": "2021-11-17",
+    "UnixTimestamp": 1637113805000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01E5F9556C31",
+    "Discoverer": "Quentenium",
+    "Platform": "XB",
+    "Timestamp": "2022-11-10",
+    "UnixTimestamp": 1668070479000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01E8F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2020-11-14",
+    "UnixTimestamp": 1605327916000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01E9F9556C31",
+    "Discoverer": "Quentenium",
+    "Platform": "XB",
+    "Timestamp": "2022-11-10",
+    "UnixTimestamp": 1668070504000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-1EA] Ozuo-Lode X",
+    "Glyphs": "01EAF9556C31",
+    "Discoverer": "SullyKiwi",
+    "Platform": "PS",
+    "Timestamp": "2022-09-27",
+    "UnixTimestamp": 1664264741000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01EDF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-07",
+    "UnixTimestamp": 1575705477000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01EEF9556C31",
+    "Discoverer": "Zycu",
+    "Platform": "ST",
+    "Timestamp": "2022-06-28",
+    "UnixTimestamp": 1656448748000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01EFF9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-29",
+    "UnixTimestamp": 1656462035000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-1F0] Ubinqu-Stup Xl",
+    "Glyphs": "01F0F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576205478000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-1F1] Hyangam-Had",
+    "Glyphs": "01F1F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568244803000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-1F2] Regyanql",
+    "Glyphs": "01F2F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576205151000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-1F3] Glungbia XVlll",
+    "Glyphs": "01F3F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576207773000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-1F4] Aechahn XV",
+    "Glyphs": "01F4F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568247745000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-1F5] Moniuch",
+    "Glyphs": "01F5F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576210811000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "01F6F9556C31",
+    "Discoverer": "DANdannyDAN9529",
+    "Platform": "XB",
+    "Timestamp": "2023-04-12",
+    "UnixTimestamp": 1681308311000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01FAF9556C31",
+    "Discoverer": "Wortzenhein",
+    "Platform": "ST",
+    "Timestamp": "2022-04-16",
+    "UnixTimestamp": 1650135621000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01FBF9556C31",
+    "Discoverer": "NAMExUNKNOWN587",
+    "Platform": "XB",
+    "Timestamp": "2023-05-21",
+    "UnixTimestamp": 1684688185000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "01FCF9556C31",
+    "Discoverer": "Quentenium",
+    "Platform": "XB",
+    "Timestamp": "2022-11-10",
+    "UnixTimestamp": 1668070496000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-1FE] Narubb",
+    "Glyphs": "01FEF9556C31",
+    "Discoverer": "Goblin Mode",
+    "Platform": "ST",
+    "Timestamp": "2023-04-14",
+    "UnixTimestamp": 1681435178000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-1FF] Bengbuns",
+    "Glyphs": "01FFF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-09",
+    "UnixTimestamp": 1567981007000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0200F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2020-11-14",
+    "UnixTimestamp": 1605327924000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-202] Iuangm X",
+    "Glyphs": "0202F9556C31",
+    "Discoverer": "jlrmarin",
+    "Platform": "ST",
+    "Timestamp": "2022-02-24",
+    "UnixTimestamp": 1645738131000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0203F9556C31",
+    "Discoverer": "Phocdyz",
+    "Platform": "XB",
+    "Timestamp": "2022-06-26",
+    "UnixTimestamp": 1656201995000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0204F9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-29",
+    "UnixTimestamp": 1656462020000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "Hub 5",
+    "Glyphs": "0205F9556C31",
+    "Discoverer": "Darkspyro911",
+    "Platform": "ST",
+    "Timestamp": "2022-08-07",
+    "UnixTimestamp": 1659826791000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-206] Niqingxi",
+    "Glyphs": "0206F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576205732000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-207] Dangtu",
+    "Glyphs": "0207F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568245392000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-208] Dolmasa",
+    "Glyphs": "0208F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576210428000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-209] Qigeumse",
+    "Glyphs": "0209F9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-12",
+    "UnixTimestamp": 1568247525000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-20A] Asanche-Keg",
+    "Glyphs": "020AF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-12",
+    "UnixTimestamp": 1576190543000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-20B] Obeipiand",
+    "Glyphs": "020BF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-12",
+    "UnixTimestamp": 1576190142000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-20C] Hiihui",
+    "Glyphs": "020CF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576206734000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "020DF9556C31",
+    "Discoverer": "swiftclaw10",
+    "Platform": "ST",
+    "Timestamp": "2023-05-03",
+    "UnixTimestamp": 1683136741000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-20E] Garxin",
+    "Glyphs": "020EF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576207067000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "020FF9556C31",
+    "Discoverer": "Thee Italic",
+    "Platform": "XB",
+    "Timestamp": "2022-07-15",
+    "UnixTimestamp": 1657850393000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-210] Eosang",
+    "Glyphs": "0210F9556C31",
+    "Discoverer": "trystansr",
+    "Platform": "ST",
+    "Timestamp": "2020-02-16",
+    "UnixTimestamp": 1581827214000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "0211F9556C31",
+    "Discoverer": "DaddyThicc88",
+    "Platform": "XB",
+    "Timestamp": "2022-10-08",
+    "UnixTimestamp": 1665257939000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-213] Otourd-Lugua",
+    "Glyphs": "0213F9556C31",
+    "Discoverer": "pch13",
+    "Platform": "ST",
+    "Timestamp": "2021-11-15",
+    "UnixTimestamp": 1636935282000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0216F9556C31",
+    "Discoverer": "zEViLvSURiY3Lz",
+    "Platform": "XB",
+    "Timestamp": "2022-07-22",
+    "UnixTimestamp": 1658476622000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0219F9556C31",
+    "Discoverer": "SKC_Fan",
+    "Platform": "PS",
+    "Timestamp": "2022-08-21",
+    "UnixTimestamp": 1661117764000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-21B] Haxiga-Soin",
+    "Glyphs": "021BF9556C31",
+    "Discoverer": "jlrmarin",
+    "Platform": "ST",
+    "Timestamp": "2022-02-25",
+    "UnixTimestamp": 1645751772000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-21C] Amtogq-Sisens III",
+    "Glyphs": "021CF9556C31",
+    "Discoverer": "Prump The Grump",
+    "Platform": "ST",
+    "Timestamp": "2019-09-11",
+    "UnixTimestamp": 1568226854000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "021DF9556C31",
+    "Discoverer": "Redvirus8191",
+    "Platform": "PS",
+    "Timestamp": "2022-06-29",
+    "UnixTimestamp": 1656462027000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-21F] Lijianni XVl",
+    "Glyphs": "021FF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576206536000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-220] Bozhou",
+    "Glyphs": "0220F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576205911000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-222] Akungt XIII",
+    "Glyphs": "0222F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-11",
+    "UnixTimestamp": 1576028265000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "[HUB4-223] Neygumg XlV",
+    "Glyphs": "0223F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2019-12-13",
+    "UnixTimestamp": 1576207384000,
+    "Correctly Tagged": true
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0227F9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2020-11-14",
+    "UnixTimestamp": 1605327905000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "0228F9556C31",
+    "Discoverer": "Wortzenhein",
+    "Platform": "ST",
+    "Timestamp": "2022-02-08",
+    "UnixTimestamp": 1644347927000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "022BF9556C31",
+    "Discoverer": "MrBlack87",
+    "Platform": "PS",
+    "Timestamp": "2020-11-14",
+    "UnixTimestamp": 1605327910000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "022EF9556C31",
+    "Discoverer": "willdathrill001",
+    "Platform": "XB",
+    "Timestamp": "2021-02-10",
+    "UnixTimestamp": 1612928176000,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Tagged": false
+  },
+  {
+    "Name": "[HUB4-",
+    "Glyphs": "0231F9556C31",
+    "Discoverer": "enerjohn78",
+    "Platform": "PS",
+    "Timestamp": "2022-08-09",
+    "UnixTimestamp": 1660062393000,
+    "Correctly Tagged": false
+  }
+]
