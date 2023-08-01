@@ -2,12 +2,22 @@
 import GalaxySwitches from './GalaxySwitches.vue';
 import ColumnFilter from './ColumnFilter.vue';
 import ActionButtons from './ActionButtons.vue';
+import { useFilterStore } from '@/stores/filter';
+import { storeToRefs } from 'pinia';
+import RegionFilter from './RegionFilter.vue';
+
+const filterStore = useFilterStore();
+const { galaxy } = storeToRefs(filterStore);
 </script>
 
 <template>
   <form @submit.prevent>
     <GalaxySwitches />
     <ColumnFilter />
+    <RegionFilter
+      v-for="hub in galaxy"
+      :hub="hub"
+    />
     <ActionButtons />
   </form>
 </template>

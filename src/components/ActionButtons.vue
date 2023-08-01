@@ -1,12 +1,13 @@
 <script setup lang="ts">
+import { GalaxyMapping } from '@/objects/galaxyMapping';
 import { useFilterStore } from '@/stores/filter';
-import type { DiscoveryData, Platform } from '@/types/data';
+import type { DiscoveryData, Platform, Galaxy } from '@/types/data';
 import { storeToRefs } from 'pinia';
 import { ref } from 'vue';
 
 const filterStore = useFilterStore();
 
-const { filteredData, unixTimestamp, platform, tagged, intersections, searchTerms, caseSensitivity } =
+const { filteredData, unixTimestamp, platform, tagged, intersections, searchTerms, caseSensitivity, region } =
   storeToRefs(filterStore);
 
 const isLoading = ref(false);
@@ -22,17 +23,29 @@ async function loadData() {
   for (const galaxy of galaxies) {
     try {
       const { default: importedData } = await import(`../assets/${galaxy}/${galaxy}.json`);
+      for (const data of importedData) {
+        data.galaxy = GalaxyMapping[galaxy];
+      }
       json.push(...importedData);
     } catch (error) {
       console.warn(error);
     }
   }
-  applyFilter(json);
+  await applyFilter(json);
   isLoading.value = false;
 }
 
-function applyFilter(data: DiscoveryData[]) {
+async function applyFilter(data: DiscoveryData[]) {
   const { startDate = 0, endDate = 0 } = unixTimestamp.value;
+
+  const regions: {
+    regionGlyphs: string;
+    galaxy: string;
+  }[] = [];
+  for (const regionName of region.value) {
+    const regionObj = await searchRegion(regionName);
+    regions.push(regionObj);
+  }
 
   // handle case sensitivity option
   const searchName = caseSensitivity.value.name ? searchTerms.value.name : searchTerms.value.name.toLowerCase();
@@ -88,10 +101,36 @@ function applyFilter(data: DiscoveryData[]) {
       (intersectionDiscoverer === '!includes' && !itemDiscoverer.includes(searchDiscoverer)) ||
       (intersectionDiscoverer === '!is' && itemDiscoverer !== searchDiscoverer);
 
-    return isValidDate && isValidName && isValidPlatform && isValidTagged && isValidGlyphs && isValidDiscoverer;
+    const isValidRegion =
+      !regions.length ||
+      regions.some((region) => item.galaxy === region.galaxy && item.Glyphs.slice(4) === region.regionGlyphs); // NoSonar region glyphs start at index 4
+
+    return (
+      isValidDate &&
+      isValidName &&
+      isValidPlatform &&
+      isValidTagged &&
+      isValidGlyphs &&
+      isValidDiscoverer &&
+      isValidRegion
+    );
   }
 
   filteredData.value = data.filter(filterFunc);
+}
+
+async function searchRegion(region: string) {
+  const { default: importedRegions } = await import('../assets/regions.json');
+  const regionObjects = Object.values(importedRegions);
+  const hubIndex = regionObjects.findIndex((item) => Object.values(item).includes(region));
+  const regionIndex = Object.values(regionObjects[hubIndex]).findIndex((item) => item === region);
+  const hub = Object.keys(importedRegions)[hubIndex] as Galaxy;
+  const regionGlyphs = Object.keys(regionObjects[hubIndex])[regionIndex];
+  const galaxy = GalaxyMapping[hub];
+  return {
+    regionGlyphs,
+    galaxy,
+  };
 }
 </script>
 

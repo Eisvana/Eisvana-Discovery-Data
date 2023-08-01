@@ -33,7 +33,7 @@ const dataArray = computed(() => {
   const textArray: TextArray[] = [];
   for (const data of filteredData.value) {
     for (const [key, value] of Object.entries(data)) {
-      if (key === 'Timestamp') continue;
+      if (key === 'Timestamp' || key === 'galaxy') continue;
 
       let text: string = '';
       let className: string = '';
