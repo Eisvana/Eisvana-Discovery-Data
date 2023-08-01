@@ -10,6 +10,7 @@ interface TextSearch<T> {
 
 interface State {
   galaxy: Galaxy[];
+  region: string[];
   searchTerms: TextSearch<string>;
   intersections: TextSearch<'includes' | 'is' | '!includes' | '!is'>;
   caseSensitivity: TextSearch<boolean>;
@@ -20,13 +21,13 @@ interface State {
     [key: string]: string;
   }
   tagged: '' | boolean;
-  data: DiscoveryData[];
   filteredData: DiscoveryData[];
 }
 
 export const useFilterStore = defineStore('filter', {
   state: (): State => ({
     galaxy: [],
+    region: [],
     searchTerms: {
       name: '',
       glyphs: '',
@@ -49,7 +50,6 @@ export const useFilterStore = defineStore('filter', {
       endDate: ''
     },
     tagged: '',
-    data: [],
     filteredData: []
   }),
 

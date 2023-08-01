@@ -5,9 +5,10 @@ export interface DiscoveryData {
   Platform: string;
   Timestamp: string;
   UnixTimestamp: number;
-  "Correctly Tagged": boolean;
+  'Correctly Tagged': boolean;
+  galaxy: 'Euclid' | 'Calypso' | 'Eissentam';
 }
 
-export type Platform = "ST" | "PS" | "XB" | "GX" | "NI";
+export type Platform = 'ST' | 'PS' | 'XB' | 'GX' | 'NI';
 
 export type Galaxy = 'GHub' | 'CalHub' | 'EisHub';
