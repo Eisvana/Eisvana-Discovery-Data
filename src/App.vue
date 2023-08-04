@@ -2,7 +2,7 @@
 import NavBar from './components/NavBar.vue';
 import FilterInputs from './components/FilterInputs.vue';
 import ResultsCounter from './components/ResultsCounter.vue';
-import ResultsTable from './components/ResultsTable.vue';
+import { RouterView, RouterLink } from 'vue-router';
 </script>
 
 <template>
@@ -14,7 +14,11 @@ import ResultsTable from './components/ResultsTable.vue';
   <main>
     <FilterInputs />
     <ResultsCounter />
-    <ResultsTable />
+    <nav class="subpage-nav">
+      <RouterLink to="/">Table</RouterLink>
+      <RouterLink to="stats">Stats</RouterLink>
+    </nav>
+    <RouterView />
   </main>
 </template>
 
@@ -22,5 +26,27 @@ import ResultsTable from './components/ResultsTable.vue';
 .title {
   margin-block-end: 2rem;
   text-align: center;
+}
+
+.subpage-nav {
+  justify-content: center;
+  gap: 2rem;
+  font-size: larger;
+  margin-block-end: 1rem;
+
+  a.router-link-exact-active {
+    color: var(--color-text);
+    pointer-events: none;
+  }
+
+  a.router-link-exact-active:hover {
+    background-color: transparent;
+  }
+
+  a {
+    display: inline-block;
+    padding: 0 1rem;
+    border-left: 1px solid var(--color-border);
+  }
 }
 </style>
