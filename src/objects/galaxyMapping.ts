@@ -3,3 +3,9 @@ export enum GalaxyMapping {
   CalHub = 'Calypso',
   EisHub = 'Eissentam',
 };
+
+export const hubRegions = {
+  GHub: 11,
+  CalHub: 11,
+  EisHub: 27,
+}
