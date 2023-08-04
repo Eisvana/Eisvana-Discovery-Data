@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { GalaxyMapping } from '@/objects/galaxyMapping';
+import { GalaxyMapping, hubRegions } from '@/objects/galaxyMapping';
 import { useFilterStore } from '@/stores/filter';
 import type { DiscoveryData, Platform, Galaxy } from '@/types/data';
 import { storeToRefs } from 'pinia';
@@ -16,23 +16,36 @@ const resetStore = () => filterStore.$reset();
 
 async function loadData() {
   const galaxies = filterStore.galaxy;
+  filteredData.value = [];
 
-  const json: DiscoveryData[] = [];
-
-  isLoading.value = true;
-  for (const galaxy of galaxies) {
-    try {
-      const { default: importedData } = await import(`../assets/${galaxy}/${galaxy}.json`);
-      for (const data of importedData) {
-        data.galaxy = GalaxyMapping[galaxy];
-      }
-      json.push(...importedData);
-    } catch (error) {
-      console.warn(error);
-    }
+  // The Clyde Discord bot wrote this, I have no idea how it works.
+  try {
+    isLoading.value = true;
+    await Promise.all(
+      galaxies.flatMap(async (galaxy) => {
+        const galaxyPromises = [];
+        for (let i = 1; i < hubRegions[galaxy] + 1; i++) {
+          galaxyPromises.push(
+            import(`../assets/${galaxy}/HUB${i}.json`)
+              .then(({ default: importedData }) => {
+                importedData.forEach((data: DiscoveryData) => {
+                  data.galaxy = GalaxyMapping[galaxy];
+                });
+                applyFilter(importedData)
+                  .then((filteredDataArray) => filteredData.value.push(...filteredDataArray))
+                  .catch((error) => console.warn(`Error fetching regions JSON: ${error}`)); // Apply filtering after each import
+              })
+              .catch((error) => console.warn(`Error fetching region data: ${error}`))
+          );
+        }
+        return await Promise.all(galaxyPromises);
+      })
+    );
+  } catch (error) {
+    console.warn(error);
+  } finally {
+    isLoading.value = false;
   }
-  await applyFilter(json);
-  isLoading.value = false;
 }
 
 async function applyFilter(data: DiscoveryData[]) {
@@ -120,7 +133,7 @@ async function applyFilter(data: DiscoveryData[]) {
     return isValidRegion;
   }
 
-  filteredData.value = data.filter(filterFunc);
+  return data.filter(filterFunc);
 }
 
 async function searchRegion(region: string) {
