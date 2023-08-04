@@ -45,7 +45,6 @@ import { RouterView, RouterLink } from 'vue-router';
 
   a {
     display: inline-block;
-    padding: 0 1rem;
     border-left: 1px solid var(--color-border);
   }
 }
