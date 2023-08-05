@@ -33,19 +33,12 @@ import { RouterView, RouterLink } from 'vue-router';
   gap: 2rem;
   font-size: larger;
   margin-block-end: 1rem;
+  flex-wrap: wrap;
 
   a.router-link-exact-active {
-    color: var(--color-text);
+    color: inherit;
     pointer-events: none;
   }
 
-  a.router-link-exact-active:hover {
-    background-color: transparent;
-  }
-
-  a {
-    display: inline-block;
-    border-left: 1px solid var(--color-border);
-  }
 }
 </style>

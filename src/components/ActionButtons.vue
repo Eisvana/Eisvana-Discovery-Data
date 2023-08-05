@@ -16,31 +16,22 @@ const resetStore = () => filterStore.$reset();
 
 async function loadData() {
   const galaxies = filterStore.galaxy;
-  filteredData.value = [];
+  const json: DiscoveryData[] = [];
 
-  // The Clyde Discord bot wrote this, I have no idea how it works.
   try {
     isLoading.value = true;
     await Promise.all(
-      galaxies.flatMap(async (galaxy) => {
-        const galaxyPromises = [];
-        for (let i = 1; i < hubRegions[galaxy] + 1; i++) {
-          galaxyPromises.push(
-            import(`../assets/${galaxy}/HUB${i}.json`)
-              .then(({ default: importedData }) => {
-                importedData.forEach((data: DiscoveryData) => {
-                  data.galaxy = GalaxyMapping[galaxy];
-                });
-                applyFilter(importedData)
-                  .then((filteredDataArray) => filteredData.value.push(...filteredDataArray))
-                  .catch((error) => console.warn(`Error fetching regions JSON: ${error}`)); // Apply filtering after each import
-              })
-              .catch((error) => console.warn(`Error fetching region data: ${error}`))
-          );
-        }
-        return await Promise.all(galaxyPromises);
+      galaxies.map(async (galaxy) => {
+        const { default: importedData } = await import(`../assets/${galaxy}/${galaxy}.json`);
+        importedData.forEach((data: DiscoveryData) => {
+          data.galaxy = GalaxyMapping[galaxy];
+        });
+        json.push(...importedData);
       })
     );
+    console.time('filter');
+    filteredData.value = await applyFilter(json);
+    console.timeEnd('filter');
   } catch (error) {
     console.warn(error);
   } finally {
