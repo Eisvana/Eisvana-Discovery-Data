@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { useFilterStore } from '@/stores/filter';
-import Switch from './Switch.vue';
+import Switch from '../Switch.vue';
 import { storeToRefs } from 'pinia';
 
 defineProps<{

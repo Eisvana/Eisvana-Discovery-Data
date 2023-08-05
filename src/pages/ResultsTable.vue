@@ -2,7 +2,7 @@
 import type { DiscoveryData } from '@/types/data';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
-import PaginationControls from '@/components/PaginationControls.vue';
+import PaginationControls from '@/components/table/PaginationControls.vue';
 import { useDataStore } from '@/stores/data';
 
 const dataStore = useDataStore();

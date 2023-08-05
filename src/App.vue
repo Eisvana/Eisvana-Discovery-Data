@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import NavBar from './components/NavBar.vue';
-import FilterInputs from './components/FilterInputs.vue';
+import FilterInputs from './components/filter/FilterInputs.vue';
 import ResultsCounter from './components/ResultsCounter.vue';
 import { RouterView, RouterLink } from 'vue-router';
 </script>

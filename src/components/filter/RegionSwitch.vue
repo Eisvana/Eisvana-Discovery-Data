@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { useFilterStore } from '@/stores/filter';
 import { storeToRefs } from 'pinia';
-import Switch from './Switch.vue';
+import Switch from '../Switch.vue';
 
 const props = defineProps<{
   id: string;
