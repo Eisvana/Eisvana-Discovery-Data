@@ -27,3 +27,13 @@ html,
 body {
   scrollbar-gutter: stable;
 }
+
+.table-header {
+  font-weight: bold;
+  border-block-end: 1px solid var(--color);
+  padding-block-end: 0.25rem;
+  padding-block-start: 0.5rem;
+  position: sticky;
+  top: 0;
+  background-color: var(--background-color);
+}

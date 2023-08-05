@@ -95,12 +95,12 @@ const dataArray = computed(() => {
   <div v-if="dataArray.length">
     <PaginationControls :total-items="paginatedData.length" />
     <div class="data-table">
-      <div class="header">System Name</div>
-      <div class="header">Glyphs</div>
-      <div class="header">Discoverer</div>
-      <div class="header">Platform</div>
-      <div class="header">Date</div>
-      <div class="header">Tagged</div>
+      <div class="table-header">System Name</div>
+      <div class="table-header">Glyphs</div>
+      <div class="table-header">Discoverer</div>
+      <div class="table-header">Platform</div>
+      <div class="table-header">Date</div>
+      <div class="table-header">Tagged</div>
       <div
         v-for="text in dataArray"
         :class="text.className"
@@ -117,16 +117,6 @@ const dataArray = computed(() => {
   grid-template-columns: repeat(6, auto);
   column-gap: 0.5rem;
   align-items: center;
-
-  .header {
-    font-weight: bold;
-    border-block-end: 1px solid var(--color);
-    padding-block-end: 0.25rem;
-    padding-block-start: 0.5rem;
-    position: sticky;
-    top: 0;
-    background-color: var(--background-color);
-  }
 
   .italic {
     font-style: italic;

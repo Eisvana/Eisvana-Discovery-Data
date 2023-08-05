@@ -13,4 +13,10 @@ export const useDataStore = defineStore('data', {
     currentPageIndex: 0,
     itemsPerPage: 50,
   }),
+
+  getters: {
+    dataLength: (state: State) => (state.filteredData.length),
+    amountTagged: (state: State) => (state.filteredData.filter((item) => item['Correctly Tagged']).length),
+
+  }
 });
