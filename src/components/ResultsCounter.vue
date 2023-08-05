@@ -1,10 +1,10 @@
 <script setup lang="ts">
-import { useFilterStore } from '@/stores/filter';
+import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 
-const filterStore = useFilterStore();
-const { filteredData } = storeToRefs(filterStore);
+const dataStore = useDataStore();
+const { filteredData } = storeToRefs(dataStore);
 
 const counter = computed(() => filteredData.value.length);
 </script>

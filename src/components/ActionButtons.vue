@@ -1,37 +1,38 @@
 <script setup lang="ts">
-import { GalaxyMapping, hubRegions } from '@/objects/galaxyMapping';
+import { GalaxyMapping } from '@/objects/galaxyMapping';
+import { useDataStore } from '@/stores/data';
 import { useFilterStore } from '@/stores/filter';
 import type { DiscoveryData, Platform, Galaxy } from '@/types/data';
 import { storeToRefs } from 'pinia';
 import { ref } from 'vue';
 
 const filterStore = useFilterStore();
+const dataStore = useDataStore();
 
-const { filteredData, unixTimestamp, platform, tagged, intersections, searchTerms, caseSensitivity, region } =
+const { unixTimestamp, platform, tagged, intersections, searchTerms, caseSensitivity, region } =
   storeToRefs(filterStore);
+const { filteredData } = storeToRefs(dataStore);
 
 const isLoading = ref(false);
 
-const resetStore = () => filterStore.$reset();
+const resetStore = () => {
+  filterStore.$reset();
+  filteredData.value = [];
+};
 
 async function loadData() {
-  const galaxies = filterStore.galaxy;
-  const json: DiscoveryData[] = [];
-
+  isLoading.value = true;
   try {
-    isLoading.value = true;
-    await Promise.all(
-      galaxies.map(async (galaxy) => {
+    const json: DiscoveryData[][] = await Promise.all(
+      filterStore.galaxy.map(async (galaxy) => {
         const { default: importedData } = await import(`../assets/${galaxy}/${galaxy}.json`);
         importedData.forEach((data: DiscoveryData) => {
           data.galaxy = GalaxyMapping[galaxy];
         });
-        json.push(...importedData);
+        return importedData;
       })
     );
-    console.time('filter');
-    filteredData.value = await applyFilter(json);
-    console.timeEnd('filter');
+    filteredData.value = await applyFilter(json.flat());
   } catch (error) {
     console.warn(error);
   } finally {

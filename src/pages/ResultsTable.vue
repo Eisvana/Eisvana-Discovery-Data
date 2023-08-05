@@ -1,10 +1,12 @@
 <script setup lang="ts">
-import { useFilterStore } from '@/stores/filter';
+import type { DiscoveryData } from '@/types/data';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
+import PaginationControls from '@/components/PaginationControls.vue';
+import { useDataStore } from '@/stores/data';
 
-const filterStore = useFilterStore();
-const { filteredData } = storeToRefs(filterStore);
+const dataStore = useDataStore();
+const { filteredData, currentPageIndex, itemsPerPage } = storeToRefs(dataStore);
 
 interface TextArray {
   text: string;
@@ -29,11 +31,26 @@ function getFullPlatform(platform: string) {
   return platformMapping[platform];
 }
 
+const paginatedData = computed(() => {
+  const pages: DiscoveryData[][] = filteredData.value.reduce((resultArray: DiscoveryData[][], item, index) => {
+    const chunkIndex = Math.floor(index / itemsPerPage.value);
+
+    resultArray[chunkIndex] ??= []; // start a new chunk
+
+    resultArray[chunkIndex].push(item);
+
+    return resultArray;
+  }, []);
+  if (pages.length < currentPageIndex.value) currentPageIndex.value = 0;
+  return pages;
+});
+
 const dataArray = computed(() => {
   const textArray: TextArray[] = [];
-  for (const data of filteredData.value) {
+  for (const data of paginatedData.value[currentPageIndex.value] ?? []) {
     for (const [key, value] of Object.entries(data)) {
-      if (key === 'Timestamp' || key === 'galaxy') continue;
+      const ignoredKeys = ['Timestamp', 'galaxy'];
+      if (ignoredKeys.includes(key)) continue;
 
       let text: string = '';
       let className: string = '';
@@ -57,7 +74,7 @@ const dataArray = computed(() => {
           break;
 
         default:
-          text = value.toString(); // NoSonar this won't be [object Object]
+          text = value.toString();
           if (key === 'Glyphs') className = 'glyphs';
           break;
       }
@@ -75,21 +92,21 @@ const dataArray = computed(() => {
 </script>
 
 <template>
-  <div
-    v-if="dataArray.length"
-    class="data-table"
-  >
-    <div class="header">System Name</div>
-    <div class="header">Glyphs</div>
-    <div class="header">Discoverer</div>
-    <div class="header">Platform</div>
-    <div class="header">Date</div>
-    <div class="header">Tagged</div>
-    <div
-      v-for="text in dataArray"
-      :class="text.className"
-    >
-      {{ text.text }}
+  <div v-if="dataArray.length">
+    <PaginationControls :total-items="paginatedData.length" />
+    <div class="data-table">
+      <div class="header">System Name</div>
+      <div class="header">Glyphs</div>
+      <div class="header">Discoverer</div>
+      <div class="header">Platform</div>
+      <div class="header">Date</div>
+      <div class="header">Tagged</div>
+      <div
+        v-for="text in dataArray"
+        :class="text.className"
+      >
+        {{ text.text }}
+      </div>
     </div>
   </div>
 </template>
