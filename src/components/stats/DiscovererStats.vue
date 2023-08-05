@@ -1,10 +1,12 @@
 <script setup lang="ts">
+import { paginateData } from '@/logic/logic';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed, reactive } from 'vue';
+import PaginationControls from '../table/PaginationControls.vue';
 
 const dataStore = useDataStore();
-const { filteredData, dataLength, amountTagged } = storeToRefs(dataStore);
+const { filteredData, dataLength, amountTagged, itemsPerPage, currentPageIndex } = storeToRefs(dataStore);
 
 const getPercentage = (amount: number, total: number) => parseFloat(((amount / total) * 100).toFixed(1)); // NoSonar this calculates a percentage
 
@@ -73,7 +75,7 @@ const discovererDataSorted = computed(() => {
 
   if (sorting.order === Orders.asc) sortedArray.reverse();
 
-  return sortedArray.flat();
+  return sortedArray;
 });
 
 const toggleSortingOrder = () => (sorting.order = sorting.order === Orders.asc ? Orders.desc : Orders.asc);
@@ -91,60 +93,76 @@ function sort(event: Event) {
   }
   element.setAttribute('aria-sort', sorting.order);
 }
+
+const paginatedData = computed(() => {
+  const pages = paginateData(discovererDataSorted.value, itemsPerPage.value.discovererStats);
+
+  if (pages.length < currentPageIndex.value.discovererStats) currentPageIndex.value.discovererStats = 0;
+  return pages;
+});
+
+const useableData = computed(() => paginatedData.value[currentPageIndex.value.discovererStats]?.flat() ?? []);
 </script>
 
 <template>
-  <div class="discoverer-grid">
-    <div
-      class="table-header"
-      data-sort="false"
-    >
-      Pos.
-    </div>
-    <div
-      class="table-header"
-      @click="sort"
-    >
-      Name
-    </div>
-    <div
-      class="table-header"
-      @click="sort"
-    >
-      Discoveries
-    </div>
-    <div
-      class="table-header"
-      @click="sort"
-    >
-      Discoveries %
-    </div>
-    <div
-      class="table-header"
-      @click="sort"
-    >
-      Tagged
-    </div>
-    <div
-      class="table-header"
-      @click="sort"
-    >
-      Tagged %<br />of total
-    </div>
-    <div
-      class="table-header"
-      @click="sort"
-    >
-      Tag Rate
-    </div>
-    <div v-for="data in discovererDataSorted">
-      {{ data }}
+  <div v-if="useableData.length">
+    Discoverer Stats
+    <PaginationControls
+      :total-items="discovererDataSorted.length"
+      section="discovererStats"
+    />
+    <div class="stat-grid">
+      <div
+        class="table-header"
+        data-sort="false"
+      >
+        Pos.
+      </div>
+      <div
+        class="table-header"
+        @click="sort"
+      >
+        Name
+      </div>
+      <div
+        class="table-header"
+        @click="sort"
+      >
+        Discoveries
+      </div>
+      <div
+        class="table-header"
+        @click="sort"
+      >
+        Discoveries %
+      </div>
+      <div
+        class="table-header"
+        @click="sort"
+      >
+        Tagged
+      </div>
+      <div
+        class="table-header"
+        @click="sort"
+      >
+        Tagged %<br />of total
+      </div>
+      <div
+        class="table-header"
+        @click="sort"
+      >
+        Tag Rate
+      </div>
+      <div v-for="data in useableData">
+        {{ data }}
+      </div>
     </div>
   </div>
 </template>
 
 <style scoped lang="scss">
-.discoverer-grid {
+.stat-grid {
   display: grid;
   gap: 1rem;
   grid-template-columns: repeat(7, auto);

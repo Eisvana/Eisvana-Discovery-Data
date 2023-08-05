@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import UniqueDiscoverers from '@/components/stats/UniqueDiscoverers.vue';
+import UniqueDiscoverers from '@/components/stats/DiscovererStats.vue';
 </script>
 
 <template>
@@ -14,5 +14,9 @@ import UniqueDiscoverers from '@/components/stats/UniqueDiscoverers.vue';
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 1rem;
+
+  & > * {
+    flex-grow: 1;
+  }
 }
 </style>

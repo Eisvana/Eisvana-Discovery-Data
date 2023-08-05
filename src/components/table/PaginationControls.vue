@@ -5,6 +5,7 @@ import { computed } from 'vue';
 
 const props = defineProps<{
   totalItems: number;
+  section: string;
 }>();
 
 const dataStore = useDataStore();
@@ -14,8 +15,8 @@ const clamp = (value: number, min: number, max: number) => Math.max(min, Math.mi
 
 const pageSelectionRange = computed(() => {
   const selectionOffset = 2; // controls how many more/less pages are shown in the pagination selection
-  const min = clamp(currentPageIndex.value - selectionOffset, 0, props.totalItems - 1);
-  const max = clamp(currentPageIndex.value + selectionOffset, 0, props.totalItems - 1);
+  const min = clamp(currentPageIndex.value[props.section] - selectionOffset, 0, props.totalItems - 1);
+  const max = clamp(currentPageIndex.value[props.section] + selectionOffset, 0, props.totalItems - 1);
 
   // this creates an array with all numbers from min to max (including both)
   const numArray = Array.from({ length: max - min + 1 }, (_, i) => min + i);
@@ -35,32 +36,52 @@ function parsePaginationSelection(event: Event) {
       <select
         name="paginationSelect"
         id="paginationSelect"
-        @change="itemsPerPage = parsePaginationSelection($event)"
+        @change="itemsPerPage[section] = parsePaginationSelection($event)"
       >
-        <option value="10">10</option>
         <option
+          :selected="itemsPerPage[section] === 10"
+          value="10"
+        >
+          10
+        </option>
+        <option
+          :selected="itemsPerPage[section] === 50"
           value="50"
-          selected
         >
           50
         </option>
-        <option value="100">100</option>
-        <option value="500">500</option>
-        <option value="1000">1000</option>
+        <option
+          :selected="itemsPerPage[section] === 100"
+          value="100"
+        >
+          100
+        </option>
+        <option
+          :selected="itemsPerPage[section] === 500"
+          value="500"
+        >
+          500
+        </option>
+        <option
+          :selected="itemsPerPage[section] === 1000"
+          value="1000"
+        >
+          1000
+        </option>
         <option value="">All</option>
       </select>
     </label>
     <button
       v-if="currentPageIndex"
       class="outline"
-      @click="currentPageIndex--"
+      @click="currentPageIndex[section]--"
     >
       &lt;
     </button>
     <template v-if="!pageSelectionRange.includes(0)">
       <button
         class="outline"
-        @click="currentPageIndex = 0"
+        @click="currentPageIndex[section] = 0"
       >
         1
       </button>
@@ -68,8 +89,8 @@ function parsePaginationSelection(event: Event) {
     </template>
     <button
       v-for="pageNumber in pageSelectionRange"
-      :class="{ outline: pageNumber !== currentPageIndex }"
-      @click="currentPageIndex = pageNumber"
+      :class="{ outline: pageNumber !== currentPageIndex[section] }"
+      @click="currentPageIndex[section] = pageNumber"
     >
       {{ pageNumber + 1 }}
     </button>
@@ -77,15 +98,15 @@ function parsePaginationSelection(event: Event) {
       <div v-if="!pageSelectionRange.includes(totalItems - 2)">...</div>
       <button
         class="outline"
-        @click="currentPageIndex = totalItems - 1"
+        @click="currentPageIndex[section] = totalItems - 1"
       >
         {{ totalItems }}
       </button>
     </template>
     <button
-      v-if="currentPageIndex !== totalItems - 1"
+      v-if="currentPageIndex[section] !== totalItems - 1"
       class="outline"
-      @click="currentPageIndex++"
+      @click="currentPageIndex[section]++"
     >
       &gt;
     </button>

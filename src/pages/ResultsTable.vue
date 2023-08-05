@@ -4,6 +4,7 @@ import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import PaginationControls from '@/components/table/PaginationControls.vue';
 import { useDataStore } from '@/stores/data';
+import { paginateData } from '@/logic/logic';
 
 const dataStore = useDataStore();
 const { filteredData, currentPageIndex, itemsPerPage } = storeToRefs(dataStore);
@@ -32,22 +33,15 @@ function getFullPlatform(platform: string) {
 }
 
 const paginatedData = computed(() => {
-  const pages: DiscoveryData[][] = filteredData.value.reduce((resultArray: DiscoveryData[][], item, index) => {
-    const chunkIndex = Math.floor(index / itemsPerPage.value);
+  const pages: DiscoveryData[][] = paginateData(filteredData.value, itemsPerPage.value.resultsTable);
 
-    resultArray[chunkIndex] ??= []; // start a new chunk
-
-    resultArray[chunkIndex].push(item);
-
-    return resultArray;
-  }, []);
-  if (pages.length < currentPageIndex.value) currentPageIndex.value = 0;
+  if (pages.length < currentPageIndex.value.resultsTable) currentPageIndex.value.resultsTable = 0;
   return pages;
 });
 
 const dataArray = computed(() => {
   const textArray: TextArray[] = [];
-  for (const data of paginatedData.value[currentPageIndex.value] ?? []) {
+  for (const data of paginatedData.value[currentPageIndex.value.resultsTable] ?? []) {
     for (const [key, value] of Object.entries(data)) {
       const ignoredKeys = ['Timestamp', 'galaxy'];
       if (ignoredKeys.includes(key)) continue;
@@ -93,7 +87,10 @@ const dataArray = computed(() => {
 
 <template>
   <div v-if="dataArray.length">
-    <PaginationControls :total-items="paginatedData.length" />
+    <PaginationControls
+      :total-items="paginatedData.length"
+      section="resultsTable"
+    />
     <div class="data-table">
       <div class="table-header">System Name</div>
       <div class="table-header">Glyphs</div>
