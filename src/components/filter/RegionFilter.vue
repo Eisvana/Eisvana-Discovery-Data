@@ -28,7 +28,12 @@ for (const region of Object.values(regionObj)) {
     <details>
       <summary>Filter Regions for {{ galaxy }}</summary>
       <legend>Filter Regions for {{ galaxy }}:</legend>
-      <button class="inline" @click="filterStore.invertRegionSwitches(hub)">Invert Selection</button>
+      <button
+        class="inline"
+        @click="filterStore.invertRegionSwitches(hub)"
+      >
+        Invert Selection
+      </button>
       <div class="stat-grid">
         <Switch
           v-for="(regionName, index) in Object.values(hubRegions[hub])"
@@ -44,7 +49,7 @@ for (const region of Object.values(regionObj)) {
 
 <style scoped lang="scss">
 .inline {
-	width: auto;
+  width: auto;
 }
 
 .stat-grid {

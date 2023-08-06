@@ -10,37 +10,54 @@ ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend)
 const dataStore = useDataStore();
 const { filteredData } = storeToRefs(dataStore);
 
+interface DiscovererData {
+  [key: string]: {
+    discoveries: number;
+    tags: number;
+  };
+}
+
 const discovererStats = computed(() => {
-  const discovererData: { [key: string]: number } = {};
+  const discovererData: DiscovererData = {};
 
   for (const data of filteredData.value) {
     if (!data.Discoverer) continue;
-    discovererData[data.Discoverer] ??= 0;
-    discovererData[data.Discoverer]++;
+    const discovererObject = (discovererData[data.Discoverer] ??= {
+      discoveries: 0,
+      tags: 0,
+    });
+    discovererObject.discoveries++;
+    if (data['Correctly Tagged']) discovererObject.tags++;
   }
 
-  const sortingArray = Object.entries(discovererData);
+  const sortedDiscovererArray = Object.entries(discovererData);
 
-  sortingArray.sort((a, b) => b[1] - a[1]);
+  sortedDiscovererArray.sort((a, b) => b[1].discoveries - a[1].discoveries);
 
-  const numberOfBars = 45;
-  const topDiscoverers = sortingArray.slice(0, numberOfBars);
+  const discoverersToShow = 45;
+  const topDiscoverers = sortedDiscovererArray.slice(0, discoverersToShow);
 
-  const finalObject = Object.fromEntries(topDiscoverers);
+  const discovererStatsObject = Object.fromEntries(topDiscoverers);
 
   return {
-    keys: Object.keys(finalObject),
-    values: Object.values(finalObject),
+    names: Object.keys(discovererStatsObject),
+    tags: Object.values(discovererStatsObject).map((item) => item.tags),
+    incorrect: Object.values(discovererStatsObject).map((item) => item.discoveries - item.tags),
   };
 });
 
 const chartData = computed(() => ({
-  labels: discovererStats.value.keys,
+  labels: discovererStats.value.names,
   datasets: [
     {
-      label: 'Discoveries per Player',
+      label: 'Tagged',
       backgroundColor: '#1095C1',
-      data: discovererStats.value.values,
+      data: discovererStats.value.tags,
+    },
+    {
+      label: 'Not Tagged',
+      backgroundColor: '#e85123',
+      data: discovererStats.value.incorrect,
     },
   ],
 }));
@@ -48,11 +65,20 @@ const chartData = computed(() => ({
 const options = {
   responsive: true,
   maintainAspectRatio: true,
+  scales: {
+    x: {
+      stacked: true,
+    },
+    y: {
+      stacked: true,
+    },
+  },
 };
 </script>
 
 <template>
   <Bar
+    v-if="filteredData.length"
     :data="chartData"
     :options="options"
   />

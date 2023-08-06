@@ -17,6 +17,7 @@ const { activeHubs } = storeToRefs(filterStore);
     <RegionFilter
       v-for="hub in activeHubs"
       :hub="hub"
+      :key="hub"
     />
     <ActionButtons />
   </form>
