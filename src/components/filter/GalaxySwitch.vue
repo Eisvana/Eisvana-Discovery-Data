@@ -2,10 +2,10 @@
 import { useFilterStore } from '@/stores/filter';
 import { storeToRefs } from 'pinia';
 import Switch from '../Switch.vue';
-import type { Galaxy } from '@/types/data';
+import type { Hub } from '@/types/data';
 
 const props = defineProps<{
-  id: Galaxy;
+  id: Hub;
   label: string;
 }>();
 
@@ -29,7 +29,7 @@ function toggleGalaxy() {
 
     galaxy.value = Object.entries(sortedHubs)
       .filter((item) => item.includes(true))
-      .map((item) => item[0]) as Galaxy[];
+      .map((item) => item[0]) as Hub[];
   } else {
     galaxy.value.splice(index, 1);
   }

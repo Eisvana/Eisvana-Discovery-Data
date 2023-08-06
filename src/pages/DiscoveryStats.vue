@@ -1,10 +1,12 @@
 <script setup lang="ts">
-import UniqueDiscoverers from '@/components/stats/DiscovererStats.vue';
+import DiscovererStats from '@/components/stats/DiscovererStats.vue';
+import PlatformStats from '@/components/stats/PlatformStats.vue';
 </script>
 
 <template>
   <div class="stats-wrapper">
-    <UniqueDiscoverers />
+    <DiscovererStats />
+    <PlatformStats />
   </div>
 </template>
 
@@ -13,7 +15,7 @@ import UniqueDiscoverers from '@/components/stats/DiscovererStats.vue';
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap: 2rem;
 
   & > * {
     flex-grow: 1;

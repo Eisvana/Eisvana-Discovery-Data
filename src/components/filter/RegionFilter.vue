@@ -1,12 +1,12 @@
 <script setup lang="ts">
-import type { Galaxy } from '@/types/data';
+import type { Hub } from '@/types/data';
 import { computed } from 'vue';
 import hubRegions from '@/assets/regions.json';
-import { GalaxyMapping } from '@/objects/galaxyMapping';
+import { GalaxyMapping } from '@/objects/mappings';
 import RegionSwitch from './RegionSwitch.vue';
 
 const props = defineProps<{
-  hub: Galaxy;
+  hub: Hub;
 }>();
 
 const galaxy = computed(() => GalaxyMapping[props.hub]);
@@ -35,3 +35,4 @@ const galaxy = computed(() => GalaxyMapping[props.hub]);
   gap: 1rem;
 }
 </style>
+@/objects/mappings

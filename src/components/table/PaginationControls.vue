@@ -4,7 +4,7 @@ import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 
 const props = defineProps<{
-  totalItems: number;
+  totalPages: number;
   section: string;
 }>();
 
@@ -15,8 +15,8 @@ const clamp = (value: number, min: number, max: number) => Math.max(min, Math.mi
 
 const pageSelectionRange = computed(() => {
   const selectionOffset = 2; // controls how many more/less pages are shown in the pagination selection
-  const min = clamp(currentPageIndex.value[props.section] - selectionOffset, 0, props.totalItems - 1);
-  const max = clamp(currentPageIndex.value[props.section] + selectionOffset, 0, props.totalItems - 1);
+  const min = clamp(currentPageIndex.value[props.section] - selectionOffset, 0, props.totalPages - 1);
+  const max = clamp(currentPageIndex.value[props.section] + selectionOffset, 0, props.totalPages - 1);
 
   // this creates an array with all numbers from min to max (including both)
   const numArray = Array.from({ length: max - min + 1 }, (_, i) => min + i);
@@ -35,7 +35,6 @@ function parsePaginationSelection(event: Event) {
       <div>Results per Page:</div>
       <select
         name="paginationSelect"
-        id="paginationSelect"
         @change="itemsPerPage[section] = parsePaginationSelection($event)"
       >
         <option
@@ -94,17 +93,17 @@ function parsePaginationSelection(event: Event) {
     >
       {{ pageNumber + 1 }}
     </button>
-    <template v-if="!pageSelectionRange.includes(totalItems - 1)">
-      <div v-if="!pageSelectionRange.includes(totalItems - 2)">...</div>
+    <template v-if="!pageSelectionRange.includes(totalPages - 1)">
+      <div v-if="!pageSelectionRange.includes(totalPages - 2)">...</div>
       <button
         class="outline"
-        @click="currentPageIndex[section] = totalItems - 1"
+        @click="currentPageIndex[section] = totalPages - 1"
       >
-        {{ totalItems }}
+        {{ totalPages }}
       </button>
     </template>
     <button
-      v-if="currentPageIndex[section] !== totalItems - 1"
+      v-if="currentPageIndex[section] !== totalPages - 1"
       class="outline"
       @click="currentPageIndex[section]++"
     >

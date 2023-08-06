@@ -1,10 +1,8 @@
 <script setup lang="ts">
-import { paginateData } from '@/logic/logic';
+import { PlatformMapping } from '@/objects/mappings';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed, reactive } from 'vue';
-import PaginationControls from '../table/PaginationControls.vue';
-import { PlatformMapping } from '@/objects/mappings';
 
 const dataStore = useDataStore();
 const { filteredData, dataLength, amountTagged, itemsPerPage, currentPageIndex } = storeToRefs(dataStore);
@@ -21,10 +19,10 @@ const sorting = reactive<{ col: number; order: Orders }>({
   order: Orders.desc,
 });
 
-const discovererStats = computed(() => {
-  interface DiscovererData {
+const platformStats = computed(() => {
+  interface PlatformData {
     [key: string]: {
-      platform: string;
+      players: number;
       discoveries: number;
       discPercent: string;
       tagged: number;
@@ -33,38 +31,56 @@ const discovererStats = computed(() => {
     };
   }
 
-  const discovererData: DiscovererData = {};
+  interface PlayerData {
+    Steam: Set<string>;
+    PlayStation: Set<string>;
+    Xbox: Set<string>;
+    GOG: Set<string>;
+    'Nintendo Switch': Set<string>;
+  }
+
+  const playerData: PlayerData = {
+    Steam: new Set(),
+    PlayStation: new Set(),
+    Xbox: new Set(),
+    GOG: new Set(),
+    'Nintendo Switch': new Set(),
+  };
+
+  const platformData: PlatformData = {};
 
   for (const data of filteredData.value) {
-    if (!data.Discoverer) continue;
-    const discovererObject = (discovererData[data.Discoverer] ??= {
-      platform: '',
+    if (!data.Platform) continue;
+    const platform = PlatformMapping[data.Platform];
+    const platformObject = (platformData[platform] ??= {
+      players: 0,
       discoveries: 0,
       discPercent: '0%',
       tagged: 0,
       taggedPercent: '0%',
       taggedPercentSelf: '0%',
     });
-    discovererObject.discoveries++;
-    if (data['Correctly Tagged']) discovererObject.tagged++;
-    discovererObject.platform = PlatformMapping[data.Platform];
-    discovererObject.discPercent = getPercentage(discovererObject.discoveries, dataLength.value) + '%';
-    discovererObject.taggedPercent = getPercentage(discovererObject.tagged, amountTagged.value) + '%';
-    discovererObject.taggedPercentSelf = getPercentage(discovererObject.tagged, discovererObject.discoveries) + '%';
+    platformObject.discoveries++;
+    if (data['Correctly Tagged']) platformObject.tagged++;
+    playerData[platform].add(data.Discoverer);
+    platformObject.players = playerData[platform].size;
+    platformObject.discPercent = getPercentage(platformObject.discoveries, dataLength.value) + '%';
+    platformObject.taggedPercent = getPercentage(platformObject.tagged, amountTagged.value) + '%';
+    platformObject.taggedPercentSelf = getPercentage(platformObject.tagged, platformObject.discoveries) + '%';
   }
 
   const dataArray: (string | number)[][] = [];
 
-  for (const [discoverer, stats] of Object.entries(discovererData)) {
-    dataArray.push([discoverer, ...Object.values(stats)]);
+  for (const [platform, stats] of Object.entries(platformData)) {
+    dataArray.push([platform, ...Object.values(stats)]);
   }
 
   return dataArray;
 });
 
-const discovererDataSorted = computed(() => {
+const platformDataSorted = computed(() => {
   // I'd love to use .toSorted() here, but it seems like it doesn't work and instead just uses .sort()
-  const sortedArray = structuredClone(discovererStats.value).sort((a, b) => {
+  const sortedArray = structuredClone(platformStats.value).sort((a, b) => {
     const aValue = a[sorting.col];
     const bValue = b[sorting.col];
     const aNum = typeof aValue === 'string' ? parseFloat(aValue) : aValue;
@@ -79,7 +95,7 @@ const discovererDataSorted = computed(() => {
 
   if (sorting.order === Orders.asc) sortedArray.reverse();
 
-  return sortedArray;
+  return sortedArray.flat();
 });
 
 const toggleSortingOrder = () => (sorting.order = sorting.order === Orders.asc ? Orders.desc : Orders.asc);
@@ -97,37 +113,23 @@ function sort(event: Event) {
   }
   element.setAttribute('aria-sort', sorting.order);
 }
-
-const paginatedData = computed(() => {
-  const pages = paginateData(discovererDataSorted.value, itemsPerPage.value.discovererStats);
-
-  if (pages.length < currentPageIndex.value.discovererStats) currentPageIndex.value.discovererStats = 0;
-  return pages;
-});
-
-const useableData = computed(() => paginatedData.value[currentPageIndex.value.discovererStats]?.flat() ?? []);
 </script>
 
 <template>
-  <div v-if="useableData.length">
-    Discoverer Stats
-    <PaginationControls
-      :total-pages="paginatedData.length"
-      section="discovererStats"
-    />
+  <div v-if="platformDataSorted.length">
+    Platform Stats
     <div class="stat-grid">
-      <div class="table-header">Pos.</div>
       <div
-        class="table-header sortable"
-        @click="sort"
+        class="table-header"
       >
-        Name
+        Pos.
       </div>
+      <div class="table-header sortable">Platform</div>
       <div
         class="table-header sortable"
         @click="sort"
       >
-        Platform
+        Players
       </div>
       <div
         class="table-header sortable"
@@ -159,7 +161,7 @@ const useableData = computed(() => paginatedData.value[currentPageIndex.value.di
       >
         Tag Rate
       </div>
-      <div v-for="data in useableData">
+      <div v-for="data in platformDataSorted">
         {{ data }}
       </div>
     </div>

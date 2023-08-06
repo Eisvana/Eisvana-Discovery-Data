@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { Galaxy } from '@/types/data';
+import type { Hub } from '@/types/data';
 import GalaxySwitch from './GalaxySwitch.vue';
 
 const galaxies = [
@@ -26,7 +26,7 @@ const galaxies = [
       <div class="galaxy-switches">
         <GalaxySwitch
           v-for="galaxy in galaxies"
-          :id="galaxy.id as Galaxy"
+          :id="(galaxy.id as Hub)"
           :label="galaxy.label"
         />
       </div>

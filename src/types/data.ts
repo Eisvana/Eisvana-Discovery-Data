@@ -1,14 +1,14 @@
+export type Platform = 'ST' | 'PS' | 'XB' | 'GX' | 'NI';
+
 export interface DiscoveryData {
   Name: string;
   Glyphs: string;
   Discoverer: string;
-  Platform: string;
+  Platform: Platform;
   Timestamp: string;
   UnixTimestamp: number;
   'Correctly Tagged': boolean;
   galaxy: 'Euclid' | 'Calypso' | 'Eissentam';
 }
 
-export type Platform = 'ST' | 'PS' | 'XB' | 'GX' | 'NI';
-
-export type Galaxy = 'GHub' | 'CalHub' | 'EisHub';
+export type Hub = 'GHub' | 'CalHub' | 'EisHub';

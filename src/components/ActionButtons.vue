@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import { GalaxyMapping } from '@/objects/galaxyMapping';
+import { GalaxyMapping } from '@/objects/mappings';
 import { useDataStore } from '@/stores/data';
 import { useFilterStore } from '@/stores/filter';
-import type { DiscoveryData, Platform, Galaxy } from '@/types/data';
+import type { DiscoveryData, Hub } from '@/types/data';
 import { storeToRefs } from 'pinia';
 import { ref } from 'vue';
 
@@ -82,7 +82,7 @@ async function applyFilter(data: DiscoveryData[]) {
 
     if (!isValidDate) return false;
 
-    const isValidPlatform = !platform.value.length || platform.value.includes(item.Platform as Platform);
+    const isValidPlatform = !platform.value.length || platform.value.includes(item.Platform);
 
     if (!isValidPlatform) return false;
 
@@ -133,7 +133,7 @@ async function searchRegion(region: string) {
   const regionObjects = Object.values(importedRegions);
   const hubIndex = regionObjects.findIndex((item) => Object.values(item).includes(region));
   const regionIndex = Object.values(regionObjects[hubIndex]).indexOf(region);
-  const hub = Object.keys(importedRegions)[hubIndex] as Galaxy;
+  const hub = Object.keys(importedRegions)[hubIndex] as Hub;
   const regionGlyphs = Object.keys(regionObjects[hubIndex])[regionIndex];
   const galaxy = GalaxyMapping[hub];
   return {
@@ -176,3 +176,4 @@ async function searchRegion(region: string) {
   }
 }
 </style>
+@/objects/mappings

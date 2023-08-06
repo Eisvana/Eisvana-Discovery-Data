@@ -36,4 +36,36 @@ body {
   position: sticky;
   top: 0;
   background-color: var(--background-color);
+
+  &.sortable {
+    display: flex;
+    cursor: pointer;
+
+    &:after {
+      content: '';
+      margin-block-start: 0.5rem;
+      margin-inline-start: 0.15rem;
+      border-width: 4px 4px 0;
+      border-style: solid;
+      border-color: var(--color) transparent;
+      visibility: hidden;
+      user-select: none;
+      height: min-content;
+    }
+
+    &[aria-sort='ascending']:after {
+      border-top: none;
+      border-width: 0 4px 4px;
+    }
+
+    &[aria-sort]:after {
+      visibility: visible;
+      opacity: 0.6;
+    }
+
+    &:hover:after {
+      visibility: visible;
+      opacity: 1;
+    }
+  }
 }

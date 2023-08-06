@@ -1,10 +1,11 @@
 <script setup lang="ts">
-import type { DiscoveryData } from '@/types/data';
+import type { DiscoveryData, Platform } from '@/types/data';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import PaginationControls from '@/components/table/PaginationControls.vue';
 import { useDataStore } from '@/stores/data';
 import { paginateData } from '@/logic/logic';
+import { PlatformMapping } from '@/objects/mappings';
 
 const dataStore = useDataStore();
 const { filteredData, currentPageIndex, itemsPerPage } = storeToRefs(dataStore);
@@ -14,26 +15,10 @@ interface TextArray {
   className: string;
 }
 
-function getFullPlatform(platform: string) {
-  const platformMapping: {
-    ST: string;
-    PS: string;
-    XB: string;
-    GX: string;
-    NI: string;
-    [key: string]: string;
-  } = {
-    ST: 'Steam',
-    PS: 'PlayStation',
-    XB: 'Xbox',
-    GX: 'GOG',
-    NI: 'Nintendo Switch',
-  };
-  return platformMapping[platform];
-}
+const getFullPlatform = (platform: Platform) => PlatformMapping[platform];
 
 const paginatedData = computed(() => {
-  const pages: DiscoveryData[][] = paginateData(filteredData.value, itemsPerPage.value.resultsTable);
+  const pages = paginateData(filteredData.value, itemsPerPage.value.resultsTable) as DiscoveryData[][];
 
   if (pages.length < currentPageIndex.value.resultsTable) currentPageIndex.value.resultsTable = 0;
   return pages;
@@ -56,7 +41,7 @@ const dataArray = computed(() => {
           break;
 
         case 'Platform':
-          text = getFullPlatform(value as string);
+          text = getFullPlatform(value as Platform);
           break;
 
         case 'UnixTimestamp':
@@ -88,7 +73,7 @@ const dataArray = computed(() => {
 <template>
   <div v-if="dataArray.length">
     <PaginationControls
-      :total-items="paginatedData.length"
+      :total-pages="paginatedData.length"
       section="resultsTable"
     />
     <div class="data-table">
