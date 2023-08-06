@@ -41,7 +41,7 @@ async function loadData() {
         return importedData;
       })
     );
-    filteredData.value = await applyFilter(json.flat());
+    filteredData.value = applyFilter(json.flat());
   } catch (error) {
     console.warn(error);
   } finally {
@@ -49,17 +49,10 @@ async function loadData() {
   }
 }
 
-async function applyFilter(data: DiscoveryData[]) {
+function applyFilter(data: DiscoveryData[]) {
   const { startDate = 0, endDate = 0 } = unixTimestamp.value;
 
-  const regions: {
-    regionGlyphs: string;
-    galaxy: string;
-  }[] = [];
-  for (const regionName of activeRegions.value) {
-    const regionObj = await searchRegion(regionName);
-    regions.push(regionObj);
-  }
+  const regionData = activeRegions.value.map((item) => searchRegion(item));
 
   // handle case sensitivity option
   const searchName = caseSensitivity.value.name ? searchTerms.value.name : searchTerms.value.name.toLowerCase();
@@ -128,8 +121,8 @@ async function applyFilter(data: DiscoveryData[]) {
     if (!isValidDiscoverer) return false;
 
     const isValidRegion =
-      !regions.length ||
-      regions.some((region) => item.galaxy === region.galaxy && item.Glyphs.slice(4) === region.regionGlyphs); // NoSonar region glyphs start at index 4
+      !regionData.length ||
+      regionData.some((region) => item.galaxy === region.galaxy && item.Glyphs.slice(4) === region.regionGlyphs); // NoSonar region glyphs start at index 4
 
     return isValidRegion;
   }
@@ -137,12 +130,11 @@ async function applyFilter(data: DiscoveryData[]) {
   return data.filter(filterFunc);
 }
 
-async function searchRegion(region: string) {
+function searchRegion(region: string) {
   const regionObjects = Object.values(regions);
   const hubIndex = regionObjects.findIndex((item) => Object.values(item).includes(region));
-  const regionIndex = Object.values(regionObjects[hubIndex]).indexOf(region);
+  const regionGlyphs = Object.entries(regionObjects[hubIndex]).find((item) => item[1] === region)?.[0] ?? '';
   const hub = Object.keys(regions)[hubIndex] as Hub;
-  const regionGlyphs = Object.keys(regionObjects[hubIndex])[regionIndex];
   const galaxy = GalaxyMapping[hub];
   return {
     regionGlyphs,

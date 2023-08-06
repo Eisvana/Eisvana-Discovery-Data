@@ -16,10 +16,10 @@ const { regions } = storeToRefs(filterStore);
 
 const galaxy = computed(() => GalaxyMapping[props.hub]);
 
-for (const regionObj of Object.values(hubRegions)) {
-  for (const region of Object.values(regionObj)) {
-    regions.value[region] = true;
-  }
+const regionObj = hubRegions[props.hub];
+for (const region of Object.values(regionObj)) {
+  const hubRegions = (regions.value[props.hub] ??= {});
+  hubRegions[region] = true;
 }
 </script>
 
@@ -28,13 +28,14 @@ for (const regionObj of Object.values(hubRegions)) {
     <details>
       <summary>Filter Regions for {{ galaxy }}</summary>
       <legend>Filter Regions for {{ galaxy }}:</legend>
+      <button class="inline" @click="filterStore.invertRegionSwitches(hub)">Invert Selection</button>
       <div class="stat-grid">
         <Switch
           v-for="(regionName, index) in Object.values(hubRegions[hub])"
           :id="regionName"
           :label="`${regionName} (HUB${index + 1})`"
-          :checked="regions[regionName]"
-          @change="(e: Event) => (regions[regionName] = (e.target as HTMLInputElement).checked)"
+          :checked="regions[hub][regionName]"
+          @change="(e: Event) => (regions[hub][regionName] = (e.target as HTMLInputElement).checked)"
         />
       </div>
     </details>
@@ -42,6 +43,10 @@ for (const regionObj of Object.values(hubRegions)) {
 </template>
 
 <style scoped lang="scss">
+.inline {
+	width: auto;
+}
+
 .stat-grid {
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 }

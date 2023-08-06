@@ -11,7 +11,11 @@ interface TextSearch<T> {
 
 interface State {
   hubs: { [keys: string]: boolean };
-  regions: { [keys: string]: boolean };
+  regions: {
+    [key: string]: {
+      [keys: string]: boolean
+    };
+  };
   searchTerms: TextSearch<string>;
   intersections: TextSearch<'includes' | 'is' | '!includes' | '!is'>;
   caseSensitivity: TextSearch<boolean>;
@@ -72,24 +76,40 @@ export const useFilterStore = defineStore('filter', {
     activePlatforms: (state) => Object.entries(state.platforms).filter(item => item[1]).map(item => item[0]),
 
     activeHubs: (state): Hub[] => {
-      const activeHubs = Object.entries(state.hubs).filter(item => item[1]).map(item => item[0]);
-      const arrayIntersection = Object.keys(regionsJson).filter((value) => activeHubs.includes(value));
+      const SelectedHubs = Object.entries(state.hubs).filter(item => item[1]).map(item => item[0]);
+      const arrayIntersection = Object.keys(regionsJson).filter((value) => SelectedHubs.includes(value));
       return arrayIntersection as Hub[];
     },
 
     activeRegions: (state) => {
-      const activeRegions = Object.entries(state.regions).filter(item => item[1]).map(item => item[0]);
-      const activeHubs = Object.entries(state.hubs).filter(item => item[1]).map(item => item[0]);
-      const hubArrayIntersection = Object.keys(regionsJson).filter((value) => activeHubs.includes(value));
+      const regionArray = Object.values(state.regions)
+
+      const selectedRegions: string[] = [];
+
+      for (const region of regionArray) {
+        selectedRegions.push(...Object.entries(region).filter(item => item[1]).map(item => item[0]));
+      }
+
+      const SelectedHubs = Object.entries(state.hubs).filter(item => item[1]).map(item => item[0]);
+      const hubArrayIntersection = Object.keys(regionsJson).filter((value) => SelectedHubs.includes(value));
 
       const possibleRegions: string[] = [];
 
       for (const hub of hubArrayIntersection) {
-        possibleRegions.push(...Object.values(regionsJson[hub as Hub] as { [key: string]: string }))
+        possibleRegions.push(...Object.values(regionsJson[hub as Hub]))
       }
 
-      const regionArrayIntersection = possibleRegions.filter((value) => activeRegions.includes(value));
+      const regionArrayIntersection = possibleRegions.filter((value) => selectedRegions.includes(value));
       return regionArrayIntersection;
     },
+  },
+
+  actions: {
+    invertRegionSwitches(hub: string) {
+      const hubRegionData = this.regions[hub];
+      for (const [key, value] of Object.entries(hubRegionData)) {
+        hubRegionData[key] = !value;
+      }
+    }
   }
 });
