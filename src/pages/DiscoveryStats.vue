@@ -2,6 +2,7 @@
 import DiscovererStats from '@/components/stats/DiscovererStats.vue';
 import PlatformStats from '@/components/stats/PlatformStats.vue';
 import NumberStats from '@/components/stats/NumberStats.vue';
+import DiscovererChart from '@/components/stats/charts/DiscovererChart.vue';
 </script>
 
 <template>
@@ -9,6 +10,7 @@ import NumberStats from '@/components/stats/NumberStats.vue';
     <NumberStats />
     <DiscovererStats />
     <PlatformStats />
+    <DiscovererChart />
   </div>
 </template>
 
