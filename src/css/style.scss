@@ -36,6 +36,8 @@ body {
   position: sticky;
   top: 0;
   background-color: var(--background-color);
+  white-space: pre;
+  align-self: auto !important;
 
   &.sortable {
     display: flex;
@@ -67,5 +69,14 @@ body {
       visibility: visible;
       opacity: 1;
     }
+  }
+}
+
+.stat-grid {
+  display: grid;
+  gap: 1rem;
+
+  & > * {
+    align-self: center;
   }
 }

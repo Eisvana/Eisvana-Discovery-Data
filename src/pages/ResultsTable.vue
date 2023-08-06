@@ -1,11 +1,12 @@
 <script setup lang="ts">
-import type { DiscoveryData, Platform } from '@/types/data';
-import { storeToRefs } from 'pinia';
-import { computed } from 'vue';
 import PaginationControls from '@/components/table/PaginationControls.vue';
-import { useDataStore } from '@/stores/data';
+import TableHeaders from '@/components/table/TableHeaders.vue';
 import { paginateData } from '@/logic/logic';
 import { PlatformMapping } from '@/objects/mappings';
+import { useDataStore } from '@/stores/data';
+import type { DiscoveryData, Platform, TableHeadings } from '@/types/data';
+import { storeToRefs } from 'pinia';
+import { computed } from 'vue';
 
 const dataStore = useDataStore();
 const { filteredData, currentPageIndex, itemsPerPage } = storeToRefs(dataStore);
@@ -68,6 +69,10 @@ const dataArray = computed(() => {
   }
   return textArray;
 });
+
+const headers: TableHeadings = {
+  normal: ['System Name', 'Glyphs', 'Discoverer', 'Platform', 'Date', 'Tagged'],
+};
 </script>
 
 <template>
@@ -77,17 +82,12 @@ const dataArray = computed(() => {
       section="resultsTable"
     />
     <div class="data-table">
-      <div class="table-header">System Name</div>
-      <div class="table-header">Glyphs</div>
-      <div class="table-header">Discoverer</div>
-      <div class="table-header">Platform</div>
-      <div class="table-header">Date</div>
-      <div class="table-header">Tagged</div>
+      <TableHeaders :headers="headers" />
       <div
-        v-for="text in dataArray"
-        :class="text.className"
+        v-for="obj in dataArray"
+        :class="obj.className"
       >
-        {{ text.text }}
+        {{ obj.text }}
       </div>
     </div>
   </div>

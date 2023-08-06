@@ -17,3 +17,8 @@ export enum PlatformMapping {
   GX = 'GOG',
   NI = 'Nintendo Switch',
 }
+
+export enum Orders {
+  asc = 'ascending',
+  desc = 'descending',
+}

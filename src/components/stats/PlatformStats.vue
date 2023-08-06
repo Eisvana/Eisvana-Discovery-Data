@@ -1,20 +1,16 @@
 <script setup lang="ts">
-import { PlatformMapping } from '@/objects/mappings';
+import { getPercentage, sortData } from '@/logic/logic';
+import { Orders, PlatformMapping } from '@/objects/mappings';
 import { useDataStore } from '@/stores/data';
+import type { Sorting, TableHeadings } from '@/types/data';
 import { storeToRefs } from 'pinia';
 import { computed, reactive } from 'vue';
+import DataTable from '../table/DataTable.vue';
 
 const dataStore = useDataStore();
-const { filteredData, dataLength, amountTagged, itemsPerPage, currentPageIndex } = storeToRefs(dataStore);
+const { filteredData, dataLength, amountTagged } = storeToRefs(dataStore);
 
-const getPercentage = (amount: number, total: number) => parseFloat(((amount / total) * 100).toFixed(1)); // NoSonar this calculates a percentage
-
-enum Orders {
-  asc = 'ascending',
-  desc = 'descending',
-}
-
-const sorting = reactive<{ col: number; order: Orders }>({
+const sorting = reactive<Sorting>({
   col: 2,
   order: Orders.desc,
 });
@@ -78,100 +74,24 @@ const platformStats = computed(() => {
   return dataArray;
 });
 
-const platformDataSorted = computed(() => {
-  // I'd love to use .toSorted() here, but it seems like it doesn't work and instead just uses .sort()
-  const sortedArray = structuredClone(platformStats.value).sort((a, b) => {
-    const aValue = a[sorting.col];
-    const bValue = b[sorting.col];
-    const aNum = typeof aValue === 'string' ? parseFloat(aValue) : aValue;
-    const bNum = typeof bValue === 'string' ? parseFloat(bValue) : bValue;
+const platformDataSorted = computed(() => sortData(platformStats.value, sorting).flat());
 
-    return isNaN(aNum) || isNaN(bNum) ? (bValue < aValue ? 1 : -1) : bNum - aNum;
-  });
-
-  for (let i = 0; i < sortedArray.length; i++) {
-    sortedArray[i].unshift(`${i + 1}.`);
-  }
-
-  if (sorting.order === Orders.asc) sortedArray.reverse();
-
-  return sortedArray.flat();
-});
-
-const toggleSortingOrder = () => (sorting.order = sorting.order === Orders.asc ? Orders.desc : Orders.asc);
-
-function sort(event: Event) {
-  const element = event.target as HTMLDivElement;
-  const parent = element.parentElement!;
-  const index = Array.from(parent.children).indexOf(element) - 1;
-  if (sorting.col === index) {
-    toggleSortingOrder();
-  } else {
-    sorting.col = index;
-    sorting.order = Orders.desc;
-    parent.querySelector('[aria-sort]')?.removeAttribute('aria-sort');
-  }
-  element.setAttribute('aria-sort', sorting.order);
-}
+const headers: TableHeadings = {
+  normal: ['Pos.'],
+  sortable: ['Platform', 'Players', 'Discoveries', 'Discoveries %', 'Tagged', 'Tagged %\nof total', 'Tag Rate'],
+};
 </script>
 
 <template>
-  <div v-if="platformDataSorted.length">
-    Platform Stats
-    <div class="stat-grid">
-      <div
-        class="table-header"
-      >
-        Pos.
-      </div>
-      <div class="table-header sortable">Platform</div>
-      <div
-        class="table-header sortable"
-        @click="sort"
-      >
-        Players
-      </div>
-      <div
-        class="table-header sortable"
-        @click="sort"
-      >
-        Discoveries
-      </div>
-      <div
-        class="table-header sortable"
-        @click="sort"
-      >
-        Discoveries %
-      </div>
-      <div
-        class="table-header sortable"
-        @click="sort"
-      >
-        Tagged
-      </div>
-      <div
-        class="table-header sortable"
-        @click="sort"
-      >
-        Tagged %<br />of total
-      </div>
-      <div
-        class="table-header sortable"
-        @click="sort"
-      >
-        Tag Rate
-      </div>
-      <div v-for="data in platformDataSorted">
-        {{ data }}
-      </div>
-    </div>
-  </div>
+  <details
+    v-if="platformDataSorted.length"
+    open
+  >
+    <summary>Platform Stats</summary>
+    <DataTable
+      :headers="headers"
+      :sorting="sorting"
+      :data="platformDataSorted"
+    />
+  </details>
 </template>
-
-<style scoped lang="scss">
-.stat-grid {
-  display: grid;
-  gap: 1rem;
-  grid-template-columns: repeat(8, auto);
-}
-</style>

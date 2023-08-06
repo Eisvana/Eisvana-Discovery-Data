@@ -1,3 +1,5 @@
+import type { Orders } from "@/objects/mappings";
+
 export type Platform = 'ST' | 'PS' | 'XB' | 'GX' | 'NI';
 
 export interface DiscoveryData {
@@ -12,3 +14,13 @@ export interface DiscoveryData {
 }
 
 export type Hub = 'GHub' | 'CalHub' | 'EisHub';
+
+export interface Sorting {
+  col: number;
+  order: Orders
+}
+
+export interface TableHeadings {
+  normal?: string[];
+  sortable?: string[];
+}

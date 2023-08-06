@@ -71,7 +71,7 @@ function parsePaginationSelection(event: Event) {
       </select>
     </label>
     <button
-      v-if="currentPageIndex"
+      v-if="currentPageIndex[section]"
       class="outline"
       @click="currentPageIndex[section]--"
     >

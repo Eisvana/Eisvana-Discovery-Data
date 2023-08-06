@@ -17,7 +17,7 @@ const galaxy = computed(() => GalaxyMapping[props.hub]);
     <details>
       <summary>Filter Regions for {{ galaxy }}</summary>
       <legend>Filter Regions for {{ galaxy }}:</legend>
-      <div class="region-switches">
+      <div class="stat-grid">
         <RegionSwitch
           v-for="(regionName, index) in Object.values(hubRegions[hub])"
           :id="regionName"
@@ -29,10 +29,7 @@ const galaxy = computed(() => GalaxyMapping[props.hub]);
 </template>
 
 <style scoped lang="scss">
-.region-switches {
-  display: grid;
+.stat-grid {
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 1rem;
 }
 </style>
-@/objects/mappings
