@@ -2,6 +2,7 @@
 defineProps<{
   id: string;
   label: string;
+  checked: boolean | undefined;
 }>();
 </script>
 
@@ -9,6 +10,7 @@ defineProps<{
   <label :for="id">
     <input
       type="checkbox"
+      :checked="Boolean(checked)"
       :id="id"
       :name="id"
       role="switch"

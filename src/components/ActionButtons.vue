@@ -1,16 +1,25 @@
 <script setup lang="ts">
-import { GalaxyMapping } from '@/objects/mappings';
 import { useDataStore } from '@/stores/data';
 import { useFilterStore } from '@/stores/filter';
 import type { DiscoveryData, Hub } from '@/types/data';
 import { storeToRefs } from 'pinia';
 import { ref } from 'vue';
+import regions from '@/assets/regions.json';
+import { GalaxyMapping } from '@/objects/mappings';
 
 const filterStore = useFilterStore();
 const dataStore = useDataStore();
 
-const { unixTimestamp, platform, tagged, intersections, searchTerms, caseSensitivity, region } =
-  storeToRefs(filterStore);
+const {
+  unixTimestamp,
+  tagged,
+  intersections,
+  searchTerms,
+  caseSensitivity,
+  activeRegions,
+  activeHubs,
+  activePlatforms,
+} = storeToRefs(filterStore);
 const { filteredData } = storeToRefs(dataStore);
 
 const isLoading = ref(false);
@@ -24,7 +33,7 @@ async function loadData() {
   isLoading.value = true;
   try {
     const json: DiscoveryData[][] = await Promise.all(
-      filterStore.galaxy.map(async (galaxy) => {
+      activeHubs.value.map(async (galaxy: Hub) => {
         const { default: importedData } = await import(`../assets/${galaxy}/${galaxy}.json`);
         importedData.forEach((data: DiscoveryData) => {
           data.galaxy = GalaxyMapping[galaxy];
@@ -47,7 +56,7 @@ async function applyFilter(data: DiscoveryData[]) {
     regionGlyphs: string;
     galaxy: string;
   }[] = [];
-  for (const regionName of region.value) {
+  for (const regionName of activeRegions.value) {
     const regionObj = await searchRegion(regionName);
     regions.push(regionObj);
   }
@@ -82,7 +91,7 @@ async function applyFilter(data: DiscoveryData[]) {
 
     if (!isValidDate) return false;
 
-    const isValidPlatform = !platform.value.length || platform.value.includes(item.Platform);
+    const isValidPlatform = !activePlatforms.value.length || activePlatforms.value.includes(item.Platform);
 
     if (!isValidPlatform) return false;
 
@@ -129,11 +138,10 @@ async function applyFilter(data: DiscoveryData[]) {
 }
 
 async function searchRegion(region: string) {
-  const { default: importedRegions } = await import('../assets/regions.json');
-  const regionObjects = Object.values(importedRegions);
+  const regionObjects = Object.values(regions);
   const hubIndex = regionObjects.findIndex((item) => Object.values(item).includes(region));
   const regionIndex = Object.values(regionObjects[hubIndex]).indexOf(region);
-  const hub = Object.keys(importedRegions)[hubIndex] as Hub;
+  const hub = Object.keys(regions)[hubIndex] as Hub;
   const regionGlyphs = Object.keys(regionObjects[hubIndex])[regionIndex];
   const galaxy = GalaxyMapping[hub];
   return {
