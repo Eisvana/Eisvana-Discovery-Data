@@ -22,3 +22,8 @@ export enum Orders {
   asc = 'ascending',
   desc = 'descending',
 }
+
+export enum ChartColours {
+  blue = '#1095C1',
+  red = '#e85123',
+}

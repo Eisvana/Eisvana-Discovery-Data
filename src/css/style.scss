@@ -80,3 +80,7 @@ body {
     align-self: center;
   }
 }
+
+details[open] {
+  width: 100%;
+}

@@ -4,62 +4,60 @@ import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, Li
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
-import { ChartColours } from '@/objects/mappings';
+import { ChartColours, PlatformMapping } from '@/objects/mappings';
+import type { Platform } from '@/types/data';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
 
 const dataStore = useDataStore();
 const { filteredData } = storeToRefs(dataStore);
 
-interface DiscovererData {
+interface PlatformData {
   [key: string]: {
     discoveries: number;
     tags: number;
   };
 }
 
-const discovererStats = computed(() => {
-  const discovererData: DiscovererData = {};
+const platformStats = computed(() => {
+  const platformData: PlatformData = {};
 
   for (const data of filteredData.value) {
-    if (!data.Discoverer) continue;
-    const discovererObject = (discovererData[data.Discoverer] ??= {
+    if (!data.Platform) continue;
+    const platformObject = (platformData[data.Platform] ??= {
       discoveries: 0,
       tags: 0,
     });
-    discovererObject.discoveries++;
-    if (data['Correctly Tagged']) discovererObject.tags++;
+    platformObject.discoveries++;
+    if (data['Correctly Tagged']) platformObject.tags++;
   }
 
-  const sortedDiscovererArray = Object.entries(discovererData);
+  const sortedPlatformArray = Object.entries(platformData);
 
-  sortedDiscovererArray.sort((a, b) => b[1].discoveries - a[1].discoveries);
+  sortedPlatformArray.sort((a, b) => b[1].discoveries - a[1].discoveries);
 
-  const discoverersToShow = 45;
-  const topDiscoverers = sortedDiscovererArray.slice(0, discoverersToShow);
-
-  const discovererStatsObject = Object.fromEntries(topDiscoverers);
+  const platformStatsObject = Object.fromEntries(sortedPlatformArray);
 
   return {
-    names: Object.keys(discovererStatsObject),
-    tags: Object.values(discovererStatsObject).map((item) => item.tags),
-    incorrect: Object.values(discovererStatsObject).map((item) => item.discoveries - item.tags),
+    platforms: Object.keys(platformStatsObject).map((item) => PlatformMapping[item as Platform]),
+    tags: Object.values(platformStatsObject).map((item) => item.tags),
+    incorrect: Object.values(platformStatsObject).map((item) => item.discoveries - item.tags),
   };
 });
 
 const chartData = computed(() => ({
-  labels: discovererStats.value.names,
+  labels: platformStats.value.platforms,
   name: 'Test',
   datasets: [
     {
       label: 'Tagged',
       backgroundColor: ChartColours.blue,
-      data: discovererStats.value.tags,
+      data: platformStats.value.tags,
     },
     {
       label: 'Not Tagged',
       backgroundColor: ChartColours.red,
-      data: discovererStats.value.incorrect,
+      data: platformStats.value.incorrect,
     },
   ],
 }));
@@ -80,7 +78,7 @@ const options = {
 
 <template>
   <details>
-    <summary>Discoveries and Hub tags per player</summary>
+    <summary>Discoveries and Hub tags per platform</summary>
     <Bar
       :data="chartData"
       :options="options"

@@ -51,10 +51,7 @@ const headers: TableHeadings = {
 </script>
 
 <template>
-  <details
-    v-if="filteredData.length"
-    open
-  >
+  <details open>
     <summary>Number Stats</summary>
     <div class="number-stats-wrapper">
       <div>Tagged: {{ amountTagged }} ({{ systemsTaggedPercent }}%)</div>
