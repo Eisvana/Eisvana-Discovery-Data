@@ -1,5 +1,6 @@
 import { defineStore } from 'pinia';
-import type { DiscoveryData, Galaxy, Platform } from '@/types/data';
+import type { Hub } from '@/types/data';
+import regionsJson from '@/assets/regions.json';
 
 interface TextSearch<T> {
   name: T;
@@ -9,25 +10,28 @@ interface TextSearch<T> {
 }
 
 interface State {
-  galaxy: Galaxy[];
-  region: string[];
+  hubs: { [keys: string]: boolean };
+  regions: {
+    [key: string]: {
+      [keys: string]: boolean
+    };
+  };
   searchTerms: TextSearch<string>;
   intersections: TextSearch<'includes' | 'is' | '!includes' | '!is'>;
   caseSensitivity: TextSearch<boolean>;
-  platform: Array<Platform>;
+  platforms: { [keys: string]: boolean };
   date: {
     startDate: string;
     endDate: string;
     [key: string]: string;
   }
   tagged: '' | boolean;
-  filteredData: DiscoveryData[];
 }
 
 export const useFilterStore = defineStore('filter', {
   state: (): State => ({
-    galaxy: [],
-    region: [],
+    hubs: {},
+    regions: {},
     searchTerms: {
       name: '',
       glyphs: '',
@@ -44,13 +48,12 @@ export const useFilterStore = defineStore('filter', {
       discoverer: false,
     },
 
-    platform: [],
+    platforms: {},
     date: {
       startDate: '',
       endDate: ''
     },
     tagged: '',
-    filteredData: []
   }),
 
   getters: {
@@ -70,9 +73,43 @@ export const useFilterStore = defineStore('filter', {
       }
       return numberDateObj;
     },
+    activePlatforms: (state) => Object.entries(state.platforms).filter(item => item[1]).map(item => item[0]),
+
+    activeHubs: (state): Hub[] => {
+      const SelectedHubs = Object.entries(state.hubs).filter(item => item[1]).map(item => item[0]);
+      const arrayIntersection = Object.keys(regionsJson).filter((value) => SelectedHubs.includes(value));
+      return arrayIntersection as Hub[];
+    },
+
+    activeRegions: (state) => {
+      const regionArray = Object.values(state.regions)
+
+      const selectedRegions: string[] = [];
+
+      for (const region of regionArray) {
+        selectedRegions.push(...Object.entries(region).filter(item => item[1]).map(item => item[0]));
+      }
+
+      const SelectedHubs = Object.entries(state.hubs).filter(item => item[1]).map(item => item[0]);
+      const hubArrayIntersection = Object.keys(regionsJson).filter((value) => SelectedHubs.includes(value));
+
+      const possibleRegions: string[] = [];
+
+      for (const hub of hubArrayIntersection) {
+        possibleRegions.push(...Object.values(regionsJson[hub as Hub]))
+      }
+
+      const regionArrayIntersection = possibleRegions.filter((value) => selectedRegions.includes(value));
+      return regionArrayIntersection;
+    },
   },
 
   actions: {
-
+    invertRegionSwitches(hub: string) {
+      const hubRegionData = this.regions[hub];
+      for (const [key, value] of Object.entries(hubRegionData)) {
+        hubRegionData[key] = !value;
+      }
+    }
   }
 });

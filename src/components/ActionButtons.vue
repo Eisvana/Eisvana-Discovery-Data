@@ -1,51 +1,58 @@
 <script setup lang="ts">
-import { GalaxyMapping } from '@/objects/galaxyMapping';
+import { useDataStore } from '@/stores/data';
 import { useFilterStore } from '@/stores/filter';
-import type { DiscoveryData, Platform, Galaxy } from '@/types/data';
+import type { DiscoveryData, Hub } from '@/types/data';
 import { storeToRefs } from 'pinia';
 import { ref } from 'vue';
+import regions from '@/assets/regions.json';
+import { GalaxyMapping } from '@/objects/mappings';
 
 const filterStore = useFilterStore();
+const dataStore = useDataStore();
 
-const { filteredData, unixTimestamp, platform, tagged, intersections, searchTerms, caseSensitivity, region } =
-  storeToRefs(filterStore);
+const {
+  unixTimestamp,
+  tagged,
+  intersections,
+  searchTerms,
+  caseSensitivity,
+  activeRegions,
+  activeHubs,
+  activePlatforms,
+} = storeToRefs(filterStore);
+const { filteredData } = storeToRefs(dataStore);
 
 const isLoading = ref(false);
 
-const resetStore = () => filterStore.$reset();
+const resetStore = () => {
+  filterStore.$reset();
+  filteredData.value = [];
+};
 
 async function loadData() {
-  const galaxies = filterStore.galaxy;
-
-  const json: DiscoveryData[] = [];
-
   isLoading.value = true;
-  for (const galaxy of galaxies) {
-    try {
-      const { default: importedData } = await import(`../assets/${galaxy}/${galaxy}.json`);
-      for (const data of importedData) {
-        data.galaxy = GalaxyMapping[galaxy];
-      }
-      json.push(...importedData);
-    } catch (error) {
-      console.warn(error);
-    }
+  try {
+    const json: DiscoveryData[][] = await Promise.all(
+      activeHubs.value.map(async (galaxy: Hub) => {
+        const { default: importedData } = await import(`../assets/${galaxy}/${galaxy}.json`);
+        importedData.forEach((data: DiscoveryData) => {
+          data.galaxy = GalaxyMapping[galaxy];
+        });
+        return importedData;
+      })
+    );
+    filteredData.value = applyFilter(json.flat());
+  } catch (error) {
+    console.warn(error);
+  } finally {
+    isLoading.value = false;
   }
-  await applyFilter(json);
-  isLoading.value = false;
 }
 
-async function applyFilter(data: DiscoveryData[]) {
+function applyFilter(data: DiscoveryData[]) {
   const { startDate = 0, endDate = 0 } = unixTimestamp.value;
 
-  const regions: {
-    regionGlyphs: string;
-    galaxy: string;
-  }[] = [];
-  for (const regionName of region.value) {
-    const regionObj = await searchRegion(regionName);
-    regions.push(regionObj);
-  }
+  const regionData = activeRegions.value.map((item) => searchRegion(item));
 
   // handle case sensitivity option
   const searchName = caseSensitivity.value.name ? searchTerms.value.name : searchTerms.value.name.toLowerCase();
@@ -75,10 +82,16 @@ async function applyFilter(data: DiscoveryData[]) {
       (startDate < item.UnixTimestamp && !endDate) ||
       (!startDate && item.UnixTimestamp < endDate + dayInMs);
 
-    const isValidPlatform = !platform.value.length || platform.value.includes(item.Platform as Platform);
+    if (!isValidDate) return false;
+
+    const isValidPlatform = !activePlatforms.value.length || activePlatforms.value.includes(item.Platform);
+
+    if (!isValidPlatform) return false;
 
     const isValidTagged =
       tagged.value === '' || (tagged.value && item['Correctly Tagged']) || (!tagged.value && !item['Correctly Tagged']);
+
+    if (!isValidTagged) return false;
 
     const isValidName =
       !searchName ||
@@ -87,12 +100,16 @@ async function applyFilter(data: DiscoveryData[]) {
       (intersectionName === '!includes' && !itemName.includes(searchName)) ||
       (intersectionName === '!is' && itemName !== searchName);
 
+    if (!isValidName) return false;
+
     const isValidGlyphs =
       !searchGlyphs ||
       (intersectionGlyphs === 'includes' && itemGlyphs.includes(searchGlyphs)) ||
       (intersectionGlyphs === 'is' && itemGlyphs === searchGlyphs) ||
       (intersectionGlyphs === '!includes' && !itemGlyphs.includes(searchGlyphs)) ||
       (intersectionGlyphs === '!is' && itemGlyphs !== searchGlyphs);
+
+    if (!isValidGlyphs) return false;
 
     const isValidDiscoverer =
       !searchDiscoverer ||
@@ -101,31 +118,23 @@ async function applyFilter(data: DiscoveryData[]) {
       (intersectionDiscoverer === '!includes' && !itemDiscoverer.includes(searchDiscoverer)) ||
       (intersectionDiscoverer === '!is' && itemDiscoverer !== searchDiscoverer);
 
-    const isValidRegion =
-      !regions.length ||
-      regions.some((region) => item.galaxy === region.galaxy && item.Glyphs.slice(4) === region.regionGlyphs); // NoSonar region glyphs start at index 4
+    if (!isValidDiscoverer) return false;
 
-    return (
-      isValidDate &&
-      isValidName &&
-      isValidPlatform &&
-      isValidTagged &&
-      isValidGlyphs &&
-      isValidDiscoverer &&
-      isValidRegion
-    );
+    const isValidRegion =
+      !regionData.length ||
+      regionData.some((region) => item.galaxy === region.galaxy && item.Glyphs.slice(4) === region.regionGlyphs); // NoSonar region glyphs start at index 4
+
+    return isValidRegion;
   }
 
-  filteredData.value = data.filter(filterFunc);
+  return data.filter(filterFunc);
 }
 
-async function searchRegion(region: string) {
-  const { default: importedRegions } = await import('../assets/regions.json');
-  const regionObjects = Object.values(importedRegions);
+function searchRegion(region: string) {
+  const regionObjects = Object.values(regions);
   const hubIndex = regionObjects.findIndex((item) => Object.values(item).includes(region));
-  const regionIndex = Object.values(regionObjects[hubIndex]).findIndex((item) => item === region);
-  const hub = Object.keys(importedRegions)[hubIndex] as Galaxy;
-  const regionGlyphs = Object.keys(regionObjects[hubIndex])[regionIndex];
+  const regionGlyphs = Object.entries(regionObjects[hubIndex]).find((item) => item[1] === region)?.[0] ?? '';
+  const hub = Object.keys(regions)[hubIndex] as Hub;
   const galaxy = GalaxyMapping[hub];
   return {
     regionGlyphs,
@@ -167,3 +176,4 @@ async function searchRegion(region: string) {
   }
 }
 </style>
+@/objects/mappings

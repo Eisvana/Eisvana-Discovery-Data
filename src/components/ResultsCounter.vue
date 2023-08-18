@@ -1,14 +1,11 @@
 <script setup lang="ts">
-import { useFilterStore } from '@/stores/filter';
+import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
-import { computed } from 'vue';
 
-const filterStore = useFilterStore();
-const { filteredData } = storeToRefs(filterStore);
-
-const counter = computed(() => filteredData.value.length);
+const dataStore = useDataStore();
+const { dataLength } = storeToRefs(dataStore);
 </script>
 
 <template>
-  <div>Number of results: {{ counter }}</div>
+  <div>Number of results: {{ dataLength }}</div>
 </template>

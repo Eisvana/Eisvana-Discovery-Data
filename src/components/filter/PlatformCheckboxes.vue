@@ -1,9 +1,9 @@
 <script setup lang="ts">
 import { useFilterStore } from '@/stores/filter';
-import Switch from './Switch.vue';
+import Switch from '../Switch.vue';
 import { storeToRefs } from 'pinia';
 
-defineProps<{
+const props = defineProps<{
   label: string;
   id: string;
   switches: {
@@ -16,15 +16,10 @@ defineProps<{
 }>();
 
 const filterStore = useFilterStore();
-const { platform } = storeToRefs(filterStore);
+const { platforms } = storeToRefs(filterStore);
 
-function togglePlatform(currentPlatform: 'ST' | 'PS' | 'XB' | 'GX' | 'NI') {
-  const index = platform.value.findIndex((item) => item === currentPlatform);
-  if (index === -1) {
-    platform.value.push(currentPlatform);
-  } else {
-    platform.value.splice(index, 1);
-  }
+for (const short in props.switches) {
+  platforms.value[short] = true;
 }
 </script>
 
@@ -35,7 +30,8 @@ function togglePlatform(currentPlatform: 'ST' | 'PS' | 'XB' | 'GX' | 'NI') {
       v-for="(value, key) in switches"
       :id="key"
       :label="value"
-      @change="togglePlatform(key)"
+      :checked="platforms[key]"
+      @change="(e: Event) => (platforms[key] = (e.target as HTMLInputElement).checked)"
     />
   </div>
 </template>

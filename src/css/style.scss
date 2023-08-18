@@ -27,3 +27,60 @@ html,
 body {
   scrollbar-gutter: stable;
 }
+
+.table-header {
+  font-weight: bold;
+  border-block-end: 1px solid var(--color);
+  padding-block-end: 0.25rem;
+  padding-block-start: 0.5rem;
+  position: sticky;
+  top: 0;
+  background-color: var(--background-color);
+  white-space: pre;
+  align-self: auto !important;
+
+  &.sortable {
+    display: flex;
+    cursor: pointer;
+
+    &:after {
+      content: '';
+      margin-block-start: 0.5rem;
+      margin-inline-start: 0.15rem;
+      border-width: 4px 4px 0;
+      border-style: solid;
+      border-color: var(--color) transparent;
+      visibility: hidden;
+      user-select: none;
+      height: min-content;
+    }
+
+    &[aria-sort='ascending']:after {
+      border-top: none;
+      border-width: 0 4px 4px;
+    }
+
+    &[aria-sort]:after {
+      visibility: visible;
+      opacity: 0.6;
+    }
+
+    &:hover:after {
+      visibility: visible;
+      opacity: 1;
+    }
+  }
+}
+
+.stat-grid {
+  display: grid;
+  gap: 1rem;
+
+  & > * {
+    align-self: center;
+  }
+}
+
+details[open] {
+  width: 100%;
+}

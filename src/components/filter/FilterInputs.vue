@@ -1,13 +1,13 @@
 <script setup lang="ts">
 import GalaxySwitches from './GalaxySwitches.vue';
 import ColumnFilter from './ColumnFilter.vue';
-import ActionButtons from './ActionButtons.vue';
+import ActionButtons from '../ActionButtons.vue';
 import { useFilterStore } from '@/stores/filter';
 import { storeToRefs } from 'pinia';
 import RegionFilter from './RegionFilter.vue';
 
 const filterStore = useFilterStore();
-const { galaxy } = storeToRefs(filterStore);
+const { activeHubs } = storeToRefs(filterStore);
 </script>
 
 <template>
@@ -15,8 +15,9 @@ const { galaxy } = storeToRefs(filterStore);
     <GalaxySwitches />
     <ColumnFilter />
     <RegionFilter
-      v-for="hub in galaxy"
+      v-for="hub in activeHubs"
       :hub="hub"
+      :key="hub"
     />
     <ActionButtons />
   </form>
