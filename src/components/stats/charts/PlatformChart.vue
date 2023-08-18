@@ -1,13 +1,13 @@
 <script setup lang="ts">
-import { Bar } from 'vue-chartjs';
-import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale } from 'chart.js';
+import { Bar, Pie } from 'vue-chartjs';
+import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale, ArcElement } from 'chart.js';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
-import { ChartColours, PlatformMapping } from '@/objects/mappings';
+import { ChartColours, PlatformMapping, PlatformColours } from '@/objects/mappings';
 import type { Platform } from '@/types/data';
 
-ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
+ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
 const dataStore = useDataStore();
 const { filteredData } = storeToRefs(dataStore);
@@ -45,9 +45,8 @@ const platformStats = computed(() => {
   };
 });
 
-const chartData = computed(() => ({
+const barChartData = computed(() => ({
   labels: platformStats.value.platforms,
-  name: 'Test',
   datasets: [
     {
       label: 'Tagged',
@@ -62,7 +61,46 @@ const chartData = computed(() => ({
   ],
 }));
 
-const options = {
+const pieChartData = computed(() => {
+  const discoveries: number[] = [];
+
+  const colours = platformStats.value.platforms.map((platform) => {
+    // TODO: Refactor this to use an object which is accessed
+    switch (platform) {
+      case PlatformMapping.ST:
+        return PlatformColours.steam;
+
+      case PlatformMapping.PS:
+        return PlatformColours.ps;
+
+      case PlatformMapping.XB:
+        return PlatformColours.xb;
+
+      case PlatformMapping.GX:
+        return PlatformColours.gog;
+
+      case PlatformMapping.NI:
+        return PlatformColours.switch;
+    }
+  });
+
+  for (let i = 0; i < platformStats.value.platforms.length; i++) {
+    const numOfDiscoveries = platformStats.value.tags[i] + platformStats.value.incorrect[i];
+    discoveries.push(numOfDiscoveries);
+  }
+
+  return {
+    labels: platformStats.value.platforms,
+    datasets: [
+      {
+        backgroundColor: colours,
+        data: discoveries,
+      },
+    ],
+  };
+});
+
+const barChartOptions = {
   responsive: true,
   maintainAspectRatio: true,
   scales: {
@@ -74,14 +112,33 @@ const options = {
     },
   },
 };
+
+const pieChartOptions = {
+  responsive: true,
+  maintainAspectRatio: true,
+};
 </script>
 
 <template>
   <details>
     <summary>Discoveries and Hub tags per platform</summary>
     <Bar
-      :data="chartData"
-      :options="options"
+      :data="barChartData"
+      :options="barChartOptions"
     />
+    <div class="pie-chart">
+      <Pie
+        :data="pieChartData"
+        :options="pieChartOptions"
+      />
+    </div>
   </details>
 </template>
+
+<style scoped lang="scss">
+.pie-chart {
+  width: min(700px, 100%);
+  margin-inline: auto;
+  margin-block-start: 2rem;
+}
+</style>

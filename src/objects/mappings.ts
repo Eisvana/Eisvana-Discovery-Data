@@ -27,3 +27,17 @@ export enum ChartColours {
   blue = '#1095C1',
   red = '#e85123',
 }
+
+export enum AppSections {
+  resultsTable = 'resultsTable',
+  discovererStats = 'discovererStats',
+  discovererChart = 'discovererChart',
+}
+
+export enum PlatformColours {
+  steam = '#003EFF',
+  ps = '#0080FF',
+  xb = '#56FF56',
+  gog = '#EBFF3A',
+  switch = '#FF3A3A',
+}

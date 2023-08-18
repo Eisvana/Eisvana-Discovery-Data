@@ -4,18 +4,26 @@ import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, Li
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
-import { ChartColours } from '@/objects/mappings';
+import { AppSections, ChartColours } from '@/objects/mappings';
+import PaginationControls from '@/components/table/PaginationControls.vue';
+import { paginateData } from '@/logic/logic';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
 
 const dataStore = useDataStore();
-const { filteredData } = storeToRefs(dataStore);
+const { filteredData, currentPageIndex, itemsPerPage } = storeToRefs(dataStore);
 
 interface DiscovererData {
   [key: string]: {
     discoveries: number;
     tags: number;
   };
+}
+
+interface DiscovererDataArray {
+  name: string;
+  discoveries: number;
+  tags: number;
 }
 
 const discovererStats = computed(() => {
@@ -35,34 +43,52 @@ const discovererStats = computed(() => {
 
   sortedDiscovererArray.sort((a, b) => b[1].discoveries - a[1].discoveries);
 
-  const discoverersToShow = 45;
-  const topDiscoverers = sortedDiscovererArray.slice(0, discoverersToShow);
+  const discovererStatsObject: DiscovererDataArray[] = [];
 
-  const discovererStatsObject = Object.fromEntries(topDiscoverers);
+  for (const [name, playerStats] of sortedDiscovererArray) {
+    discovererStatsObject.push({ name, ...playerStats });
+  }
 
-  return {
-    names: Object.keys(discovererStatsObject),
-    tags: Object.values(discovererStatsObject).map((item) => item.tags),
-    incorrect: Object.values(discovererStatsObject).map((item) => item.discoveries - item.tags),
-  };
+  return discovererStatsObject;
 });
 
-const chartData = computed(() => ({
-  labels: discovererStats.value.names,
-  name: 'Test',
-  datasets: [
-    {
-      label: 'Tagged',
-      backgroundColor: ChartColours.blue,
-      data: discovererStats.value.tags,
-    },
-    {
-      label: 'Not Tagged',
-      backgroundColor: ChartColours.red,
-      data: discovererStats.value.incorrect,
-    },
-  ],
-}));
+const paginatedData = computed(() => {
+  const pages = paginateData(discovererStats.value, itemsPerPage.value.discovererChart);
+
+  if (pages.length < currentPageIndex.value.discovererChart) currentPageIndex.value.discovererChart = 0;
+  return pages;
+});
+
+const chartData = computed(() => {
+  const data = paginatedData.value[currentPageIndex.value.discovererChart] as DiscovererDataArray[];
+
+  const playerNames: string[] = [];
+  const playerTags: number[] = [];
+  const playerMistags: number[] = [];
+
+  for (const obj of data) {
+    playerNames.push(obj.name);
+    playerTags.push(obj.tags);
+    playerMistags.push(obj.discoveries - obj.tags);
+  }
+
+  return {
+    labels: playerNames,
+    name: 'Test',
+    datasets: [
+      {
+        label: 'Tagged',
+        backgroundColor: ChartColours.blue,
+        data: playerTags,
+      },
+      {
+        label: 'Not Tagged',
+        backgroundColor: ChartColours.red,
+        data: playerMistags,
+      },
+    ],
+  };
+});
 
 const options = {
   responsive: true,
@@ -81,6 +107,10 @@ const options = {
 <template>
   <details>
     <summary>Discoveries and Hub tags per player</summary>
+    <PaginationControls
+      :total-pages="paginatedData.length"
+      :section="AppSections.discovererChart"
+    />
     <Bar
       :data="chartData"
       :options="options"

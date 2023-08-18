@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { getPercentage, paginateData, sortData } from '@/logic/logic';
-import { Orders, PlatformMapping } from '@/objects/mappings';
+import { AppSections, Orders, PlatformMapping } from '@/objects/mappings';
 import { useDataStore } from '@/stores/data';
 import type { TableHeadings } from '@/types/data';
 import { storeToRefs } from 'pinia';
@@ -82,7 +82,7 @@ const headers: TableHeadings = {
     <summary>Discoverer Stats</summary>
     <PaginationControls
       :total-pages="paginatedData.length"
-      section="discovererStats"
+      :section="AppSections.discovererStats"
     />
     <DataTable
       :headers="headers"

@@ -6,11 +6,13 @@ interface State {
   currentPageIndex: {
     resultsTable: number;
     discovererStats: number;
+    discovererChart: number;
     [key: string]: number;
   }
   itemsPerPage: {
     resultsTable: number;
     discovererStats: number;
+    discovererChart: number;
     [key: string]: number;
   }
 }
@@ -21,10 +23,12 @@ export const useDataStore = defineStore('data', {
     currentPageIndex: {
       resultsTable: 0,
       discovererStats: 0,
+      discovererChart: 0,
     },
     itemsPerPage: {
       resultsTable: 50,
       discovererStats: 10,
+      discovererChart: 50,
     }
   }),
 

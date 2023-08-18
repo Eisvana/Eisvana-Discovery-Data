@@ -5,7 +5,7 @@ import ThemeSwitch from './ThemeSwitch.vue';
 const GHubHosts = ['data.nmsgalactichub.com', 'discovery.nmsgalactichub.com'];
 
 const link = computed(() =>
-  GHubHosts.includes(window.location.host) ? 'https://lenni009.github.io/' /* 'https://nmsgalactichub.com' */ : '..'
+  GHubHosts.includes(window.location.host) ? 'https://lenni009.github.io/' /* 'https://nmsgalactichub.com' */ : '/'
 );
 </script>
 
