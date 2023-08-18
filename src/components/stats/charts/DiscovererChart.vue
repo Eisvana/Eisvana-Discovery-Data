@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import { Bar } from 'vue-chartjs';
-import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale } from 'chart.js';
+import { Bar, Pie } from 'vue-chartjs';
+import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale, ArcElement } from 'chart.js';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
@@ -8,7 +8,7 @@ import { AppSections, ChartColours } from '@/objects/mappings';
 import PaginationControls from '@/components/table/PaginationControls.vue';
 import { paginateData } from '@/logic/logic';
 
-ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
+ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
 const dataStore = useDataStore();
 const { filteredData, currentPageIndex, itemsPerPage } = storeToRefs(dataStore);
@@ -59,7 +59,31 @@ const paginatedData = computed(() => {
   return pages;
 });
 
-const chartData = computed(() => {
+const pieChartData = computed(() => {
+  const data = discovererStats.value;
+
+  const playerNames: string[] = [];
+  const playerDiscoveries: number[] = [];
+  const colours: string[] = [];
+
+  for (const obj of data) {
+    playerNames.push(obj.name);
+    playerDiscoveries.push(obj.discoveries);
+    colours.push('#' + getRandomColour());
+  }
+
+  return {
+    labels: playerNames,
+    datasets: [
+      {
+        backgroundColor: colours,
+        data: playerDiscoveries,
+      },
+    ],
+  };
+});
+
+const barChartData = computed(() => {
   const data = paginatedData.value[currentPageIndex.value.discovererChart] as DiscovererDataArray[];
 
   const playerNames: string[] = [];
@@ -74,7 +98,6 @@ const chartData = computed(() => {
 
   return {
     labels: playerNames,
-    name: 'Test',
     datasets: [
       {
         label: 'Tagged',
@@ -90,7 +113,7 @@ const chartData = computed(() => {
   };
 });
 
-const options = {
+const barChartOptions = {
   responsive: true,
   maintainAspectRatio: true,
   scales: {
@@ -102,6 +125,15 @@ const options = {
     },
   },
 };
+
+const pieChartOptions = {
+  responsive: true,
+  maintainAspectRatio: true,
+};
+
+function getRandomColour() {
+  return Math.floor(Math.random() * 16777215).toString(16); // NoSonar I have no idea what these numbers are...
+}
 </script>
 
 <template>
@@ -112,8 +144,13 @@ const options = {
       :section="AppSections.discovererChart"
     />
     <Bar
-      :data="chartData"
-      :options="options"
+      :data="barChartData"
+      :options="barChartOptions"
+    />
+    <Pie
+      v-if="false"
+      :data="pieChartData"
+      :options="pieChartOptions"
     />
   </details>
 </template>
