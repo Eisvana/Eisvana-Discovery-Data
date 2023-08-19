@@ -1,5 +1,6 @@
 import { defineStore } from 'pinia';
 import type { DiscoveryData } from '@/types/data';
+import { toRaw } from 'vue';
 
 interface State {
   filteredData: DiscoveryData[];
@@ -35,6 +36,9 @@ export const useDataStore = defineStore('data', {
   getters: {
     dataLength: (state: State) => (state.filteredData.length),
     amountTagged: (state: State) => (state.filteredData.filter((item) => item['Correctly Tagged']).length),
-
+    dateRange: (state: State): [string, string] => {
+      const sortedData = structuredClone(toRaw(state.filteredData)).sort((a, b) => a.UnixTimestamp - b.UnixTimestamp);
+      return [sortedData[0].Timestamp, sortedData[sortedData.length - 1].Timestamp];
+    }
   }
 });

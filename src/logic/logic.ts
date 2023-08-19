@@ -52,7 +52,7 @@ export function sortByColumn(event: Event, sortingObj: Sorting) {
   element.setAttribute('aria-sort', sortingObj.order);
 }
 
-export const getPercentage = (amount: number, total: number, decimals: number = 1) => parseFloat(((amount / total) * 100).toFixed(decimals)); // NoSonar this calculates a percentage
+export const getPercentage = (amount: number, total: number, decimals: number = 1) => parseFloat((total ? (amount / total) * 100 : 0).toFixed(decimals)); // NoSonar this calculates a percentage
 
 export function sortData(inputArray: (string | number)[][], sorting: Sorting) {
   const sortedArray = sortArray(inputArray, sorting.col);

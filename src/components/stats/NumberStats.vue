@@ -7,7 +7,7 @@ import DataTable from '../table/DataTable.vue';
 import type { TableHeadings } from '@/types/data';
 
 const dataStore = useDataStore();
-const { filteredData, amountTagged, dataLength } = storeToRefs(dataStore);
+const { filteredData, amountTagged, dataLength, dateRange } = storeToRefs(dataStore);
 
 // tagged
 const systemsTaggedPercent = computed(() => getPercentage(amountTagged.value, dataLength.value));
@@ -48,6 +48,8 @@ const systemsDuplicates = computed(() => {
 const headers: TableHeadings = {
   normal: ['Name', 'Amount of duplicates'],
 };
+
+const getDate = (dateString: string) => new Date(dateString).toLocaleDateString();
 </script>
 
 <template>
@@ -59,6 +61,8 @@ const headers: TableHeadings = {
       <div>Procedural name: {{ systemsProcName }} ({{ systemsProcNamePercent }}%)</div>
       <div v-if="systemsUndiscovered">Undiscovered: {{ systemsUndiscovered }} ({{ systemsUndiscoveredPercent }}%)</div>
       <div>Number of discoverers: {{ discovererNumber }}</div>
+      <div>Earliest Discovery: {{ getDate(dateRange[0]) }}</div>
+      <div>Latest Discovery: {{ getDate(dateRange[1]) }}</div>
       <div v-if="false">Duplicate system names: {{ systemsDuplicates.length }}</div>
 
       <DataTable

@@ -6,6 +6,7 @@ import DiscovererChart from '@/components/stats/charts/DiscovererChart.vue';
 import PlatformChart from '@/components/stats/charts/PlatformChart.vue';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
+import TagChart from '@/components/stats/charts/TagChart.vue';
 
 const dataStore = useDataStore();
 const { filteredData } = storeToRefs(dataStore);
@@ -21,6 +22,7 @@ const { filteredData } = storeToRefs(dataStore);
     <PlatformStats />
     <DiscovererChart />
     <PlatformChart />
+    <TagChart />
   </div>
 </template>
 
