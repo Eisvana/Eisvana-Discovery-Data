@@ -11,6 +11,7 @@ import DiscoveriesChart from '@/components/stats/charts/DiscoveriesChart.vue';
 import PlayerPlatformChart from '@/components/stats/charts/PlayerPlatformChart.vue';
 import ContributionChart from '@/components/stats/charts/ContributionChart.vue';
 import PlatformTimeChart from '@/components/stats/charts/PlatformTimeChart.vue';
+import PlayerTimeChart from '@/components/stats/charts/PlayerTimeChart.vue';
 
 const dataStore = useDataStore();
 const { filteredData } = storeToRefs(dataStore);
@@ -31,6 +32,7 @@ const { filteredData } = storeToRefs(dataStore);
     <PlayerPlatformChart />
     <ContributionChart />
     <PlatformTimeChart />
+    <PlayerTimeChart />
   </div>
 </template>
 

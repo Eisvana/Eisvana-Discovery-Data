@@ -3,9 +3,10 @@ import { Bar } from 'vue-chartjs';
 import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale } from 'chart.js';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
-import { computed } from 'vue';
 import type { DiscovererData } from '@/types/data';
 import { ChartColours } from '@/objects/mappings';
+import DetailsWrapper from '@/components/DetailsWrapper.vue';
+import { computed } from 'vue';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
 
@@ -57,11 +58,10 @@ const chartOptions = {
 </script>
 
 <template>
-  <details>
-    <summary>Average contributions</summary>
+  <DetailsWrapper summary="Average contributions">
     <Bar
       :data="chartData"
       :options="chartOptions"
     />
-  </details>
+  </DetailsWrapper>
 </template>

@@ -16,6 +16,7 @@ import {
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import { Line } from 'vue-chartjs';
+import DetailsWrapper from '@/components/DetailsWrapper.vue';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
@@ -68,7 +69,7 @@ function combineIndizes(platform: Platform): (number | null)[] {
 
     for (const [platform, amount] of Object.entries(platformValues)) {
       const timestampDataObj = timestampData[keys[index + 1]];
-      if (!timestampData[keys[index + 1]]) continue;
+      if (index + 1 === keys.length) continue;
 
       timestampDataObj[platform as Platform] += amount;
     }
@@ -152,8 +153,7 @@ const options = {
 </script>
 
 <template>
-  <details>
-    <summary>Platforms over time</summary>
+  <DetailsWrapper summary="Platforms over time">
     <Line
       :data="individualData"
       :options="options"
@@ -162,5 +162,5 @@ const options = {
       :data="combinedData"
       :options="options"
     />
-  </details>
+  </DetailsWrapper>
 </template>

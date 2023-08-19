@@ -7,6 +7,7 @@ import { computed } from 'vue';
 import { ChartColours, PlatformMapping } from '@/objects/mappings';
 import type { Platform } from '@/types/data';
 import { setPlatformColours } from '@/logic/logic';
+import DetailsWrapper from '@/components/DetailsWrapper.vue';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
@@ -103,8 +104,7 @@ const pieChartOptions = {
 </script>
 
 <template>
-  <details>
-    <summary>Discoveries and Hub tags per platform</summary>
+  <DetailsWrapper summary="Discoveries and Hub tags per platform">
     <Bar
       :data="barChartData"
       :options="barChartOptions"
@@ -115,7 +115,7 @@ const pieChartOptions = {
         :options="pieChartOptions"
       />
     </div>
-  </details>
+  </DetailsWrapper>
 </template>
 
 <style scoped lang="scss">

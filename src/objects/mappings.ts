@@ -33,6 +33,7 @@ export enum AppSections {
   resultsTable = 'resultsTable',
   discovererStats = 'discovererStats',
   discovererChart = 'discovererChart',
+  playerChart = 'playerChart',
 }
 
 export enum PlatformColours {

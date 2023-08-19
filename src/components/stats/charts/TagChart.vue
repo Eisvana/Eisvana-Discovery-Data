@@ -15,6 +15,7 @@ import {
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import { Line } from 'vue-chartjs';
+import DetailsWrapper from '@/components/DetailsWrapper.vue';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
@@ -86,11 +87,10 @@ const options = {
 </script>
 
 <template>
-  <details>
-    <summary>Hub Tags over time</summary>
+  <DetailsWrapper summary="Hub Tags over time">
     <Line
       :data="data"
       :options="options"
     />
-  </details>
+  </DetailsWrapper>
 </template>

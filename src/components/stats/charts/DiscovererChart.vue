@@ -6,8 +6,9 @@ import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import { AppSections, ChartColours } from '@/objects/mappings';
 import PaginationControls from '@/components/table/PaginationControls.vue';
-import { paginateData } from '@/logic/logic';
+import { getRandomColour, paginateData } from '@/logic/logic';
 import type { DiscovererData, DiscovererDataArray } from '@/types/data';
+import DetailsWrapper from '@/components/DetailsWrapper.vue';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
@@ -57,7 +58,7 @@ const pieChartData = computed(() => {
   for (const obj of data) {
     playerNames.push(obj.name);
     playerDiscoveries.push(obj.discoveries);
-    colours.push('#' + getRandomColour());
+    colours.push(getRandomColour());
   }
 
   return {
@@ -118,15 +119,10 @@ const pieChartOptions = {
   responsive: true,
   maintainAspectRatio: true,
 };
-
-function getRandomColour() {
-  return Math.floor(Math.random() * 16777215).toString(16); // NoSonar I have no idea what these numbers are...
-}
 </script>
 
 <template>
-  <details>
-    <summary>Discoveries and Hub tags per player</summary>
+  <DetailsWrapper summary="Discoveries and Hub tags per player">
     <PaginationControls
       :total-pages="paginatedData.length"
       :section="AppSections.discovererChart"
@@ -140,5 +136,5 @@ function getRandomColour() {
       :data="pieChartData"
       :options="pieChartOptions"
     />
-  </details>
+  </DetailsWrapper>
 </template>

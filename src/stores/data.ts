@@ -8,12 +8,14 @@ interface State {
     resultsTable: number;
     discovererStats: number;
     discovererChart: number;
+    playerChart: number;
     [key: string]: number;
   }
   itemsPerPage: {
     resultsTable: number;
     discovererStats: number;
     discovererChart: number;
+    playerChart: number;
     [key: string]: number;
   }
 }
@@ -25,11 +27,13 @@ export const useDataStore = defineStore('data', {
       resultsTable: 0,
       discovererStats: 0,
       discovererChart: 0,
+      playerChart: 0,
     },
     itemsPerPage: {
       resultsTable: 50,
       discovererStats: 10,
       discovererChart: 50,
+      playerChart: 10,
     }
   }),
 

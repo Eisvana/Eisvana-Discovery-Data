@@ -7,6 +7,7 @@ import { computed } from 'vue';
 import { ChartColours, PlatformMapping } from '@/objects/mappings';
 import type { Platform } from '@/types/data';
 import { setPlatformColours } from '@/logic/logic';
+import DetailsWrapper from '@/components/DetailsWrapper.vue';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
@@ -69,8 +70,7 @@ const chartOptions = {
 </script>
 
 <template>
-  <details>
-    <summary>Players per platform</summary>
+  <DetailsWrapper summary="Players per platform">
     <Bar
       v-if="false"
       :data="barChartData"
@@ -82,7 +82,7 @@ const chartOptions = {
         :options="chartOptions"
       />
     </div>
-  </details>
+  </DetailsWrapper>
 </template>
 
 <style scoped lang="scss">

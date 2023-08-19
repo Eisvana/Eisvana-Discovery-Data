@@ -1,8 +1,8 @@
 import { Orders, PlatformColours, PlatformMapping } from "@/objects/mappings";
 import type { Sorting } from '@/types/data';
 
-export function paginateData(inputArray: ([] | {})[], itemsPerPage: number): ([] | {})[][] {
-  const pages = inputArray.reduce((resultArray: ([] | {})[][], item, index) => {
+export function paginateData(inputArray: ([] | {})[], itemsPerPage: number): ([] | {} | string | number)[][] {
+  const pages = inputArray.reduce((resultArray: ([] | {} | string | number)[][], item, index) => {
     const chunkIndex = Math.floor(index / itemsPerPage);
 
     resultArray[chunkIndex] ??= []; // start a new chunk
@@ -103,4 +103,8 @@ export function setPlatformColours(array: PlatformMapping[]) {
         return PlatformColours.switch;
     }
   });
+}
+
+export function getRandomColour() {
+  return '#' + Math.floor(Math.random() * 16777215).toString(16); // NoSonar I have no idea what these numbers are...
 }
