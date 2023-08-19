@@ -25,12 +25,13 @@ const platformStats = computed(
       platformData[data.Platform].add(data.Discoverer);
     }
 
+    const platformDataArray = Object.entries(platformData);
+
+    platformDataArray.sort((a, b) => b[1].size - a[1].size);
+
     return {
-      platforms: Object.keys(platformData).map((platform) => PlatformMapping[platform as Platform]),
-      players: Object.values(platformData)
-        .map((set) => set.size)
-        .sort()
-        .reverse(),
+      platforms: platformDataArray.map((item) => PlatformMapping[item[0] as Platform]),
+      players: platformDataArray.map((item) => item[1].size),
     };
   }
 );

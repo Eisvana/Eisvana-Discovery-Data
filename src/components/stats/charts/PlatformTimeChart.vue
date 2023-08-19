@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import { getDatesBetween, setPlatformColours } from '@/logic/logic';
-import { ChartColours, PlatformColours, PlatformMapping } from '@/objects/mappings';
+import { PlatformMapping } from '@/objects/mappings';
 import { useDataStore } from '@/stores/data';
-import type { DiscoveryData, Platform } from '@/types/data';
+import type { Platform } from '@/types/data';
 import {
   Chart as ChartJS,
   CategoryScale,
