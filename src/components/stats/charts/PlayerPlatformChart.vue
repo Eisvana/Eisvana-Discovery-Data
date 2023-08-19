@@ -1,0 +1,93 @@
+<script setup lang="ts">
+import { Bar, Pie } from 'vue-chartjs';
+import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale, ArcElement } from 'chart.js';
+import { useDataStore } from '@/stores/data';
+import { storeToRefs } from 'pinia';
+import { computed } from 'vue';
+import { ChartColours, PlatformMapping } from '@/objects/mappings';
+import type { Platform } from '@/types/data';
+import { setPlatformColours } from '@/logic/logic';
+
+ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
+
+const dataStore = useDataStore();
+const { filteredData } = storeToRefs(dataStore);
+
+const platformStats = computed(
+  (): {
+    platforms: PlatformMapping[];
+    players: number[];
+  } => {
+    const platformData: { [key: string]: Set<string> } = {};
+
+    for (const data of filteredData.value) {
+      platformData[data.Platform] ??= new Set<string>();
+      platformData[data.Platform].add(data.Discoverer);
+    }
+
+    return {
+      platforms: Object.keys(platformData).map((platform) => PlatformMapping[platform as Platform]),
+      players: Object.values(platformData)
+        .map((set) => set.size)
+        .sort()
+        .reverse(),
+    };
+  }
+);
+
+const barChartData = computed(() => {
+  return {
+    labels: platformStats.value.platforms,
+    datasets: [
+      {
+        backgroundColor: ChartColours.blue,
+        data: platformStats.value.players,
+      },
+    ],
+  };
+});
+
+const pieChartData = computed(() => {
+  const colours = setPlatformColours(platformStats.value.platforms);
+
+  return {
+    labels: platformStats.value.platforms,
+    datasets: [
+      {
+        backgroundColor: colours,
+        data: platformStats.value.players,
+      },
+    ],
+  };
+});
+
+const chartOptions = {
+  responsive: true,
+  maintainAspectRatio: true,
+};
+</script>
+
+<template>
+  <details>
+    <summary>Players per platform</summary>
+    <Bar
+      v-if="false"
+      :data="barChartData"
+      :options="chartOptions"
+    />
+    <div class="pie-chart">
+      <Pie
+        :data="pieChartData"
+        :options="chartOptions"
+      />
+    </div>
+  </details>
+</template>
+
+<style scoped lang="scss">
+.pie-chart {
+  width: min(700px, 100%);
+  margin-inline: auto;
+  margin-block-start: 2rem;
+}
+</style>

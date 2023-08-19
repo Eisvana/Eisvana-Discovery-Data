@@ -7,24 +7,12 @@ import { computed } from 'vue';
 import { AppSections, ChartColours } from '@/objects/mappings';
 import PaginationControls from '@/components/table/PaginationControls.vue';
 import { paginateData } from '@/logic/logic';
+import type { DiscovererData, DiscovererDataArray } from '@/types/data';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
 const dataStore = useDataStore();
 const { filteredData, currentPageIndex, itemsPerPage } = storeToRefs(dataStore);
-
-interface DiscovererData {
-  [key: string]: {
-    discoveries: number;
-    tags: number;
-  };
-}
-
-interface DiscovererDataArray {
-  name: string;
-  discoveries: number;
-  tags: number;
-}
 
 const discovererStats = computed(() => {
   const discovererData: DiscovererData = {};

@@ -4,8 +4,9 @@ import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, Li
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
-import { ChartColours, PlatformMapping, PlatformColours } from '@/objects/mappings';
+import { ChartColours, PlatformMapping } from '@/objects/mappings';
 import type { Platform } from '@/types/data';
+import { setPlatformColours } from '@/logic/logic';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
@@ -64,25 +65,7 @@ const barChartData = computed(() => ({
 const pieChartData = computed(() => {
   const discoveries: number[] = [];
 
-  const colours = platformStats.value.platforms.map((platform) => {
-    // TODO: Refactor this to use an object which is accessed
-    switch (platform) {
-      case PlatformMapping.ST:
-        return PlatformColours.steam;
-
-      case PlatformMapping.PS:
-        return PlatformColours.ps;
-
-      case PlatformMapping.XB:
-        return PlatformColours.xb;
-
-      case PlatformMapping.GX:
-        return PlatformColours.gog;
-
-      case PlatformMapping.NI:
-        return PlatformColours.switch;
-    }
-  });
+  const colours = setPlatformColours(platformStats.value.platforms);
 
   for (let i = 0; i < platformStats.value.platforms.length; i++) {
     const numOfDiscoveries = platformStats.value.tags[i] + platformStats.value.incorrect[i];

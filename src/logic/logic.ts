@@ -1,4 +1,4 @@
-import { Orders } from "@/objects/mappings";
+import { Orders, PlatformColours, PlatformMapping } from "@/objects/mappings";
 import type { Sorting } from '@/types/data';
 
 export function paginateData(inputArray: ([] | {})[], itemsPerPage: number): ([] | {})[][] {
@@ -64,4 +64,43 @@ export function sortData(inputArray: (string | number)[][], sorting: Sorting) {
   if (sorting.order === Orders.asc) sortedArray.reverse();
 
   return sortedArray;
+}
+
+/**
+ * returns the days in between two date strings, including the starting day string. Returns in the format yyyy-mm-dd.
+ */
+export function getDatesBetween(startDate: string, endDate: string) {
+  if (!startDate || !endDate) return [];
+  const startDateObj = new Date(startDate);
+  const endDateObj = new Date(endDate);
+
+  const dates = [];
+  const currentDate = new Date(startDateObj);
+  while (currentDate <= endDateObj) {
+    dates.push(new Date(currentDate));
+    currentDate.setDate(currentDate.getDate() + 1);
+  }
+  return dates.map((date) => date.toISOString().split('T')[0]);
+}
+
+export function setPlatformColours(array: PlatformMapping[]) {
+  return array.map((platform) => {
+    // TODO: Refactor this to use an object which is accessed
+    switch (platform) {
+      case PlatformMapping.ST:
+        return PlatformColours.steam;
+
+      case PlatformMapping.PS:
+        return PlatformColours.ps;
+
+      case PlatformMapping.XB:
+        return PlatformColours.xb;
+
+      case PlatformMapping.GX:
+        return PlatformColours.gog;
+
+      case PlatformMapping.NI:
+        return PlatformColours.switch;
+    }
+  });
 }

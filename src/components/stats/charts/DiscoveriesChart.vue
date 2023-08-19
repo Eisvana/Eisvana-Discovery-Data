@@ -34,46 +34,48 @@ const transformedData = computed(() => {
   const dates = getDatesBetween(...dateRange.value);
   if (dateRange.value[1]) dates.push(dateRange.value[1]);
   for (const date of dates) {
-    timestampData[date] = { correct: 0, incorrect: 0 };
+    timestampData[date] = {
+      correct: 0,
+      incorrect: 0,
+    };
   }
 
-  for (const item of filteredData.value) {
-    timestampData[item.Timestamp][item['Correctly Tagged'] ? 'correct' : 'incorrect']++;
+  const keys = Object.keys(timestampData);
+
+  for (const dataObj of filteredData.value) {
+    const index = keys.indexOf(dataObj.Timestamp);
+    const isCorrect = dataObj['Correctly Tagged'];
+
+    for (let j = index; j < keys.length; j++) {
+      const key = keys[j];
+      timestampData[key][isCorrect ? 'correct' : 'incorrect']++;
+    }
   }
 
-  const newDateArray: { ts: string; correct: number; incorrect: number }[] = [];
-
-  for (const [ts, data] of Object.entries(timestampData)) {
-    newDateArray.push({
-      ts,
-      ...data,
-    });
-  }
-
-  return newDateArray;
+  return timestampData;
 });
 
 const data = computed(() => {
   return {
-    labels: transformedData.value.map((obj) => new Date(obj.ts).toLocaleDateString()),
+    labels: Object.keys(transformedData.value).map((ts) => new Date(ts).toLocaleDateString()),
     datasets: [
       {
         label: 'Total Discoveries',
         backgroundColor: ChartColours.green,
         borderColor: ChartColours.green + '70',
-        data: transformedData.value.map((obj) => obj.correct + obj.incorrect || null),
+        data: Object.values(transformedData.value).map((num) => num.correct + num.incorrect || null),
       },
       {
         label: 'Correct Tags',
         backgroundColor: ChartColours.blue,
         borderColor: ChartColours.blue + '70',
-        data: transformedData.value.map((obj) => obj.correct || null),
+        data: Object.values(transformedData.value).map((num) => num.correct || null),
       },
       {
         label: 'Incorrect Tags',
         backgroundColor: ChartColours.red,
         borderColor: ChartColours.red + '70',
-        data: transformedData.value.map((obj) => obj.incorrect || null),
+        data: Object.values(transformedData.value).map((num) => num.incorrect || null),
       },
     ],
   };
@@ -87,7 +89,7 @@ const options = {
 
 <template>
   <details>
-    <summary>Hub Tags over time</summary>
+    <summary>Discoveries over time</summary>
     <Line
       :data="data"
       :options="options"

@@ -26,6 +26,7 @@ export enum Orders {
 export enum ChartColours {
   blue = '#1095C1',
   red = '#e85123',
+  green = '#1A8F1A',
 }
 
 export enum AppSections {
