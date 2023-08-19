@@ -6,6 +6,12 @@ import DiscovererChart from '@/components/stats/charts/DiscovererChart.vue';
 import PlatformChart from '@/components/stats/charts/PlatformChart.vue';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
+import TagChart from '@/components/stats/charts/TagChart.vue';
+import DiscoveriesChart from '@/components/stats/charts/DiscoveriesChart.vue';
+import PlayerPlatformChart from '@/components/stats/charts/PlayerPlatformChart.vue';
+import ContributionChart from '@/components/stats/charts/ContributionChart.vue';
+import PlatformTimeChart from '@/components/stats/charts/PlatformTimeChart.vue';
+import PlayerTimeChart from '@/components/stats/charts/PlayerTimeChart.vue';
 
 const dataStore = useDataStore();
 const { filteredData } = storeToRefs(dataStore);
@@ -21,6 +27,12 @@ const { filteredData } = storeToRefs(dataStore);
     <PlatformStats />
     <DiscovererChart />
     <PlatformChart />
+    <TagChart />
+    <DiscoveriesChart />
+    <PlayerPlatformChart />
+    <ContributionChart />
+    <PlatformTimeChart />
+    <PlayerTimeChart />
   </div>
 </template>
 

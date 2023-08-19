@@ -1,8 +1,8 @@
-import { Orders } from "@/objects/mappings";
+import { Orders, PlatformColours, PlatformMapping } from "@/objects/mappings";
 import type { Sorting } from '@/types/data';
 
-export function paginateData(inputArray: ([] | {})[], itemsPerPage: number): ([] | {})[][] {
-  const pages = inputArray.reduce((resultArray: ([] | {})[][], item, index) => {
+export function paginateData(inputArray: ([] | {})[], itemsPerPage: number): ([] | {} | string | number)[][] {
+  const pages = inputArray.reduce((resultArray: ([] | {} | string | number)[][], item, index) => {
     const chunkIndex = Math.floor(index / itemsPerPage);
 
     resultArray[chunkIndex] ??= []; // start a new chunk
@@ -52,7 +52,7 @@ export function sortByColumn(event: Event, sortingObj: Sorting) {
   element.setAttribute('aria-sort', sortingObj.order);
 }
 
-export const getPercentage = (amount: number, total: number, decimals: number = 1) => parseFloat(((amount / total) * 100).toFixed(decimals)); // NoSonar this calculates a percentage
+export const getPercentage = (amount: number, total: number, decimals: number = 1) => parseFloat((total ? (amount / total) * 100 : 0).toFixed(decimals)); // NoSonar this calculates a percentage
 
 export function sortData(inputArray: (string | number)[][], sorting: Sorting) {
   const sortedArray = sortArray(inputArray, sorting.col);
@@ -64,4 +64,47 @@ export function sortData(inputArray: (string | number)[][], sorting: Sorting) {
   if (sorting.order === Orders.asc) sortedArray.reverse();
 
   return sortedArray;
+}
+
+/**
+ * returns the days in between two date strings, including the starting day string. Returns in the format yyyy-mm-dd.
+ */
+export function getDatesBetween(startDate: string, endDate: string) {
+  if (!startDate || !endDate) return [];
+  const startDateObj = new Date(startDate);
+  const endDateObj = new Date(endDate);
+
+  const dates = [];
+  const currentDate = new Date(startDateObj);
+  while (currentDate <= endDateObj) {
+    dates.push(new Date(currentDate));
+    currentDate.setDate(currentDate.getDate() + 1);
+  }
+  return dates.map((date) => date.toISOString().split('T')[0]);
+}
+
+export function setPlatformColours(array: PlatformMapping[]) {
+  return array.map((platform) => {
+    // TODO: Refactor this to use an object which is accessed
+    switch (platform) {
+      case PlatformMapping.ST:
+        return PlatformColours.steam;
+
+      case PlatformMapping.PS:
+        return PlatformColours.ps;
+
+      case PlatformMapping.XB:
+        return PlatformColours.xb;
+
+      case PlatformMapping.GX:
+        return PlatformColours.gog;
+
+      case PlatformMapping.NI:
+        return PlatformColours.switch;
+    }
+  });
+}
+
+export function getRandomColour() {
+  return '#' + Math.floor(Math.random() * 16777215).toString(16); // NoSonar I have no idea what these numbers are...
 }

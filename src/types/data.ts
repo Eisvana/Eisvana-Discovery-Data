@@ -24,3 +24,16 @@ export interface TableHeadings {
   normal?: string[];
   sortable?: string[];
 }
+
+export interface DiscovererData {
+  [key: string]: {
+    discoveries: number;
+    tags: number;
+  };
+}
+
+export interface DiscovererDataArray {
+  name: string;
+  discoveries: number;
+  tags: number;
+}
