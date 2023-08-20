@@ -4,7 +4,6 @@
       <p>Data last updated on 1 August 2023</p>
       <p>
         Project enabled by the research of the
-
         <a
           href="http://nmscd.com/Atlas-Insight-Initiative/"
           target="_blank"
