@@ -67,19 +67,18 @@ const avgDiscoverersPerDay = computed(() => {
     return a + b;
   }, 0);
 
-  return differenceInDays.value ? (totalDiscoverers / differenceInDays.value).toFixed(2) : 0;
+  return differenceInDays.value ? (totalDiscoverers / differenceInDays.value).toFixed(2) : 0; // NoSonar this generates two decimals
 });
 
 // average hub tags per day
-const avgCorrectTagsPerDay = computed(() =>
-  differenceInDays.value ? (amountTagged.value / differenceInDays.value || 0).toFixed(2) : 0
+const avgCorrectTagsPerDay = computed(
+  () => (differenceInDays.value ? (amountTagged.value / differenceInDays.value).toFixed(2) : 0) // NoSonar this generates two decimals
 );
 
 // average incorrect hub tags per day
-const avgIncorrectTagsPerDay = computed(() =>
-  differenceInDays.value
-    ? ((systemsNotTagged.value + systemsProcName.value) / differenceInDays.value || 0).toFixed(2)
-    : 0
+const avgIncorrectTagsPerDay = computed(
+  () =>
+    differenceInDays.value ? ((systemsNotTagged.value + systemsProcName.value) / differenceInDays.value).toFixed(2) : 0 // NoSonar this generates two decimals
 );
 
 // duplicates
