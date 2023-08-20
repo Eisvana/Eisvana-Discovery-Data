@@ -18,7 +18,6 @@ import PaginationControls from '@/components/table/PaginationControls.vue';
 import { AppSections } from '@/objects/mappings';
 import DetailsWrapper from '@/components/DetailsWrapper.vue';
 
-console.time('chart');
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
 const dataStore = useDataStore();
@@ -96,7 +95,7 @@ const combinedDatasets = computed(() => {
     const dataset = combinedDatasetObjectFactory(playerObj);
     datasets.push(dataset);
   }
-  console.timeEnd('chart');
+
   return datasets;
 });
 
