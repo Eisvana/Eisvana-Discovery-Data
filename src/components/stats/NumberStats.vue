@@ -27,7 +27,59 @@ const systemsUndiscovered = computed(() => filteredData.value.filter((item) => !
 const systemsUndiscoveredPercent = computed(() => getPercentage(systemsUndiscovered.value, dataLength.value));
 
 // discoverers
-const discovererNumber = computed(() => new Set<string>(filteredData.value.map((item) => item.Discoverer)).size);
+const discovererNumber = computed(
+  () => new Set<string>(filteredData.value.filter((item) => item.Discoverer).map((item) => item.Discoverer)).size
+);
+
+const differenceInDays = computed(() => {
+  if (dateRange.value.some((date) => !date)) return 0;
+
+  const [date1, date2] = dateRange.value;
+
+  // To calculate the time difference of two dates
+  const diffTime = new Date(date2!).getTime() - new Date(date1!).getTime();
+
+  // To calculate the no. of days between two dates
+  const diffDays = diffTime / (1000 * 3600 * 24) + 1; // NoSonar this calculates number of days between two dates
+  return diffDays;
+});
+
+// average discoveries per day
+const avgDiscoveriesPerDay = computed(
+  () => (differenceInDays.value ? (dataLength.value / differenceInDays.value).toFixed(2) : 0) // NoSonar this generates two decimals
+);
+
+// average players discovering per day
+const avgDiscoverersPerDay = computed(() => {
+  const timestampObj: {
+    [key: string]: Set<string>;
+  } = {};
+
+  for (const dataObj of filteredData.value.filter((item) => item.Discoverer)) {
+    const ts = dataObj.Timestamp;
+    timestampObj[ts] ??= new Set<string>();
+    timestampObj[ts].add(dataObj.Discoverer);
+  }
+
+  const discoverersPerDay = Object.values(timestampObj).map((item) => item.size);
+
+  const totalDiscoverers = discoverersPerDay.reduce((a, b) => {
+    return a + b;
+  }, 0);
+
+  return differenceInDays.value ? (totalDiscoverers / differenceInDays.value).toFixed(2) : 0; // NoSonar this generates two decimals
+});
+
+// average hub tags per day
+const avgCorrectTagsPerDay = computed(
+  () => (differenceInDays.value ? (amountTagged.value / differenceInDays.value).toFixed(2) : 0) // NoSonar this generates two decimals
+);
+
+// average incorrect hub tags per day
+const avgIncorrectTagsPerDay = computed(
+  () =>
+    differenceInDays.value ? ((systemsNotTagged.value + systemsProcName.value) / differenceInDays.value).toFixed(2) : 0 // NoSonar this generates two decimals
+);
 
 // duplicates
 const systemsDuplicates = computed(() => {
@@ -49,21 +101,37 @@ const headers: TableHeadings = {
   normal: ['Name', 'Amount of duplicates'],
 };
 
-const getDate = (dateString: string) => new Date(dateString).toLocaleDateString();
+const getDate = (dateString: string | undefined) => (dateString ? new Date(dateString).toLocaleDateString() : '-');
 </script>
 
 <template>
   <details open>
     <summary>Number Stats</summary>
     <div class="number-stats-wrapper">
-      <div>Tagged: {{ amountTagged }} ({{ systemsTaggedPercent }}%)</div>
-      <div>Not/incorrectly tagged: {{ systemsNotTagged }} ({{ systemsNotTaggedPercent }}%)</div>
-      <div>Procedural name: {{ systemsProcName }} ({{ systemsProcNamePercent }}%)</div>
-      <div v-if="systemsUndiscovered">Undiscovered: {{ systemsUndiscovered }} ({{ systemsUndiscoveredPercent }}%)</div>
-      <div>Number of discoverers: {{ discovererNumber }}</div>
-      <div>Earliest Discovery: {{ getDate(dateRange[0]) }}</div>
-      <div>Latest Discovery: {{ getDate(dateRange[1]) }}</div>
-      <div v-if="false">Duplicate system names: {{ systemsDuplicates.length }}</div>
+      <div>Tagged:</div>
+      <div>{{ amountTagged }} ({{ systemsTaggedPercent }}%)</div>
+      <div>Not/incorrectly tagged:</div>
+      <div>{{ systemsNotTagged }} ({{ systemsNotTaggedPercent }}%)</div>
+      <div>Procedural name:</div>
+      <div>{{ systemsProcName }} ({{ systemsProcNamePercent }}%)</div>
+      <div v-if="systemsUndiscovered">Undiscovered:</div>
+      <div v-if="systemsUndiscovered">{{ systemsUndiscovered }} ({{ systemsUndiscoveredPercent }}%)</div>
+      <div>Number of discoverers:</div>
+      <div>{{ discovererNumber }}</div>
+      <div>Average discoveries per day:</div>
+      <div>{{ avgDiscoveriesPerDay }}</div>
+      <div>Average number of players per day:</div>
+      <div>{{ avgDiscoverersPerDay }}</div>
+      <div>Average number of Hub tags per day:</div>
+      <div>{{ avgCorrectTagsPerDay }}</div>
+      <div>Average non-Hub tagged systems per day:</div>
+      <div>{{ avgIncorrectTagsPerDay }}</div>
+      <div>Earliest Discovery:</div>
+      <div>{{ getDate(dateRange[0]) }}</div>
+      <div>Latest Discovery:</div>
+      <div>{{ getDate(dateRange[1]) }}</div>
+      <div v-if="false">Duplicate system names:</div>
+      <div v-if="false">{{ systemsDuplicates.length }}</div>
 
       <DataTable
         v-if="false"
@@ -76,8 +144,9 @@ const getDate = (dateString: string) => new Date(dateString).toLocaleDateString(
 
 <style scoped lang="scss">
 .number-stats-wrapper {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem 1.5rem;
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  gap: 0.5rem 1rem;
+  width: fit-content;
 }
 </style>

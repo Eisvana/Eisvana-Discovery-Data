@@ -40,9 +40,9 @@ export const useDataStore = defineStore('data', {
   getters: {
     dataLength: (state: State) => (state.filteredData.length),
     amountTagged: (state: State) => (state.filteredData.filter((item) => item['Correctly Tagged']).length),
-    dateRange: (state: State): [string, string] => {
+    dateRange: (state: State): [string | undefined, string | undefined] => {
       const sortedData = structuredClone(toRaw(state.filteredData)).filter(item => item.Timestamp).sort((a, b) => a.UnixTimestamp - b.UnixTimestamp);
-      return [sortedData[0].Timestamp, sortedData[sortedData.length - 1].Timestamp];
+      return [sortedData[0]?.Timestamp, sortedData[sortedData.length - 1]?.Timestamp];
     }
   }
 });
