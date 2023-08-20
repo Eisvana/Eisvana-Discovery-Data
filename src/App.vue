@@ -3,6 +3,7 @@ import NavBar from './components/NavBar.vue';
 import FilterInputs from './components/filter/FilterInputs.vue';
 import ResultsCounter from './components/ResultsCounter.vue';
 import { RouterView, RouterLink } from 'vue-router';
+import PageFooter from '@/components/PageFooter.vue';
 </script>
 
 <template>
@@ -20,6 +21,7 @@ import { RouterView, RouterLink } from 'vue-router';
     </nav>
     <RouterView />
   </main>
+  <PageFooter />
 </template>
 
 <style scoped lang="scss">
@@ -39,6 +41,5 @@ import { RouterView, RouterLink } from 'vue-router';
     color: inherit;
     pointer-events: none;
   }
-
 }
 </style>
