@@ -27,6 +27,8 @@ const isLoading = ref(false);
 const resetStore = () => {
   filterStore.$reset();
   filteredData.value = [];
+  const event = new Event('reset');
+  document.dispatchEvent(event);
 };
 
 async function loadData() {
@@ -84,7 +86,8 @@ function applyFilter(data: DiscoveryData[]) {
 
     if (!isValidDate) return false;
 
-    const isValidPlatform = !activePlatforms.value.length || activePlatforms.value.includes(item.Platform);
+    const isValidPlatform =
+      (!activePlatforms.value.length && !item.Platform) || activePlatforms.value.includes(item.Platform);
 
     if (!isValidPlatform) return false;
 
@@ -121,7 +124,7 @@ function applyFilter(data: DiscoveryData[]) {
     if (!isValidDiscoverer) return false;
 
     const isValidRegion =
-      !regionData.length ||
+      (!regionData.length && !item.Glyphs) ||
       regionData.some((region) => item.galaxy === region.galaxy && item.Glyphs.slice(4) === region.regionGlyphs); // NoSonar region glyphs start at index 4
 
     return isValidRegion;

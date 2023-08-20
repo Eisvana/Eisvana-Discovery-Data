@@ -2,6 +2,7 @@
 import { useFilterStore } from '@/stores/filter';
 import Switch from '../Switch.vue';
 import { storeToRefs } from 'pinia';
+import { onMounted, onUnmounted } from 'vue';
 
 const props = defineProps<{
   label: string;
@@ -18,9 +19,23 @@ const props = defineProps<{
 const filterStore = useFilterStore();
 const { platforms } = storeToRefs(filterStore);
 
-for (const short in props.switches) {
-  platforms.value[short] = true;
+enableAll();
+
+function enableAll() {
+  for (const short in props.switches) {
+    platforms.value[short] = true;
+  }
 }
+
+// setTimeout so that this code is executed after the reset action (setTimeout pushes its content to the end of the callstack)
+function resetFunc() {
+  setTimeout(() => {
+    enableAll();
+  }, 0);
+}
+
+onMounted(() => document.addEventListener('reset', resetFunc));
+onUnmounted(() => document.removeEventListener('reset', resetFunc));
 </script>
 
 <template>
