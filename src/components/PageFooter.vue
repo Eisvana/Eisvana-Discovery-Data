@@ -22,7 +22,7 @@
   margin-inline: auto;
   width: 100%;
   text-align: center;
-  background-color: hsla(0, 0, 50%, 0.1);
+  background-color: hsla(0, 0%, 50%, 0.1);
 }
 
 .credits {
