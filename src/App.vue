@@ -18,6 +18,7 @@ import PageFooter from '@/components/PageFooter.vue';
     <nav class="subpage-nav">
       <RouterLink to="/">Table</RouterLink>
       <RouterLink to="stats">Stats</RouterLink>
+      <RouterLink to="charts">Charts</RouterLink>
     </nav>
     <RouterView />
   </main>
