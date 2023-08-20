@@ -34,6 +34,6 @@ const { filteredData } = storeToRefs(dataStore);
 <style scoped lang="scss">
 .freeze-warning{
   text-align: center;
-  margin-block-end: 2rem;
+  font-size: initial;
 }
 </style>
