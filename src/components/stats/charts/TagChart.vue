@@ -39,6 +39,7 @@ const transformedData = computed(() => {
   }
 
   for (const item of filteredData.value) {
+    if (!item.Timestamp) continue;
     timestampData[item.Timestamp][item['Correctly Tagged'] ? 'correct' : 'incorrect']++;
   }
 

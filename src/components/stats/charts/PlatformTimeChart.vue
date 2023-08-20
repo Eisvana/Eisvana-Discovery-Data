@@ -55,6 +55,7 @@ const getPlatformColour = (platform: Platform) => setPlatformColours([PlatformMa
 const transformedData = computed(() => {
   const discoveryAmount = structuredClone(blankData.value);
   for (const dataObj of filteredData.value) {
+    if (!dataObj.Timestamp) continue;
     discoveryAmount[dataObj.Timestamp][dataObj.Platform]++;
   }
   return discoveryAmount;
