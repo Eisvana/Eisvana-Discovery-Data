@@ -41,7 +41,7 @@ const discovererStats = computed(() => {
       taggedPercentSelf: '0%',
     });
     discovererObject.discoveries++;
-    if (data['Correctly Tagged']) discovererObject.tagged++;
+    if (data['Correctly Prefixed']) discovererObject.tagged++;
     discovererObject.platform = PlatformMapping[data.Platform];
     discovererObject.discPercent = getPercentage(discovererObject.discoveries, dataLength.value) + '%';
     discovererObject.taggedPercent = getPercentage(discovererObject.tagged, amountTagged.value) + '%';

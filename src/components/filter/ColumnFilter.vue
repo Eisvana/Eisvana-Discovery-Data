@@ -43,8 +43,8 @@ const dateInputs = [
 
 const selectInputs = [
   {
-    label: 'Correctly Tagged',
-    id: 'correctly tagged',
+    label: 'Correctly Prefixed',
+    id: 'correctly prefixed',
     options: {
       '': '',
       true: 'True',

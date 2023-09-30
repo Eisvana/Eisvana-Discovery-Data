@@ -1,11 +1,10 @@
 <script setup lang="ts">
 import { useDataStore } from '@/stores/data';
 import { useFilterStore } from '@/stores/filter';
-import type { DiscoveryData, Hub } from '@/types/data';
+import type { DiscoveryData } from '@/types/data';
 import { storeToRefs } from 'pinia';
 import { ref } from 'vue';
 import regions from '@/assets/regions.json';
-import { GalaxyMapping } from '@/objects/mappings';
 
 const filterStore = useFilterStore();
 const dataStore = useDataStore();
@@ -17,7 +16,6 @@ const {
   searchTerms,
   caseSensitivity,
   activeRegions,
-  activeHubs,
   activePlatforms,
 } = storeToRefs(filterStore);
 const { filteredData } = storeToRefs(dataStore);
@@ -34,16 +32,11 @@ const resetStore = () => {
 async function loadData() {
   isLoading.value = true;
   try {
-    const json: DiscoveryData[][] = await Promise.all(
-      activeHubs.value.map(async (galaxy: Hub) => {
-        const { default: importedData } = await import(`../assets/${galaxy}/${galaxy}.json`);
-        importedData.forEach((data: DiscoveryData) => {
-          data.galaxy = GalaxyMapping[galaxy];
-        });
-        return importedData;
-      })
-    );
-    filteredData.value = applyFilter(json.flat());
+    const { default: importedData } = await import(`../assets/eisvana.json`);
+
+    const json: DiscoveryData[] = importedData as DiscoveryData[];
+
+    filteredData.value = applyFilter(json);
   } catch (error) {
     console.warn(error);
   } finally {
@@ -92,7 +85,7 @@ function applyFilter(data: DiscoveryData[]) {
     if (!isValidPlatform) return false;
 
     const isValidTagged =
-      tagged.value === '' || (tagged.value && item['Correctly Tagged']) || (!tagged.value && !item['Correctly Tagged']);
+      tagged.value === '' || (tagged.value && item['Correctly Prefixed']) || (!tagged.value && !item['Correctly Prefixed']);
 
     if (!isValidTagged) return false;
 
@@ -124,8 +117,7 @@ function applyFilter(data: DiscoveryData[]) {
     if (!isValidDiscoverer) return false;
 
     const isValidRegion =
-      (!regionData.length && !item.Glyphs) ||
-      regionData.some((region) => item.galaxy === region.galaxy && item.Glyphs.slice(4) === region.regionGlyphs); // NoSonar region glyphs start at index 4
+      (!regionData.length && !item.Glyphs) || regionData.some((region) => item.Glyphs.slice(4) === region.regionGlyphs); // NoSonar region glyphs start at index 4
 
     return isValidRegion;
   }
@@ -134,15 +126,8 @@ function applyFilter(data: DiscoveryData[]) {
 }
 
 function searchRegion(region: string) {
-  const regionObjects = Object.values(regions);
-  const hubIndex = regionObjects.findIndex((item) => Object.values(item).includes(region));
-  const regionGlyphs = Object.entries(regionObjects[hubIndex]).find((item) => item[1] === region)?.[0] ?? '';
-  const hub = Object.keys(regions)[hubIndex] as Hub;
-  const galaxy = GalaxyMapping[hub];
-  return {
-    regionGlyphs,
-    galaxy,
-  };
+  const regionGlyphs = Object.entries(regions).find((item) => item[1] === region)?.[0] ?? '';
+  return { regionGlyphs };
 }
 </script>
 

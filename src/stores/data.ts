@@ -39,7 +39,7 @@ export const useDataStore = defineStore('data', {
 
   getters: {
     dataLength: (state: State) => (state.filteredData.length),
-    amountTagged: (state: State) => (state.filteredData.filter((item) => item['Correctly Tagged']).length),
+    amountTagged: (state: State) => (state.filteredData.filter((item) => item['Correctly Prefixed']).length),
     dateRange: (state: State): [string | undefined, string | undefined] => {
       const sortedData = structuredClone(toRaw(state.filteredData)).filter(item => item.Timestamp).sort((a, b) => a.UnixTimestamp - b.UnixTimestamp);
       return [sortedData[0]?.Timestamp, sortedData[sortedData.length - 1]?.Timestamp];

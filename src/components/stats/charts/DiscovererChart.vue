@@ -25,7 +25,7 @@ const discovererStats = computed(() => {
       tags: 0,
     });
     discovererObject.discoveries++;
-    if (data['Correctly Tagged']) discovererObject.tags++;
+    if (data['Correctly Prefixed']) discovererObject.tags++;
   }
 
   const sortedDiscovererArray = Object.entries(discovererData);
@@ -122,7 +122,7 @@ const pieChartOptions = {
 </script>
 
 <template>
-  <DetailsWrapper summary="Discoveries and Hub tags per player">
+  <DetailsWrapper summary="Discoveries and prefixes per player">
     <PaginationControls
       :total-pages="paginatedData.length"
       :section="AppSections.discovererChart"

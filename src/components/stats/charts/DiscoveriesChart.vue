@@ -46,7 +46,7 @@ const transformedData = computed(() => {
   for (const dataObj of filteredData.value) {
     if (!dataObj.Timestamp) continue;
     const index = keys.indexOf(dataObj.Timestamp);
-    const isCorrect = dataObj['Correctly Tagged'];
+    const isCorrect = dataObj['Correctly Prefixed'];
 
     for (let j = index; j < keys.length; j++) {
       const key = keys[j];

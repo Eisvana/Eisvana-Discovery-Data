@@ -9,11 +9,8 @@ export interface DiscoveryData {
   Platform: Platform;
   Timestamp: string;
   UnixTimestamp: number;
-  'Correctly Tagged': boolean;
-  galaxy: 'Euclid' | 'Calypso' | 'Eissentam';
+  'Correctly Prefixed': boolean;
 }
-
-export type Hub = 'GHub' | 'CalHub' | 'EisHub';
 
 export interface Sorting {
   col: number;

@@ -49,7 +49,7 @@ const dataArray = computed(() => {
           text = new Date(value as number).toLocaleDateString();
           break;
 
-        case 'Correctly Tagged':
+        case 'Correctly Prefixed':
           text = (value as boolean).toString().charAt(0).toUpperCase() + (value as boolean).toString().slice(1);
           break;
 

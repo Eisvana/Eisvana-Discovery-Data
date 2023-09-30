@@ -1,5 +1,4 @@
 import { defineStore } from 'pinia';
-import type { Hub } from '@/types/data';
 import regionsJson from '@/assets/regions.json';
 
 interface TextSearch<T> {
@@ -10,11 +9,8 @@ interface TextSearch<T> {
 }
 
 interface State {
-  hubs: { [keys: string]: boolean };
   regions: {
-    [key: string]: {
-      [keys: string]: boolean
-    };
+    [keys: string]: boolean
   };
   searchTerms: TextSearch<string>;
   intersections: TextSearch<'includes' | 'is' | '!includes' | '!is'>;
@@ -30,7 +26,6 @@ interface State {
 
 export const useFilterStore = defineStore('filter', {
   state: (): State => ({
-    hubs: {},
     regions: {},
     searchTerms: {
       name: '',
@@ -75,29 +70,14 @@ export const useFilterStore = defineStore('filter', {
     },
     activePlatforms: (state) => Object.entries(state.platforms).filter(item => item[1]).map(item => item[0]),
 
-    activeHubs: (state): Hub[] => {
-      const SelectedHubs = Object.entries(state.hubs).filter(item => item[1]).map(item => item[0]);
-      const arrayIntersection = Object.keys(regionsJson).filter((value) => SelectedHubs.includes(value));
-      return arrayIntersection as Hub[];
-    },
-
     activeRegions: (state) => {
-      const regionArray = Object.values(state.regions)
-
       const selectedRegions: string[] = [];
 
-      for (const region of regionArray) {
-        selectedRegions.push(...Object.entries(region).filter(item => item[1]).map(item => item[0]));
-      }
-
-      const SelectedHubs = Object.entries(state.hubs).filter(item => item[1]).map(item => item[0]);
-      const hubArrayIntersection = Object.keys(regionsJson).filter((value) => SelectedHubs.includes(value));
+        selectedRegions.push(...Object.entries(state.regions).filter(item => item[1]).map(item => item[0]));
 
       const possibleRegions: string[] = [];
 
-      for (const hub of hubArrayIntersection) {
-        possibleRegions.push(...Object.values(regionsJson[hub as Hub]))
-      }
+      possibleRegions.push(...Object.values(regionsJson))
 
       const regionArrayIntersection = possibleRegions.filter((value) => selectedRegions.includes(value));
       return regionArrayIntersection;
@@ -105,8 +85,8 @@ export const useFilterStore = defineStore('filter', {
   },
 
   actions: {
-    invertRegionSwitches(hub: string) {
-      const hubRegionData = this.regions[hub];
+    invertRegionSwitches() {
+      const hubRegionData = this.regions;
       for (const [key, value] of Object.entries(hubRegionData)) {
         hubRegionData[key] = !value;
       }

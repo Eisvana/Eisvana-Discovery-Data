@@ -31,7 +31,7 @@ const platformStats = computed(() => {
       tags: 0,
     });
     platformObject.discoveries++;
-    if (data['Correctly Tagged']) platformObject.tags++;
+    if (data['Correctly Prefixed']) platformObject.tags++;
   }
 
   const sortedPlatformArray = Object.entries(platformData);
@@ -104,7 +104,7 @@ const pieChartOptions = {
 </script>
 
 <template>
-  <DetailsWrapper summary="Discoveries and Hub tags per platform">
+  <DetailsWrapper summary="Discoveries and prefixes per platform">
     <Bar
       :data="barChartData"
       :options="barChartOptions"

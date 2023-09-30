@@ -23,7 +23,7 @@ const discovererStats = computed(() => {
       tags: 0,
     });
     discovererObject.discoveries++;
-    if (data['Correctly Tagged']) discovererObject.tags++;
+    if (data['Correctly Prefixed']) discovererObject.tags++;
   }
 
   const discoveryNumbers: number[] = Object.values(discovererData).map((item) => item.discoveries);

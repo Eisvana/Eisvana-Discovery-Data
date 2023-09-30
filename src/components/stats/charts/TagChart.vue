@@ -40,7 +40,7 @@ const transformedData = computed(() => {
 
   for (const item of filteredData.value) {
     if (!item.Timestamp) continue;
-    timestampData[item.Timestamp][item['Correctly Tagged'] ? 'correct' : 'incorrect']++;
+    timestampData[item.Timestamp][item['Correctly Prefixed'] ? 'correct' : 'incorrect']++;
   }
 
   const newDateArray: { ts: string; correct: number; incorrect: number }[] = [];
@@ -88,7 +88,7 @@ const options = {
 </script>
 
 <template>
-  <DetailsWrapper summary="Hub Tags over time">
+  <DetailsWrapper summary="Prefixes over time">
     <Line
       :data="data"
       :options="options"

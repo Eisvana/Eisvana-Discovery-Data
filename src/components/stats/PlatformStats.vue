@@ -57,7 +57,7 @@ const platformStats = computed(() => {
       taggedPercentSelf: '0%',
     });
     platformObject.discoveries++;
-    if (data['Correctly Tagged']) platformObject.tagged++;
+    if (data['Correctly Prefixed']) platformObject.tagged++;
     playerData[platform].add(data.Discoverer);
     platformObject.players = playerData[platform].size;
     platformObject.discPercent = getPercentage(platformObject.discoveries, dataLength.value) + '%';

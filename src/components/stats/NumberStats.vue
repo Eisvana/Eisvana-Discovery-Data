@@ -14,7 +14,7 @@ const systemsTaggedPercent = computed(() => getPercentage(amountTagged.value, da
 
 // not tagged
 const systemsNotTagged = computed(
-  () => filteredData.value.filter((item) => !item['Correctly Tagged'] && item.Name).length
+  () => filteredData.value.filter((item) => !item['Correctly Prefixed'] && item.Name).length
 );
 const systemsNotTaggedPercent = computed(() => getPercentage(systemsNotTagged.value, dataLength.value));
 
@@ -70,12 +70,12 @@ const avgDiscoverersPerDay = computed(() => {
   return differenceInDays.value ? (totalDiscoverers / differenceInDays.value).toFixed(2) : 0; // NoSonar this generates two decimals
 });
 
-// average hub tags per day
+// average prefixes per day
 const avgCorrectTagsPerDay = computed(
   () => (differenceInDays.value ? (amountTagged.value / differenceInDays.value).toFixed(2) : 0) // NoSonar this generates two decimals
 );
 
-// average incorrect hub tags per day
+// average incorrect prefixes per day
 const avgIncorrectTagsPerDay = computed(
   () =>
     differenceInDays.value ? ((systemsNotTagged.value + systemsProcName.value) / differenceInDays.value).toFixed(2) : 0 // NoSonar this generates two decimals
@@ -110,7 +110,7 @@ const getDate = (dateString: string | undefined) => (dateString ? new Date(dateS
     <div class="number-stats-wrapper">
       <div>Tagged:</div>
       <div>{{ amountTagged }} ({{ systemsTaggedPercent }}%)</div>
-      <div>Not/incorrectly tagged:</div>
+      <div>Not/incorrectly prefixed:</div>
       <div>{{ systemsNotTagged }} ({{ systemsNotTaggedPercent }}%)</div>
       <div>Procedural name:</div>
       <div>{{ systemsProcName }} ({{ systemsProcNamePercent }}%)</div>
@@ -122,9 +122,9 @@ const getDate = (dateString: string | undefined) => (dateString ? new Date(dateS
       <div>{{ avgDiscoveriesPerDay }}</div>
       <div>Average number of players per day:</div>
       <div>{{ avgDiscoverersPerDay }}</div>
-      <div>Average number of Hub tags per day:</div>
+      <div>Average number of prefixes per day:</div>
       <div>{{ avgCorrectTagsPerDay }}</div>
-      <div>Average non-Hub tagged systems per day:</div>
+      <div>Average non-prefixed systems per day:</div>
       <div>{{ avgIncorrectTagsPerDay }}</div>
       <div>Earliest Discovery:</div>
       <div>{{ getDate(dateRange[0]) }}</div>

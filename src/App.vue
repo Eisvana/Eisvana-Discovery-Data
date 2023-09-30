@@ -9,7 +9,7 @@ import PageFooter from '@/components/PageFooter.vue';
 <template>
   <header>
     <NavBar />
-    <h1 class="title">Hub Discovery Data</h1>
+    <h1 class="title">Eisvana Discovery Data</h1>
   </header>
 
   <main>
