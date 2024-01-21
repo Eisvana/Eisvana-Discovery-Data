@@ -32,7 +32,7 @@ const { filteredData } = storeToRefs(dataStore);
 </template>
 
 <style scoped lang="scss">
-.freeze-warning{
+.freeze-warning {
   text-align: center;
   font-size: initial;
 }

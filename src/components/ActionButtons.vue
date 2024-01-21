@@ -9,15 +9,8 @@ import regions from '@/assets/regions.json';
 const filterStore = useFilterStore();
 const dataStore = useDataStore();
 
-const {
-  unixTimestamp,
-  tagged,
-  intersections,
-  searchTerms,
-  caseSensitivity,
-  activeRegions,
-  activePlatforms,
-} = storeToRefs(filterStore);
+const { unixTimestamp, tagged, intersections, searchTerms, caseSensitivity, activeRegions, activePlatforms } =
+  storeToRefs(filterStore);
 const { filteredData } = storeToRefs(dataStore);
 
 const isLoading = ref(false);
@@ -85,7 +78,9 @@ function applyFilter(data: DiscoveryData[]) {
     if (!isValidPlatform) return false;
 
     const isValidTagged =
-      tagged.value === '' || (tagged.value && item['Correctly Prefixed']) || (!tagged.value && !item['Correctly Prefixed']);
+      tagged.value === '' ||
+      (tagged.value && item['Correctly Prefixed']) ||
+      (!tagged.value && !item['Correctly Prefixed']);
 
     if (!isValidTagged) return false;
 

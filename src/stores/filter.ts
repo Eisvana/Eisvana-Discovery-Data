@@ -10,7 +10,7 @@ interface TextSearch<T> {
 
 interface State {
   regions: {
-    [keys: string]: boolean
+    [keys: string]: boolean;
   };
   searchTerms: TextSearch<string>;
   intersections: TextSearch<'includes' | 'is' | '!includes' | '!is'>;
@@ -20,7 +20,7 @@ interface State {
     startDate: string;
     endDate: string;
     [key: string]: string;
-  }
+  };
   tagged: '' | boolean;
 }
 
@@ -46,7 +46,7 @@ export const useFilterStore = defineStore('filter', {
     platforms: {},
     date: {
       startDate: '',
-      endDate: ''
+      endDate: '',
     },
     tagged: '',
   }),
@@ -68,16 +68,23 @@ export const useFilterStore = defineStore('filter', {
       }
       return numberDateObj;
     },
-    activePlatforms: (state) => Object.entries(state.platforms).filter(item => item[1]).map(item => item[0]),
+    activePlatforms: (state) =>
+      Object.entries(state.platforms)
+        .filter((item) => item[1])
+        .map((item) => item[0]),
 
     activeRegions: (state) => {
       const selectedRegions: string[] = [];
 
-        selectedRegions.push(...Object.entries(state.regions).filter(item => item[1]).map(item => item[0]));
+      selectedRegions.push(
+        ...Object.entries(state.regions)
+          .filter((item) => item[1])
+          .map((item) => item[0])
+      );
 
       const possibleRegions: string[] = [];
 
-      possibleRegions.push(...Object.values(regionsJson))
+      possibleRegions.push(...Object.values(regionsJson));
 
       const regionArrayIntersection = possibleRegions.filter((value) => selectedRegions.includes(value));
       return regionArrayIntersection;
@@ -90,6 +97,6 @@ export const useFilterStore = defineStore('filter', {
       for (const [key, value] of Object.entries(hubRegionData)) {
         hubRegionData[key] = !value;
       }
-    }
-  }
+    },
+  },
 });

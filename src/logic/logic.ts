@@ -1,4 +1,4 @@
-import { Orders, PlatformColours, PlatformMapping } from "@/objects/mappings";
+import { Orders, PlatformColours, PlatformMapping } from '@/objects/mappings';
 import type { Sorting } from '@/types/data';
 
 export function paginateData(inputArray: ([] | {})[], itemsPerPage: number): ([] | {} | string | number)[][] {
@@ -18,7 +18,7 @@ export function paginateData(inputArray: ([] | {})[], itemsPerPage: number): ([]
  * returns a *new* array, sorted by the column specified in the sortingCol index.
  * @param inputArray Array of arrays which should be sorted
  * @param sortingCol Index of column for which should be sorted
-*/
+ */
 export function sortArray(inputArray: (string | number)[][], sortingCol: number) {
   const sortedArray = structuredClone(inputArray).sort((a, b) => {
     const aValue = a[sortingCol];
@@ -36,7 +36,8 @@ export function sortArray(inputArray: (string | number)[][], sortingCol: number)
   return sortedArray;
 }
 
-const toggleSortingOrder = (sortingObj: Sorting) => (sortingObj.order = sortingObj.order === Orders.asc ? Orders.desc : Orders.asc);
+const toggleSortingOrder = (sortingObj: Sorting) =>
+  (sortingObj.order = sortingObj.order === Orders.asc ? Orders.desc : Orders.asc);
 
 export function sortByColumn(event: Event, sortingObj: Sorting) {
   const element = event.target as HTMLDivElement;
@@ -52,7 +53,8 @@ export function sortByColumn(event: Event, sortingObj: Sorting) {
   element.setAttribute('aria-sort', sortingObj.order);
 }
 
-export const getPercentage = (amount: number, total: number, decimals: number = 1) => parseFloat((total ? (amount / total) * 100 : 0).toFixed(decimals)); // NoSonar this calculates a percentage
+export const getPercentage = (amount: number, total: number, decimals: number = 1) =>
+  parseFloat((total ? (amount / total) * 100 : 0).toFixed(decimals)); // NoSonar this calculates a percentage
 
 export function sortData(inputArray: (string | number)[][], sorting: Sorting) {
   const sortedArray = sortArray(inputArray, sorting.col);

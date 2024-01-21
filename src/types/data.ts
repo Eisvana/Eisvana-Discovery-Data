@@ -1,4 +1,4 @@
-import type { Orders } from "@/objects/mappings";
+import type { Orders } from '@/objects/mappings';
 
 export type Platform = 'ST' | 'PS' | 'XB' | 'GX' | 'NI';
 
@@ -14,7 +14,7 @@ export interface DiscoveryData {
 
 export interface Sorting {
   col: number;
-  order: Orders
+  order: Orders;
 }
 
 export interface TableHeadings {

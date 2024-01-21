@@ -90,7 +90,7 @@ const options = {
 </script>
 
 <template>
-<DetailsWrapper summary="Discoveries over time">
+  <DetailsWrapper summary="Discoveries over time">
     <Line
       :data="data"
       :options="options"

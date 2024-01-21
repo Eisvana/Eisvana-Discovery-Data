@@ -5,7 +5,7 @@ switchTheme(prefersDark ? 'dark' : 'light');
 
 function switchTheme(theme: string | null = null) {
   const currentTheme = document.documentElement.dataset.theme;
-  const computedNewTheme = currentTheme == 'dark' ? 'light' : 'dark';
+  const computedNewTheme = currentTheme === 'dark' ? 'light' : 'dark';
   const newTheme = theme ?? computedNewTheme;
   document.documentElement.dataset.theme = newTheme;
 }

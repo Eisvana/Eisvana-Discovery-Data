@@ -1,4 +1,4 @@
-export const evRegions = 7
+export const evRegions = 7;
 
 export enum PlatformMapping {
   ST = 'Steam',
