@@ -4,7 +4,7 @@ import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, Li
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
-import { ChartColours, PlatformMapping } from '@/objects/mappings';
+import { chartColours, platformMapping } from '@/objects/mappings';
 import type { Platform } from '@/types/data';
 import { setPlatformColours } from '@/logic/logic';
 import DetailsWrapper from '@/components/DetailsWrapper.vue';
@@ -41,7 +41,7 @@ const platformStats = computed(() => {
   const platformStatsObject = Object.fromEntries(sortedPlatformArray);
 
   return {
-    platforms: Object.keys(platformStatsObject).map((item) => PlatformMapping[item as Platform]),
+    platforms: Object.keys(platformStatsObject).map((item) => platformMapping[item as Platform]),
     tags: Object.values(platformStatsObject).map((item) => item.tags),
     incorrect: Object.values(platformStatsObject).map((item) => item.discoveries - item.tags),
   };
@@ -52,12 +52,12 @@ const barChartData = computed(() => ({
   datasets: [
     {
       label: 'Tagged',
-      backgroundColor: ChartColours.blue,
+      backgroundColor: chartColours.blue,
       data: platformStats.value.tags,
     },
     {
       label: 'Not Tagged',
-      backgroundColor: ChartColours.red,
+      backgroundColor: chartColours.red,
       data: platformStats.value.incorrect,
     },
   ],

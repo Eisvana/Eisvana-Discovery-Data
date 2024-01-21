@@ -4,7 +4,7 @@ import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, Li
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import type { DiscovererData } from '@/types/data';
-import { ChartColours } from '@/objects/mappings';
+import { chartColours } from '@/objects/mappings';
 import DetailsWrapper from '@/components/DetailsWrapper.vue';
 import { computed } from 'vue';
 
@@ -44,7 +44,7 @@ const chartData = computed(() => {
     datasets: [
       {
         label: 'Players with contribution',
-        backgroundColor: ChartColours.blue,
+        backgroundColor: chartColours.blue,
         data: Object.values(discovererStats.value),
       },
     ],

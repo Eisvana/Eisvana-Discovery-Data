@@ -5,7 +5,7 @@ import TagSelect from './TagSelect.vue';
 import TextFilterInput from './TextFilterInput.vue';
 import { useFilterStore } from '@/stores/filter';
 import { storeToRefs } from 'pinia';
-import { PlatformMapping } from '@/objects/mappings';
+import { platformMapping } from '@/objects/mappings';
 
 const textInputs = [
   {
@@ -26,7 +26,7 @@ const platformSwitches = [
   {
     label: 'Platforms',
     id: 'platform',
-    switches: PlatformMapping,
+    switches: platformMapping,
   },
 ];
 

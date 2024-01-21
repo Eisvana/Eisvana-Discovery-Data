@@ -4,7 +4,7 @@ import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, Li
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
-import { AppSections, ChartColours } from '@/objects/mappings';
+import { appSections, chartColours } from '@/objects/mappings';
 import PaginationControls from '@/components/table/PaginationControls.vue';
 import { getRandomColour, paginateData } from '@/logic/logic';
 import type { DiscovererData, DiscovererDataArray } from '@/types/data';
@@ -90,12 +90,12 @@ const barChartData = computed(() => {
     datasets: [
       {
         label: 'Tagged',
-        backgroundColor: ChartColours.blue,
+        backgroundColor: chartColours.blue,
         data: playerTags,
       },
       {
         label: 'Not Tagged',
-        backgroundColor: ChartColours.red,
+        backgroundColor: chartColours.red,
         data: playerMistags,
       },
     ],
@@ -125,7 +125,7 @@ const pieChartOptions = {
   <DetailsWrapper summary="Discoveries and prefixes per player">
     <PaginationControls
       :total-pages="paginatedData.length"
-      :section="AppSections.discovererChart"
+      :section="appSections.discovererChart"
     />
     <Bar
       :data="barChartData"

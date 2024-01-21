@@ -2,7 +2,7 @@
 import PaginationControls from '@/components/table/PaginationControls.vue';
 import TableHeaders from '@/components/table/TableHeaders.vue';
 import { paginateData } from '@/logic/logic';
-import { AppSections, PlatformMapping } from '@/objects/mappings';
+import { appSections, platformMapping } from '@/objects/mappings';
 import { useDataStore } from '@/stores/data';
 import type { DiscoveryData, Platform, TableHeadings } from '@/types/data';
 import { storeToRefs } from 'pinia';
@@ -16,7 +16,7 @@ interface TextArray {
   className: string;
 }
 
-const getFullPlatform = (platform: Platform) => PlatformMapping[platform];
+const getFullPlatform = (platform: Platform) => platformMapping[platform];
 
 const paginatedData = computed(() => {
   const pages = paginateData(filteredData.value, itemsPerPage.value.resultsTable) as DiscoveryData[][];
@@ -79,7 +79,7 @@ const headers: TableHeadings = {
   <div v-if="dataArray.length">
     <PaginationControls
       :total-pages="paginatedData.length"
-      :section="AppSections.resultsTable"
+      :section="appSections.resultsTable"
     />
     <div class="data-table">
       <TableHeaders :headers="headers" />

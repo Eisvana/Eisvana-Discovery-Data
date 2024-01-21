@@ -1,6 +1,8 @@
-import type { Orders } from '@/objects/mappings';
+import { orders } from '@/objects/mappings';
 
 export type Platform = 'ST' | 'PS' | 'XB' | 'GX' | 'NI';
+
+export type ValueOf<T> = T[keyof T];
 
 export interface DiscoveryData {
   Name: string;
@@ -14,7 +16,7 @@ export interface DiscoveryData {
 
 export interface Sorting {
   col: number;
-  order: Orders;
+  order: ValueOf<typeof orders>;
 }
 
 export interface TableHeadings {

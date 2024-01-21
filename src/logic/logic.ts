@@ -1,5 +1,5 @@
-import { Orders, PlatformColours, PlatformMapping } from '@/objects/mappings';
-import type { Sorting } from '@/types/data';
+import { orders, platformColours, platformMapping } from '@/objects/mappings';
+import type { Sorting, ValueOf } from '@/types/data';
 
 export function paginateData(inputArray: ([] | {})[], itemsPerPage: number): ([] | {} | string | number)[][] {
   const pages = inputArray.reduce((resultArray: ([] | {} | string | number)[][], item, index) => {
@@ -37,7 +37,7 @@ export function sortArray(inputArray: (string | number)[][], sortingCol: number)
 }
 
 const toggleSortingOrder = (sortingObj: Sorting) =>
-  (sortingObj.order = sortingObj.order === Orders.asc ? Orders.desc : Orders.asc);
+  (sortingObj.order = sortingObj.order === orders.asc ? orders.desc : orders.asc);
 
 export function sortByColumn(event: Event, sortingObj: Sorting) {
   const element = event.target as HTMLDivElement;
@@ -47,7 +47,7 @@ export function sortByColumn(event: Event, sortingObj: Sorting) {
     toggleSortingOrder(sortingObj);
   } else {
     sortingObj.col = index;
-    sortingObj.order = Orders.desc;
+    sortingObj.order = orders.desc;
     parent.querySelector('[aria-sort]')?.removeAttribute('aria-sort');
   }
   element.setAttribute('aria-sort', sortingObj.order);
@@ -63,7 +63,7 @@ export function sortData(inputArray: (string | number)[][], sorting: Sorting) {
     sortedArray[i].unshift(`${i + 1}.`);
   }
 
-  if (sorting.order === Orders.asc) sortedArray.reverse();
+  if (sorting.order === orders.asc) sortedArray.reverse();
 
   return sortedArray;
 }
@@ -85,25 +85,18 @@ export function getDatesBetween(startDate: string | undefined, endDate: string |
   return dates.map((date) => date.toISOString().split('T')[0]);
 }
 
-export function setPlatformColours(array: PlatformMapping[]) {
+export function setPlatformColours(array: ValueOf<typeof platformMapping>[]) {
   return array.map((platform) => {
     // TODO: Refactor this to use an object which is accessed
-    switch (platform) {
-      case PlatformMapping.ST:
-        return PlatformColours.steam;
+    const platformColourLookup = {
+      [platformMapping.ST]: platformColours.steam,
+      [platformMapping.PS]: platformColours.ps,
+      [platformMapping.XB]: platformColours.xb,
+      [platformMapping.GX]: platformColours.gog,
+      [platformMapping.NI]: platformColours.switch,
+    };
 
-      case PlatformMapping.PS:
-        return PlatformColours.ps;
-
-      case PlatformMapping.XB:
-        return PlatformColours.xb;
-
-      case PlatformMapping.GX:
-        return PlatformColours.gog;
-
-      case PlatformMapping.NI:
-        return PlatformColours.switch;
-    }
+    return platformColourLookup[platform];
   });
 }
 

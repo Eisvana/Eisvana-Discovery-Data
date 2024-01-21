@@ -4,8 +4,8 @@ import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, Li
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
-import { ChartColours, PlatformMapping } from '@/objects/mappings';
-import type { Platform } from '@/types/data';
+import { chartColours, platformMapping } from '@/objects/mappings';
+import type { Platform, ValueOf } from '@/types/data';
 import { setPlatformColours } from '@/logic/logic';
 import DetailsWrapper from '@/components/DetailsWrapper.vue';
 
@@ -16,7 +16,7 @@ const { filteredData } = storeToRefs(dataStore);
 
 const platformStats = computed(
   (): {
-    platforms: PlatformMapping[];
+    platforms: ValueOf<typeof platformMapping>[];
     players: number[];
   } => {
     const platformData: { [key: string]: Set<string> } = {};
@@ -31,7 +31,7 @@ const platformStats = computed(
     platformDataArray.sort((a, b) => b[1].size - a[1].size);
 
     return {
-      platforms: platformDataArray.map((item) => PlatformMapping[item[0] as Platform]),
+      platforms: platformDataArray.map((item) => platformMapping[item[0] as Platform]),
       players: platformDataArray.map((item) => item[1].size),
     };
   }
@@ -42,7 +42,7 @@ const barChartData = computed(() => {
     labels: platformStats.value.platforms,
     datasets: [
       {
-        backgroundColor: ChartColours.blue,
+        backgroundColor: chartColours.blue,
         data: platformStats.value.players,
       },
     ],

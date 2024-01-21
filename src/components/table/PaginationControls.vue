@@ -1,12 +1,13 @@
 <script setup lang="ts">
-import type { AppSections } from '@/objects/mappings';
+import type { appSections } from '@/objects/mappings';
 import { useDataStore } from '@/stores/data';
+import type { ValueOf } from '@/types/data';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 
 const props = defineProps<{
   totalPages: number;
-  section: AppSections;
+  section: ValueOf<typeof appSections>;
 }>();
 
 const dataStore = useDataStore();

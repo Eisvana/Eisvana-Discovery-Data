@@ -1,11 +1,11 @@
 <script setup lang="ts">
 import { sortByColumn } from '@/logic/logic';
-import type { Orders } from '@/objects/mappings';
-import type { TableHeadings } from '@/types/data';
+import type { orders } from '@/objects/mappings';
+import type { TableHeadings, ValueOf } from '@/types/data';
 
 defineProps<{
   headers: TableHeadings;
-  sorting?: { col: number; order: Orders };
+  sorting?: { col: number; order: ValueOf<typeof orders> };
 }>();
 </script>
 

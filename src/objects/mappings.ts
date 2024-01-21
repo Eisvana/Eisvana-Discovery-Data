@@ -1,35 +1,35 @@
 export const evRegions = 7;
 
-export enum PlatformMapping {
-  ST = 'Steam',
-  PS = 'PlayStation',
-  XB = 'Xbox',
-  GX = 'GOG',
-  NI = 'Nintendo Switch',
-}
+export const platformMapping = {
+  ST: 'Steam',
+  PS: 'PlayStation',
+  XB: 'Xbox',
+  GX: 'GOG',
+  NI: 'Nintendo Switch',
+} as const;
 
-export enum Orders {
-  asc = 'ascending',
-  desc = 'descending',
-}
+export const orders = {
+  asc: 'ascending',
+  desc: 'descending',
+} as const;
 
-export enum ChartColours {
-  blue = '#1095C1',
-  red = '#e85123',
-  green = '#1A8F1A',
-}
+export const chartColours = {
+  blue: '#1095C1',
+  red: '#e85123',
+  green: '#1A8F1A',
+} as const;
 
-export enum AppSections {
-  resultsTable = 'resultsTable',
-  discovererStats = 'discovererStats',
-  discovererChart = 'discovererChart',
-  playerChart = 'playerChart',
-}
+export const appSections = {
+  resultsTable: 'resultsTable',
+  discovererStats: 'discovererStats',
+  discovererChart: 'discovererChart',
+  playerChart: 'playerChart',
+} as const;
 
-export enum PlatformColours {
-  steam = '#003EFF',
-  ps = '#0080FF',
-  xb = '#56FF56',
-  gog = '#EBFF3A',
-  switch = '#FF3A3A',
-}
+export const platformColours = {
+  steam: '#003EFF',
+  ps: '#0080FF',
+  xb: '#56FF56',
+  gog: '#EBFF3A',
+  switch: '#FF3A3A',
+} as const;

@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { getDatesBetween, setPlatformColours } from '@/logic/logic';
-import { PlatformMapping } from '@/objects/mappings';
+import { platformMapping } from '@/objects/mappings';
 import { useDataStore } from '@/stores/data';
 import type { Platform } from '@/types/data';
 import {
@@ -50,7 +50,7 @@ const blankData = computed(() => {
   return timestampData;
 });
 
-const getPlatformColour = (platform: Platform) => setPlatformColours([PlatformMapping[platform]])[0];
+const getPlatformColour = (platform: Platform) => setPlatformColours([platformMapping[platform]])[0];
 
 const transformedData = computed(() => {
   const discoveryAmount = structuredClone(blankData.value);
@@ -90,7 +90,7 @@ function individualDatasetObjectFactory(platform: Platform): {
   const data = Object.values(transformedData.value).map((item) => item[platform] || null);
 
   return {
-    label: PlatformMapping[platform],
+    label: platformMapping[platform],
     backgroundColor: colour,
     borderColor: colour + '70',
     data,
@@ -108,7 +108,7 @@ function combinedDatasetObjectFactory(platform: Platform): {
   const data = combineIndizes(platform);
 
   return {
-    label: PlatformMapping[platform],
+    label: platformMapping[platform],
     backgroundColor: colour,
     borderColor: colour + '70',
     data,
@@ -117,8 +117,8 @@ function combinedDatasetObjectFactory(platform: Platform): {
 
 const individualDatasets = computed(() => {
   const datasets = [];
-  for (const platform of Object.keys(PlatformMapping)) {
-    const dataset = individualDatasetObjectFactory(platform as keyof typeof PlatformMapping);
+  for (const platform of Object.keys(platformMapping)) {
+    const dataset = individualDatasetObjectFactory(platform as keyof typeof platformMapping);
     datasets.push(dataset);
   }
   return datasets;
@@ -133,8 +133,8 @@ const individualData = computed(() => {
 
 const combinedDatasets = computed(() => {
   const datasets = [];
-  for (const platform of Object.keys(PlatformMapping)) {
-    const dataset = combinedDatasetObjectFactory(platform as keyof typeof PlatformMapping);
+  for (const platform of Object.keys(platformMapping)) {
+    const dataset = combinedDatasetObjectFactory(platform as keyof typeof platformMapping);
     datasets.push(dataset);
   }
   return datasets;

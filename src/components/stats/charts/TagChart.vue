@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { getDatesBetween } from '@/logic/logic';
-import { ChartColours } from '@/objects/mappings';
+import { chartColours } from '@/objects/mappings';
 import { useDataStore } from '@/stores/data';
 import {
   Chart as ChartJS,
@@ -61,20 +61,20 @@ const data = computed(() => {
     datasets: [
       {
         label: 'Total Discoveries',
-        backgroundColor: ChartColours.green,
-        borderColor: ChartColours.green + '70',
+        backgroundColor: chartColours.green,
+        borderColor: chartColours.green + '70',
         data: transformedData.value.map((obj) => obj.correct + obj.incorrect || null),
       },
       {
         label: 'Correct Tags',
-        backgroundColor: ChartColours.blue,
-        borderColor: ChartColours.blue + '70',
+        backgroundColor: chartColours.blue,
+        borderColor: chartColours.blue + '70',
         data: transformedData.value.map((obj) => obj.correct || null),
       },
       {
         label: 'Incorrect Tags',
-        backgroundColor: ChartColours.red,
-        borderColor: ChartColours.red + '70',
+        backgroundColor: chartColours.red,
+        borderColor: chartColours.red + '70',
         data: transformedData.value.map((obj) => obj.incorrect || null),
       },
     ],

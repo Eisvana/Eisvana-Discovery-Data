@@ -1,12 +1,12 @@
 <script setup lang="ts">
-import type { Orders } from '@/objects/mappings';
-import type { TableHeadings } from '@/types/data';
+import type { orders } from '@/objects/mappings';
+import type { TableHeadings, ValueOf } from '@/types/data';
 import TableHeaders from './TableHeaders.vue';
 import { computed } from 'vue';
 
 const props = defineProps<{
   headers: TableHeadings;
-  sorting?: { col: number; order: Orders };
+  sorting?: { col: number; order: ValueOf<typeof orders> };
   data: (string | number)[];
 }>();
 

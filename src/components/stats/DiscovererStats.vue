@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import { getPercentage, paginateData, sortData } from '@/logic/logic';
-import { AppSections, Orders, PlatformMapping } from '@/objects/mappings';
+import { appSections, orders, platformMapping } from '@/objects/mappings';
 import { useDataStore } from '@/stores/data';
-import type { TableHeadings } from '@/types/data';
+import type { TableHeadings, ValueOf } from '@/types/data';
 import { storeToRefs } from 'pinia';
 import { computed, reactive } from 'vue';
 import DataTable from '../table/DataTable.vue';
@@ -22,9 +22,9 @@ interface DiscovererData {
   };
 }
 
-const sorting = reactive<{ col: number; order: Orders }>({
+const sorting = reactive<{ col: number; order: ValueOf<typeof orders> }>({
   col: 2,
-  order: Orders.desc,
+  order: orders.desc,
 });
 
 const discovererStats = computed(() => {
@@ -42,7 +42,7 @@ const discovererStats = computed(() => {
     });
     discovererObject.discoveries++;
     if (data['Correctly Prefixed']) discovererObject.tagged++;
-    discovererObject.platform = PlatformMapping[data.Platform];
+    discovererObject.platform = platformMapping[data.Platform];
     discovererObject.discPercent = getPercentage(discovererObject.discoveries, dataLength.value) + '%';
     discovererObject.taggedPercent = getPercentage(discovererObject.tagged, amountTagged.value) + '%';
     discovererObject.taggedPercentSelf = getPercentage(discovererObject.tagged, discovererObject.discoveries) + '%';
@@ -82,7 +82,7 @@ const headers: TableHeadings = {
     <summary>Discoverer Stats</summary>
     <PaginationControls
       :total-pages="paginatedData.length"
-      :section="AppSections.discovererStats"
+      :section="appSections.discovererStats"
     />
     <DataTable
       :headers="headers"

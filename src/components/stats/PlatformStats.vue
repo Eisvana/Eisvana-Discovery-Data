@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { getPercentage, sortData } from '@/logic/logic';
-import { Orders, PlatformMapping } from '@/objects/mappings';
+import { orders, platformMapping } from '@/objects/mappings';
 import { useDataStore } from '@/stores/data';
 import type { Sorting, TableHeadings } from '@/types/data';
 import { storeToRefs } from 'pinia';
@@ -12,7 +12,7 @@ const { filteredData, dataLength, amountTagged } = storeToRefs(dataStore);
 
 const sorting = reactive<Sorting>({
   col: 2,
-  order: Orders.desc,
+  order: orders.desc,
 });
 
 const platformStats = computed(() => {
@@ -47,7 +47,7 @@ const platformStats = computed(() => {
 
   for (const data of filteredData.value) {
     if (!data.Platform) continue;
-    const platform = PlatformMapping[data.Platform];
+    const platform = platformMapping[data.Platform];
     const platformObject = (platformData[platform] ??= {
       players: 0,
       discoveries: 0,
