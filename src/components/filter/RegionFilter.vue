@@ -20,7 +20,7 @@ for (const region of Object.values(regionObj)) {
       <summary>Filter Regions</summary>
       <legend>Filter Regions:</legend>
       <button
-        class="inline"
+        class="invert-button"
         @click="filterStore.invertRegionSwitches()"
       >
         Invert Selection
@@ -39,8 +39,8 @@ for (const region of Object.values(regionObj)) {
 </template>
 
 <style scoped lang="scss">
-.inline {
-  width: auto;
+.invert-button {
+  margin-block-end: 0.5rem;
 }
 
 .stat-grid {

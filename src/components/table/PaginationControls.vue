@@ -129,8 +129,8 @@ function parsePaginationSelection(event: Event) {
   .outline {
     &:hover,
     &:focus-visible {
-      background-color: var(--primary-hover);
-      color: var(--primary-inverse);
+      background-color: var(--pico-primary-hover);
+      color: var(--pico-primary-inverse);
     }
   }
 
