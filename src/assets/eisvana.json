@@ -4770,13 +4770,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-3 Afonovsk VI",
+    "Glyphs": "0003A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712471332000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -4860,22 +4860,22 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-D Smanovo",
+    "Glyphs": "000DA11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-02",
+    "UnixTimestamp": 1712058469000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-E Kizeli XI",
+    "Glyphs": "000EA11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-03",
+    "UnixTimestamp": 1712166126000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-F Ufalekt",
@@ -4923,76 +4923,76 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
+    "Name": "EV2-14 Ishele-Lips",
+    "Glyphs": "0014A11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-09",
+    "UnixTimestamp": 1712668813000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV2-15 Tukalta",
+    "Glyphs": "0015A11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-09",
+    "UnixTimestamp": 1712668913000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV2-16 Lokevinovs",
+    "Glyphs": "0016A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712607254000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "ev2-17 Vestvov-Luyk",
+    "Glyphs": "0017A11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712578458000,
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-18 Tubino",
+    "Glyphs": "0018A11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-11",
+    "UnixTimestamp": 1712791785000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-19 Higulma",
+    "Glyphs": "0019A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712374422000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1A Votkin-Natron",
+    "Glyphs": "001AA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712350175000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1B Izovsk",
+    "Glyphs": "001BA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712348476000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-1C Zorilsky",
@@ -5013,13 +5013,22 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1E Barabli-Idne II",
+    "Glyphs": "001EA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712304583000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV2-1F Neskyuvi XIX",
+    "Glyphs": "001FA11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712490414000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -5031,40 +5040,31 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-21 Imitrosh",
+    "Glyphs": "0021A11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712256225000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-22 Yuchard-Ninu",
+    "Glyphs": "0022A11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712354151000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-23 Lazomerc",
+    "Glyphs": "0023A11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712355498000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -5103,13 +5103,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-28 Bigovo-Yive",
+    "Glyphs": "0028A11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712431077000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-29 Zedushik XVI",
@@ -5130,13 +5130,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-2B Avdinog-Cianp IV",
+    "Glyphs": "002BA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712274480000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-2C Rinozav XIII",
@@ -5265,13 +5265,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-3A Iazykalu",
+    "Glyphs": "003AA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712470105000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-3B [Sosurgu]",
@@ -5292,13 +5292,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-3D Umikha-Alent II",
+    "Glyphs": "003DA11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712577582000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -5382,13 +5382,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-47 Kommot",
+    "Glyphs": "0047A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712606783000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -5436,13 +5436,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-4D Yovozy II",
+    "Glyphs": "004DA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712597530000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -5463,22 +5463,22 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-50 Kateli-Joy",
+    "Glyphs": "0050A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712467163000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-51 Tuvovat",
+    "Glyphs": "0051A11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712355372000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-52 Loyginins",
@@ -5580,22 +5580,22 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-5D Poronyev",
+    "Glyphs": "005DA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712348701000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-5E Hiyevo-Hagio",
+    "Glyphs": "005EA11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-11",
+    "UnixTimestamp": 1712791993000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -5616,13 +5616,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-61 Niyevk-Heg IX",
+    "Glyphs": "0061A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712380105000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-62 Eboksa",
@@ -5679,13 +5679,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-68 Ryokhal-Insh",
+    "Glyphs": "0068A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712200550000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-69 Eltsov-Molin",
@@ -5742,13 +5742,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-6F Lomskyvi XVI",
+    "Glyphs": "006FA11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712579670000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-70 Styushny XI",
@@ -5760,13 +5760,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-71 Fiksov",
+    "Glyphs": "0071A11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712236648000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-72 Uppulum",
@@ -5775,6 +5775,24 @@
     "Platform": "ST",
     "Timestamp": "2024-03-21",
     "UnixTimestamp": 1711056537000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV2-73 Igarim-Tosy",
+    "Glyphs": "0073A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712371471000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV2-74 Yindaln-Endo V",
+    "Glyphs": "0074A11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712255665000,
     "Correctly Prefixed": true
   },
   {
@@ -5787,31 +5805,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-76 Ameshe-Tesyn",
+    "Glyphs": "0076A11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-11",
+    "UnixTimestamp": 1712791880000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -5958,13 +5958,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-87 Teromo-Apara",
+    "Glyphs": "0087A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712381075000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -5994,13 +5994,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-8B Hasavilo",
+    "Glyphs": "008BA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712527112000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -6120,13 +6120,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-99 Uzensk-Gad",
+    "Glyphs": "0099A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712381368000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -6156,13 +6156,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-9D Asimlyaz",
+    "Glyphs": "009DA11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712431808000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -6363,13 +6363,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-B4 Ispolya-Dori",
+    "Glyphs": "00B4A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712529577000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -6390,13 +6390,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-B7 Vidnoy-Inbur",
+    "Glyphs": "00B7A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712361965000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -6570,13 +6570,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-CB Mamoin-Igu",
+    "Glyphs": "00CBA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712530166000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-CC Blinooz XVI",
@@ -6723,13 +6723,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-DC Tikhil",
+    "Glyphs": "00DCA11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712403223000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-DD Gradit-Udi",
@@ -6750,31 +6750,31 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-DF Ireyan-Mutano",
+    "Glyphs": "00DFA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712524973000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-E0 Ridoneg XII",
+    "Glyphs": "00E0A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712361874000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-E1 Dikamc-Omur",
+    "Glyphs": "00E1A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712362145000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-E2 Spatiiak",
@@ -6948,13 +6948,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-F5 Aberts-Iwein",
+    "Glyphs": "00F5A11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712403105000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-F6 Partaur",
@@ -7209,13 +7209,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-112 Asavyana",
+    "Glyphs": "0112A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712380609000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -7227,31 +7227,31 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-114 Dozohsky V",
+    "Glyphs": "0114A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712359867000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-115 Opkinso-Ail",
+    "Glyphs": "0115A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712360047000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-116 Floteln-Hawell",
+    "Glyphs": "0116A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712361328000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-117 Rikhin VI",
@@ -7425,13 +7425,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-12A Kurtau",
+    "Glyphs": "012AA11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712402904000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-12B Heartoak",
@@ -7452,13 +7452,22 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-12D Yunskyvin",
+    "Glyphs": "012DA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712380385000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV2-12E Olkovr-Viger XI",
+    "Glyphs": "012EA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712351792000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -7470,22 +7479,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-130 Kaiutska XI",
+    "Glyphs": "0130A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712367543000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-131 Turomor",
@@ -7497,13 +7497,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-132 Lunitsy",
+    "Glyphs": "0132A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712298538000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -7596,13 +7596,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-13D Poetog V",
+    "Glyphs": "013DA11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712355027000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-13E Himashar V",
@@ -7623,22 +7623,22 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-140 Maiuts",
+    "Glyphs": "0140A11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712432501000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-141 Viytegr",
+    "Glyphs": "0141A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712204216000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-142 Obayevkar",
@@ -7650,13 +7650,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-143 Adanin-Sono",
+    "Glyphs": "0143A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712380876000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-144 Perezh-Nibay",
@@ -7668,13 +7668,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-145 Bukovyluk",
+    "Glyphs": "0145A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712379126000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-146 Sanovn-Remedl",
@@ -7695,13 +7695,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-148 Chinskyv",
+    "Glyphs": "0148A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712379859000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-149 Oikhvi-Urayo",
@@ -7803,49 +7803,49 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-154 Ipetus",
+    "Glyphs": "0154A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712281356000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-155 Tiemei-Oar",
+    "Glyphs": "0155A11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-09",
+    "UnixTimestamp": 1712669298000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-156 Licherdo I",
+    "Glyphs": "0156A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712374992000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-157 Vaiuts-Nubeil",
+    "Glyphs": "0157A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712375136000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-158 Tradim-Vuyz",
+    "Glyphs": "0158A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712375450000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-159 Hebezhg-Otm",
@@ -7854,6 +7854,15 @@
     "Platform": "XB",
     "Timestamp": "2024-03-02",
     "UnixTimestamp": 1709343740000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV2-15A Voanni",
+    "Glyphs": "015AA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712352318000,
     "Correctly Prefixed": true
   },
   {
@@ -7866,22 +7875,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-15C Zokimors VIII",
+    "Glyphs": "015CA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712377736000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-15D Lorech-Oso",
@@ -7974,22 +7974,22 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-167 Olzoves IX",
+    "Glyphs": "0167A11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712258379000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-168 Nevichus",
+    "Glyphs": "0168A11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712236359000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-169 Zamays-Sab",
@@ -8010,49 +8010,49 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-16B Asukht",
+    "Glyphs": "016BA11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712492957000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-16C Rakesspo",
+    "Glyphs": "016CA11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712495677000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-16D Dudino III",
+    "Glyphs": "016DA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712347732000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-16E Suvetsi-Hadr",
+    "Glyphs": "016EA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712377366000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-16F Gachny-Hav XIX",
+    "Glyphs": "016FA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712367382000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-170 Oevush-Level XV",
@@ -8064,31 +8064,31 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-171 Akoida-Krett",
+    "Glyphs": "0171A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712378940000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-172 Pozzhets",
+    "Glyphs": "0172A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712297681000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-173 Burgac-Atle",
+    "Glyphs": "0173A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712280588000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-174 Shnyevoz",
@@ -8109,13 +8109,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-176 Tayndalma IX",
+    "Glyphs": "0176A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712296189000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-177 Hakovsk-Airtz",
@@ -8127,13 +8127,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-178 Evinsk XV",
+    "Glyphs": "0178A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712306083000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-179 Richash-Sayks",
@@ -8172,57 +8172,12 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "EV2-182 Yatalic",
-    "Glyphs": "0182A11117FF",
-    "Discoverer": "LordDraCool241",
-    "Platform": "XB",
-    "Timestamp": "2024-03-02",
-    "UnixTimestamp": 1709412314000,
+    "Name": "EV2-17D Ukrasavy",
+    "Glyphs": "017DA11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-02",
+    "UnixTimestamp": 1712085920000,
     "Correctly Prefixed": true
   },
   {
@@ -8244,13 +8199,40 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-180 Usmotr-Ichid",
+    "Glyphs": "0180A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712199806000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV2-181 Ilokho",
+    "Glyphs": "0181A11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712492744000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV2-182 Yatalic",
+    "Glyphs": "0182A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-03-02",
+    "UnixTimestamp": 1709412314000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV2-183 Langoy",
+    "Glyphs": "0183A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712374645000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -8262,13 +8244,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-185 Naibol II",
+    "Glyphs": "0185A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712345960000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -8278,6 +8260,24 @@
     "Timestamp": "",
     "UnixTimestamp": null,
     "Correctly Prefixed": false
+  },
+  {
+    "Name": "EV2-187 Omplimo-Hel",
+    "Glyphs": "0187A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712347976000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV2-188 Nagisep-Derta VIII",
+    "Glyphs": "0188A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712297226000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-189 Zayevs",
@@ -8307,13 +8307,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-18C Relovokh",
+    "Glyphs": "018CA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712304401000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -8397,13 +8397,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-196 Ubchen-Hibu",
+    "Glyphs": "0196A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712465695000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-0197 Honosok",
@@ -8433,57 +8433,21 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "EV2-19F Yeyskiye",
-    "Glyphs": "019FA11117FF",
+    "Name": "EV2-19A Iaiutsi II",
+    "Glyphs": "019AA11117FF",
     "Discoverer": "LordDraCool241",
     "Platform": "XB",
-    "Timestamp": "2024-03-03",
-    "UnixTimestamp": 1709426288000,
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712213994000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV2-19B Sretsk",
+    "Glyphs": "019BA11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712270975000,
     "Correctly Prefixed": true
   },
   {
@@ -8505,13 +8469,31 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-19E Mirnya",
+    "Glyphs": "019EA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712607043000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV2-19F Yeyskiye",
+    "Glyphs": "019FA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-03-03",
+    "UnixTimestamp": 1709426288000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV2-1A0 Hochegutay XVI",
+    "Glyphs": "01A0A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712204667000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -8523,13 +8505,31 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1A2 Iutskayan",
+    "Glyphs": "01A2A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712359006000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV2-1A3 Tovnyomi",
+    "Glyphs": "01A3A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712359256000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV2-1A4 Logdanko",
+    "Glyphs": "01A4A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712296871000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-1A5 Vulovost",
@@ -8559,13 +8559,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1A8 Vuyksaye",
+    "Glyphs": "01A8A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712208623000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -8613,12 +8613,12 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
+    "Name": "EV2-1A Emryuc-Zaisa",
+    "Glyphs": "01AEA11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712492582000,
     "Correctly Prefixed": false
   },
   {
@@ -8631,13 +8631,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1B0 Zainsk-Nengan",
+    "Glyphs": "01B0A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712373585000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-1B1 Lugo",
@@ -8646,6 +8646,15 @@
     "Platform": "ST",
     "Timestamp": "2023-10-14",
     "UnixTimestamp": 1697251621000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV2-1B2 Asovet-Sesi",
+    "Glyphs": "01B2A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712359612000,
     "Correctly Prefixed": true
   },
   {
@@ -8658,22 +8667,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1B4 Deskompl",
+    "Glyphs": "01B4A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712297935000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -8721,13 +8721,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1BA Rapinov-Fond",
+    "Glyphs": "01BAA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712199909000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-1BB Edyans",
@@ -8766,13 +8766,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1BF Ionovos",
+    "Glyphs": "01BFA11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712353500000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -8784,13 +8784,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1C1 Nilovo-Affh",
+    "Glyphs": "01C1A11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-03",
+    "UnixTimestamp": 1712168500000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -8802,85 +8802,85 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1C3 Osokolpas X",
+    "Glyphs": "01C3A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712371922000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1C4 Gidetel-Riyth XIII",
+    "Glyphs": "01C4A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712374218000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1C5 Robayevs",
+    "Glyphs": "01C5A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712345862000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1C6 Imorov-Cai",
+    "Glyphs": "01C6A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712352794000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1C7 Tarach",
+    "Glyphs": "01C7A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712444169000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1C8 Ruslav",
+    "Glyphs": "01C8A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712357811000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1C9 Elburgan",
+    "Glyphs": "01C9A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712275243000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1CA Tilastr-Eginl",
+    "Glyphs": "01CAA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712349751000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1CB Gutayga-Abs",
+    "Glyphs": "01CBA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712297047000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-1CC Vainglorious",
@@ -9027,13 +9027,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1DC Onovosha",
+    "Glyphs": "01DCA11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-03",
+    "UnixTimestamp": 1712151611000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-1DD Arminitwix",
@@ -9063,13 +9063,31 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1E0 Matoust",
+    "Glyphs": "01E0A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712347547000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV2-1E1 Yachyory",
+    "Glyphs": "01E1A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712374022000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV2-1E2 Obrashc-Nutaka",
+    "Glyphs": "01E2A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712357334000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -9081,31 +9099,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1E4 Pionov-Tro X",
+    "Glyphs": "01E4A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712196857000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -9180,22 +9180,22 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1ED Skogoc",
+    "Glyphs": "01EDA11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712352689000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1EE Kehyannu",
+    "Glyphs": "01EEA11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712402745000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -9225,13 +9225,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1F2 Grudny",
+    "Glyphs": "01F2A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712373370000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-1F3 Ritovoshch",
@@ -9243,22 +9243,22 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1F4 Irnoem-Urbat",
+    "Glyphs": "01F4A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712296642000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-1F5 Tiruiut",
+    "Glyphs": "01F5A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712356934000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-1F6 Lipkin",
@@ -9351,13 +9351,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-200 Uzlovs-Golyc",
+    "Glyphs": "0200A11117FF",
+    "Discoverer": "Binder198",
+    "Platform": "ST",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712494022000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-201 Ionezh",
@@ -9369,13 +9369,22 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-202 Zadonsk-Amlin",
+    "Glyphs": "0202A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712358186000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV2-203 Logarii-Ugb",
+    "Glyphs": "0203A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712358413000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -9387,22 +9396,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-205 Neryusino VII",
+    "Glyphs": "0205A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712358591000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-206 Diskovsk",
@@ -9414,13 +9414,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-207 Oretsial XI",
+    "Glyphs": "0207A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712298201000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-208 Nogdanovo",
@@ -9459,13 +9459,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-20C Ropinsk",
+    "Glyphs": "020CA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712300886000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -9477,13 +9477,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-20E Teyevs-Bos",
+    "Glyphs": "020EA11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712597896000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-20F Gopredn",
@@ -9540,22 +9540,22 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-215 Eutoka",
+    "Glyphs": "0215A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712607158000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV2-216 Uiutsivil I",
+    "Glyphs": "0216A11117FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712562177000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV2-217 Hunyara Shadow",
@@ -10296,13 +10296,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV3-52 Yidontme VI",
+    "Glyphs": "0052A11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712448994000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -10377,13 +10377,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV3-5B Annsehuiyu",
+    "Glyphs": "005BA11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712195759000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -10512,6 +10512,15 @@
     "Correctly Prefixed": true
   },
   {
+    "Name": "EV3-6A Wafangs-Git",
+    "Glyphs": "006AA11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712194188000,
+    "Correctly Prefixed": true
+  },
+  {
     "Name": "",
     "Glyphs": "",
     "Discoverer": "",
@@ -10519,6 +10528,15 @@
     "Timestamp": "",
     "UnixTimestamp": null,
     "Correctly Prefixed": false
+  },
+  {
+    "Name": "EV3-6C Zouyua",
+    "Glyphs": "006CA11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712447504000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -10557,31 +10575,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV3-71 Wuzhilin",
+    "Glyphs": "0071A11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712448051000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -11727,13 +11727,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV3-F1 Liu-Kang",
+    "Glyphs": "00F1A11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712606183000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV3-F2 Dajina",
@@ -11853,13 +11853,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV3-FF Isuini",
+    "Glyphs": "00FFA11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712560983000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV3-100 Dazhou",
@@ -11898,13 +11898,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV3-104 Miraneus IX",
+    "Glyphs": "0104A11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712560752000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -12159,13 +12159,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV3-121 Enkyerub",
+    "Glyphs": "0121A11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712606471000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -12681,13 +12681,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV3-15B Uizhoul",
+    "Glyphs": "015BA11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712451718000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV3-15C Kugkui-Plan",
@@ -12708,13 +12708,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV3-15E Nuceringd XVIII",
+    "Glyphs": "015EA11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712290637000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -12726,13 +12726,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV3-160 Yixian",
+    "Glyphs": "0160A11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712561985000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV3-161 Inaqang XVI",
@@ -12780,13 +12780,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV3-166 Enyaili-Uvu",
+    "Glyphs": "0166A11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712560904000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -12861,13 +12861,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV3-16F Haozhub",
+    "Glyphs": "016FA11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712471934000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -12924,6 +12924,24 @@
     "Correctly Prefixed": false
   },
   {
+    "Name": "EV3-176 Lumach",
+    "Glyphs": "0176A11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712293421000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV3-177 Zayugu-Cequ",
+    "Glyphs": "0177A11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712293319000,
+    "Correctly Prefixed": true
+  },
+  {
     "Name": "",
     "Glyphs": "",
     "Discoverer": "",
@@ -12931,6 +12949,60 @@
     "Timestamp": "",
     "UnixTimestamp": null,
     "Correctly Prefixed": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Prefixed": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Prefixed": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Prefixed": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "017CA11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712561638000,
+    "Correctly Prefixed": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Prefixed": false
+  },
+  {
+    "Name": "EV3-17E Dinqun-Akzh",
+    "Glyphs": "017EA11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712601579000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -12996,85 +13068,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV3-186 Ainant-Buychy",
+    "Glyphs": "0186A11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712450898000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV3-187 Ketsanmi",
@@ -13104,13 +13104,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV3-18A Laganagjo XVIII",
+    "Glyphs": "018AA11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712561810000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -13194,13 +13194,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV3-194 Etangm-Marit",
+    "Glyphs": "0194A11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712560825000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -13347,13 +13347,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV3-1A5 Aashia-Muzh",
+    "Glyphs": "01A5A11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712450721000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -13419,12 +13419,12 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
+    "Name": "EV3-10D Ohalie-Rya",
+    "Glyphs": "01ADA11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712376378000,
     "Correctly Prefixed": false
   },
   {
@@ -13464,13 +13464,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV3-1B2 Riwonsa",
+    "Glyphs": "01B2A11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712453064000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV3-1B3 Ejeomchee",
@@ -13500,13 +13500,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV3-1B6 Xexung-Tammr IX",
+    "Glyphs": "01B6A11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712561736000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -13653,13 +13653,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV3-1C7 Otonqu",
+    "Glyphs": "01C7A11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712561882000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -14202,13 +14202,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV3-204 Yichang-Aiadu",
+    "Glyphs": "0204A11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712295062000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -14310,13 +14310,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV3-210 Arasamco XVI",
+    "Glyphs": "0210A11127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712465095000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV3-11 Mibaxois",
@@ -14814,13 +14814,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-33 Lavord III",
+    "Glyphs": "0033A21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-03",
+    "UnixTimestamp": 1712118930000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -14877,13 +14877,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-3A Nedervo-Umier",
+    "Glyphs": "003AA21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712459836000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV4-3B Bregni",
@@ -15525,13 +15525,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-82 Obrekk-Gashi",
+    "Glyphs": "0082A21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712287925000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV4-83 Duvarvo",
@@ -15714,13 +15714,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-97 Okamyr-Roto XI",
+    "Glyphs": "0097A21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-03",
+    "UnixTimestamp": 1712124887000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV4-98 Ontohis I",
@@ -15885,13 +15885,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-AA Toainut-Buz",
+    "Glyphs": "00AAA21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712904023000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV4-AB Karfor V",
@@ -15921,13 +15921,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-AE Akkisi-Aggan",
+    "Glyphs": "00AEA21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712904152000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -16335,13 +16335,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-DC Aftrukr-Hydeu",
+    "Glyphs": "00DCA21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712903801000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV4-DD Nesjakir",
@@ -16623,6 +16623,24 @@
     "Correctly Prefixed": false
   },
   {
+    "Name": "EV4-FC Ogarofi IV",
+    "Glyphs": "00FCA21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712217579000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV4-FD Eenaryevo",
+    "Glyphs": "00FDA21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712288799000,
+    "Correctly Prefixed": true
+  },
+  {
     "Name": "",
     "Glyphs": "",
     "Discoverer": "",
@@ -16630,6 +16648,15 @@
     "Timestamp": "",
     "UnixTimestamp": null,
     "Correctly Prefixed": false
+  },
+  {
+    "Name": "EV4-FF Aumhva",
+    "Glyphs": "00FFA21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712596999000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -16668,40 +16695,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-104 Asbarhu",
+    "Glyphs": "0104A21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712597309000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -16776,13 +16776,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-10D Gautur-Lila",
+    "Glyphs": "010DA21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712270335000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV4-10E Oismal XIII",
@@ -16857,6 +16857,15 @@
     "Correctly Prefixed": false
   },
   {
+    "Name": "EV4-116 Grader",
+    "Glyphs": "0116A21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712285620000,
+    "Correctly Prefixed": true
+  },
+  {
     "Name": "",
     "Glyphs": "",
     "Discoverer": "",
@@ -16864,6 +16873,33 @@
     "Timestamp": "",
     "UnixTimestamp": null,
     "Correctly Prefixed": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Prefixed": false
+  },
+  {
+    "Name": "",
+    "Glyphs": "",
+    "Discoverer": "",
+    "Platform": "",
+    "Timestamp": "",
+    "UnixTimestamp": null,
+    "Correctly Prefixed": false
+  },
+  {
+    "Name": "EV4-11A Reprivno",
+    "Glyphs": "011AA21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712596934000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -16929,49 +16965,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-122 Kaliri",
+    "Glyphs": "0122A21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712563268000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -17136,13 +17136,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-135 Levotto",
+    "Glyphs": "0135A21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712476024000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -17154,13 +17154,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-137 Kimarkra",
+    "Glyphs": "0137A21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712475930000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -17199,13 +17199,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-13C Odnask",
+    "Glyphs": "013CA21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712903687000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV4-13D Ebbelsen XIV",
@@ -17352,13 +17352,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-14D Lejee'oim",
+    "Glyphs": "014DA21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712597204000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -17388,13 +17388,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-151 Icharan",
+    "Glyphs": "0151A21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712882892000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV4-52 Holjodu-Reding VIII",
@@ -17550,13 +17550,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-163 Drettety VI",
+    "Glyphs": "0163A21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712882350000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV4-164 Toppan",
@@ -17676,13 +17676,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-171 Mamella",
+    "Glyphs": "0171A21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712446736000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -17883,31 +17883,31 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-188 Dovikk-Vogo",
+    "Glyphs": "0188A21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712563095000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-189 Placet",
+    "Glyphs": "0189A21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712879352000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-18A Apalanen",
+    "Glyphs": "018AA21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712563163000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -17964,22 +17964,22 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-191 Ikortt-Saok",
+    "Glyphs": "0191A21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-11",
+    "UnixTimestamp": 1712871515000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-192 Raendig-Patune",
+    "Glyphs": "0192A21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-02",
+    "UnixTimestamp": 1712089945000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV4-193 Fisyrul",
@@ -18036,13 +18036,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-199 Yanento XVIII",
+    "Glyphs": "0199A21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712186775000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -18171,13 +18171,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-1A8 Ramaatiin XVIII",
+    "Glyphs": "01A8A21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712205163000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV4-1A9 Guminif",
@@ -18612,13 +18612,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV4-1D9 Elordas-Okmin",
+    "Glyphs": "01D9A21127FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712353836000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -19152,13 +19152,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-4 Yagada",
+    "Glyphs": "0004A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712780042000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -19296,13 +19296,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-14 Faktoruit",
+    "Glyphs": "0014A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712607473000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -19683,13 +19683,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-3F Sodelat",
+    "Glyphs": "003FA21107FF",
+    "Discoverer": "Greens",
+    "Platform": "ST",
+    "Timestamp": "2024-04-02",
+    "UnixTimestamp": 1712009348000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -19944,13 +19944,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-5C Aykopi",
+    "Glyphs": "005CA21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712777361000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV5-5D Otritsy",
@@ -20232,13 +20232,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-7C Meleye",
+    "Glyphs": "007CA21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712562386000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -20259,13 +20259,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-7F Yabkovy-Tah",
+    "Glyphs": "007FA21107FF",
+    "Discoverer": "cassiddidy",
+    "Platform": "PS",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712450788000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -20331,13 +20331,22 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-87 Zohgard-Aseo V",
+    "Glyphs": "0087A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712205839000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV5-88 Zayvaiu",
+    "Glyphs": "0088A21107FF",
+    "Discoverer": "cassiddidy",
+    "Platform": "PS",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712449855000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -20349,22 +20358,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-8A Vuetton-Plin",
+    "Glyphs": "008AA21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712780638000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -20412,13 +20412,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-90 Potkin V",
+    "Glyphs": "0090A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-09",
+    "UnixTimestamp": 1712641529000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -20628,30 +20628,30 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-A8 Kupinsky",
+    "Glyphs": "00A8A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-11",
+    "UnixTimestamp": 1712871203000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-A9 Yenoyen-Oel XIX",
+    "Glyphs": "00A9A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712562550000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
+    "Name": "EV6-AA Igorye",
+    "Glyphs": "00AAA21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712562465000,
     "Correctly Prefixed": false
   },
   {
@@ -20745,13 +20745,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-B5 Suffiks-Kosku VI",
+    "Glyphs": "00B5A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-09",
+    "UnixTimestamp": 1712633119000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -20853,13 +20853,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-C1 Bakhove",
+    "Glyphs": "00C1A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712906959000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -20898,13 +20898,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-C6 Peninooz I",
+    "Glyphs": "00C6A21107FF",
+    "Discoverer": "cassiddidy",
+    "Platform": "PS",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712449283000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -21069,13 +21069,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-D9 Apseia X",
+    "Glyphs": "00D9A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712207300000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -21150,13 +21150,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-E2 Urusskyv X",
+    "Glyphs": "00E2A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712780497000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -21411,13 +21411,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-FF Nolikha",
+    "Glyphs": "00FFA21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712289650000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -21438,13 +21438,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-102 Liyazem XV",
+    "Glyphs": "0102A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-09",
+    "UnixTimestamp": 1712633431000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV5-103 Zubkov-Uc",
@@ -21501,13 +21501,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-109 Shilkar-Kad",
+    "Glyphs": "0109A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712562683000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV5-10A Betsovo-Jeonj",
@@ -21537,13 +21537,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-10D Vushiesi",
+    "Glyphs": "010DA21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712560018000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -21645,13 +21645,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-119 Aniaetsk",
+    "Glyphs": "0119A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712778974000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -21690,13 +21690,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-11E Oltsov X",
+    "Glyphs": "011EA21107FF",
+    "Discoverer": "cassiddidy",
+    "Platform": "PS",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712450235000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -21843,13 +21843,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-12F Fifiksov",
+    "Glyphs": "012FA21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712778884000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -22122,13 +22122,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-14E Minusin XV",
+    "Glyphs": "014EA21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712780727000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -22212,13 +22212,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-158 Relinoo-Uhasu",
+    "Glyphs": "0158A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712779238000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV5-159 Garkoi-Imp",
@@ -22248,13 +22248,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-15C Uslavl",
+    "Glyphs": "015CA21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712560142000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV5-15D Lamskyviu",
@@ -22275,22 +22275,22 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-15F Ilnuymito",
+    "Glyphs": "015FA21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712780391000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-160 Druzen XII",
+    "Glyphs": "0160A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712779931000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -22375,20 +22375,20 @@
   },
   {
     "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
+    "Glyphs": "016AA21107FF",
+    "Discoverer": "ShadowStorm",
+    "Platform": "ST",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712363390000,
     "Correctly Prefixed": false
   },
   {
     "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
+    "Glyphs": "016BA21107FF",
+    "Discoverer": "Rufina",
+    "Platform": "ST",
+    "Timestamp": "2024-04-02",
+    "UnixTimestamp": 1712065591000,
     "Correctly Prefixed": false
   },
   {
@@ -22428,13 +22428,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-170 Lodolz-Dwo",
+    "Glyphs": "0170A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712283632000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV5-171 Zihyego",
@@ -22555,11 +22555,11 @@
   },
   {
     "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
+    "Glyphs": "017EA21107FF",
+    "Discoverer": "Rufina",
+    "Platform": "ST",
+    "Timestamp": "2024-04-02",
+    "UnixTimestamp": 1712030154000,
     "Correctly Prefixed": false
   },
   {
@@ -22644,13 +22644,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-188 Tiiakha IX",
+    "Glyphs": "0188A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712779842000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV5-189 Irbinstov",
@@ -22689,6 +22689,24 @@
     "Correctly Prefixed": true
   },
   {
+    "Name": "EV5-18D Nezhye-Boev",
+    "Glyphs": "018DA21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712779522000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV5-18E Vangoye-Sast",
+    "Glyphs": "018EA21107FF",
+    "Discoverer": "cassiddidy",
+    "Platform": "PS",
+    "Timestamp": "2023-11-22",
+    "UnixTimestamp": 1700609615000,
+    "Correctly Prefixed": true
+  },
+  {
     "Name": "",
     "Glyphs": "",
     "Discoverer": "",
@@ -22698,12 +22716,12 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "EV5-18E Vangoye-Sast",
-    "Glyphs": "018EA21107FF",
-    "Discoverer": "cassiddidy",
-    "Platform": "PS",
-    "Timestamp": "2023-11-22",
-    "UnixTimestamp": 1700609615000,
+    "Name": "EV5-190 Lotele IX",
+    "Glyphs": "0190A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-11",
+    "UnixTimestamp": 1712870560000,
     "Correctly Prefixed": true
   },
   {
@@ -22725,31 +22743,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-193 Vochiuan",
+    "Glyphs": "0193A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712206683000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV5-194 Ouzens-Sihu XV",
@@ -22932,13 +22932,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-1A8 Ermeysk XII",
+    "Glyphs": "01A8A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-09",
+    "UnixTimestamp": 1712633295000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV5-1A9-Shtyor-Nis VII",
@@ -23022,13 +23022,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-1B2 Sozavi",
+    "Glyphs": "01B2A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712779134000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV5-1B3 Huvishet",
@@ -23238,13 +23238,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-1CA Vosovk",
+    "Glyphs": "01CAA21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712778800000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV5-1C",
@@ -23275,11 +23275,11 @@
   },
   {
     "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
+    "Glyphs": "01CEA21107FF",
+    "Discoverer": "Neon-Fox555",
+    "Platform": "PS",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712704827000,
     "Correctly Prefixed": false
   },
   {
@@ -23328,13 +23328,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-1D4 Tuapsh-Atott IX",
+    "Glyphs": "01D4A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712780146000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -23598,13 +23598,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-1F2 Yubert-Kio",
+    "Glyphs": "01F2A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712779739000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV5-1F3 Narovi I",
@@ -23661,13 +23661,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV5-1F9 Georgiy",
+    "Glyphs": "01F9A21107FF",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712780247000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -24111,12 +24111,12 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
+    "Name": "EV6-24D Hometa-Totto",
+    "Glyphs": "0017A21107FE",
+    "Discoverer": "Lianeras",
+    "Platform": "ST",
+    "Timestamp": "2024-04-02",
+    "UnixTimestamp": 1712082579000,
     "Correctly Prefixed": false
   },
   {
@@ -24174,13 +24174,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-1E Kraint",
+    "Glyphs": "001EA21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712559184000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -24435,13 +24435,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-3B Emelago",
+    "Glyphs": "003BA21107FE",
+    "Discoverer": "parsnipphoenix",
+    "Platform": "ST",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712506084000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -24624,13 +24624,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-50 Ustalh",
+    "Glyphs": "0050A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712207900000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV6-51 Kuwarryel",
@@ -24642,22 +24642,22 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-52 Susalim XVI",
+    "Glyphs": "0052A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-03",
+    "UnixTimestamp": 1712101913000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-53 Idenager",
+    "Glyphs": "0053A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712782525000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -24741,13 +24741,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-5D Fontumus",
+    "Glyphs": "005DA21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-03",
+    "UnixTimestamp": 1712100493000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -24876,13 +24876,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-6C Tefrandya XII",
+    "Glyphs": "006CA21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-09",
+    "UnixTimestamp": 1712642973000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV6-6D Ilackpo",
@@ -25056,13 +25056,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-80 Agnessee",
+    "Glyphs": "0080A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-09",
+    "UnixTimestamp": 1712643950000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -25218,13 +25218,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-92 Enusca-Idori",
+    "Glyphs": "0092A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-09",
+    "UnixTimestamp": 1712643791000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -25236,13 +25236,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-94 Lomouth-Rufla",
+    "Glyphs": "0094A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-09",
+    "UnixTimestamp": 1712643875000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -25326,13 +25326,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-9E Ariene",
+    "Glyphs": "009EA21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-09",
+    "UnixTimestamp": 1712643287000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -25389,13 +25389,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-A5 Colulu-Rado VII",
+    "Glyphs": "00A5A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-09",
+    "UnixTimestamp": 1712643619000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV6-A6 Letlansa",
@@ -25641,22 +25641,22 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
+    "Name": "EV6- C1 Roriaxus",
+    "Glyphs": "00C1A21107FE",
+    "Discoverer": "Lianeras",
+    "Platform": "ST",
+    "Timestamp": "2024-04-02",
+    "UnixTimestamp": 1712083635000,
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-C2 Cincere-Armas",
+    "Glyphs": "00C2A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712216830000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV6-C3 Pactonom",
@@ -25686,13 +25686,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-C6 Gokokam",
+    "Glyphs": "00C6A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-03",
+    "UnixTimestamp": 1712098815000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV6-C7 Thgate-Yore",
@@ -25713,13 +25713,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-C9 Itby X",
+    "Glyphs": "00C9A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712902761000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV6-CA Sabian",
@@ -25749,13 +25749,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-CD Nujuanggie III",
+    "Glyphs": "00CDA21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712902256000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "BossXihillo-Kago",
@@ -25839,13 +25839,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-D7 Ciyllevi",
+    "Glyphs": "00D7A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-09",
+    "UnixTimestamp": 1712643708000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -25912,11 +25912,11 @@
   },
   {
     "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
+    "Glyphs": "00DFA21107FE",
+    "Discoverer": "Craigbert",
+    "Platform": "NI",
+    "Timestamp": "2024-04-11",
+    "UnixTimestamp": 1712786952000,
     "Correctly Prefixed": false
   },
   {
@@ -26028,13 +26028,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-EC Kahillen",
+    "Glyphs": "00ECA21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712558632000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV6-ED Yewoolesl XII",
@@ -26127,13 +26127,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-F7 Muchulc-Iuzho",
+    "Glyphs": "00F7A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-03",
+    "UnixTimestamp": 1712099540000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -26298,22 +26298,22 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-10A Duenosusa",
+    "Glyphs": "010AA21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-09",
+    "UnixTimestamp": 1712641391000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-10B Rewkerm XVIII",
+    "Glyphs": "010BA21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-09",
+    "UnixTimestamp": 1712635970000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV6-10C Kiviuq",
@@ -26379,13 +26379,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-113 Iferyl VI",
+    "Glyphs": "0113A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-03",
+    "UnixTimestamp": 1712110945000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -26433,13 +26433,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-119 Beymout",
+    "Glyphs": "0119A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712559599000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -26523,13 +26523,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-123 Leuthdad",
+    "Glyphs": "0123A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712902429000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -26541,13 +26541,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-125 Rekellossa",
+    "Glyphs": "0125A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712902881000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "BossBrutah",
@@ -26667,13 +26667,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-133 Ryport-Dup",
+    "Glyphs": "0133A21107FE",
+    "Discoverer": "Lianeras",
+    "Platform": "ST",
+    "Timestamp": "2024-04-02",
+    "UnixTimestamp": 1712083277000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -26712,13 +26712,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-138 Yilviang XIII",
+    "Glyphs": "0138A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712903033000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV6-139 Laymount",
@@ -26820,13 +26820,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-144 Ziusip-Pei",
+    "Glyphs": "0144A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712559668000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -26865,13 +26865,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-149 Aether-Kuitu",
+    "Glyphs": "0149A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712559267000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV6-14A Behemoth",
@@ -26910,13 +26910,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-14E Naometru II",
+    "Glyphs": "014EA21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712778369000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV6-14F Mammodu",
@@ -27081,22 +27081,22 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-161 Restosuki",
+    "Glyphs": "0161A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712272286000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-162 Cuklepi XVII",
+    "Glyphs": "0162A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-03",
+    "UnixTimestamp": 1712175146000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -27297,13 +27297,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-179 Raximiu",
+    "Glyphs": "0179A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712562312000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -27333,13 +27333,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-17D Ugenexovi IX",
+    "Glyphs": "017DA21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-11",
+    "UnixTimestamp": 1712807550000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV6-17E Eugele",
@@ -27504,13 +27504,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-190 Maymou-Hofun",
+    "Glyphs": "0190A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712216060000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV6-191 Atezup",
@@ -27549,13 +27549,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-195 Erlenair V",
+    "Glyphs": "0195A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712207499000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -27585,22 +27585,22 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-199 Racedeim VI",
+    "Glyphs": "0199A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-09",
+    "UnixTimestamp": 1712641629000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-19A Baelum-Iop",
+    "Glyphs": "019AA21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-09",
+    "UnixTimestamp": 1712643045000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV6-196 Olches-Yaward",
@@ -27711,13 +27711,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-1A7 Etuslov-Waj",
+    "Glyphs": "01A7A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712273824000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV6-1A8 Fausti",
@@ -27756,13 +27756,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-1AC Kobachi XI",
+    "Glyphs": "01ACA21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712475245000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -27792,13 +27792,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-1B0 Viancan XII",
+    "Glyphs": "01B0A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-03",
+    "UnixTimestamp": 1712173666000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV6-1B1 Lobrietus",
@@ -27999,13 +27999,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-1C7 Arbatl-Sesak",
+    "Glyphs": "01C7A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-03",
+    "UnixTimestamp": 1712178135000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -28071,13 +28071,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-1CF Paydeucus",
+    "Glyphs": "01CFA21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712903362000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -28089,13 +28089,22 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-1D1 Ewtonro-Gakv",
+    "Glyphs": "01D1A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712559094000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV6-1D2 Omchusett",
+    "Glyphs": "01D2A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712558930000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -28107,22 +28116,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-1D4 Ulsaga-Yagoi",
+    "Glyphs": "01D4A21107FE",
+    "Discoverer": "TP4AU",
+    "Platform": "XB",
+    "Timestamp": "2024-04-03",
+    "UnixTimestamp": 1712111289000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV6-1D5 Kifastl",
@@ -28143,13 +28143,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-1D7 Humies-Opas IV",
+    "Glyphs": "01D7A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712207657000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -28260,13 +28260,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-1E4 Aamonas X",
+    "Glyphs": "01E4A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712559429000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -28332,13 +28332,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-1EC Oproba-Lutim",
+    "Glyphs": "01ECA21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-09",
+    "UnixTimestamp": 1712641725000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -28377,13 +28377,22 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-1F1 Ovillis-Kiterl",
+    "Glyphs": "01F1A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712559822000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV6-1F2 Alstanta XIX",
+    "Glyphs": "01F2A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712474811000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -28404,22 +28413,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-1F5 Tempenni",
+    "Glyphs": "01F5A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712559510000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -28440,13 +28440,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-1F8 Ravatus",
+    "Glyphs": "01F8A21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712903250000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -28602,22 +28602,22 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-20A Imarigo II",
+    "Glyphs": "020AA21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712558846000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-20B Wardal",
+    "Glyphs": "020BA21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712558751000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -28629,13 +28629,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV6-20D Ecelleyr XVIII",
+    "Glyphs": "020DA21107FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712559019000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -29484,13 +29484,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-55 Kannur",
+    "Glyphs": "0055A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712210143000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-56 Ugkalhai",
@@ -29871,13 +29871,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-80 Jeygoyamo",
+    "Glyphs": "0080A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712562855000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-81 Abyaima",
@@ -29952,21 +29952,21 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-89 Oiyuan-Geb",
+    "Glyphs": "0089A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712781090000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
+    "Glyphs": "008AA21117FE",
+    "Discoverer": "Oliver",
+    "Platform": "NI",
+    "Timestamp": "2024-04-09",
+    "UnixTimestamp": 1712636481000,
     "Correctly Prefixed": false
   },
   {
@@ -30033,13 +30033,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-92 Aoqiny",
+    "Glyphs": "0092A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712902117000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -30096,13 +30096,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-99 Himenqjin",
+    "Glyphs": "0099A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712783623000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-9A Qilint-Viyteg",
@@ -30114,13 +30114,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-9B Gawsheen",
+    "Glyphs": "009BA21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712783555000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-9C Zuhilah",
@@ -30159,13 +30159,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-A0 Ulengs",
+    "Glyphs": "00A0A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712609431000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-A1 Hiuiya-Tagah",
@@ -30186,13 +30186,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-A3 Gwachow",
+    "Glyphs": "00A3A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712780957000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-A4 Ajiecu-Noklin",
@@ -30231,13 +30231,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-A8 Linguzh",
+    "Glyphs": "00A8A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712781942000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-A9 Amwons-Bott",
@@ -30339,13 +30339,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-B4 Racalai-Ihol",
+    "Glyphs": "00B4A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712610251000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-B5 Gagorqu-Kuyo XV",
@@ -30366,13 +30366,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-B7 Edexie-Likin",
+    "Glyphs": "00B7A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712607711000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -30672,13 +30672,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-D9 Momorde",
+    "Glyphs": "00D9A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712781846000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-DA Wutongel XII",
@@ -30717,13 +30717,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-DE Awatan",
+    "Glyphs": "00DEA21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712607628000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-DF Ogdenn IV",
@@ -30753,13 +30753,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-E2 Yunnan",
+    "Glyphs": "00E2A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712902004000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-E3 Lumudao",
@@ -30771,13 +30771,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-E4 Ergunagc",
+    "Glyphs": "00E4A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712781305000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-E5 Sacheer-Nidork XI",
@@ -30798,13 +30798,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-E7 Owsheng-Hachk",
+    "Glyphs": "00E7A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712780873000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-E8 Pugardoi",
@@ -30897,13 +30897,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-F2 Oqemosk-Beu",
+    "Glyphs": "00F2A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-03",
+    "UnixTimestamp": 1712171147000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -30960,13 +30960,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-F9 Yetaij",
+    "Glyphs": "00F9A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712781212000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-FA Goyigan-Ronda",
@@ -30996,22 +30996,22 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-FD Briastai XVII",
+    "Glyphs": "00FDA21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712783462000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-FE Langfa-Kar",
+    "Glyphs": "00FEA21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-09",
+    "UnixTimestamp": 1712644108000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-FF Aletanns XI",
@@ -31032,13 +31032,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-101 Nimenqu-Som",
+    "Glyphs": "0101A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-03",
+    "UnixTimestamp": 1712113020000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -31059,13 +31059,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-104 Ertann",
+    "Glyphs": "0104A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712473733000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-105 Sargya-Riha",
@@ -31086,13 +31086,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-107 Oyoumi-Het XIII",
+    "Glyphs": "0107A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712901853000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-108 Putian",
@@ -31194,13 +31194,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-113 Enjinann",
+    "Glyphs": "0113A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712883373000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-114 Ajo-Guneuiji VII",
@@ -31239,13 +31239,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-118 Ilhunbun",
+    "Glyphs": "0118A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712557672000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -31455,13 +31455,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-130 Dayerd-Amz",
+    "Glyphs": "0130A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712884306000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -31491,13 +31491,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-134 Heensb",
+    "Glyphs": "0134A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-03",
+    "UnixTimestamp": 1712097403000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-135 Uomulinfe",
@@ -31545,13 +31545,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-13A Qizhenqj IV",
+    "Glyphs": "013AA21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712781755000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-13B Gicange",
@@ -31573,11 +31573,11 @@
   },
   {
     "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
+    "Glyphs": "013DA21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712781541000,
     "Correctly Prefixed": false
   },
   {
@@ -31590,13 +31590,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-13F Iuyanq-Dahli",
+    "Glyphs": "013FA21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712436035000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-140-Scirocco",
@@ -31788,13 +31788,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-155 Orxungn-Oidel",
+    "Glyphs": "0155A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712556358000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -31824,13 +31824,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-159 Daejun-Meyam",
+    "Glyphs": "0159A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-03",
+    "UnixTimestamp": 1712116824000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-15A Lulunub",
@@ -31851,13 +31851,22 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-15C Sewuling IV",
+    "Glyphs": "015CA21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712557044000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV7-15D Hangji",
+    "Glyphs": "015DA21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712436360000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -31878,22 +31887,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-160 Omintao-Jin",
+    "Glyphs": "0160A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712775876000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -31932,13 +31932,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-165 Iajini-Uit",
+    "Glyphs": "0165A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712472497000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -32049,13 +32049,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-172 Gejiueh XVI",
+    "Glyphs": "0172A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712776663000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -32130,13 +32130,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-17B Juayin-Arda",
+    "Glyphs": "017BA21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712783361000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-17C Duyungde VII",
@@ -32148,21 +32148,21 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-17D Qukann-Nogho XIX",
+    "Glyphs": "017DA21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712290173000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
+    "Glyphs": "017EA21117FE",
+    "Discoverer": "Conte Mascetti",
+    "Platform": "ST",
+    "Timestamp": "2024-04-07",
+    "UnixTimestamp": 1712503570000,
     "Correctly Prefixed": false
   },
   {
@@ -32202,13 +32202,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-183 Blunbo",
+    "Glyphs": "0183A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712557229000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -32220,22 +32220,22 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-185 Iasanamg I",
+    "Glyphs": "0185A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712202641000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-186 Ritaiz",
+    "Glyphs": "0186A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-03",
+    "UnixTimestamp": 1712117094000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -32265,13 +32265,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-18A Eomche-Honma",
+    "Glyphs": "018AA21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-03",
+    "UnixTimestamp": 1712113880000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -32283,13 +32283,22 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-18C Kuytungo",
+    "Glyphs": "018CA21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-05",
+    "UnixTimestamp": 1712282823000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV7-18D Aiyuanq-Rimenz",
+    "Glyphs": "018DA21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712782083000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -32301,31 +32310,22 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-18F Yancang-Loarm",
+    "Glyphs": "018FA21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-03",
+    "UnixTimestamp": 1712113604000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
-  },
-  {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-190 Hushieha",
+    "Glyphs": "0190A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712437769000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -32436,13 +32436,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-19D Quzhoulai",
+    "Glyphs": "019DA21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712781640000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-19E-Morgaina",
@@ -32472,13 +32472,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-1A1 Nongagqoi",
+    "Glyphs": "01A1A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712883902000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -32499,13 +32499,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-1A4 Esumule",
+    "Glyphs": "01A4A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712901348000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-1A5 Serdosu-Abard VI",
@@ -32544,13 +32544,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-1A9 Gachabs",
+    "Glyphs": "01A9A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-04",
+    "UnixTimestamp": 1712209374000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-1AA Neyewardia",
@@ -32598,22 +32598,22 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-1AF Hezena-Mejit",
+    "Glyphs": "01AFA21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712562953000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-1B0 Rubtan-Kumb VII",
+    "Glyphs": "01B0A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712884627000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -32688,13 +32688,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-1B9 Yirunokaz",
+    "Glyphs": "01B9A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712782174000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-1BA Hajamad-Huoz I",
@@ -32706,13 +32706,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-1BB Unfull-Liji",
+    "Glyphs": "01BBA21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-03",
+    "UnixTimestamp": 1712113384000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-1BC Nugnampos XIX",
@@ -32760,13 +32760,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-1C1 Ijeomch II",
+    "Glyphs": "01C1A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712557461000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-1C2-Mayflower",
@@ -32814,13 +32814,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-1C7 Laiwann-Kuz",
+    "Glyphs": "01C7A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-08",
+    "UnixTimestamp": 1712563024000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -32931,13 +32931,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-1D4 Rawukou III",
+    "Glyphs": "01D4A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712782257000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-1D5 Guhuahaea",
@@ -33066,13 +33066,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-1E3 Qidonqu",
+    "Glyphs": "01E3A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-06",
+    "UnixTimestamp": 1712439046000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -33093,22 +33093,22 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-1E6 Hihuiya",
+    "Glyphs": "01E6A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712782330000,
+    "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-1E7 Utzuen-Busp XII",
+    "Glyphs": "01E7A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712901469000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -33237,13 +33237,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-1F6 Amsanout X",
+    "Glyphs": "01F6A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-10",
+    "UnixTimestamp": 1712766641000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "EV7-1F7 Nugyaig-Cho",
@@ -33354,13 +33354,13 @@
     "Correctly Prefixed": false
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-203 Qitang",
+    "Glyphs": "0203A21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-12",
+    "UnixTimestamp": 1712900603000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
@@ -33444,13 +33444,13 @@
     "Correctly Prefixed": true
   },
   {
-    "Name": "",
-    "Glyphs": "",
-    "Discoverer": "",
-    "Platform": "",
-    "Timestamp": "",
-    "UnixTimestamp": null,
-    "Correctly Prefixed": false
+    "Name": "EV7-20D Ochowle",
+    "Glyphs": "020DA21117FE",
+    "Discoverer": "LordDraCool241",
+    "Platform": "XB",
+    "Timestamp": "2024-04-09",
+    "UnixTimestamp": 1712645599000,
+    "Correctly Prefixed": true
   },
   {
     "Name": "",
