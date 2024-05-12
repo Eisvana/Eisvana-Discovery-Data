@@ -3,7 +3,7 @@ import { useDataStore } from '@/stores/data';
 import { useFilterStore } from '@/stores/filter';
 import type { DiscoveryData } from '@/types/data';
 import { storeToRefs } from 'pinia';
-import { ref } from 'vue';
+import { ref, watchEffect } from 'vue';
 import { regions } from '@/variables/regions';
 
 const filterStore = useFilterStore();
@@ -14,6 +14,9 @@ const { unixTimestamp, tagged, intersections, searchTerms, caseSensitivity, acti
 const { filteredData } = storeToRefs(dataStore);
 
 const isLoading = ref(false);
+const temporaryData = ref<DiscoveryData[][]>([]);
+
+watchEffect(() => (filteredData.value = temporaryData.value.flat()));
 
 const resetStore = () => {
   filterStore.$reset();
@@ -25,8 +28,10 @@ const resetStore = () => {
 async function loadData() {
   isLoading.value = true;
   try {
-    const imports = import.meta.glob('../assets/*.json', { import: 'default' });
-    filteredData.value = [];
+    // TODO: make this work for all types of data, not just systems
+    const imports = import.meta.glob('../assets/systems/*.json', { import: 'default' });
+    const amountOfRequests = Object.keys(imports).length;
+    temporaryData.value = Array.from({ length: amountOfRequests }, () => []);
     const importData = Object.values(imports).map(addData);
     await Promise.all(importData);
   } catch (error) {
@@ -36,11 +41,11 @@ async function loadData() {
   }
 }
 
-async function addData(getData: () => Promise<unknown>) {
+async function addData(getData: () => Promise<unknown>, index: number) {
   const data = await getData();
   if (!Array.isArray(data)) return;
   const trueDiscoveryData = data.filter((item) => isDiscoveryData(item));
-  filteredData.value.push(...applyFilter(trueDiscoveryData));
+  temporaryData.value[index] = applyFilter(trueDiscoveryData);
 }
 
 function isObject(item: unknown): item is object {
@@ -167,9 +172,7 @@ function searchRegion(region: string) {
   gap: 1rem;
 
   & > * {
-    flex-basis: content;
-    flex-grow: 1;
-    max-width: 50%;
+    flex: 1;
   }
 }
 </style>
