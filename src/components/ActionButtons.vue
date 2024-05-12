@@ -25,6 +25,7 @@ const resetStore = () => {
 async function loadData() {
   isLoading.value = true;
   try {
+    // TODO: needs to be adjusted to new structure
     const { default: importedData } = await import(`../assets/eisvana.json`);
 
     const json: DiscoveryData[] = importedData as DiscoveryData[];
