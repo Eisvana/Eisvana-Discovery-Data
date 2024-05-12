@@ -10,10 +10,14 @@ export interface DiscoveryData {
   Discoverer: string;
   Platform: Platform;
   Timestamp: number;
-}
-
-export interface SystemData extends DiscoveryData {
-  'Correctly Prefixed': boolean;
+  'Correctly Prefixed'?: boolean;
+  Bases?: number;
+  Settlements?: number;
+  Flora?: number;
+  Fauna?: number;
+  Minerals?: number;
+  Parts?: number;
+  Gamemode?: string;
 }
 
 export interface Sorting {
