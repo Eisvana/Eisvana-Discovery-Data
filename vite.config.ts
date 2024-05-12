@@ -4,7 +4,7 @@ import vue from '@vitejs/plugin-vue';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/Eisvana-Discovery-Data/',
+  // base: '/Eisvana-Discovery-Data/',
   plugins: [vue()],
   resolve: {
     alias: {
