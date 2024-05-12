@@ -6,6 +6,7 @@ import TextFilterInput from './TextFilterInput.vue';
 import { useFilterStore } from '@/stores/filter';
 import { storeToRefs } from 'pinia';
 import { platformMapping } from '@/variables/mappings';
+import { ref, watchEffect } from 'vue';
 
 const textInputs = [
   {
@@ -55,6 +56,11 @@ const selectInputs = [
 
 const filterStore = useFilterStore();
 const { searchTerms, intersections, caseSensitivity, date, tagged } = storeToRefs(filterStore);
+
+const taggedRaw = ref<string>('');
+
+const getTagStatus = (tagStatus: string) => (tagStatus === '' ? '' : tagStatus === 'true');
+watchEffect(() => (tagged.value = getTagStatus(taggedRaw.value)));
 </script>
 
 <template>
@@ -66,30 +72,36 @@ const { searchTerms, intersections, caseSensitivity, date, tagged } = storeToRef
         <TextFilterInput
           v-if="textInputs.length"
           v-for="textInput in textInputs"
-          v-bind="textInput"
           v-model:searchTerm="searchTerms[textInput.id]"
           v-model:intersection="intersections[textInput.id]"
           v-model:caseSensitivity="caseSensitivity[textInput.id]"
+          :id="textInput.id"
+          :label="textInput.label"
         />
 
         <PlatformCheckboxes
           v-if="platformSwitches.length"
           v-for="platformSwitch in platformSwitches"
-          v-bind="platformSwitch"
+          :id="platformSwitch.id"
+          :label="platformSwitch.label"
+          :switches="platformSwitch.switches"
         />
 
         <DateInput
           v-if="dateInputs.length"
           v-for="dateInput in dateInputs"
-          v-bind="dateInput"
           v-model="date[dateInput.id]"
+          :id="dateInput.id"
+          :label="dateInput.label"
         />
 
         <TagSelect
           v-if="selectInputs.length"
           v-for="selectInput in selectInputs"
-          v-bind="selectInput"
-          v-model="tagged"
+          v-model="taggedRaw"
+          :id="selectInput.id"
+          :label="selectInput.label"
+          :options="selectInput.options"
         />
       </div>
     </details>
