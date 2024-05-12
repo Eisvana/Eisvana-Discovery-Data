@@ -4,2008 +4,3443 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1005A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713644912000
+    "Timestamp": 1713644912000,
+    "Fauna": 7,
+    "Flora": 6,
+    "Minerals": 9,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Ferdam",
     "Discoverer": "YucaFrita",
     "Glyphs": "1006A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713692144000
+    "Timestamp": 1713692144000,
+    "Fauna": 3,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Perosius",
     "Discoverer": "YucaFrita",
     "Glyphs": "1007A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713694253000
+    "Timestamp": 1713694253000,
+    "Fauna": 0,
+    "Flora": 5,
+    "Minerals": 3,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Pink Lady",
     "Discoverer": "YucaFrita",
     "Glyphs": "100BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713699761000
+    "Timestamp": 1713699761000,
+    "Fauna": 7,
+    "Flora": 5,
+    "Minerals": 3,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Smoda",
     "Discoverer": "YucaFrita",
     "Glyphs": "100EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713700726000
+    "Timestamp": 1713700726000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Ayotanak",
     "Discoverer": "YucaFrita",
     "Glyphs": "100FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713707066000
+    "Timestamp": 1713707066000,
+    "Fauna": 6,
+    "Flora": 6,
+    "Minerals": 4,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Matheus",
     "Discoverer": "YucaFrita",
     "Glyphs": "1011A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714023390000
+    "Timestamp": 1714023390000,
+    "Fauna": 0,
+    "Flora": 9,
+    "Minerals": 2,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "I-Fone IX",
     "Discoverer": "YucaFrita",
     "Glyphs": "1012A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714024574000
+    "Timestamp": 1714024574000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Onken",
     "Discoverer": "YucaFrita",
     "Glyphs": "1017A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714116790000
+    "Timestamp": 1714116790000,
+    "Fauna": 7,
+    "Flora": 6,
+    "Minerals": 5,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Gittawai",
     "Discoverer": "YucaFrita",
     "Glyphs": "1018A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714120262000
+    "Timestamp": 1714120262000,
+    "Fauna": 5,
+    "Flora": 9,
+    "Minerals": 3,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Ilvindale",
     "Discoverer": "YucaFrita",
     "Glyphs": "1019A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714128888000
+    "Timestamp": 1714128888000,
+    "Fauna": 3,
+    "Flora": 6,
+    "Minerals": 7,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Ikyus",
     "Discoverer": "YucaFrita",
     "Glyphs": "101AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714133674000
+    "Timestamp": 1714133674000,
+    "Fauna": 8,
+    "Flora": 5,
+    "Minerals": 3,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Netodosie",
     "Discoverer": "YucaFrita",
     "Glyphs": "101BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714135123000
+    "Timestamp": 1714135123000,
+    "Fauna": 5,
+    "Flora": 8,
+    "Minerals": 7,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Lidforde",
     "Discoverer": "YucaFrita",
     "Glyphs": "101CA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714138154000
+    "Timestamp": 1714138154000,
+    "Fauna": 4,
+    "Flora": 4,
+    "Minerals": 7,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Edbert Onoda",
     "Discoverer": "YucaFrita",
     "Glyphs": "101DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714141631000
+    "Timestamp": 1714141631000,
+    "Fauna": 6,
+    "Flora": 5,
+    "Minerals": 6,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Zuphe",
     "Discoverer": "YucaFrita",
     "Glyphs": "101EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714147551000
+    "Timestamp": 1714147551000,
+    "Fauna": 7,
+    "Flora": 12,
+    "Minerals": 10,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Setag",
     "Discoverer": "YucaFrita",
     "Glyphs": "101FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714149284000
+    "Timestamp": 1714149284000,
+    "Fauna": 9,
+    "Flora": 11,
+    "Minerals": 8,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Vivia",
     "Discoverer": "YucaFrita",
     "Glyphs": "1020A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714150653000
+    "Timestamp": 1714150653000,
+    "Fauna": 6,
+    "Flora": 9,
+    "Minerals": 7,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Gward",
     "Discoverer": "YucaFrita",
     "Glyphs": "1023A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714214071000
+    "Timestamp": 1714214071000,
+    "Fauna": 2,
+    "Flora": 7,
+    "Minerals": 11,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "thejackattack07",
     "Glyphs": "1026A21127FF",
     "Platform": "PS",
-    "Timestamp": 1696780875000
+    "Timestamp": 1696780875000,
+    "Fauna": 6,
+    "Flora": 8,
+    "Minerals": 2,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Nadiana",
     "Discoverer": "YucaFrita",
     "Glyphs": "1027A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714216263000
+    "Timestamp": 1714216263000,
+    "Fauna": 4,
+    "Flora": 6,
+    "Minerals": 9,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Beppuq",
     "Discoverer": "YucaFrita",
     "Glyphs": "1029A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714232771000
+    "Timestamp": 1714232771000,
+    "Fauna": 7,
+    "Flora": 7,
+    "Minerals": 9,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Noporence",
     "Discoverer": "YucaFrita",
     "Glyphs": "102AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714234491000
+    "Timestamp": 1714234491000,
+    "Fauna": 7,
+    "Flora": 14,
+    "Minerals": 14,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Yamna",
     "Discoverer": "YucaFrita",
     "Glyphs": "102DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714287079000
+    "Timestamp": 1714287079000,
+    "Fauna": 5,
+    "Flora": 5,
+    "Minerals": 7,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Lakecius",
     "Discoverer": "YucaFrita",
     "Glyphs": "102EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714420289000
+    "Timestamp": 1714420289000,
+    "Fauna": 3,
+    "Flora": 9,
+    "Minerals": 7,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "1033A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712120202000
+    "Timestamp": 1712120202000,
+    "Fauna": 5,
+    "Flora": 2,
+    "Minerals": 2,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Guisbu",
     "Discoverer": "YucaFrita",
     "Glyphs": "1036A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714501137000
+    "Timestamp": 1714501137000,
+    "Fauna": 4,
+    "Flora": 7,
+    "Minerals": 6,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "1039A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713053955000
+    "Timestamp": 1713053955000,
+    "Fauna": 4,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "103BA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712088496000
+    "Timestamp": 1712088496000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "1045A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949149000
+    "Timestamp": 1712949149000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "enrasilver1108",
     "Glyphs": "105CA21127FF",
     "Platform": "PS",
-    "Timestamp": 1696077834000
+    "Timestamp": 1696077834000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "1073A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949279000
+    "Timestamp": 1712949279000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "1079A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705429728000
+    "Timestamp": 1705429728000,
+    "Fauna": 6,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "10AAA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712904047000
+    "Timestamp": 1712904047000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "10AEA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712904275000
+    "Timestamp": 1712904275000,
+    "Fauna": 1,
+    "Flora": 2,
+    "Minerals": 13,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Mimikyu1312",
     "Glyphs": "10CDA21127FF",
     "Platform": "ST",
-    "Timestamp": 1695780490000
+    "Timestamp": 1695780490000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "10D2A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705422479000
+    "Timestamp": 1705422479000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Aish 87/U3",
     "Discoverer": "Lenni",
     "Glyphs": "10D5A21127FF",
     "Platform": "ST",
-    "Timestamp": 1715074659000
+    "Timestamp": 1715074659000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Lenni",
     "Glyphs": "10D6A21127FF",
     "Platform": "ST",
-    "Timestamp": 1715074874000
+    "Timestamp": 1715074874000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "10DCA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712903819000
+    "Timestamp": 1712903819000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "10E7A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705426074000
+    "Timestamp": 1705426074000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "10F1A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705411045000
+    "Timestamp": 1705411045000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "10FCA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712217638000
+    "Timestamp": 1712217638000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "10FDA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712288870000
+    "Timestamp": 1712288870000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Mophid T41",
     "Discoverer": "Lenni",
     "Glyphs": "1114A21127FF",
     "Platform": "ST",
-    "Timestamp": 1708541069000
+    "Timestamp": 1708541069000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "1115A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770100000
+    "Timestamp": 1713770100000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "1116A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712286499000
+    "Timestamp": 1712286499000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "1119A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713771298000
+    "Timestamp": 1713771298000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "113AA21127FF",
     "Platform": "XB",
-    "Timestamp": 1713044298000
+    "Timestamp": 1713044298000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "113CA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712903698000
+    "Timestamp": 1712903698000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "1145A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712467686000
+    "Timestamp": 1712467686000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "1151A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770447000
+    "Timestamp": 1713770447000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "1157A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713771416000
+    "Timestamp": 1713771416000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "115CA21127FF",
     "Platform": "XB",
-    "Timestamp": 1709597264000
+    "Timestamp": 1709597264000,
+    "Fauna": 4,
+    "Flora": 6,
+    "Minerals": 5,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "116FA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712269696000
+    "Timestamp": 1712269696000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "117FA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949489000
+    "Timestamp": 1712949489000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "1189A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712879385000
+    "Timestamp": 1712879385000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "118FA21127FF",
     "Platform": "XB",
-    "Timestamp": 1709609213000
+    "Timestamp": 1709609213000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "1191A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712878188000
+    "Timestamp": 1712878188000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "1192A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712090772000
+    "Timestamp": 1712090772000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Yonahoy",
     "Glyphs": "1198A21127FF",
     "Platform": "PS",
-    "Timestamp": 1708113857000
+    "Timestamp": 1708113857000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "1199A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712187595000
+    "Timestamp": 1712187595000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Omiste",
     "Discoverer": "YucaFrita",
     "Glyphs": "2005A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713644902000
+    "Timestamp": 1713644902000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Paignmou",
     "Discoverer": "YucaFrita",
     "Glyphs": "2006A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713692124000
+    "Timestamp": 1713692124000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Xidius Irum",
     "Discoverer": "YucaFrita",
     "Glyphs": "2007A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713694285000
+    "Timestamp": 1713694285000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Naburfu",
     "Discoverer": "YucaFrita",
     "Glyphs": "200BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713699733000
+    "Timestamp": 1713699733000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Oake",
     "Discoverer": "YucaFrita",
     "Glyphs": "200EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713700720000
+    "Timestamp": 1713700720000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Nacince",
     "Discoverer": "YucaFrita",
     "Glyphs": "200FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713707108000
+    "Timestamp": 1713707108000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Ahoko",
     "Discoverer": "YucaFrita",
     "Glyphs": "2011A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714023376000
+    "Timestamp": 1714023376000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Onianuwa Mobar",
     "Discoverer": "YucaFrita",
     "Glyphs": "2012A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714024587000
+    "Timestamp": 1714024587000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Ifronk",
     "Discoverer": "YucaFrita",
     "Glyphs": "2017A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714116691000
+    "Timestamp": 1714116691000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Nish",
     "Discoverer": "YucaFrita",
     "Glyphs": "2018A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714120270000
+    "Timestamp": 1714120270000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Payxiu",
     "Discoverer": "YucaFrita",
     "Glyphs": "2019A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714128911000
+    "Timestamp": 1714128911000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Obeokoo",
     "Discoverer": "YucaFrita",
     "Glyphs": "201AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714133689000
+    "Timestamp": 1714133689000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Xobrines",
     "Discoverer": "YucaFrita",
     "Glyphs": "201BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714135133000
+    "Timestamp": 1714135133000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Pick",
     "Discoverer": "YucaFrita",
     "Glyphs": "201CA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714138133000
+    "Timestamp": 1714138133000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Ip Kuyam",
     "Discoverer": "YucaFrita",
     "Glyphs": "201DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714141659000
+    "Timestamp": 1714141659000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Oedei",
     "Discoverer": "YucaFrita",
     "Glyphs": "201EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714147559000
+    "Timestamp": 1714147559000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Kios",
     "Discoverer": "YucaFrita",
     "Glyphs": "201FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714149275000
+    "Timestamp": 1714149275000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Zanchie",
     "Discoverer": "YucaFrita",
     "Glyphs": "2020A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714150663000
+    "Timestamp": 1714150663000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Linwic",
     "Discoverer": "YucaFrita",
     "Glyphs": "2023A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714211911000
+    "Timestamp": 1714211911000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Nimatsutt",
     "Discoverer": "YucaFrita",
     "Glyphs": "2027A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714216249000
+    "Timestamp": 1714216249000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Borni",
     "Discoverer": "YucaFrita",
     "Glyphs": "2029A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714232757000
+    "Timestamp": 1714232757000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Umaelu",
     "Discoverer": "YucaFrita",
     "Glyphs": "202AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714234501000
+    "Timestamp": 1714234501000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Didco",
     "Discoverer": "YucaFrita",
     "Glyphs": "202DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714287056000
+    "Timestamp": 1714287056000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Widne",
     "Discoverer": "YucaFrita",
     "Glyphs": "202EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714420267000
+    "Timestamp": 1714420267000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Euthro Joso",
     "Discoverer": "YucaFrita",
     "Glyphs": "2036A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714501147000
+    "Timestamp": 1714501147000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "2045A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949155000
+    "Timestamp": 1712949155000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "enrasilver1108",
     "Glyphs": "205CA21127FF",
     "Platform": "PS",
-    "Timestamp": 1696077843000
+    "Timestamp": 1696077843000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "2073A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949287000
+    "Timestamp": 1712949287000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "2079A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705430459000
+    "Timestamp": 1705430459000,
+    "Fauna": 7,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "2097A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712125521000
+    "Timestamp": 1712125521000,
+    "Fauna": 7,
+    "Flora": 5,
+    "Minerals": 1,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "20AAA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712904057000
+    "Timestamp": 1712904057000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "20AEA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712904282000
+    "Timestamp": 1712904282000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Mimikyu1312",
     "Glyphs": "20CDA21127FF",
     "Platform": "ST",
-    "Timestamp": 1695780498000
+    "Timestamp": 1695780498000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "20D2A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705422473000
+    "Timestamp": 1705422473000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Lenni",
     "Glyphs": "20D5A21127FF",
     "Platform": "ST",
-    "Timestamp": 1715074652000
+    "Timestamp": 1715074652000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Lenni",
     "Glyphs": "20D6A21127FF",
     "Platform": "ST",
-    "Timestamp": 1715074890000
+    "Timestamp": 1715074890000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "20DCA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712903824000
+    "Timestamp": 1712903824000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "20E7A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705426041000
+    "Timestamp": 1705426041000,
+    "Fauna": 8,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "20F1A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705413797000
+    "Timestamp": 1705413797000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "20FCA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712217647000
+    "Timestamp": 1712217647000,
+    "Fauna": 6,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "20FDA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712288861000
+    "Timestamp": 1712288861000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Lenni",
     "Glyphs": "2114A21127FF",
     "Platform": "ST",
-    "Timestamp": 1708541060000
+    "Timestamp": 1708541060000,
+    "Fauna": 0,
+    "Flora": 1,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "2115A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770108000
+    "Timestamp": 1713770108000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "2116A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712286518000
+    "Timestamp": 1712286518000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "2119A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713771306000
+    "Timestamp": 1713771306000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "213AA21127FF",
     "Platform": "XB",
-    "Timestamp": 1713044305000
+    "Timestamp": 1713044305000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "213CA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712903707000
+    "Timestamp": 1712903707000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "2151A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770456000
+    "Timestamp": 1713770456000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "2157A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713771424000
+    "Timestamp": 1713771424000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "216FA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712269691000
+    "Timestamp": 1712269691000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "217FA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949495000
+    "Timestamp": 1712949495000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "2189A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712879394000
+    "Timestamp": 1712879394000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "218FA21127FF",
     "Platform": "XB",
-    "Timestamp": 1709609205000
+    "Timestamp": 1709609205000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "2191A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712878194000
+    "Timestamp": 1712878194000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Yonahoy",
     "Glyphs": "2198A21127FF",
     "Platform": "PS",
-    "Timestamp": 1708113863000
+    "Timestamp": 1708113863000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "2199A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712187603000
+    "Timestamp": 1712187603000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Ronjose",
     "Discoverer": "YucaFrita",
     "Glyphs": "3005A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713644943000
+    "Timestamp": 1713644943000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Edfo",
     "Discoverer": "YucaFrita",
     "Glyphs": "3006A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713692130000
+    "Timestamp": 1713692130000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Wincest",
     "Discoverer": "YucaFrita",
     "Glyphs": "3007A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713694275000
+    "Timestamp": 1713694275000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Roto",
     "Discoverer": "YucaFrita",
     "Glyphs": "300BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713699719000
+    "Timestamp": 1713699719000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Dreykjavi",
     "Discoverer": "YucaFrita",
     "Glyphs": "300EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713700745000
+    "Timestamp": 1713700745000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Socest",
     "Discoverer": "YucaFrita",
     "Glyphs": "300FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713707115000
+    "Timestamp": 1713707115000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Ucussio",
     "Discoverer": "YucaFrita",
     "Glyphs": "3011A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714023396000
+    "Timestamp": 1714023396000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Luymeda",
     "Discoverer": "YucaFrita",
     "Glyphs": "3012A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714024479000
+    "Timestamp": 1714024479000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Ceyntosc",
     "Discoverer": "YucaFrita",
     "Glyphs": "3017A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714116725000
+    "Timestamp": 1714116725000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Axasaksha",
     "Discoverer": "YucaFrita",
     "Glyphs": "3018A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714120278000
+    "Timestamp": 1714120278000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Ipeion",
     "Discoverer": "YucaFrita",
     "Glyphs": "3019A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714128925000
+    "Timestamp": 1714128925000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Kugroznya",
     "Discoverer": "YucaFrita",
     "Glyphs": "301AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714133669000
+    "Timestamp": 1714133669000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Pazuzum",
     "Discoverer": "YucaFrita",
     "Glyphs": "301BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714135115000
+    "Timestamp": 1714135115000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Winstam",
     "Discoverer": "YucaFrita",
     "Glyphs": "301CA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714138162000
+    "Timestamp": 1714138162000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Joviathufle Uoka",
     "Discoverer": "YucaFrita",
     "Glyphs": "301DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714141664000
+    "Timestamp": 1714141664000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Esfo",
     "Discoverer": "YucaFrita",
     "Glyphs": "301EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714147572000
+    "Timestamp": 1714147572000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Ipolix",
     "Discoverer": "YucaFrita",
     "Glyphs": "301FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714149290000
+    "Timestamp": 1714149290000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Yargolivia",
     "Discoverer": "YucaFrita",
     "Glyphs": "3020A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714150648000
+    "Timestamp": 1714150648000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Seru",
     "Discoverer": "YucaFrita",
     "Glyphs": "3023A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714214058000
+    "Timestamp": 1714214058000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Omseniso",
     "Discoverer": "YucaFrita",
     "Glyphs": "3027A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714216227000
+    "Timestamp": 1714216227000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Ivenho",
     "Discoverer": "YucaFrita",
     "Glyphs": "3029A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714232766000
+    "Timestamp": 1714232766000,
+    "Fauna": 6,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Yulonnin",
     "Discoverer": "YucaFrita",
     "Glyphs": "302AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714234496000
+    "Timestamp": 1714234496000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Riusalok",
     "Discoverer": "YucaFrita",
     "Glyphs": "302DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714287050000
+    "Timestamp": 1714287050000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Ixhamn",
     "Discoverer": "YucaFrita",
     "Glyphs": "302EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714420272000
+    "Timestamp": 1714420272000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Orixham",
     "Discoverer": "YucaFrita",
     "Glyphs": "3036A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714501132000
+    "Timestamp": 1714501132000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "3045A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949163000
+    "Timestamp": 1712949163000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "enrasilver1108",
     "Glyphs": "305CA21127FF",
     "Platform": "PS",
-    "Timestamp": 1696077824000
+    "Timestamp": 1696077824000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "3073A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949293000
+    "Timestamp": 1712949293000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "3079A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705436321000
+    "Timestamp": 1705436321000,
+    "Fauna": 8,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "30AAA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712904064000
+    "Timestamp": 1712904064000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "30AEA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712904292000
+    "Timestamp": 1712904292000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Mimikyu1312",
     "Glyphs": "30CDA21127FF",
     "Platform": "ST",
-    "Timestamp": 1695780480000
+    "Timestamp": 1695780480000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "30D2A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705422445000
+    "Timestamp": 1705422445000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Lenni",
     "Glyphs": "30D6A21127FF",
     "Platform": "ST",
-    "Timestamp": 1715074859000
+    "Timestamp": 1715074859000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "30E7A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705427188000
+    "Timestamp": 1705427188000,
+    "Fauna": 5,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "30F1A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705420533000
+    "Timestamp": 1705420533000,
+    "Fauna": 9,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "30FDA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712288846000
+    "Timestamp": 1712288846000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Yonahoy",
     "Glyphs": "3109A21127FF",
     "Platform": "PS",
-    "Timestamp": 1708113849000
+    "Timestamp": 1708113849000,
+    "Fauna": 6,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Lenni",
     "Glyphs": "3114A21127FF",
     "Platform": "ST",
-    "Timestamp": 1708541051000
+    "Timestamp": 1708541051000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "3115A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770115000
+    "Timestamp": 1713770115000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "3116A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712286512000
+    "Timestamp": 1712286512000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "3119A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713771314000
+    "Timestamp": 1713771314000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "313AA21127FF",
     "Platform": "XB",
-    "Timestamp": 1713044312000
+    "Timestamp": 1713044312000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "313CA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712903715000
+    "Timestamp": 1712903715000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "3151A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770463000
+    "Timestamp": 1713770463000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "3157A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713771429000
+    "Timestamp": 1713771429000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "317FA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949503000
+    "Timestamp": 1712949503000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "3189A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712879400000
+    "Timestamp": 1712879400000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "3191A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712878702000
+    "Timestamp": 1712878702000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "3192A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712091275000
+    "Timestamp": 1712091275000,
+    "Fauna": 0,
+    "Flora": 2,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "3199A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712187609000
+    "Timestamp": 1712187609000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Zuwa",
     "Discoverer": "YucaFrita",
     "Glyphs": "4005A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713644920000
+    "Timestamp": 1713644920000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Hughtons",
     "Discoverer": "YucaFrita",
     "Glyphs": "4006A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713692139000
+    "Timestamp": 1713692139000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Crays",
     "Discoverer": "YucaFrita",
     "Glyphs": "4007A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713694270000
+    "Timestamp": 1713694270000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Olneya Chuo",
     "Discoverer": "YucaFrita",
     "Glyphs": "400BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713699726000
+    "Timestamp": 1713699726000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Ruok",
     "Discoverer": "YucaFrita",
     "Glyphs": "400EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713700762000
+    "Timestamp": 1713700762000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Luyoni",
     "Discoverer": "YucaFrita",
     "Glyphs": "400FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713707123000
+    "Timestamp": 1713707123000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Awestesi",
     "Discoverer": "YucaFrita",
     "Glyphs": "4011A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714023404000
+    "Timestamp": 1714023404000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Zehough",
     "Discoverer": "YucaFrita",
     "Glyphs": "4012A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714024469000
+    "Timestamp": 1714024469000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Nodlesme",
     "Discoverer": "YucaFrita",
     "Glyphs": "4017A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714116570000
+    "Timestamp": 1714116570000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Izephy",
     "Discoverer": "YucaFrita",
     "Glyphs": "4018A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714120290000
+    "Timestamp": 1714120290000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Eaceyl",
     "Discoverer": "YucaFrita",
     "Glyphs": "4019A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714128898000
+    "Timestamp": 1714128898000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Ruwichmon",
     "Discoverer": "YucaFrita",
     "Glyphs": "401AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714133683000
+    "Timestamp": 1714133683000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Nent",
     "Discoverer": "YucaFrita",
     "Glyphs": "401BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714135142000
+    "Timestamp": 1714135142000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Nirouga",
     "Discoverer": "YucaFrita",
     "Glyphs": "401CA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714138169000
+    "Timestamp": 1714138169000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Torvus",
     "Discoverer": "YucaFrita",
     "Glyphs": "401DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714141637000
+    "Timestamp": 1714141637000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Xovillixi",
     "Discoverer": "YucaFrita",
     "Glyphs": "401EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714147579000
+    "Timestamp": 1714147579000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Yebloe",
     "Discoverer": "YucaFrita",
     "Glyphs": "401FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714149322000
+    "Timestamp": 1714149322000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Kehavan",
     "Discoverer": "YucaFrita",
     "Glyphs": "4020A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714150634000
+    "Timestamp": 1714150634000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Ewarry",
     "Discoverer": "YucaFrita",
     "Glyphs": "4023A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714214089000
+    "Timestamp": 1714214089000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Aevango",
     "Discoverer": "YucaFrita",
     "Glyphs": "4027A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714216257000
+    "Timestamp": 1714216257000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Hecombo",
     "Discoverer": "YucaFrita",
     "Glyphs": "4029A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714232792000
+    "Timestamp": 1714232792000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Idmoutau",
     "Discoverer": "YucaFrita",
     "Glyphs": "402AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714234526000
+    "Timestamp": 1714234526000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Nafleet Magor",
     "Discoverer": "YucaFrita",
     "Glyphs": "402DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714287065000
+    "Timestamp": 1714287065000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Amur",
     "Discoverer": "YucaFrita",
     "Glyphs": "402EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714420281000
+    "Timestamp": 1714420281000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Utas",
     "Discoverer": "YucaFrita",
     "Glyphs": "4036A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714501125000
+    "Timestamp": 1714501125000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "4045A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949173000
+    "Timestamp": 1712949173000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Amfo Gamma",
     "Discoverer": "enrasilver1108",
     "Glyphs": "405CA21127FF",
     "Platform": "PS",
-    "Timestamp": 1696077813000
+    "Timestamp": 1696077813000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "4073A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949301000
+    "Timestamp": 1712949301000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "4079A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705432240000
+    "Timestamp": 1705432240000,
+    "Fauna": 9,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "40AAA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712904074000
+    "Timestamp": 1712904074000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "40AEA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712904300000
+    "Timestamp": 1712904300000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 3,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Mimikyu1312",
     "Glyphs": "40CDA21127FF",
     "Platform": "ST",
-    "Timestamp": 1695780506000
+    "Timestamp": 1695780506000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "40D2A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705422450000
+    "Timestamp": 1705422450000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Lenni",
     "Glyphs": "40D6A21127FF",
     "Platform": "ST",
-    "Timestamp": 1715074867000
+    "Timestamp": 1715074867000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "40E7A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705427267000
+    "Timestamp": 1705427267000,
+    "Fauna": 14,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "40F1A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705420539000
+    "Timestamp": 1705420539000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "40FDA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712288878000
+    "Timestamp": 1712288878000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "4115A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770120000
+    "Timestamp": 1713770120000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "4116A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712286490000
+    "Timestamp": 1712286490000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "4119A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713771320000
+    "Timestamp": 1713771320000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "413AA21127FF",
     "Platform": "XB",
-    "Timestamp": 1713044318000
+    "Timestamp": 1713044318000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "4151A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770473000
+    "Timestamp": 1713770473000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "4157A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713771437000
+    "Timestamp": 1713771437000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "417FA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949512000
+    "Timestamp": 1712949512000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "4189A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712879408000
+    "Timestamp": 1712879408000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "418FA21127FF",
     "Platform": "XB",
-    "Timestamp": 1709604611000
+    "Timestamp": 1709604611000,
+    "Fauna": 9,
+    "Flora": 9,
+    "Minerals": 4,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "4191A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712878710000
+    "Timestamp": 1712878710000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "4199A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712187615000
+    "Timestamp": 1712187615000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Irfield",
     "Discoverer": "YucaFrita",
     "Glyphs": "5005A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713644930000
+    "Timestamp": 1713644930000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Downeya",
     "Discoverer": "YucaFrita",
     "Glyphs": "5006A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713692153000
+    "Timestamp": 1713692153000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Guyptimo",
     "Discoverer": "YucaFrita",
     "Glyphs": "5007A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713694301000
+    "Timestamp": 1713694301000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Efargii",
     "Discoverer": "YucaFrita",
     "Glyphs": "500BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713699779000
+    "Timestamp": 1713699779000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Golishuan Noom",
     "Discoverer": "YucaFrita",
     "Glyphs": "500EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713700755000
+    "Timestamp": 1713700755000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Fokadam",
     "Discoverer": "YucaFrita",
     "Glyphs": "5011A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714023413000
+    "Timestamp": 1714023413000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Rayl",
     "Discoverer": "YucaFrita",
     "Glyphs": "5017A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714116770000
+    "Timestamp": 1714116770000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Deran",
     "Discoverer": "YucaFrita",
     "Glyphs": "5019A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714128935000
+    "Timestamp": 1714128935000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Namat",
     "Discoverer": "YucaFrita",
     "Glyphs": "501AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714133720000
+    "Timestamp": 1714133720000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Cehamel",
     "Discoverer": "YucaFrita",
     "Glyphs": "501CA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714138183000
+    "Timestamp": 1714138183000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Eleumar",
     "Discoverer": "YucaFrita",
     "Glyphs": "501DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714141672000
+    "Timestamp": 1714141672000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Lasoneuve",
     "Discoverer": "YucaFrita",
     "Glyphs": "501FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714149303000
+    "Timestamp": 1714149303000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Nifro",
     "Discoverer": "YucaFrita",
     "Glyphs": "5023A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714214084000
+    "Timestamp": 1714214084000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Asoe Vera",
     "Discoverer": "YucaFrita",
     "Glyphs": "5027A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714216269000
+    "Timestamp": 1714216269000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Anoiseus",
     "Discoverer": "YucaFrita",
     "Glyphs": "5029A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714232779000
+    "Timestamp": 1714232779000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Pates",
     "Discoverer": "YucaFrita",
     "Glyphs": "502AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714234537000
+    "Timestamp": 1714234537000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Simi",
     "Discoverer": "YucaFrita",
     "Glyphs": "502DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714287101000
+    "Timestamp": 1714287101000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Codyaut",
     "Discoverer": "YucaFrita",
     "Glyphs": "502EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714420298000
+    "Timestamp": 1714420298000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Icheng",
     "Discoverer": "YucaFrita",
     "Glyphs": "5036A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714501153000
+    "Timestamp": 1714501153000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "5045A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949180000
+    "Timestamp": 1712949180000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Nackla Omega",
     "Discoverer": "enrasilver1108",
     "Glyphs": "505CA21127FF",
     "Platform": "PS",
-    "Timestamp": 1696077643000
+    "Timestamp": 1696077643000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "5073A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949311000
+    "Timestamp": 1712949311000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "5079A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705438863000
+    "Timestamp": 1705438863000,
+    "Fauna": 9,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "50AAA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712904083000
+    "Timestamp": 1712904083000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Mimikyu1312",
     "Glyphs": "50CDA21127FF",
     "Platform": "ST",
-    "Timestamp": 1695780513000
+    "Timestamp": 1695780513000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "50D2A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705422459000
+    "Timestamp": 1705422459000,
+    "Fauna": 9,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Yinsh L23",
     "Discoverer": "Lenni",
     "Glyphs": "50D6A21127FF",
     "Platform": "ST",
-    "Timestamp": 1715074853000
+    "Timestamp": 1715074853000,
+    "Fauna": 5,
+    "Flora": 1,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "50E7A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705427259000
+    "Timestamp": 1705427259000,
+    "Fauna": 7,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "50F1A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705413805000
+    "Timestamp": 1705413805000,
+    "Fauna": 3,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "50FDA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712288883000
+    "Timestamp": 1712288883000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "5115A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770129000
+    "Timestamp": 1713770129000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "5116A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712286507000
+    "Timestamp": 1712286507000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "513AA21127FF",
     "Platform": "XB",
-    "Timestamp": 1713044324000
+    "Timestamp": 1713044324000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "5151A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770481000
+    "Timestamp": 1713770481000,
+    "Fauna": 2,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "5157A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713771447000
+    "Timestamp": 1713771447000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "517FA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949521000
+    "Timestamp": 1712949521000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "5189A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712879413000
+    "Timestamp": 1712879413000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "5191A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712878719000
+    "Timestamp": 1712878719000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "5199A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712187624000
+    "Timestamp": 1712187624000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Ehrae",
     "Discoverer": "YucaFrita",
     "Glyphs": "6005A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713644936000
+    "Timestamp": 1713644936000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Metapite",
     "Discoverer": "YucaFrita",
     "Glyphs": "6007A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713694293000
+    "Timestamp": 1713694293000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Anoya",
     "Discoverer": "YucaFrita",
     "Glyphs": "600BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713699768000
+    "Timestamp": 1713699768000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Ilsha",
     "Discoverer": "YucaFrita",
     "Glyphs": "6017A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714116745000
+    "Timestamp": 1714116745000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Niymoors",
     "Discoverer": "YucaFrita",
     "Glyphs": "601AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714133737000
+    "Timestamp": 1714133737000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Dublis",
     "Discoverer": "YucaFrita",
     "Glyphs": "601CA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714138175000
+    "Timestamp": 1714138175000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Uktachio",
     "Discoverer": "YucaFrita",
     "Glyphs": "601DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714141695000
+    "Timestamp": 1714141695000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Embrid",
     "Discoverer": "YucaFrita",
     "Glyphs": "601FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714149330000
+    "Timestamp": 1714149330000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Sawa Et Toi",
     "Discoverer": "YucaFrita",
     "Glyphs": "6027A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714216301000
+    "Timestamp": 1714216301000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Helstant",
     "Discoverer": "YucaFrita",
     "Glyphs": "602AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714234511000
+    "Timestamp": 1714234511000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Able G",
     "Discoverer": "YucaFrita",
     "Glyphs": "602DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714287092000
+    "Timestamp": 1714287092000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Mothili",
     "Discoverer": "YucaFrita",
     "Glyphs": "602EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714420304000
+    "Timestamp": 1714420304000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Iurg",
     "Discoverer": "YucaFrita",
     "Glyphs": "6036A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714501158000
+    "Timestamp": 1714501158000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "enrasilver1108",
     "Glyphs": "605CA21127FF",
     "Platform": "PS",
-    "Timestamp": 1696077854000
+    "Timestamp": 1696077854000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "6073A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949320000
+    "Timestamp": 1712949320000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "6079A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705435214000
+    "Timestamp": 1705435214000,
+    "Fauna": 9,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "60AAA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712904090000
+    "Timestamp": 1712904090000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Mimikyu1312",
     "Glyphs": "60CDA21127FF",
     "Platform": "ST",
-    "Timestamp": 1695780518000
+    "Timestamp": 1695780518000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "60D2A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705422465000
+    "Timestamp": 1705422465000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "Talausi",
     "Discoverer": "Lenni",
     "Glyphs": "60D6A21127FF",
     "Platform": "ST",
-    "Timestamp": 1715074881000
+    "Timestamp": 1715074881000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "60E7A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705427251000
+    "Timestamp": 1705427251000,
+    "Fauna": 9,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "60F1A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705416156000
+    "Timestamp": 1705416156000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "60FDA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712288854000
+    "Timestamp": 1712288854000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "6115A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770137000
+    "Timestamp": 1713770137000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "6116A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712286484000
+    "Timestamp": 1712286484000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "613AA21127FF",
     "Platform": "XB",
-    "Timestamp": 1713044334000
+    "Timestamp": 1713044334000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "6157A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713771453000
+    "Timestamp": 1713771453000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "617FA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949531000
+    "Timestamp": 1712949531000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "6189A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712879421000
+    "Timestamp": 1712879421000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "6191A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712878725000
+    "Timestamp": 1712878725000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "6199A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712187636000
+    "Timestamp": 1712187636000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   }
 ]
