@@ -6,8 +6,9 @@ import { storeToRefs } from 'pinia';
 import { computed, reactive } from 'vue';
 import DataTable from '../table/DataTable.vue';
 import PaginationControls from '../table/PaginationControls.vue';
-import { getPercentage, sortData } from '@/helpers/maths';
+import { getPercentage } from '@/helpers/maths';
 import { paginateData } from '@/helpers/paginate';
+import { sortData } from '@/helpers/sorting';
 
 const dataStore = useDataStore();
 const { filteredData, dataLength, amountTagged, itemsPerPage, currentPageIndex } = storeToRefs(dataStore);

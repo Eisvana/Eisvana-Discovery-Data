@@ -23,6 +23,16 @@ export function sortArray(inputArray: (string | number)[][], sortingCol: number)
   return sortedArray;
 }
 
+export function sortData(inputArray: (string | number)[][], sorting: Sorting) {
+  const sortedArray = sortArray(inputArray, sorting.col);
+
+  for (let i = 0; i < sortedArray.length; i++) {
+    sortedArray[i].unshift(`${i + 1}.`);
+  }
+
+  return sorting.order === orders.asc ? sortedArray.toReversed() : sortedArray;
+}
+
 const toggleSortingOrder = (sortingObj: Sorting) =>
   (sortingObj.order = sortingObj.order === orders.asc ? orders.desc : orders.asc);
 
