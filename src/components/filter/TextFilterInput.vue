@@ -2,10 +2,11 @@
 defineProps<{
   label: string;
   id: string;
-  intersection: string;
-  searchTerm: string;
-  caseSensitivity: boolean;
 }>();
+
+const searchTerm = defineModel('searchTerm', { type: String });
+const intersection = defineModel('intersection', { type: String });
+const caseSensitivity = defineModel('caseSensitivity', { type: Boolean });
 </script>
 
 <template>
@@ -13,20 +14,18 @@ defineProps<{
     <label :for="id">
       {{ label }}
       <input
+        v-model="searchTerm"
         :id="id"
         :name="id"
-        :value="searchTerm"
         type="text"
-        @input="$emit('update:searchTerm', ($event.target as HTMLInputElement).value)"
       />
     </label>
 
     <div class="filter-adjustments">
       <select
-        :value="intersection"
+        v-model="intersection"
         class="intersection-select"
         name="intersection"
-        @input="$emit('update:intersection', ($event.target as HTMLSelectElement).value)"
       >
         <option value="includes">Includes</option>
         <option value="is">Is exactly</option>
@@ -40,11 +39,11 @@ defineProps<{
       >
         Case Sensitive
         <input
-          :value="caseSensitivity"
-          type="checkbox"
-          role="switch"
+          v-model="caseSensitivity"
+          :aria-checked="caseSensitivity"
           class="switch"
-          @change="$emit('update:caseSensitivity', ($event.target as HTMLInputElement).checked)"
+          role="switch"
+          type="checkbox"
         />
       </label>
     </div>

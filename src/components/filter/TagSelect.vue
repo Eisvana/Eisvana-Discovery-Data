@@ -7,23 +7,18 @@ defineProps<{
     true: string;
     false: string;
   };
-  modelValue: '' | boolean;
 }>();
 
-function getTagStatus(event: Event) {
-  const selection = (event.target as HTMLSelectElement).value;
-  return selection === '' ? '' : selection === 'true';
-}
+const model = defineModel();
 </script>
 
 <template>
   <label>
     {{ label }}
     <select
+      v-model="model"
       :id="id"
       :name="id"
-      :value="modelValue"
-      @change="$emit('update:modelValue', getTagStatus($event))"
     >
       <option
         v-for="(value, key) in options"
