@@ -25,17 +25,31 @@ const resetStore = () => {
 async function loadData() {
   isLoading.value = true;
   try {
-    // TODO: needs to be adjusted to new structure
-    const { default: importedData } = await import(`../assets/eisvana.json`);
-
-    const json: DiscoveryData[] = importedData as DiscoveryData[];
-
-    filteredData.value = applyFilter(json);
+    const imports = import.meta.glob('../assets/*.json', { import: 'default' });
+    filteredData.value = [];
+    const importData = Object.values(imports).map(addData);
+    await Promise.all(importData);
   } catch (error) {
     console.warn(error);
   } finally {
     isLoading.value = false;
   }
+}
+
+async function addData(getData: () => Promise<unknown>) {
+  const data = await getData();
+  if (!Array.isArray(data)) return;
+  const trueDiscoveryData = data.filter((item) => isDiscoveryData(item));
+  filteredData.value.push(...applyFilter(trueDiscoveryData));
+}
+
+function isObject(item: unknown): item is object {
+  return Boolean(item) && typeof item === 'object';
+}
+
+function isDiscoveryData(item: unknown): item is DiscoveryData {
+  if (!isObject(item)) return false;
+  return 'Name' in item && 'Glyphs' in item && 'Discoverer' in item && 'Platform' in item && 'Timestamp' in item;
 }
 
 function applyFilter(data: DiscoveryData[]) {
@@ -67,9 +81,9 @@ function applyFilter(data: DiscoveryData[]) {
     const dayInMs = 86400000;
     const isValidDate =
       (!startDate && !endDate) ||
-      (startDate < item.UnixTimestamp && item.UnixTimestamp < endDate + dayInMs) ||
-      (startDate < item.UnixTimestamp && !endDate) ||
-      (!startDate && item.UnixTimestamp < endDate + dayInMs);
+      (startDate < item.Timestamp && item.Timestamp < endDate + dayInMs) ||
+      (startDate < item.Timestamp && !endDate) ||
+      (!startDate && item.Timestamp < endDate + dayInMs);
 
     if (!isValidDate) return false;
 

@@ -6,9 +6,10 @@ import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import { appSections, chartColours } from '@/variables/mappings';
 import PaginationControls from '@/components/table/PaginationControls.vue';
-import { getRandomColour, paginateData } from '@/logic/logic';
 import type { DiscovererData, DiscovererDataArray } from '@/types/data';
 import DetailsWrapper from '@/components/DetailsWrapper.vue';
+import { paginateData } from '@/helpers/paginate';
+import { getRandomColour } from '@/helpers/colours';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 

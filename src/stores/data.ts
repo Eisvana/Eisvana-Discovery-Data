@@ -1,6 +1,7 @@
 import { defineStore } from 'pinia';
 import type { DiscoveryData } from '@/types/data';
 import { toRaw } from 'vue';
+import { getUTCDateString } from '@/helpers/date';
 
 interface State {
   filteredData: DiscoveryData[];
@@ -43,8 +44,14 @@ export const useDataStore = defineStore('data', {
     dateRange: (state: State): [string | undefined, string | undefined] => {
       const sortedData = structuredClone(toRaw(state.filteredData))
         .filter((item) => item.Timestamp)
-        .sort((a, b) => a.UnixTimestamp - b.UnixTimestamp);
-      return [sortedData[0]?.Timestamp, sortedData[sortedData.length - 1]?.Timestamp];
+        .toSorted((a, b) => a.Timestamp - b.Timestamp);
+
+        // for some reason, TS doesn't know that the items at their indices are definitely not undefined in the function.
+        // if they are undefined, they would fail the ternary operator and return undefined
+      return [
+        sortedData.at(0) ? getUTCDateString(sortedData.at(0)!.Timestamp) : undefined,
+        sortedData.at(-1) ? getUTCDateString(sortedData.at(-1)!.Timestamp) : undefined,
+      ];
     },
   },
 });

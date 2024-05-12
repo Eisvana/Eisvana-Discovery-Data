@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { getDatesBetween, getRandomColour, paginateData } from '@/logic/logic';
 import { useDataStore } from '@/stores/data';
 import {
   Chart as ChartJS,
@@ -17,6 +16,9 @@ import { Line } from 'vue-chartjs';
 import PaginationControls from '@/components/table/PaginationControls.vue';
 import { appSections } from '@/variables/mappings';
 import DetailsWrapper from '@/components/DetailsWrapper.vue';
+import { getUTCDateString ,getDatesBetween} from '@/helpers/date';
+import { paginateData } from '@/helpers/paginate';
+import { getRandomColour } from '@/helpers/colours';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
@@ -62,7 +64,8 @@ const transformedData = computed(() => {
   const discoveryAmount = structuredClone(blankData.value);
   for (const dataObj of filteredData.value) {
     if (!dataObj.Timestamp) continue;
-    discoveryAmount[dataObj.Timestamp][dataObj.Discoverer]++;
+    const utcDate = getUTCDateString(dataObj.Timestamp);
+    discoveryAmount[utcDate][dataObj.Discoverer]++;
   }
   return discoveryAmount;
 });

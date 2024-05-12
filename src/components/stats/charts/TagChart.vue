@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { getDatesBetween } from '@/logic/logic';
 import { chartColours } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
 import {
@@ -16,6 +15,7 @@ import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import { Line } from 'vue-chartjs';
 import DetailsWrapper from '@/components/DetailsWrapper.vue';
+import { getDatesBetween, getUTCDateString } from '@/helpers/date';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
@@ -40,7 +40,8 @@ const transformedData = computed(() => {
 
   for (const item of filteredData.value) {
     if (!item.Timestamp) continue;
-    timestampData[item.Timestamp][item['Correctly Prefixed'] ? 'correct' : 'incorrect']++;
+    const utcDate = getUTCDateString(item.Timestamp);
+    timestampData[utcDate][item['Correctly Prefixed'] ? 'correct' : 'incorrect']++;
   }
 
   const newDateArray: { ts: string; correct: number; incorrect: number }[] = [];

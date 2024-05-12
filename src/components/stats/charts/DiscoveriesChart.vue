@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { getDatesBetween } from '@/logic/logic';
 import { chartColours } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
 import {
@@ -16,6 +15,7 @@ import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import { Line } from 'vue-chartjs';
 import DetailsWrapper from '@/components/DetailsWrapper.vue';
+import { getUTCDateString,getDatesBetween } from '@/helpers/date';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
@@ -45,7 +45,8 @@ const transformedData = computed(() => {
 
   for (const dataObj of filteredData.value) {
     if (!dataObj.Timestamp) continue;
-    const index = keys.indexOf(dataObj.Timestamp);
+    const utcDate = getUTCDateString(dataObj.Timestamp);
+    const index = keys.indexOf(utcDate);
     const isCorrect = dataObj['Correctly Prefixed'];
 
     for (let j = index; j < keys.length; j++) {

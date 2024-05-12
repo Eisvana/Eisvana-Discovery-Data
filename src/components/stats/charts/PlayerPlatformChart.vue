@@ -6,7 +6,7 @@ import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import { chartColours, platformMapping } from '@/variables/mappings';
 import type { Platform, ValueOf } from '@/types/data';
-import { setPlatformColours } from '@/logic/logic';
+import { setPlatformColours } from '@/helpers/colours';
 import DetailsWrapper from '@/components/DetailsWrapper.vue';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);

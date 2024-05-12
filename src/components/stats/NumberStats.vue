@@ -1,10 +1,11 @@
 <script setup lang="ts">
-import { getPercentage } from '@/logic/logic';
+import { getPercentage } from '@/helpers/maths';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import DataTable from '../table/DataTable.vue';
 import type { TableHeadings } from '@/types/data';
+import { getFormattedUTCDateString, getUTCDateString } from '@/helpers/date';
 
 const dataStore = useDataStore();
 const { filteredData, amountTagged, dataLength, dateRange } = storeToRefs(dataStore);
@@ -56,9 +57,9 @@ const avgDiscoverersPerDay = computed(() => {
   } = {};
 
   for (const dataObj of filteredData.value.filter((item) => item.Discoverer)) {
-    const ts = dataObj.Timestamp;
-    timestampObj[ts] ??= new Set<string>();
-    timestampObj[ts].add(dataObj.Discoverer);
+    const utcDate = getUTCDateString(dataObj.Timestamp);
+    timestampObj[utcDate] ??= new Set<string>();
+    timestampObj[utcDate].add(dataObj.Discoverer);
   }
 
   const discoverersPerDay = Object.values(timestampObj).map((item) => item.size);
@@ -101,7 +102,7 @@ const headers: TableHeadings = {
   normal: ['Name', 'Amount of duplicates'],
 };
 
-const getDate = (dateString: string | undefined) => (dateString ? new Date(dateString).toLocaleDateString() : '-');
+const getDate = (dateString: string | undefined) => (dateString ? getFormattedUTCDateString(dateString) : '-');
 </script>
 
 <template>

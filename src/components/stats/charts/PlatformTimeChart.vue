@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { getDatesBetween, setPlatformColours } from '@/logic/logic';
 import { platformMapping } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
 import type { Platform } from '@/types/data';
@@ -17,6 +16,8 @@ import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import { Line } from 'vue-chartjs';
 import DetailsWrapper from '@/components/DetailsWrapper.vue';
+import { getUTCDateString, getDatesBetween } from '@/helpers/date';
+import { setPlatformColours } from '@/helpers/colours';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
@@ -56,7 +57,8 @@ const transformedData = computed(() => {
   const discoveryAmount = structuredClone(blankData.value);
   for (const dataObj of filteredData.value) {
     if (!dataObj.Timestamp) continue;
-    discoveryAmount[dataObj.Timestamp][dataObj.Platform]++;
+    const utcDate = getUTCDateString(dataObj.Timestamp);
+    discoveryAmount[utcDate][dataObj.Platform]++;
   }
   return discoveryAmount;
 });

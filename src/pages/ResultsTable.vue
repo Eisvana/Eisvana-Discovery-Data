@@ -1,12 +1,13 @@
 <script setup lang="ts">
 import PaginationControls from '@/components/table/PaginationControls.vue';
 import TableHeaders from '@/components/table/TableHeaders.vue';
-import { paginateData } from '@/logic/logic';
 import { appSections, platformMapping } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
 import type { DiscoveryData, Platform, TableHeadings } from '@/types/data';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
+import { getFormattedUTCDateString } from '@/helpers/date';
+import { paginateData } from '@/helpers/paginate';
 
 const dataStore = useDataStore();
 const { filteredData, currentPageIndex, itemsPerPage } = storeToRefs(dataStore);
@@ -29,9 +30,6 @@ const dataArray = computed(() => {
   const textArray: TextArray[] = [];
   for (const data of paginatedData.value[currentPageIndex.value.resultsTable] ?? []) {
     for (const [key, value] of Object.entries(data)) {
-      const ignoredKeys = ['Timestamp', 'galaxy'];
-      if (ignoredKeys.includes(key)) continue;
-
       let text: string = '';
       let className: string = '';
 
@@ -45,8 +43,8 @@ const dataArray = computed(() => {
           text = getFullPlatform(value as Platform);
           break;
 
-        case 'UnixTimestamp':
-          text = new Date(value as number).toLocaleDateString();
+        case 'Timestamp':
+          text = getFormattedUTCDateString(value);
           break;
 
         case 'Correctly Prefixed':

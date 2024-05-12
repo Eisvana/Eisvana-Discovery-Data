@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { sortByColumn } from '@/logic/logic';
+import { sortByColumn } from '@/helpers/math;
 import type { orders } from '@/variables/mappings';
 import type { TableHeadings, ValueOf } from '@/types/data';
 

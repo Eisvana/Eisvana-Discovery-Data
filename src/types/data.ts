@@ -9,8 +9,10 @@ export interface DiscoveryData {
   Glyphs: string;
   Discoverer: string;
   Platform: Platform;
-  Timestamp: string;
-  UnixTimestamp: number;
+  Timestamp: number;
+}
+
+export interface SystemData extends DiscoveryData {
   'Correctly Prefixed': boolean;
 }
 
