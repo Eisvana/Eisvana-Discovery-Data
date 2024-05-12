@@ -4,7 +4,7 @@ import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, Li
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import type { DiscovererData } from '@/types/data';
-import { chartColours } from '@/objects/mappings';
+import { chartColours } from '@/variables/mappings';
 import DetailsWrapper from '@/components/DetailsWrapper.vue';
 import { computed } from 'vue';
 

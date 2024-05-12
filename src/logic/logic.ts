@@ -1,4 +1,4 @@
-import { orders, platformColours, platformMapping } from '@/objects/mappings';
+import { orders, platformColours, platformMapping } from '@/variables/mappings';
 import type { Sorting, ValueOf } from '@/types/data';
 
 export function paginateData(inputArray: ([] | {})[], itemsPerPage: number): ([] | {} | string | number)[][] {

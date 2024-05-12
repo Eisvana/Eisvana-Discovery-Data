@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { appSections } from '@/objects/mappings';
+import type { appSections } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
 import type { ValueOf } from '@/types/data';
 import { storeToRefs } from 'pinia';

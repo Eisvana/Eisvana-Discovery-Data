@@ -2,7 +2,7 @@
 import PaginationControls from '@/components/table/PaginationControls.vue';
 import TableHeaders from '@/components/table/TableHeaders.vue';
 import { paginateData } from '@/logic/logic';
-import { appSections, platformMapping } from '@/objects/mappings';
+import { appSections, platformMapping } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
 import type { DiscoveryData, Platform, TableHeadings } from '@/types/data';
 import { storeToRefs } from 'pinia';
@@ -82,7 +82,7 @@ const headers: TableHeadings = {
       :section="appSections.resultsTable"
     />
     <div class="data-table">
-      <TableHeaders :headers="headers" />
+      <TableHeaders :headers />
       <div
         v-for="obj in dataArray"
         :class="obj.className"

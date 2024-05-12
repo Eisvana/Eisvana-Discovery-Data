@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { getPercentage, paginateData, sortData } from '@/logic/logic';
-import { appSections, orders, platformMapping } from '@/objects/mappings';
+import { appSections, orders, platformMapping } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
 import type { TableHeadings, ValueOf } from '@/types/data';
 import { storeToRefs } from 'pinia';

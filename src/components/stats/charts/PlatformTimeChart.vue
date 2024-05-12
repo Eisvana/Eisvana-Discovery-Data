@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { getDatesBetween, setPlatformColours } from '@/logic/logic';
-import { platformMapping } from '@/objects/mappings';
+import { platformMapping } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
 import type { Platform } from '@/types/data';
 import {

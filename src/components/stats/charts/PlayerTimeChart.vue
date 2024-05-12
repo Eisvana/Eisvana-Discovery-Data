@@ -15,7 +15,7 @@ import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import { Line } from 'vue-chartjs';
 import PaginationControls from '@/components/table/PaginationControls.vue';
-import { appSections } from '@/objects/mappings';
+import { appSections } from '@/variables/mappings';
 import DetailsWrapper from '@/components/DetailsWrapper.vue';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);

@@ -1,4 +1,4 @@
-import { orders } from '@/objects/mappings';
+import { orders } from '@/variables/mappings';
 
 export type Platform = 'ST' | 'PS' | 'XB' | 'GX' | 'NI';
 

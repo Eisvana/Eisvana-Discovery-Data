@@ -5,7 +5,7 @@ import TagSelect from './TagSelect.vue';
 import TextFilterInput from './TextFilterInput.vue';
 import { useFilterStore } from '@/stores/filter';
 import { storeToRefs } from 'pinia';
-import { platformMapping } from '@/objects/mappings';
+import { platformMapping } from '@/variables/mappings';
 
 const textInputs = [
   {

@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { orders } from '@/objects/mappings';
+import type { orders } from '@/variables/mappings';
 import type { TableHeadings, ValueOf } from '@/types/data';
 import TableHeaders from './TableHeaders.vue';
 import { computed } from 'vue';
@@ -19,8 +19,8 @@ const headerCount = computed(() => (props.headers.normal ?? []).concat(props.hea
     :style="{ 'grid-template-columns': `repeat(${headerCount}, auto)` }"
   >
     <TableHeaders
-      :headers="headers"
-      :sorting="sorting"
+      :headers
+      :sorting
     />
     <div v-for="text in data">
       {{ text }}

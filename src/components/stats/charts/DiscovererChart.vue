@@ -4,7 +4,7 @@ import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, Li
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
-import { appSections, chartColours } from '@/objects/mappings';
+import { appSections, chartColours } from '@/variables/mappings';
 import PaginationControls from '@/components/table/PaginationControls.vue';
 import { getRandomColour, paginateData } from '@/logic/logic';
 import type { DiscovererData, DiscovererDataArray } from '@/types/data';

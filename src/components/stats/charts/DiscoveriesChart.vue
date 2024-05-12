@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { getDatesBetween } from '@/logic/logic';
-import { chartColours } from '@/objects/mappings';
+import { chartColours } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
 import {
   Chart as ChartJS,
