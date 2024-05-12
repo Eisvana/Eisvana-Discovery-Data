@@ -4,7 +4,7 @@ import { useFilterStore } from '@/stores/filter';
 import type { DiscoveryData } from '@/types/data';
 import { storeToRefs } from 'pinia';
 import { ref } from 'vue';
-import regions from '@/assets/regions.json';
+import { regions } from '@/variables/regions';
 
 const filterStore = useFilterStore();
 const dataStore = useDataStore();
@@ -130,19 +130,18 @@ function searchRegion(region: string) {
   <div class="actions">
     <button
       :aria-busy="isLoading"
-      role="button"
       type="submit"
       @click="loadData()"
     >
       Apply Filter
     </button>
 
-    <input
-      role="button"
+    <button
       type="reset"
-      value="Reset Filter"
       @click="resetStore"
-    />
+    >
+      Reset Filer
+    </button>
   </div>
 </template>
 

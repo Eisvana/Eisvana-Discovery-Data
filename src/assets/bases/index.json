@@ -1,0 +1,776 @@
+[
+  {
+    "Name": "Iridescent Archipelagos TBD",
+    "Discoverer": "BrokenNocturne",
+    "Glyphs": "1146A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1705326943000,
+    "Parts": 16,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Traders Rock",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "2078A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1695843626000,
+    "Parts": 570,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "H4z-L's",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "207BA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1711582149000,
+    "Parts": 1236,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Jukuhafield",
+    "Discoverer": "carpibibble",
+    "Glyphs": "207BA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1710011769000,
+    "Parts": 34,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "TBC brothel",
+    "Discoverer": "Lianeras",
+    "Glyphs": "207BA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1699649634000,
+    "Parts": 540,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Chasmhold",
+    "Discoverer": "Greens",
+    "Glyphs": "212FA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1711898568000,
+    "Parts": 565,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Sea Air Bar'N'Grill",
+    "Discoverer": "AirosRhyner",
+    "Glyphs": "300BA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1696738656000,
+    "Parts": 201,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Camp Valor",
+    "Discoverer": "BrokenNocturne",
+    "Glyphs": "30D1A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1704512055000,
+    "Parts": 353,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Maure-Ripal Base (Fe²O³‚ Fe++)",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "312EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1705946977000,
+    "Parts": 71,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Luloydo Colony",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "607BA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1711162936000,
+    "Parts": 13,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "gREEN YELLOW BAE",
+    "Discoverer": "Binder198",
+    "Glyphs": "1059A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1712084836000,
+    "Parts": 22,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Lianeras' Lakeside Cabin",
+    "Discoverer": "Lianeras",
+    "Glyphs": "10C9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1697277496000,
+    "Parts": 418,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Paulavi-Adca Colony",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "1178A11117FF",
+    "Platform": "XB",
+    "Timestamp": 1712310013000,
+    "Parts": 10,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Crystorm Crag",
+    "Discoverer": "Lunivore",
+    "Glyphs": "40CDA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1697301032000,
+    "Parts": 152,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Delta Flyer (VOY)",
+    "Discoverer": "Lianeras",
+    "Glyphs": "40DDA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1713705451000,
+    "Parts": 602,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Sanctuary in a Frozen Land",
+    "Discoverer": "BestLegend134",
+    "Glyphs": "4165A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1697164296000,
+    "Parts": 225,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Ebon Hawk WIP",
+    "Discoverer": "Lianeras",
+    "Glyphs": "20D5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1711192214000,
+    "Parts": 1137,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Clubbase",
+    "Discoverer": "randomsguy9454",
+    "Glyphs": "215CA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1704858070000,
+    "Parts": 477,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "E-729 NUCLEUS",
+    "Discoverer": "WhiteRose8328",
+    "Glyphs": "309EA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1701708297000,
+    "Parts": 207,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Bubble's Ship and Salvage",
+    "Discoverer": "parsnipphoenix",
+    "Glyphs": "3159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698516021000,
+    "Parts": 83,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "E-729 Tutamen",
+    "Discoverer": "WhiteRose8328",
+    "Glyphs": "409EA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1697501018000,
+    "Parts": 198,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Red Rock Retreat",
+    "Discoverer": "Lunivore",
+    "Glyphs": "4159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697384637000,
+    "Parts": 247,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "The Mertle Plantation",
+    "Discoverer": "thejackattack07",
+    "Glyphs": "6013A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1696804577000,
+    "Parts": 94,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Gummy Earth",
+    "Discoverer": "WraithRaptor",
+    "Glyphs": "1188A21127FF",
+    "Platform": "GX",
+    "Timestamp": 1707550381000,
+    "Parts": 22,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Triurobori Temple",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "101AA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1713634060000,
+    "Parts": 1176,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "DWT Grand Tour '24 Jumpgate - Waypoint 52",
+    "Discoverer": "distantworldtours",
+    "Glyphs": "101AA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1712816847000,
+    "Parts": 278,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "The Dig",
+    "Discoverer": "Lunivore",
+    "Glyphs": "101AA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1711566192000,
+    "Parts": 334,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "BatBar",
+    "Discoverer": "Lianeras",
+    "Glyphs": "101AA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1698170073000,
+    "Parts": 813,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Mountain Base",
+    "Discoverer": "Dani",
+    "Glyphs": "1030A21107FF",
+    "Platform": "NI",
+    "Timestamp": 1702174689000,
+    "Parts": 331,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Eissentam Glyph Portal Overlook",
+    "Discoverer": "Varkhan",
+    "Glyphs": "1050A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1701970638000,
+    "Parts": 103,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Heginia Station",
+    "Discoverer": "Yonahoy",
+    "Glyphs": "1065A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1709501918000,
+    "Parts": 433,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Omyarda Colony (NaCl)",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "201BA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1704768464000,
+    "Parts": 56,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "ToughenTheTime's Eisvana Base",
+    "Discoverer": "ToughenTheTime",
+    "Glyphs": "201DA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1697916831000,
+    "Parts": 322,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Tropical Research Ridge",
+    "Discoverer": "Mixol",
+    "Glyphs": "205EA21107FF",
+    "Platform": "XB",
+    "Timestamp": 1705347406000,
+    "Parts": 234,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Architect Landing",
+    "Discoverer": "BrokenNocturne",
+    "Glyphs": "205EA21107FF",
+    "Platform": "XB",
+    "Timestamp": 1705028229000,
+    "Parts": 129,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "The Studio",
+    "Discoverer": "Dr. Mal Practice MD",
+    "Glyphs": "205EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1699215496000,
+    "Parts": 109,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Onfiel-Twic Outpost (B)",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "2136A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1706673254000,
+    "Parts": 80,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Ookep-Dodle Colony (B, Ag)",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "301BA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1704776986000,
+    "Parts": 126,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Noverian Heights",
+    "Discoverer": "ZimmerJ",
+    "Glyphs": "305EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1707679295000,
+    "Parts": 2261,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Cellata Farm Experimental Base",
+    "Discoverer": "Breviceps",
+    "Glyphs": "3180A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1697395127000,
+    "Parts": 1326,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "White Exotic Gekko",
+    "Discoverer": "CleverPie",
+    "Glyphs": "3180A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1697117246000,
+    "Parts": 13,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Digothbu Outpost",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "4017A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1704334325000,
+    "Parts": 67,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Plasma Base",
+    "Discoverer": "Capn",
+    "Glyphs": "405EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1714964636000,
+    "Parts": 264,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Le Cordon Bleu",
+    "Discoverer": "gashopper",
+    "Glyphs": "405EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1714530325000,
+    "Parts": 2419,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Theatre des Geks",
+    "Discoverer": "Lunivore",
+    "Glyphs": "405EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1713108671000,
+    "Parts": 816,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Ecton Dig Site, Phoenix Industries",
+    "Discoverer": "parsnipphoenix",
+    "Glyphs": "405EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1713036745000,
+    "Parts": 20,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "P-iRat-E",
+    "Discoverer": "driftNfool",
+    "Glyphs": "405EA21107FF",
+    "Platform": "XB",
+    "Timestamp": 1712887674000,
+    "Parts": 79,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Eisvana Welcome Center",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "405EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1712405669000,
+    "Parts": 233,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Wotenga Colony",
+    "Discoverer": "ow52bav",
+    "Glyphs": "405EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1711740832000,
+    "Parts": 12,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Aquadillac Depths",
+    "Discoverer": "ZimmerJ",
+    "Glyphs": "405EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1711739980000,
+    "Parts": 2997,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "City build site",
+    "Discoverer": "Mr.Barnicle",
+    "Glyphs": "405EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1711726868000,
+    "Parts": 2154,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Shark Island WIP",
+    "Discoverer": "revivemeplz85",
+    "Glyphs": "405EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1711244617000,
+    "Parts": 430,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "My Base No 2",
+    "Discoverer": "CraZy HorSe",
+    "Glyphs": "405EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1710750892000,
+    "Parts": 520,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Isla Verde",
+    "Discoverer": "h3xgamer",
+    "Glyphs": "405EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1710716941000,
+    "Parts": 20,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Freighter's Rest",
+    "Discoverer": "TP4AU",
+    "Glyphs": "405EA21107FF",
+    "Platform": "XB",
+    "Timestamp": 1709944208000,
+    "Parts": 408,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Weary travelers rest",
+    "Discoverer": "Dani",
+    "Glyphs": "405EA21107FF",
+    "Platform": "NI",
+    "Timestamp": 1709943947000,
+    "Parts": 753,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Tower",
+    "Discoverer": "VedDovah",
+    "Glyphs": "405EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1709680855000,
+    "Parts": 447,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Atlantis Prime - Capital District",
+    "Discoverer": "Doomscroller1997",
+    "Glyphs": "405EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1709415611000,
+    "Parts": 2995,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Yucasvana I - la vie en rose",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "4156A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1696764065000,
+    "Parts": 102,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Paulett's Phosphorous Mine",
+    "Discoverer": "Breviceps",
+    "Glyphs": "4180A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1697489973000,
+    "Parts": 48,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "X3 exoT EV5",
+    "Discoverer": "ETOBOTETOT",
+    "Glyphs": "5001A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1703856288000,
+    "Parts": 23,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Swamp Heights",
+    "Discoverer": "TP4AU",
+    "Glyphs": "505EA21107FF",
+    "Platform": "XB",
+    "Timestamp": 1710655607000,
+    "Parts": 532,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Poneyh Paradise",
+    "Discoverer": "SupremUnicorn",
+    "Glyphs": "1073A21107FE",
+    "Platform": "PS",
+    "Timestamp": 1710062207000,
+    "Parts": 35,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "7777",
+    "Discoverer": "Allkoholl",
+    "Glyphs": "10F3A21107FE",
+    "Platform": "XB",
+    "Timestamp": 1697639012000,
+    "Parts": 16,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Club Cafe 42",
+    "Discoverer": "elkrokis",
+    "Glyphs": "113BA21107FE",
+    "Platform": "PS",
+    "Timestamp": 1714755466000,
+    "Parts": 321,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "SOVHOZ im. Lenina",
+    "Discoverer": "ВОЕВАТЕЛЬ",
+    "Glyphs": "113BA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1713906898000,
+    "Parts": 1865,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Geshalte-Mysi Base",
+    "Discoverer": "JambalayaSapriZe",
+    "Glyphs": "1150A21107FE",
+    "Platform": "PS",
+    "Timestamp": 1705804300000,
+    "Parts": 284,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Eissentam 10",
+    "Discoverer": "Psinus",
+    "Glyphs": "20A2A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1702854343000,
+    "Parts": 13,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Thuse-Umen Base",
+    "Discoverer": "Bahamut-the-Grea",
+    "Glyphs": "30B8A21107FE",
+    "Platform": "PS",
+    "Timestamp": 1704943537000,
+    "Parts": 445,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Pallu Observatory",
+    "Discoverer": "Tarloch",
+    "Glyphs": "30C3A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1702134111000,
+    "Parts": 39,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Poneyh Activated Cu",
+    "Discoverer": "SupremUnicorn",
+    "Glyphs": "30F6A21107FE",
+    "Platform": "PS",
+    "Timestamp": 1710078142000,
+    "Parts": 35,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Angel's crib",
+    "Discoverer": "Angel of the wired",
+    "Glyphs": "30F6A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1696270533000,
+    "Parts": 87,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Archimedes-III Orbital Satellite",
+    "Discoverer": "MLG AWES0ME0NE",
+    "Glyphs": "407DA21107FE",
+    "Platform": "XB",
+    "Timestamp": 1713804942000,
+    "Parts": 1113,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Glacies Minora Outpost",
+    "Discoverer": "Barderico",
+    "Glyphs": "40BAA21107FE",
+    "Platform": "NI",
+    "Timestamp": 1705523897000,
+    "Parts": 175,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Silvery Moon",
+    "Discoverer": "JosephvDread",
+    "Glyphs": "40F6A21107FE",
+    "Platform": "XB",
+    "Timestamp": 1714838596000,
+    "Parts": 175,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Mould",
+    "Discoverer": "WaZ",
+    "Glyphs": "60F6A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1708810612000,
+    "Parts": 33,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Cloud 9",
+    "Discoverer": "Rainman6000",
+    "Glyphs": "60F6A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1706593038000,
+    "Parts": 136,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Nb 2 Autofago Cobre",
+    "Discoverer": "tenaus",
+    "Glyphs": "60F6A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1703808947000,
+    "Parts": 90,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Yippee",
+    "Discoverer": "Lain",
+    "Glyphs": "60F6A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1696694258000,
+    "Parts": 36,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "In Memory of December",
+    "Discoverer": "Lunivore",
+    "Glyphs": "6174A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1703290548000,
+    "Parts": 50,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Ouro Sangre",
+    "Discoverer": "WraithRaptor",
+    "Glyphs": "1171A21117FE",
+    "Platform": "GX",
+    "Timestamp": 1713586378000,
+    "Parts": 1825,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Happy Cactus Mining Town(Coming Soon)",
+    "Discoverer": "Flowers2see",
+    "Glyphs": "1171A21117FE",
+    "Platform": "XB",
+    "Timestamp": 1712901502000,
+    "Parts": 1071,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "ChooChoo2ElectricBoogallo",
+    "Discoverer": "Lianeras",
+    "Glyphs": "1171A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1711740544000,
+    "Parts": 1359,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Woodstock Intergalatic Spaceport",
+    "Discoverer": "RoananWolfe",
+    "Glyphs": "3012A21117FE",
+    "Platform": "XB",
+    "Timestamp": 1709091334000,
+    "Parts": 158,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Clear Oasis Canteen",
+    "Discoverer": "RoananWolfe",
+    "Glyphs": "3078A21117FE",
+    "Platform": "XB",
+    "Timestamp": 1707841634000,
+    "Parts": 616,
+    "Gamemode": "Normal"
+  },
+  {
+    "Name": "Naupa Base",
+    "Discoverer": "Bahann",
+    "Glyphs": "5009A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1697768118000,
+    "Parts": 67,
+    "Gamemode": "Normal"
+  }
+]

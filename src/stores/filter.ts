@@ -1,5 +1,5 @@
 import { defineStore } from 'pinia';
-import regionsJson from '@/assets/regions.json';
+import {regions as regionsJson} from '@/variables/regions';
 
 interface TextSearch<T> {
   name: T;

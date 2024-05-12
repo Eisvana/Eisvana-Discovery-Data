@@ -1,0 +1,4629 @@
+[
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1001A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706244931000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1001A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706244937000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Junebiologist",
+    "Glyphs": "1004A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1695958321000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Junebiologist",
+    "Glyphs": "1004A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1695958507000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "101CA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713088230000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "101CA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713088255000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "101CA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713088260000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "101DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713098472000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "101DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713098482000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "101DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713098564000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "101EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713099395000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "101EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713099402000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "101EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713099422000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "101EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713099430000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "101FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713105425000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1020A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713107607000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1020A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713107617000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1020A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713107624000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1020A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713107631000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1020A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713107651000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1020A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713107658000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1023A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713113242000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1023A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713113321000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1024A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713114938000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1024A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713114956000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1024A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713114965000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1024A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713114982000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1024A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713114997000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1024A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713115003000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1024A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713115025000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1024A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713115048000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1025A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713209792000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1025A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713209807000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1027A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1699716859000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1027A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1699716868000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1027A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1699716874000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1027A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1699716882000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1027A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1699716888000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1027A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1699716894000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1027A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1699716901000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1027A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1699716908000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1027A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1699716916000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1027A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1699716924000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1027A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1699716933000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1029A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713211056000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1029A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713211081000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1029A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713211087000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1029A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713211093000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1029A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713211102000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102AA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713373595000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102AA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713373602000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102AA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713373611000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102AA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713373619000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102AA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713373628000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102AA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713373634000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102AA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713373678000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700852033000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700852039000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700852047000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700852051000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700852056000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700852065000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700852072000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700852080000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700852088000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713375136000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713375164000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713375173000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713375179000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713375214000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713375222000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713375228000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713375238000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713375252000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713375264000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713376460000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713376484000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713377805000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713377811000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713377817000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713377823000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713377833000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713377859000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "102FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713377869000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1030A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713379132000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1032A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713381078000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1032A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713381102000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1032A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713381128000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1032A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713381146000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1032A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713381182000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1032A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713381208000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1032A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713381222000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1032A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713381251000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1032A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713381277000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1033A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713385027000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1034A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713385995000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1034A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713386010000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1035A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713386851000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1035A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713386861000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1035A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713386871000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1035A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713386877000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1036A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713387840000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1036A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713387857000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "103BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713388687000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "103BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713388703000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "103DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713389634000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "103DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713389641000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "103DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713389651000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "103DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713389671000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1045A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713421294000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1045A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713421303000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1045A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713421317000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1045A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713421322000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1045A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713421329000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1045A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713421334000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1046A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713549042000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1047A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713602307000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1047A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713602317000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1047A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713602329000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1047A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713602359000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1047A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713602365000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1048A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713607378000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1048A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713607393000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1048A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713607399000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1048A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713607414000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "104AA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713616058000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "104AA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713616200000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "104AA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713616229000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "104AA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713616270000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "104AA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713616284000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "104BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713616314000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "104BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713616330000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "104BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713616339000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "104BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713616352000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "104BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713616361000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "104CA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713617960000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713620441000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713620465000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713620527000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713620537000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713620553000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713620563000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713620578000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713620584000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713620594000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1057A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713621793000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1057A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713621826000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1057A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713621831000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1057A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713621840000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1057A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713621858000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1057A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713621919000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1057A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713621936000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1057A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713621943000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1057A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713621960000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1057A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713621969000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1058A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713623196000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1058A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713623204000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1058A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713623213000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1058A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713623245000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1058A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713623252000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1059A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713627208000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1059A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713627219000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1059A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713627225000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1059A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713627233000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1059A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713627248000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105AA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713628240000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105AA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713628258000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105AA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713628288000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105CA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713629738000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105CA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713629742000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105CA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713629752000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105CA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713629762000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105CA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713629768000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105CA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713629776000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105CA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713629781000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105CA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713629812000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105CA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713629822000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713638345000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713638351000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713638364000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1713638406000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1060A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714818282000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1060A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714818304000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1060A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714818317000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1060A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714818343000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1060A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714822996000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1061A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714823004000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1061A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714823014000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1061A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714823057000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1061A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714823065000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1061A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714823073000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1061A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714823081000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1061A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714823087000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1061A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714823117000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1062A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714823199000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1062A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714823206000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1062A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714823221000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1062A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714823229000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1062A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714823252000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1062A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714823261000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1063A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714831969000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1063A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714831975000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1063A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714831982000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1063A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714831992000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1063A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714832009000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1063A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714832023000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1063A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714832028000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1063A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714832072000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1063A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714832096000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1063A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714832102000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1063A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714832137000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1065A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714834343000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1065A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714834379000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1065A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714834386000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1065A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714834403000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1065A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714834411000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1066A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714836811000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1066A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714836819000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1066A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714836850000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1066A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714836868000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1066A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714836876000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1066A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714836884000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1068A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714838360000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1068A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714838373000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1068A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714838384000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1068A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714838389000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1068A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714838397000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1068A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714838403000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1068A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714838410000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1068A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714838416000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1068A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714838423000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714900357000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714900388000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714900395000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714900406000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714902230000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714902249000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714902264000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714902317000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714902344000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714902352000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714902405000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714903461000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714903471000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714903484000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714903492000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714903502000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714903513000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714920048000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714920088000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714920131000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714920160000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714920182000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1070A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714925949000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1070A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714925960000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1070A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714925967000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1070A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714925987000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1070A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714925994000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1070A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714926000000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1070A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714926030000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1070A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1714926046000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1072A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715015971000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1072A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715016033000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1072A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715016039000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1073A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715018082000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1073A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715018097000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1073A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715018120000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1073A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715018126000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1073A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715018135000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1073A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715018144000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1073A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715018165000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1073A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715018172000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715064758000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715064776000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715064782000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715064806000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715064825000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715064833000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715064861000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715064890000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715064904000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715064913000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1075A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715066478000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1075A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1715066483000
+  },
+  {
+    "Name": "",
+    "Discoverer": "aragunde",
+    "Glyphs": "107AA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700409264000
+  },
+  {
+    "Name": "",
+    "Discoverer": "aragunde",
+    "Glyphs": "107AA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700409273000
+  },
+  {
+    "Name": "",
+    "Discoverer": "aragunde",
+    "Glyphs": "107AA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700409281000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10E3A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701294999000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10E3A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701295007000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10E3A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701295014000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10E3A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701295023000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10E3A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701295031000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10E3A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701295526000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "10FDA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712974449000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "10FDA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712974465000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "10FDA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712974481000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "10FDA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712974641000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "10FDA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712974647000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "10FDA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712974657000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "10FDA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712974665000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "10FDA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712974681000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "10FDA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712974689000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "10FDA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712975747000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698870322000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698870331000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698870341000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698870345000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698870355000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698870361000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698870371000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698870376000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698870382000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698870388000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698870400000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698870405000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698870413000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698870422000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698870428000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698870436000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698870442000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698870449000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1118A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698581122000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1118A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698581127000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1118A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698581133000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1118A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698581145000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1118A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698581150000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1118A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698581158000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1118A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698581194000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1118A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698581205000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1118A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698581213000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "1153A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1696787039000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "1153A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1696787061000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "1153A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1696787070000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "1153A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1696787084000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "1153A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1696787091000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "1153A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1696787180000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1158A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701791711000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1158A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701791719000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1158A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701791727000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1158A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701791735000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1158A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701791745000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1158A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701791750000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1158A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701791757000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1158A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701801629000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1158A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701801635000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1158A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701801644000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "1159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697377437000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "1159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697377451000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "1159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697387545000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "1159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697387578000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700306900000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1171A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706245031000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1171A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706245040000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1171A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706245087000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1171A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706245135000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1171A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706245148000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1171A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706245174000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1171A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706245184000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1171A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706245191000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1171A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706245236000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1171A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706245261000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706245348000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706245379000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706846659000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706846694000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706846702000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706846722000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706848727000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706848738000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706848775000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706848789000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706848798000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1189A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706417638000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1189A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706477099000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "1189A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706477107000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Junebiologist",
+    "Glyphs": "2011A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1696983867000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Junebiologist",
+    "Glyphs": "2011A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1696983878000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Junebiologist",
+    "Glyphs": "2011A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1696983886000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Junebiologist",
+    "Glyphs": "2011A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1696983894000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20A2A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1699717075000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20A2A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1699717084000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20A2A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1699717093000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20A2A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1699717100000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20A2A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1699717110000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20A2A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1699717119000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20A2A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1699717126000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700000419000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700000427000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700000435000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700000442000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700000447000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700000457000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700000463000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700001563000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700001570000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20D5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698602668000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20D5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698602676000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20D5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698602684000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20D5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698602694000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20D5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698602701000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20D5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698602709000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20D5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698602715000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "20D5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698602721000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "20F5A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713774022000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "20F5A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713774040000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "20F5A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713774048000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "20F5A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713774063000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "20F5A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713774083000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "20F5A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713774096000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "20F5A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713774104000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "20F5A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713774109000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698871353000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698871359000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698871368000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698871381000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "210FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698595972000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "210FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698595981000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "210FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698595987000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "210FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698595995000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "210FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698596004000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "210FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698596010000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "210FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698596020000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "210FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698596028000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "210FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698596035000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "210FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698596042000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2151A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701899959000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2151A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701899968000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2151A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701899976000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2151A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701899981000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2151A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701899987000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697382419000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697382924000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697382936000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697382947000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697382956000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697383000000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697383046000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697383056000
+  },
+  {
+    "Name": "",
+    "Discoverer": "randomsguy9454",
+    "Glyphs": "215CA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1704858261000
+  },
+  {
+    "Name": "",
+    "Discoverer": "randomsguy9454",
+    "Glyphs": "215CA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1704858295000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "2171A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706244993000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "2171A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706245008000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "2172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706324464000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "2172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706324478000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "2172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706324487000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "2172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706324502000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "2172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706324507000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "217DA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713860666000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "2187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706848815000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "2187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706848829000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "2187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706848835000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "2187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706848845000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "2187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706848858000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "2187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706848866000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "2187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706848978000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "2187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706848988000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "2187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706936552000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "2187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706936567000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "2187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706936582000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "2187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706938118000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "2187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1707016140000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "2189A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706417692000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "2189A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706417697000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2190A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698613254000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2190A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698613262000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2190A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698613268000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2190A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698613274000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2190A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698613767000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2190A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698613776000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "219CA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700347798000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "219CA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700347806000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "219CA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700347814000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "219CA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700347821000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "219CA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700347830000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "219CA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700347839000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "304DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701626246000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "304DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701626254000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "304DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701626259000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "304DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701626266000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "304DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701626275000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "304DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701626283000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "304DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701626290000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "304DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701626298000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "304DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701626305000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "304DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701626334000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "304DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701626334000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "304DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701626335000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "304DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701626336000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "304DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701626491000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "3076A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700320066000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "3076A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700320076000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "3076A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700320084000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "3076A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700320094000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "3076A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700320100000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "3076A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700320110000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "308BA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713874127000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "308BA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713874155000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "308BA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713874161000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "308BA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713874199000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "308BA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713874205000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "308BA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713874236000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "308BA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713874244000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "308BA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713874305000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "308BA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713874317000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "308BA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713874326000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "308BA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713874335000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "308BA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713874341000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "308BA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713879323000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "308BA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713879337000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "30A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700005312000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "30A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700005320000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "30A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700005328000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "30A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700005335000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "30A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700005343000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "30A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700005351000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "30A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700005359000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "30A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700005367000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "30A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700005373000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "30A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700005380000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "30A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700005385000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "30A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700005392000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "30A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700005400000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "30A5A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700005405000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "3159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697381282000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "3159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697381290000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "3159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697381425000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "3159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697381665000
+  },
+  {
+    "Name": "",
+    "Discoverer": "parsnipphoenix",
+    "Glyphs": "3159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698503562000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "3159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700302328000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "3171A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706244975000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "3172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706324595000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "3172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706324633000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "3172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706324641000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "3172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706324659000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "3172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706324664000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "3172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706324682000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "3172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706324716000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "3172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706324721000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "3172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706415838000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "3172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706415856000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "317DA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713852701000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "317DA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713852708000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "317DA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713852714000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "317DA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713852730000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "317DA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713852739000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "317DA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713852745000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "317DA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713852766000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "317DA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713852787000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "317DA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713852793000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "317DA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713852802000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "317DA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713853271000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "317DA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713853588000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "317DA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713853595000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "317DA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713853603000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "317DA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713853608000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "317DA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713853615000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "317DA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713853625000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "317DA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713853633000
+  },
+  {
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "317DA11127FF",
+    "Platform": "XB",
+    "Timestamp": 1713853639000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "402BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700863106000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "402BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700863112000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "402BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700863122000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "402BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700863131000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "402BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700863138000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "402BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700863146000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "402BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700863156000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "404DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701622815000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "404DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701622824000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "404DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701622834000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "404DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701622842000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "404DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701622849000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "404DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701622857000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "404DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701622866000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "40C7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698592135000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "40C7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698592140000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "40C7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698592146000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "40C7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698592151000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "40C7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698592160000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "40C7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698592167000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "40C7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698592177000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "40C7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698593008000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "40C7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698593015000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "40C7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698593022000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "40C7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698593029000
+  },
+  {
+    "Name": "",
+    "Discoverer": "SpicySpaceSnake",
+    "Glyphs": "4151A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1702432559000
+  },
+  {
+    "Name": "",
+    "Discoverer": "SpicySpaceSnake",
+    "Glyphs": "4151A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1702432567000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "4159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697377504000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "4159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697377510000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "4159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697377546000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "4159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697377561000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "4159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697377567000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "4159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697377581000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "4159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697383224000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "4159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697383583000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "4159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697383599000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "4159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697383605000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "4159A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700300819000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "4171A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706245263000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "4171A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706245269000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "4172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706415818000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "4172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706415830000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "4187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1707017237000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "4187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1707017253000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "4187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1707017261000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "4187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1707017280000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "4187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1707017289000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "4187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1707021746000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "4187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1707021771000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Junebiologist",
+    "Glyphs": "5003A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1695953907000
+  },
+  {
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "5012A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697650879000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5051A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701015135000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5051A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701015142000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5051A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701015150000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5051A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701015159000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5051A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701015167000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5051A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701015173000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5051A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701016021000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5078A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700405575000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5078A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700405581000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5078A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700405589000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5078A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700405598000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5078A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700405603000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5078A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700405610000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5078A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700405615000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5078A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700405621000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5078A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700405629000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5078A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1700410647000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698873014000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698873071000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698873078000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698873084000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5101A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1698873091000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "5172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706415722000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "5172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706415729000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "5172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706415739000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "5172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706415749000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "5172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706415758000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "5187A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1707016210000
+  },
+  {
+    "Name": "Hansoloite",
+    "Discoverer": "thejackattack07",
+    "Glyphs": "6013A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1696809717000
+  },
+  {
+    "Name": "",
+    "Discoverer": "thejackattack07",
+    "Glyphs": "6013A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1696809717000
+  },
+  {
+    "Name": "",
+    "Discoverer": "thejackattack07",
+    "Glyphs": "6013A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1696809724000
+  },
+  {
+    "Name": "",
+    "Discoverer": "thejackattack07",
+    "Glyphs": "6013A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1696809733000
+  },
+  {
+    "Name": "",
+    "Discoverer": "thejackattack07",
+    "Glyphs": "6013A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1696809742000
+  },
+  {
+    "Name": "",
+    "Discoverer": "thejackattack07",
+    "Glyphs": "6013A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1696817690000
+  },
+  {
+    "Name": "",
+    "Discoverer": "thejackattack07",
+    "Glyphs": "6013A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1696817696000
+  },
+  {
+    "Name": "",
+    "Discoverer": "thejackattack07",
+    "Glyphs": "6013A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1696817705000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "602BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701010241000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "602BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701010251000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "602BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701010258000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "602BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701010267000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "602BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701010273000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "602BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701010278000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "602BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701010288000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "602BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701010293000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "602BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701010302000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "602BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701010308000
+  },
+  {
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "602BA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1701010317000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "6172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706324521000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "6172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706324528000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "6172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706324541000
+  },
+  {
+    "Name": "",
+    "Discoverer": "RagemKagem",
+    "Glyphs": "6172A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1706324551000
+  }
+]
