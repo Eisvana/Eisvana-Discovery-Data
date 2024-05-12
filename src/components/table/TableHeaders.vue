@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import { sortByColumn } from '@/helpers/math;
 import type { orders } from '@/variables/mappings';
 import type { TableHeadings, ValueOf } from '@/types/data';
+import { sortByColumn } from '@/helpers/sorting';
 
 defineProps<{
   headers: TableHeadings;
