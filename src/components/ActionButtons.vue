@@ -30,9 +30,10 @@ async function loadData() {
   try {
     // TODO: make this work for all types of data, not just systems
     const imports = import.meta.glob('../assets/systems/*.json', { import: 'default' });
-    const amountOfRequests = Object.keys(imports).length;
+    const importFunctions = Object.values(imports);
+    const amountOfRequests = importFunctions.length;
     temporaryData.value = Array.from({ length: amountOfRequests }, () => []);
-    const importData = Object.values(imports).map(addData);
+    const importData = importFunctions.map(addData);
     await Promise.all(importData);
   } catch (error) {
     console.warn(error);
