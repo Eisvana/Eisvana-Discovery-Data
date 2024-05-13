@@ -4,15 +4,21 @@ import Switch from '../Switch.vue';
 import { useFilterStore } from '@/stores/filter';
 import { storeToRefs } from 'pinia';
 import { onMounted, onUnmounted } from 'vue';
+import type { ValueOf } from '@/types/utility';
 
 const filterStore = useFilterStore();
 const { regions } = storeToRefs(filterStore);
 
+const eisvanaRegionNames = Object.values(eisvanaRegions);
+
+type EisvanaRegions = ValueOf<typeof eisvanaRegions>;
+
 enableAll();
 
 function enableAll() {
-  for (const regionName of Object.values(eisvanaRegions)) {
-    regions.value[regionName] ||= true;
+  for (const region of eisvanaRegionNames) {
+    const storedRegions = (regions.value ??= {});
+    storedRegions[region] ||= true;
   }
 }
 
@@ -26,9 +32,10 @@ function resetFunc() {
 onMounted(() => document.addEventListener('reset', resetFunc));
 onUnmounted(() => document.removeEventListener('reset', resetFunc));
 
-for (const region of Object.values(eisvanaRegions)) {
-  const claimedRegions = (regions.value ??= {});
-  claimedRegions[region] = true;
+function toggleRegion(e: Event, regionName: EisvanaRegions) {
+  const { target } = e;
+  if (!(target instanceof HTMLInputElement)) return;
+  regions.value[regionName] = target.checked;
 }
 </script>
 
@@ -45,11 +52,11 @@ for (const region of Object.values(eisvanaRegions)) {
       </button>
       <div class="stat-grid dynamic-cols">
         <Switch
-          v-for="(regionName, index) in Object.values(eisvanaRegions)"
+          v-for="(regionName, index) in eisvanaRegionNames"
+          :checked="regions[regionName]"
           :id="regionName"
           :label="`${regionName} (EV${index + 1})`"
-          :checked="regions[regionName]"
-          @change="(e: Event) => (regions[regionName] = (e.target as HTMLInputElement).checked)"
+          @change="(e: Event) => toggleRegion(e, regionName)"
         />
       </div>
     </details>

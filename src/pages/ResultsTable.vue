@@ -3,7 +3,7 @@ import PaginationControls from '@/components/table/PaginationControls.vue';
 import TableHeaders from '@/components/table/TableHeaders.vue';
 import { appSections, platformMapping } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
-import type { DiscoveryData, TableHeadings } from '@/types/data';
+import type { TableHeadings } from '@/types/data';
 import type { Platform } from '@/types/platform';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
@@ -22,7 +22,7 @@ interface TextArray {
 const getFullPlatform = (platform: Platform) => platformMapping[platform];
 
 const paginatedData = computed(() => {
-  const pages = paginateData(filteredData.value, itemsPerPage.value.resultsTable) as DiscoveryData[][];
+  const pages = paginateData(filteredData.value, itemsPerPage.value.resultsTable);
 
   if (pages.length < currentPageIndex.value.resultsTable) currentPageIndex.value.resultsTable = 0;
   return pages;
