@@ -19,6 +19,7 @@ interface State {
     playerChart: number;
     [key: string]: number;
   };
+  isLoading: boolean;
 }
 
 export const useDataStore = defineStore('data', {
@@ -36,6 +37,7 @@ export const useDataStore = defineStore('data', {
       discovererChart: 50,
       playerChart: 10,
     },
+    isLoading: false,
   }),
 
   getters: {
@@ -46,8 +48,8 @@ export const useDataStore = defineStore('data', {
         .filter((item) => item.Timestamp)
         .toSorted((a, b) => a.Timestamp - b.Timestamp);
 
-        // for some reason, TS doesn't know that the items at their indices are definitely not undefined in the function.
-        // if they are undefined, they would fail the ternary operator and return undefined
+      // for some reason, TS doesn't know that the items at their indices are definitely not undefined in the function.
+      // if they are undefined, they would fail the ternary operator and return undefined
       return [
         sortedData.at(0) ? getUTCDateString(sortedData.at(0)!.Timestamp) : undefined,
         sortedData.at(-1) ? getUTCDateString(sortedData.at(-1)!.Timestamp) : undefined,

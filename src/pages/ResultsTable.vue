@@ -11,7 +11,7 @@ import { getFormattedUTCDateString } from '@/helpers/date';
 import { paginateData } from '@/helpers/paginate';
 
 const dataStore = useDataStore();
-const { filteredData, currentPageIndex, itemsPerPage } = storeToRefs(dataStore);
+const { filteredData, currentPageIndex, itemsPerPage, isLoading } = storeToRefs(dataStore);
 
 interface TextArray {
   text: string;
@@ -90,6 +90,10 @@ const headers: TableHeadings = {
       </div>
     </div>
   </div>
+  <div
+    v-else
+    :aria-busy="isLoading"
+  ></div>
 </template>
 
 <style scoped lang="scss">

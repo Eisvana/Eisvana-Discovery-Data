@@ -20,9 +20,8 @@ const {
   activePlatforms,
   activeCategories,
 } = storeToRefs(filterStore);
-const { filteredData } = storeToRefs(dataStore);
+const { filteredData, isLoading } = storeToRefs(dataStore);
 
-const isLoading = ref(false);
 const temporaryData = ref<DiscoveryData[][]>([]);
 
 watchEffect(() => (filteredData.value = temporaryData.value.flat()));
