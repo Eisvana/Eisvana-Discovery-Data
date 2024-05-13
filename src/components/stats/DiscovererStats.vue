@@ -63,7 +63,7 @@ const discovererStats = computed(() => {
 const discovererDataSorted = computed(() => sortData(discovererStats.value, sorting));
 
 const paginatedData = computed(() => {
-  const pages = paginateData(discovererDataSorted.value, itemsPerPage.value.discovererStats) as (string | number)[][][];
+  const pages = paginateData(discovererDataSorted.value, itemsPerPage.value.discovererStats);
 
   if (pages.length < currentPageIndex.value.discovererStats) currentPageIndex.value.discovererStats = 0;
   return pages;

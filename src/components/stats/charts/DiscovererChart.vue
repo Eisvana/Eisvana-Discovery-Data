@@ -74,7 +74,7 @@ const pieChartData = computed(() => {
 });
 
 const barChartData = computed(() => {
-  const data = paginatedData.value[currentPageIndex.value.discovererChart] as DiscovererDataArray[];
+  const data = paginatedData.value[currentPageIndex.value.discovererChart];
 
   const playerNames: string[] = [];
   const playerTags: number[] = [];

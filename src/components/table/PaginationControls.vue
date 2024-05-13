@@ -26,7 +26,9 @@ const pageSelectionRange = computed(() => {
 });
 
 function parsePaginationSelection(event: Event) {
-  const value = (event.target as HTMLSelectElement).value;
+  const { target } = event;
+  if (!(target instanceof HTMLSelectElement)) return;
+  const value = target.value;
   return value ? parseInt(value) : Number.POSITIVE_INFINITY;
 }
 </script>

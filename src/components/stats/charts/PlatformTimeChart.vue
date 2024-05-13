@@ -18,6 +18,7 @@ import { Line } from 'vue-chartjs';
 import DetailsWrapper from '@/components/DetailsWrapper.vue';
 import { getUTCDateString, getDatesBetween } from '@/helpers/date';
 import { setPlatformColours } from '@/helpers/colours';
+import { isPlatformCode } from '@/helpers/typeGuards';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
@@ -74,7 +75,8 @@ function combineIndizes(platform: Platform): (number | null)[] {
       const timestampDataObj = timestampData[keys[index + 1]];
       if (index + 1 === keys.length) continue;
 
-      timestampDataObj[platform as Platform] += amount;
+      if (!isPlatformCode(platform)) continue;
+      timestampDataObj[platform] += amount;
     }
   }
 
@@ -120,7 +122,8 @@ function combinedDatasetObjectFactory(platform: Platform): {
 const individualDatasets = computed(() => {
   const datasets = [];
   for (const platform of Object.keys(platformMapping)) {
-    const dataset = individualDatasetObjectFactory(platform as keyof typeof platformMapping);
+    if (!isPlatformCode(platform)) continue;
+    const dataset = individualDatasetObjectFactory(platform);
     datasets.push(dataset);
   }
   return datasets;
@@ -136,7 +139,8 @@ const individualData = computed(() => {
 const combinedDatasets = computed(() => {
   const datasets = [];
   for (const platform of Object.keys(platformMapping)) {
-    const dataset = combinedDatasetObjectFactory(platform as keyof typeof platformMapping);
+    if (!isPlatformCode(platform)) continue;
+    const dataset = combinedDatasetObjectFactory(platform);
     datasets.push(dataset);
   }
   return datasets;

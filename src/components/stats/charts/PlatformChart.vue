@@ -8,6 +8,7 @@ import { chartColours, platformMapping } from '@/variables/mappings';
 import type { Platform } from '@/types/platform';
 import DetailsWrapper from '@/components/DetailsWrapper.vue';
 import { setPlatformColours } from '@/helpers/colours';
+import { isPlatformCode } from '@/helpers/typeGuards';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
@@ -41,7 +42,7 @@ const platformStats = computed(() => {
   const platformStatsObject = Object.fromEntries(sortedPlatformArray);
 
   return {
-    platforms: Object.keys(platformStatsObject).map((item) => platformMapping[item as Platform]),
+    platforms: Object.keys(platformStatsObject).map((item) => (isPlatformCode(item) ? platformMapping[item] : '')),
     tags: Object.values(platformStatsObject).map((item) => item.tags),
     incorrect: Object.values(platformStatsObject).map((item) => item.discoveries - item.tags),
   };
