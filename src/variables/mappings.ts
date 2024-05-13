@@ -1,5 +1,3 @@
-export const evRegions = 7;
-
 export const platformMapping = {
   ST: 'Steam',
   PS: 'PlayStation',
