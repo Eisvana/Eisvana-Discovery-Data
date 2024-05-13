@@ -10,9 +10,9 @@ const { categories } = storeToRefs(filterStore);
 
 // systems should be checked by default, everything else should be disabled
 function disableAllButSystem() {
-  for (const categoryName of Object.keys(availableCategories)) {
-    categories.value[categoryName] = categoryName === availableCategories.system;
-  }
+  Object.keys(availableCategories).forEach(
+    (categoryName) => (categories.value[categoryName] = categoryName === 'system')
+  );
 }
 
 type AvailableCategories = keyof typeof availableCategories;
