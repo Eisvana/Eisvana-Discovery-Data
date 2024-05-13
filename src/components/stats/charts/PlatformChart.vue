@@ -5,10 +5,10 @@ import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import { chartColours, platformMapping } from '@/variables/mappings';
-import type { Platform } from '@/types/platform';
 import DetailsWrapper from '@/components/DetailsWrapper.vue';
 import { setPlatformColours } from '@/helpers/colours';
-import { isPlatformCode } from '@/helpers/typeGuards';
+import type { ValueOf } from '@/types/utility';
+import type { Platform } from '@/types/platform';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
@@ -16,35 +16,47 @@ const dataStore = useDataStore();
 const { filteredData } = storeToRefs(dataStore);
 
 interface PlatformData {
-  [key: string]: {
-    discoveries: number;
-    tags: number;
-  };
+  discoveries: number;
+  tags: number;
 }
 
-const platformStats = computed(() => {
-  const platformData: PlatformData = {};
+const platformStats = computed(
+  (): {
+    platforms: ValueOf<typeof platformMapping>[];
+    tags: number[];
+    incorrect: number[];
+  } => {
+    const platformData = new Map<Platform, PlatformData>();
 
-  for (const data of filteredData.value) {
-    if (!data.Platform) continue;
-    const platformObject = (platformData[data.Platform] ??= {
-      discoveries: 0,
-      tags: 0,
-    });
-    platformObject.discoveries++;
-    if (data['Correctly Prefixed']) platformObject.tags++;
+    for (const data of filteredData.value) {
+      if (!platformData.has(data.Platform))
+        platformData.set(data.Platform, {
+          discoveries: 0,
+          tags: 0,
+        });
+
+      const platformObject = platformData.get(data.Platform);
+      if (!platformObject) continue;
+
+      platformObject.discoveries++;
+      if (data['Correctly Prefixed']) platformObject.tags++;
+    }
+
+    const platformDataArray = Array.from(platformData);
+
+    const sortedPlatformDataArray = platformDataArray.toSorted((a, b) => b[1].discoveries - a[1].discoveries);
+
+    platformData.clear();
+
+    sortedPlatformDataArray.forEach(([key, val]) => platformData.set(key, val));
+
+    return {
+      platforms: Array.from(platformData.keys()).map((item) => platformMapping[item]),
+      tags: Array.from(platformData.values()).map((item) => item.tags),
+      incorrect: Array.from(platformData.values()).map((item) => item.discoveries - item.tags),
+    };
   }
-
-  const sortedPlatformArray = Object.entries(platformData).toSorted((a, b) => b[1].discoveries - a[1].discoveries);
-
-  const platformStatsObject = Object.fromEntries(sortedPlatformArray);
-
-  return {
-    platforms: Object.keys(platformStatsObject).map((item) => (isPlatformCode(item) ? platformMapping[item] : '')),
-    tags: Object.values(platformStatsObject).map((item) => item.tags),
-    incorrect: Object.values(platformStatsObject).map((item) => item.discoveries - item.tags),
-  };
-});
+);
 
 const barChartData = computed(() => ({
   labels: platformStats.value.platforms,
