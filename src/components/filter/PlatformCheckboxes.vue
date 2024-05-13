@@ -3,6 +3,7 @@ import { useFilterStore } from '@/stores/filter';
 import Switch from '../Switch.vue';
 import { storeToRefs } from 'pinia';
 import { onMounted, onUnmounted } from 'vue';
+import type { Platform } from '@/types/platform';
 
 const props = defineProps<{
   label: string;
@@ -22,8 +23,8 @@ const { platforms } = storeToRefs(filterStore);
 enableAll();
 
 function enableAll() {
-  for (const short in props.switches) {
-    platforms.value[short] = true;
+  for (const platformCode in props.switches) {
+    platforms.value[platformCode] ||= true;
   }
 }
 
@@ -36,6 +37,12 @@ function resetFunc() {
 
 onMounted(() => document.addEventListener('reset', resetFunc));
 onUnmounted(() => document.removeEventListener('reset', resetFunc));
+
+function togglePlatform(e: Event, key: Platform) {
+  const { target } = e;
+  if (!(target instanceof HTMLInputElement)) return;
+  platforms.value[key] = target.checked;
+}
 </script>
 
 <template>
@@ -43,10 +50,10 @@ onUnmounted(() => document.removeEventListener('reset', resetFunc));
     {{ label }}
     <Switch
       v-for="(value, key) in switches"
+      :checked="platforms[key]"
       :id="key"
       :label="value"
-      :checked="platforms[key]"
-      @change="(e: Event) => (platforms[key] = (e.target as HTMLInputElement).checked)"
+      @change="(e: Event) => togglePlatform(e, key)"
     />
   </div>
 </template>
