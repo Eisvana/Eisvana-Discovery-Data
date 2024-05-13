@@ -6,6 +6,7 @@ import { storeToRefs } from 'pinia';
 import { ref, watchEffect } from 'vue';
 import { regions } from '@/variables/regions';
 import { watchDebounced } from '@vueuse/core';
+import { isDiscoveryData } from '@/helpers/typeGuards';
 
 const filterStore = useFilterStore();
 const dataStore = useDataStore();
@@ -100,15 +101,6 @@ async function addData(getData: () => Promise<unknown>, index: number) {
   if (!Array.isArray(data)) return;
   const trueDiscoveryData = data.filter((item) => isDiscoveryData(item));
   temporaryData.value[index] = applyFilter(trueDiscoveryData);
-}
-
-function isObject(item: unknown): item is object {
-  return Boolean(item) && typeof item === 'object';
-}
-
-function isDiscoveryData(item: unknown): item is DiscoveryData {
-  if (!isObject(item)) return false;
-  return 'Name' in item && 'Glyphs' in item && 'Discoverer' in item && 'Platform' in item && 'Timestamp' in item;
 }
 
 function applyFilter(data: DiscoveryData[]) {
