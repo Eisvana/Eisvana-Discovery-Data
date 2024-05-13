@@ -1,7 +1,7 @@
 <template>
   <footer class="footer">
     <div class="credits">
-      <p>Data last updated on 1 August 2023</p>
+      <p>Data last updated on 12 May 2024</p>
       <p>
         Project enabled by the research of the
         <a
