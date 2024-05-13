@@ -1,5 +1,7 @@
-import type { ValueOf } from '@/types/data';
+import type { ValueOf } from '@/types/utility';
 import { platformColours, platformMapping } from '@/variables/mappings';
+import { getRndInteger } from './random';
+import { maxColourValue, minColourValue } from '@/variables/colour';
 
 export function setPlatformColours(array: ValueOf<typeof platformMapping>[]) {
   return array.map((platform) => {
@@ -16,5 +18,7 @@ export function setPlatformColours(array: ValueOf<typeof platformMapping>[]) {
 }
 
 export function getRandomColour() {
-  return '#' + Math.floor(Math.random() * 16777215).toString(16); // NoSonar I have no idea what these numbers are...
+  const rgb = Array.from({ length: 3 }).map(() => getRndInteger(minColourValue, maxColourValue));
+  const hexCode = rgb.map((colour) => colour.toString(16)).join('');
+  return `#${hexCode}`;
 }
