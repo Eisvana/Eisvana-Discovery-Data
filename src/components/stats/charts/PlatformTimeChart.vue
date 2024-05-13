@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { platformMapping } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
-import type { Platform } from '@/types/data';
+import type { Platform } from '@/types/platform';
 import {
   Chart as ChartJS,
   CategoryScale,

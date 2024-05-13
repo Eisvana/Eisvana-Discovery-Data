@@ -1,17 +1,18 @@
 <script setup lang="ts">
 import { orders, platformMapping } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
-import type { Sorting, TableHeadings } from '@/types/data';
+import type { TableHeadings } from '@/types/data';
 import { storeToRefs } from 'pinia';
 import { computed, reactive } from 'vue';
 import DataTable from '../table/DataTable.vue';
 import { getPercentage } from '@/helpers/maths';
 import { sortData } from '@/helpers/sorting';
+import type { Sorting } from '@/types/sorting';
 
 const dataStore = useDataStore();
 const { filteredData, dataLength, amountTagged } = storeToRefs(dataStore);
 
-const sorting = reactive<Sorting>({
+const sorting: Sorting = reactive({
   col: 2,
   order: orders.desc,
 });

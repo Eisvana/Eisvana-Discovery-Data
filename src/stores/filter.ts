@@ -1,5 +1,5 @@
 import { defineStore } from 'pinia';
-import {regions as regionsJson} from '@/variables/regions';
+import type { DateRangeObj } from '@/types/date';
 
 interface TextSearch<T> {
   name: T;
@@ -12,21 +12,21 @@ interface State {
   regions: {
     [keys: string]: boolean;
   };
+  categories: {
+    [key: string]: boolean;
+  };
   searchTerms: TextSearch<string>;
   intersections: TextSearch<'includes' | 'is' | '!includes' | '!is'>;
   caseSensitivity: TextSearch<boolean>;
   platforms: { [keys: string]: boolean };
-  date: {
-    startDate: string;
-    endDate: string;
-    [key: string]: string;
-  };
+  date: DateRangeObj;
   tagged: '' | boolean;
 }
 
 export const useFilterStore = defineStore('filter', {
   state: (): State => ({
     regions: {},
+    categories: {},
     searchTerms: {
       name: '',
       glyphs: '',
@@ -73,22 +73,15 @@ export const useFilterStore = defineStore('filter', {
         .filter((item) => item[1])
         .map((item) => item[0]),
 
-    activeRegions: (state) => {
-      const selectedRegions: string[] = [];
+    activeRegions: (state) =>
+      Object.entries(state.regions)
+        .filter((item) => item[1])
+        .map((item) => item[0]),
 
-      selectedRegions.push(
-        ...Object.entries(state.regions)
-          .filter((item) => item[1])
-          .map((item) => item[0])
-      );
-
-      const possibleRegions: string[] = [];
-
-      possibleRegions.push(...Object.values(regionsJson));
-
-      const regionArrayIntersection = possibleRegions.filter((value) => selectedRegions.includes(value));
-      return regionArrayIntersection;
-    },
+    activeCategories: (state) =>
+      Object.entries(state.categories)
+        .filter((item) => item[1])
+        .map((item) => item[0]),
   },
 
   actions: {

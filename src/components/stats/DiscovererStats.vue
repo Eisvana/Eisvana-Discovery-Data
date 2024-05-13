@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { appSections, orders, platformMapping } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
-import type { TableHeadings, ValueOf } from '@/types/data';
+import type { TableHeadings } from '@/types/data';
 import { storeToRefs } from 'pinia';
 import { computed, reactive } from 'vue';
 import DataTable from '../table/DataTable.vue';
@@ -9,6 +9,7 @@ import PaginationControls from '../table/PaginationControls.vue';
 import { getPercentage } from '@/helpers/maths';
 import { paginateData } from '@/helpers/paginate';
 import { sortData } from '@/helpers/sorting';
+import type { ValueOf } from '@/types/utility';
 
 const dataStore = useDataStore();
 const { filteredData, dataLength, amountTagged, itemsPerPage, currentPageIndex } = storeToRefs(dataStore);

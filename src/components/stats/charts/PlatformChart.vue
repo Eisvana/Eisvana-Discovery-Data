@@ -5,7 +5,7 @@ import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import { chartColours, platformMapping } from '@/variables/mappings';
-import type { Platform } from '@/types/data';
+import type { Platform } from '@/types/platform';
 import DetailsWrapper from '@/components/DetailsWrapper.vue';
 import { setPlatformColours } from '@/helpers/colours';
 

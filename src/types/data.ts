@@ -1,8 +1,4 @@
-import { orders } from '@/variables/mappings';
-
-export type Platform = 'ST' | 'PS' | 'XB' | 'GX' | 'NI';
-
-export type ValueOf<T> = T[keyof T];
+import type { Platform } from './platform';
 
 export interface DiscoveryData {
   Name: string;
@@ -18,11 +14,6 @@ export interface DiscoveryData {
   Minerals?: number;
   Parts?: number;
   Gamemode?: string;
-}
-
-export interface Sorting {
-  col: number;
-  order: ValueOf<typeof orders>;
 }
 
 export interface TableHeadings {
