@@ -9,11 +9,12 @@ defineProps<{
 <template>
   <label :for="id">
     <input
-      type="checkbox"
+      :aria-checked="Boolean(checked)"
       :checked="Boolean(checked)"
       :id="id"
       :name="id"
       role="switch"
+      type="checkbox"
     />
     {{ label }}
   </label>
