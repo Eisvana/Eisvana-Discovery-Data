@@ -209,4 +209,3 @@ function searchRegion(region: string) {
   }
 }
 </style>
-@/objects/mappings
