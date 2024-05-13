@@ -35,9 +35,7 @@ const platformStats = computed(() => {
     if (data['Correctly Prefixed']) platformObject.tags++;
   }
 
-  const sortedPlatformArray = Object.entries(platformData);
-
-  sortedPlatformArray.sort((a, b) => b[1].discoveries - a[1].discoveries);
+  const sortedPlatformArray = Object.entries(platformData).toSorted((a, b) => b[1].discoveries - a[1].discoveries);
 
   const platformStatsObject = Object.fromEntries(sortedPlatformArray);
 

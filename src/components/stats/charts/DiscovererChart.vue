@@ -29,9 +29,7 @@ const discovererStats = computed(() => {
     if (data['Correctly Prefixed']) discovererObject.tags++;
   }
 
-  const sortedDiscovererArray = Object.entries(discovererData);
-
-  sortedDiscovererArray.sort((a, b) => b[1].discoveries - a[1].discoveries);
+  const sortedDiscovererArray = Object.entries(discovererData).toSorted((a, b) => b[1].discoveries - a[1].discoveries);
 
   const discovererStatsObject: DiscovererDataArray[] = [];
 
