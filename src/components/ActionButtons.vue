@@ -3,14 +3,22 @@ import { useDataStore } from '@/stores/data';
 import { useFilterStore } from '@/stores/filter';
 import type { DiscoveryData } from '@/types/data';
 import { storeToRefs } from 'pinia';
-import { ref, watchEffect } from 'vue';
+import { onMounted, ref, watchEffect } from 'vue';
 import { regions } from '@/variables/regions';
 
 const filterStore = useFilterStore();
 const dataStore = useDataStore();
 
-const { unixTimestamp, tagged, intersections, searchTerms, caseSensitivity, activeRegions, activePlatforms } =
-  storeToRefs(filterStore);
+const {
+  unixTimestamp,
+  tagged,
+  intersections,
+  searchTerms,
+  caseSensitivity,
+  activeRegions,
+  activePlatforms,
+  activeCategories,
+} = storeToRefs(filterStore);
 const { filteredData } = storeToRefs(dataStore);
 
 const isLoading = ref(false);
@@ -25,15 +33,47 @@ const resetStore = () => {
   document.dispatchEvent(event);
 };
 
+onMounted(async () => await loadData());
+
 async function loadData() {
   isLoading.value = true;
+
   try {
-    // TODO: make this work for all types of data, not just systems
-    const imports = import.meta.glob('../assets/systems/*.json', { import: 'default' });
-    const importFunctions = Object.values(imports);
-    const amountOfRequests = importFunctions.length;
+    const animalImports = import.meta.glob('../assets/animals/*.json', { import: 'default' });
+    const baseImports = import.meta.glob('../assets/bases/*.json', { import: 'default' });
+    const floraImports = import.meta.glob('../assets/flora/*.json', { import: 'default' });
+    const mineralImports = import.meta.glob('../assets/minerals/*.json', { import: 'default' });
+    const planetImports = import.meta.glob('../assets/planets/*.json', { import: 'default' });
+    const settlementImports = import.meta.glob('../assets/settlements/*.json', { import: 'default' });
+    const systemImports = import.meta.glob('../assets/systems/*.json', { import: 'default' });
+
+    const importMapping: Record<string, Record<string, () => Promise<unknown>>> = {
+      creature: animalImports,
+      base: baseImports,
+      flora: floraImports,
+      mineral: mineralImports,
+      planet: planetImports,
+      settlement: settlementImports,
+      system: systemImports,
+    };
+
+    const regionMapping: string[] = Object.values(regions);
+
+    const activeRegionCodes = activeCategories.value
+      .map((item) => regionMapping.indexOf(item) + 1)
+      .filter(Boolean)
+      .map((item) => `EV${item}`);
+
+    const imports = activeCategories.value.flatMap((category) => {
+      const entries = Object.entries(importMapping[category]); // [[path/to/file.json, () => import(file.json)], [path/to/anotherfile.json, () => import(anotherfile.json)]]
+      return entries
+        .filter((item) => activeRegionCodes.some((regionCode) => item[0].endsWith(`${regionCode}.json`)))
+        .map((item) => item[1]);
+    });
+
+    const amountOfRequests = imports.length;
     temporaryData.value = Array.from({ length: amountOfRequests }, () => []);
-    const importData = importFunctions.map(addData);
+    const importData = imports.map(addData);
     await Promise.all(importData);
   } catch (error) {
     console.warn(error);
@@ -149,14 +189,6 @@ function searchRegion(region: string) {
 
 <template>
   <div class="actions">
-    <button
-      :aria-busy="isLoading"
-      type="submit"
-      @click="loadData()"
-    >
-      Apply Filter
-    </button>
-
     <button
       type="reset"
       @click="resetStore"
