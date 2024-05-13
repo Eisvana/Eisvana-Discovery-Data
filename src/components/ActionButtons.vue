@@ -3,8 +3,9 @@ import { useDataStore } from '@/stores/data';
 import { useFilterStore } from '@/stores/filter';
 import type { DiscoveryData } from '@/types/data';
 import { storeToRefs } from 'pinia';
-import { onMounted, ref, watchEffect } from 'vue';
+import { ref, watchEffect } from 'vue';
 import { regions } from '@/variables/regions';
+import { watchDebounced } from '@vueuse/core';
 
 const filterStore = useFilterStore();
 const dataStore = useDataStore();
@@ -26,14 +27,27 @@ const temporaryData = ref<DiscoveryData[][]>([]);
 
 watchEffect(() => (filteredData.value = temporaryData.value.flat()));
 
+watchDebounced(
+  [
+    unixTimestamp,
+    tagged,
+    intersections,
+    searchTerms,
+    caseSensitivity,
+    activeRegions,
+    activePlatforms,
+    activeCategories,
+  ],
+  () => loadData(),
+  { deep: true, immediate: true, debounce: 500 }
+);
+
 const resetStore = () => {
   filterStore.$reset();
   filteredData.value = [];
   const event = new Event('reset');
   document.dispatchEvent(event);
 };
-
-onMounted(async () => await loadData());
 
 async function loadData() {
   isLoading.value = true;
@@ -59,7 +73,7 @@ async function loadData() {
 
     const regionMapping: string[] = Object.values(regions);
 
-    const activeRegionCodes = activeCategories.value
+    const activeRegionCodes = activeRegions.value
       .map((item) => regionMapping.indexOf(item) + 1)
       .filter(Boolean)
       .map((item) => `EV${item}`);
