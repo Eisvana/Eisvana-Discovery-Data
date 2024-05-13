@@ -1,19 +1,20 @@
 <script setup lang="ts">
-import type { appSections } from '@/variables/mappings';
+import { appSections } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
 import type { ValueOf } from '@/types/utility';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
+import { clamp } from '@/helpers/maths';
 
 const props = defineProps<{
   totalPages: number;
   section: ValueOf<typeof appSections>;
 }>();
 
+const amountSelection = [10, 50, 100, 500, 1000]; // NoSonar these show how many items are displayed on the page at once. The user can switch between them
+
 const dataStore = useDataStore();
 const { currentPageIndex, itemsPerPage } = storeToRefs(dataStore);
-
-const clamp = (value: number, min: number, max: number) => Math.max(min, Math.min(max, value));
 
 const pageSelectionRange = computed(() => {
   const selectionOffset = 2; // controls how many more/less pages are shown in the pagination selection
@@ -25,9 +26,10 @@ const pageSelectionRange = computed(() => {
   return numArray;
 });
 
+// display all items (POSITIVE_INFINITY items) if there's an error or if nothing is selected
 function parsePaginationSelection(event: Event) {
   const { target } = event;
-  if (!(target instanceof HTMLSelectElement)) return;
+  if (!(target instanceof HTMLSelectElement)) return Number.POSITIVE_INFINITY;
   const value = target.value;
   return value ? parseInt(value) : Number.POSITIVE_INFINITY;
 }
@@ -42,34 +44,11 @@ function parsePaginationSelection(event: Event) {
         @change="itemsPerPage[section] = parsePaginationSelection($event)"
       >
         <option
-          :selected="itemsPerPage[section] === 10"
-          value="10"
+          v-for="amount in amountSelection"
+          :selected="itemsPerPage[section] === amount"
+          :value="amount"
         >
-          10
-        </option>
-        <option
-          :selected="itemsPerPage[section] === 50"
-          value="50"
-        >
-          50
-        </option>
-        <option
-          :selected="itemsPerPage[section] === 100"
-          value="100"
-        >
-          100
-        </option>
-        <option
-          :selected="itemsPerPage[section] === 500"
-          value="500"
-        >
-          500
-        </option>
-        <option
-          :selected="itemsPerPage[section] === 1000"
-          value="1000"
-        >
-          1000
+          {{ amount }}
         </option>
         <option value="">All</option>
       </select>
