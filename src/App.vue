@@ -38,9 +38,13 @@ import PageFooter from '@/components/PageFooter.vue';
   margin-block-end: 1rem;
   flex-wrap: wrap;
 
-  a.router-link-exact-active {
-    color: inherit;
-    pointer-events: none;
+  a {
+    text-decoration: none;
+
+    &.router-link-exact-active {
+      color: inherit;
+      pointer-events: none;
+    }
   }
 }
 </style>
