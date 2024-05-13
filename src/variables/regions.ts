@@ -6,4 +6,4 @@ export const regions = {
   A21107FF: 'Cuynteto',
   A21107FE: 'Uskabar',
   A21117FE: 'Ziwananau',
-};
+} as const;
