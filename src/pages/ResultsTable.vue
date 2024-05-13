@@ -9,6 +9,7 @@ import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import { getFormattedUTCDateString } from '@/helpers/date';
 import { paginateData } from '@/helpers/paginate';
+import { isPlatformCode } from '@/helpers/typeGuards';
 
 const dataStore = useDataStore();
 const { filteredData, currentPageIndex, itemsPerPage, isLoading } = storeToRefs(dataStore);
@@ -30,26 +31,27 @@ const paginatedData = computed(() => {
 const dataArray = computed(() => {
   const textArray: TextArray[] = [];
   for (const data of paginatedData.value[currentPageIndex.value.resultsTable] ?? []) {
-    for (const [key, value] of Object.entries(data)) {
+    const entries: [string, number | string | boolean][] = Object.entries(data);
+    for (const [key, value] of entries) {
       let text: string = '';
       let className: string = '';
 
       switch (key) {
         case 'Name':
-          text = (value as string) || 'Unknown (procedural name)';
+          text = value.toString() || 'Unknown (procedural name)';
           if (!value) className = 'italic';
           break;
 
         case 'Platform':
-          text = getFullPlatform(value as Platform);
+          text = isPlatformCode(value) ? getFullPlatform(value) : '';
           break;
 
         case 'Timestamp':
-          text = getFormattedUTCDateString(value);
+          text = typeof value !== 'boolean' ? getFormattedUTCDateString(value) : '';
           break;
 
         case 'Correctly Prefixed':
-          text = (value as boolean).toString().charAt(0).toUpperCase() + (value as boolean).toString().slice(1);
+          text = `${Boolean(value).toString().charAt(0).toUpperCase()}${Boolean(value).toString().slice(1)}`;
           break;
 
         default:
