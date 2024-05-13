@@ -43,7 +43,7 @@ for (const region of Object.values(eisvanaRegions)) {
       >
         Invert Selection
       </button>
-      <div class="stat-grid">
+      <div class="stat-grid dynamic-cols">
         <Switch
           v-for="(regionName, index) in Object.values(eisvanaRegions)"
           :id="regionName"
