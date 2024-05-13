@@ -1,11 +1,30 @@
 <script setup lang="ts">
-import {regions as eisvanaRegions} from '@/variables/regions';
+import { regions as eisvanaRegions } from '@/variables/regions';
 import Switch from '../Switch.vue';
 import { useFilterStore } from '@/stores/filter';
 import { storeToRefs } from 'pinia';
+import { onMounted, onUnmounted } from 'vue';
 
 const filterStore = useFilterStore();
 const { regions } = storeToRefs(filterStore);
+
+enableAll();
+
+function enableAll() {
+  for (const regionName of Object.values(eisvanaRegions)) {
+    regions.value[regionName] ||= true;
+  }
+}
+
+// setTimeout so that this code is executed after the reset action (setTimeout pushes its content to the end of the callstack)
+function resetFunc() {
+  setTimeout(() => {
+    enableAll();
+  }, 0);
+}
+
+onMounted(() => document.addEventListener('reset', resetFunc));
+onUnmounted(() => document.removeEventListener('reset', resetFunc));
 
 for (const region of Object.values(eisvanaRegions)) {
   const claimedRegions = (regions.value ??= {});
@@ -40,9 +59,5 @@ for (const region of Object.values(eisvanaRegions)) {
 <style scoped lang="scss">
 .invert-button {
   margin-block-end: 0.5rem;
-}
-
-.stat-grid {
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 }
 </style>
