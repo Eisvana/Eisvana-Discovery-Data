@@ -20,20 +20,24 @@ const platformStats = computed(
     platforms: ValueOf<typeof platformMapping>[];
     players: number[];
   } => {
-    const platformData: { [key: string]: Set<string> } = {};
+    const platformData = new Map<Platform, Set<string>>();
 
     for (const data of filteredData.value) {
-      platformData[data.Platform] ??= new Set<string>();
-      platformData[data.Platform].add(data.Discoverer);
+      if (!platformData.has(data.Platform)) platformData.set(data.Platform, new Set<string>());
+      platformData.get(data.Platform)?.add(data.Discoverer);
     }
 
-    const platformDataArray = Object.entries(platformData);
+    const platformDataArray = Array.from(platformData);
 
-    platformDataArray.sort((a, b) => b[1].size - a[1].size);
+    const sortedPlatformDataArray = platformDataArray.toSorted((a, b) => b[1].size - a[1].size);
+
+    platformData.clear();
+
+    sortedPlatformDataArray.forEach(([key, val]) => platformData.set(key, val));
 
     return {
-      platforms: platformDataArray.map((item) => platformMapping[item[0] as Platform]),
-      players: platformDataArray.map((item) => item[1].size),
+      platforms: Array.from(platformData.keys()).map((item) => platformMapping[item]),
+      players: Array.from(platformData.values()).map((item) => item.size),
     };
   }
 );
