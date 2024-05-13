@@ -1,4 +1,4 @@
-import type { Sorting } from '@/types/data';
+import type { Sorting } from '@/types/sorting';
 import { orders } from '@/variables/mappings';
 
 /**
@@ -37,8 +37,10 @@ const toggleSortingOrder = (sortingObj: Sorting) =>
   (sortingObj.order = sortingObj.order === orders.asc ? orders.desc : orders.asc);
 
 export function sortByColumn(event: Event, sortingObj: Sorting) {
-  const element = event.target as HTMLDivElement;
-  const parent = element.parentElement!;
+  const element = event.target;
+  if (!(element instanceof HTMLDivElement)) return;
+  const parent = element.parentElement;
+  if (!parent) return;
   const index = Array.from(parent.children).indexOf(element) - 1;
   if (sortingObj.col === index) {
     toggleSortingOrder(sortingObj);
