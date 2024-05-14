@@ -3,7 +3,7 @@ import { appSections, orders, platformMapping } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
 import type { TableHeadings } from '@/types/data';
 import { storeToRefs } from 'pinia';
-import { computed, reactive } from 'vue';
+import { computed, reactive, watchEffect } from 'vue';
 import DataTable from '../table/DataTable.vue';
 import PaginationControls from '../table/PaginationControls.vue';
 import { getPercentage } from '@/helpers/maths';
@@ -62,14 +62,12 @@ const discovererStats = computed(() => {
 
 const discovererDataSorted = computed(() => sortData(discovererStats.value, sorting));
 
-const paginatedData = computed(() => {
-  const pages = paginateData(discovererDataSorted.value, itemsPerPage.value.discovererStats);
-
-  if (pages.length < currentPageIndex.value.discovererStats) currentPageIndex.value.discovererStats = 0;
-  return pages;
-});
-
+const paginatedData = computed(() => paginateData(discovererDataSorted.value, itemsPerPage.value.discovererStats));
 const useableData = computed(() => paginatedData.value[currentPageIndex.value.discovererStats]?.flat() ?? []);
+
+watchEffect(() => {
+  if (paginatedData.value.length < currentPageIndex.value.discovererStats) currentPageIndex.value.discovererStats = 0;
+});
 
 const headers: TableHeadings = {
   normal: ['Pos.'],

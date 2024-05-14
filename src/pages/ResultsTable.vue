@@ -1,18 +1,17 @@
 <script setup lang="ts">
-import PaginationControls from '@/components/table/PaginationControls.vue';
 import TableHeaders from '@/components/table/TableHeaders.vue';
-import { appSections, platformMapping } from '@/variables/mappings';
+import { platformMapping } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
-import type { TableHeadings } from '@/types/data';
+import type { DiscoveryData, TableHeadings } from '@/types/data';
 import type { Platform } from '@/types/platform';
 import { storeToRefs } from 'pinia';
-import { computed } from 'vue';
+import { computed, ref } from 'vue';
 import { getFormattedUTCDateString } from '@/helpers/date';
-import { paginateData } from '@/helpers/paginate';
 import { isPlatformCode } from '@/helpers/typeGuards';
+import Pagination from '@/components/table/Pagination.vue';
 
 const dataStore = useDataStore();
-const { filteredData, currentPageIndex, itemsPerPage, isLoading } = storeToRefs(dataStore);
+const { filteredData, isLoading } = storeToRefs(dataStore);
 
 interface TextArray {
   text: string;
@@ -21,16 +20,11 @@ interface TextArray {
 
 const getFullPlatform = (platform: Platform) => platformMapping[platform];
 
-const paginatedData = computed(() => {
-  const pages = paginateData(filteredData.value, itemsPerPage.value.resultsTable);
-
-  if (pages.length < currentPageIndex.value.resultsTable) currentPageIndex.value.resultsTable = 0;
-  return pages;
-});
+const paginatedData = ref<DiscoveryData[]>([]);
 
 const dataArray = computed(() => {
   const textArray: TextArray[] = [];
-  for (const data of paginatedData.value[currentPageIndex.value.resultsTable] ?? []) {
+  for (const data of paginatedData.value ?? []) {
     const entries: [string, number | string | boolean][] = Object.entries(data);
     for (const [key, value] of entries) {
       let text: string = '';
@@ -74,13 +68,18 @@ const dataArray = computed(() => {
 const headers: TableHeadings = {
   normal: ['System Name', 'Glyphs', 'Discoverer', 'Platform', 'Date', 'Tagged'],
 };
+
+const updateData = (newPaginatedArray: DiscoveryData[]) => (paginatedData.value = newPaginatedArray);
 </script>
 
 <template>
-  <div v-if="dataArray.length">
-    <PaginationControls
-      :total-pages="paginatedData.length"
-      :section="appSections.resultsTable"
+  <div
+    v-if="filteredData.length"
+    class="table-wrapper"
+  >
+    <Pagination
+      :data="filteredData"
+      @change="updateData"
     />
     <div class="data-table">
       <TableHeaders :headers />
@@ -99,14 +98,19 @@ const headers: TableHeadings = {
 </template>
 
 <style scoped lang="scss">
-.data-table {
-  display: grid;
-  grid-template-columns: repeat(6, auto);
-  column-gap: 0.5rem;
-  align-items: center;
+.table-wrapper {
+  display: flex;
+  flex-direction: column;
 
-  .italic {
-    font-style: italic;
+  .data-table {
+    display: grid;
+    grid-template-columns: repeat(6, auto);
+    column-gap: 0.5rem;
+    align-items: center;
+
+    .italic {
+      font-style: italic;
+    }
   }
 }
 </style>
