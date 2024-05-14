@@ -16,10 +16,13 @@ import PageFooter from '@/components/PageFooter.vue';
     <FilterInputs />
     <ResultsCounter />
     <nav class="subpage-nav">
-      <RouterLink to="/">Table</RouterLink>
-      <RouterLink to="stats">Stats</RouterLink>
-      <RouterLink to="charts">Charts</RouterLink>
+      <ul>
+        <li><RouterLink to="/">Table</RouterLink></li>
+        <li><RouterLink to="stats">Stats</RouterLink></li>
+        <li><RouterLink to="charts">Charts</RouterLink></li>
+      </ul>
     </nav>
+    <hr />
     <RouterView />
   </main>
   <PageFooter />
@@ -31,20 +34,22 @@ import PageFooter from '@/components/PageFooter.vue';
   text-align: center;
 }
 
-.subpage-nav {
+.subpage-nav ul {
   justify-content: center;
   gap: 2rem;
   font-size: larger;
-  margin-block-end: 1rem;
   flex-wrap: wrap;
+  margin-inline: auto;
 
+  li,
   a {
-    text-decoration: none;
+    padding: 0;
+    margin: 0;
+  }
 
-    &.router-link-exact-active {
-      color: inherit;
-      pointer-events: none;
-    }
+  a.router-link-exact-active {
+    color: inherit;
+    pointer-events: none;
   }
 }
 </style>
