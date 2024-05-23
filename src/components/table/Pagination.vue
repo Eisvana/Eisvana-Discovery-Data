@@ -33,7 +33,7 @@ watchEffect(() => emit('change', paginatedEntries.value));
 </script>
 
 <template>
-  <!-- <div class="pagination-controls"> -->
+  <div class="pagination-controls">
     <label class="select-wrapper">
       <div>Results per Page:</div>
       <select
@@ -148,16 +148,15 @@ watchEffect(() => emit('change', paginatedEntries.value));
         </button>
       </div>
     </div>
-  <!-- </div> -->
+  </div>
 </template>
 
 <style scoped lang="scss">
-// .pagination-controls {
-//   display: flex;
-//   flex-wrap: wrap;
-//   justify-content: space-between;
-//   gap: 0.5rem;
-//   margin-block-end: 1rem;
+.pagination-controls {
+  display: flex;
+  flex-wrap: wrap;
+  margin-block-end: 1rem;
+  gap: 0.5rem;
 
   .select-wrapper {
     display: flex;
@@ -175,7 +174,8 @@ watchEffect(() => emit('change', paginatedEntries.value));
   .page-select-wrapper {
     display: flex;
     gap: 0.5rem;
-    margin-block-end: 1rem;
+    flex-grow: 1;
+    justify-content: right;
 
     .placeholder {
       display: flex;
@@ -201,5 +201,11 @@ watchEffect(() => emit('change', paginatedEntries.value));
       }
     }
   }
-// }
+}
+
+@media (width <= 767px) {
+  .pagination-controls .page-select-wrapper {
+    justify-content: unset;
+  }
+}
 </style>
