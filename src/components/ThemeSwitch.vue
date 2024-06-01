@@ -13,7 +13,6 @@ function switchTheme(theme: string | null = null) {
 
 <template>
   <button
-    role="button"
     class="themeswitcher"
     id="themeSwitch"
     @click="switchTheme()"
