@@ -44,7 +44,7 @@ export const useDataStore = defineStore('data', {
     dataLength: (state: State) => state.filteredData.length,
     amountTagged: (state: State) => state.filteredData.filter((item) => item['Correctly Prefixed']).length,
     dateRange: (state: State): [string | undefined, string | undefined] => {
-      const sortedData = structuredClone(toRaw(state.filteredData))
+      const sortedData = state.filteredData
         .filter((item) => item.Timestamp)
         .toSorted((a, b) => a.Timestamp - b.Timestamp);
 
