@@ -1,6 +1,5 @@
 import { defineStore } from 'pinia';
 import type { DiscoveryData } from '@/types/data';
-import { toRaw } from 'vue';
 import { getUTCDateString } from '@/helpers/date';
 
 interface State {
