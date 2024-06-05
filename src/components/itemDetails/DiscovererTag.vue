@@ -15,6 +15,7 @@ defineProps<{
     <img
       :alt="`${getPlatform(platform)} Icon`"
       :src="platformIcons[platform]"
+      :title="getPlatform(platform)"
       class="platform-icon"
     />
   </div>
