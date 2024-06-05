@@ -51,7 +51,6 @@ onMounted(async () => {
         <DiscovererTag
           :name="planetData.Discoverer"
           :platform="planetData.Platform"
-
         />
         <div>{{ getFormattedUTCDateString(planetData.Timestamp) }}</div>
       </div>
@@ -114,6 +113,7 @@ onMounted(async () => {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  margin-block-end: 0.75rem;
 
   h2 {
     margin: 0;
