@@ -33,3 +33,6 @@ export interface DiscovererDataArray {
   discoveries: number;
   tags: number;
 }
+
+export type PlanetDetailItems = 'bases' | 'settlements' | 'animals' | 'flora' | 'minerals';
+export type PlanetDetails = Partial<Record<PlanetDetailItems, DiscoveryData[]>>;

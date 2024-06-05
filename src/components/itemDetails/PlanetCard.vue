@@ -1,37 +1,23 @@
 <script setup lang="ts">
 import { getFormattedUTCDateString } from '@/helpers/date';
-import { getPlatform } from '@/helpers/platform';
 import type { DiscoveryData } from '@/types/data';
 import baseIcon from '@/assets/images/base.png';
 import creatureIcon from '@/assets/images/creature.png';
 import floraIcon from '@/assets/images/flora.png';
 import mineralIcon from '@/assets/images/mineral.png';
 import settlementIcon from '@/assets/images/settlement.png';
-import gogIcon from '@/assets/images/platformGOG.png';
-import psIcon from '@/assets/images/platformPS.png';
-import steamIcon from '@/assets/images/platformSteam.png';
-import switchIcon from '@/assets/images/platformSwitch.png';
-import xbIcon from '@/assets/images/platformXB.png';
-import type { Platform } from '@/types/platform';
 import { reactive } from 'vue';
+import DiscovererTag from './DiscovererTag.vue';
 
 const props = defineProps<{
   planetData: DiscoveryData;
 }>();
 
-const platformIcons: Record<Platform, string> = {
-  ST: steamIcon,
-  PS: psIcon,
-  XB: xbIcon,
-  GX: gogIcon,
-  NI: switchIcon,
-};
-
 const statData: {
   src: string;
   alt: string;
   title: string;
-  counter: number | undefined;
+  counter: number;
 }[] = reactive([
   {
     src: creatureIcon,
@@ -73,14 +59,10 @@ const statData: {
     </header>
     <div class="stat-grid">
       <div class="discoverer-data">
-        <div class="discoverer-name-platform">
-          <span>{{ planetData.Discoverer }}</span>
-          <img
-            :alt="`${getPlatform(planetData.Platform)} Icon`"
-            :src="platformIcons[planetData.Platform]"
-            class="platform-icon"
-          />
-        </div>
+        <DiscovererTag
+          :name="planetData.Discoverer"
+          :platform="planetData.Platform"
+        />
         <div>{{ getFormattedUTCDateString(planetData.Timestamp) }}</div>
       </div>
       <div class="glyphs">{{ planetData.Glyphs }}</div>
@@ -100,7 +82,7 @@ const statData: {
       </div>
     </div>
     <footer>
-      <RouterLink :to="`/system/${planetData.Glyphs}`">View More</RouterLink>
+      <RouterLink :to="`/planet/${planetData.Glyphs}`">View More</RouterLink>
     </footer>
   </article>
 </template>
@@ -111,20 +93,10 @@ const statData: {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-
-    .discoverer-name-platform {
-      display: flex;
-      gap: 0.25rem;
-    }
-  }
-
-  .platform-icon {
-    width: 1.55rem;
   }
 
   img {
     width: 2rem;
-    filter: invert(100);
   }
 
   .stat-wrapper {
@@ -141,7 +113,7 @@ const statData: {
   }
 }
 
-[data-theme='dark'] .stat-grid img {
-  filter: unset;
+[data-theme='light'] .stat-grid img {
+  filter: invert(100);
 }
 </style>
