@@ -84,10 +84,11 @@ const statData: {
         <div>{{ getFormattedUTCDateString(planetData.Timestamp) }}</div>
       </div>
       <div class="glyphs">{{ planetData.Glyphs }}</div>
-      <div>
+      <div class="stat-wrapper">
         <div
           v-for="stat in statData"
           :key="stat.title"
+          :data-tooltip="stat.title"
         >
           <img
             :alt="stat.alt"
@@ -124,6 +125,19 @@ const statData: {
   img {
     width: 2rem;
     filter: invert(100);
+  }
+
+  .stat-wrapper {
+    display: flex;
+    justify-content: space-between;
+
+    & > * {
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      cursor: auto;
+      border: none;
+    }
   }
 }
 
