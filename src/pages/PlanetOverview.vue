@@ -31,7 +31,6 @@ onMounted(async () => {
     const data: { default: DiscoveryData[] } = await import(`../assets/${detail}/EV${regionNumber}.json`);
     const itemsOnPlanet = data.default.filter((item) => item.Glyphs === glyphs);
     planetDetails[detail] = itemsOnPlanet;
-    console.log(planetDetails);
   });
 
   const data: { default: DiscoveryData[] } = await import(`../assets/planets/EV${regionNumber}.json`);
@@ -44,7 +43,7 @@ onMounted(async () => {
   <header class="discovery-header">
     <template v-if="planetData">
       <div>
-        <h2>{{ planetData.Name || 'unknown' }}</h2>
+        <h2 :class="{ unknown: !planetData.Name }">{{ planetData.Name || 'unknown' }}</h2>
         <div class="glyphs">{{ planetData.Glyphs }}</div>
       </div>
       <div class="discoverer-data">
@@ -117,6 +116,10 @@ onMounted(async () => {
 
   h2 {
     margin: 0;
+
+    &.unknown {
+      font-style: italic;
+    }
   }
 
   .discoverer-data {
