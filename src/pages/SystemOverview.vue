@@ -27,12 +27,19 @@ onMounted(async () => {
 
 <template>
   <div class="planet-cards-container">
-  <PlanetCard
-    v-for="planet in planetData"
-    :key="planet.Glyphs"
-    :planet-data="planet"
-  />
-</div>
+    <PlanetCard
+      v-if="planetData.length"
+      v-for="planet in planetData"
+      :key="planet.Glyphs"
+      :planet-data="planet"
+    />
+    <p
+      v-else
+      class="undiscovered"
+    >
+      No planets discovered!
+    </p>
+  </div>
 </template>
 
 <style scoped lang="scss">
@@ -40,5 +47,9 @@ onMounted(async () => {
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
+}
+
+.undiscovered {
+  margin-inline: auto;
 }
 </style>
