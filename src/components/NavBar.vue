@@ -5,7 +5,7 @@ import { computed } from 'vue';
 
 const route = useRoute();
 const glyphs = computed(() => route.params.glyphs);
-const isPlanet = computed(() => route.name?.toString().includes('planetOverview'));
+const isPlanet = computed(() => route.name?.toString() === 'planetOverview');
 </script>
 
 <template>
