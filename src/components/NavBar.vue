@@ -13,7 +13,10 @@ const isPlanet = computed(() => route.name?.toString().includes('planetOverview'
     <ul>
       <li v-if="!glyphs"><a href="/">&larr; View other pages</a></li>
       <li v-else>
-        <nav aria-label="breadcrumb">
+        <nav
+          aria-label="breadcrumb"
+          class="breadcrumb-nav"
+        >
           <ul>
             <li><RouterLink to="/">Table</RouterLink></li>
             <template v-if="isPlanet">
@@ -32,3 +35,9 @@ const isPlanet = computed(() => route.name?.toString().includes('planetOverview'
     </ul>
   </nav>
 </template>
+
+<style scoped lang="scss">
+.breadcrumb-nav li {
+  padding-block: 0;
+}
+</style>
