@@ -113,6 +113,6 @@ watchEffect(() => (tagged.value = getTagStatus(taggedRaw.value)));
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  gap: 0.5rem 2rem;
+  gap: 1.5rem 2rem;
 }
 </style>

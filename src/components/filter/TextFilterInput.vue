@@ -56,6 +56,20 @@ const caseSensitivity = defineModel('caseSensitivity', { type: Boolean });
   flex-direction: column;
   flex-grow: 1;
   flex-basis: 30%;
+  gap: 1rem;
+  margin: -0.5rem;
+  padding: 0.5rem;
+  border-radius: var(--pico-border-radius);
+  border: var(--pico-border-width) solid grey;
+
+  label:has(input),
+  input {
+    margin-block-end: 0;
+  }
+
+  input[type='text'] {
+    margin-block-start: 0.5rem;
+  }
 }
 
 .filter-adjustments {
@@ -63,10 +77,12 @@ const caseSensitivity = defineModel('caseSensitivity', { type: Boolean });
   flex-wrap: wrap;
   column-gap: 0.5rem;
   container-type: inline-size;
+  gap: 0.5rem;
 
   .intersection-select {
     flex-basis: content;
     flex-grow: 1;
+    margin-block-end: 0;
   }
 
   .switch-label {
@@ -78,6 +94,7 @@ const caseSensitivity = defineModel('caseSensitivity', { type: Boolean });
     align-content: center;
     gap: 0.5rem 0.2rem;
     flex-grow: 1;
+    margin-block-end: 0;
   }
 
   @container (width < 300px) {
