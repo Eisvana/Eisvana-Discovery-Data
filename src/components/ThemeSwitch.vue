@@ -1,13 +1,9 @@
 <script setup lang="ts">
-// determine preferred theme and update the html element with the respective tag
-const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-switchTheme(prefersDark ? 'dark' : 'light');
+import { Dark } from 'quasar';
 
-function switchTheme(theme: string | null = null) {
-  const currentTheme = document.documentElement.dataset.theme;
-  const computedNewTheme = currentTheme === 'dark' ? 'light' : 'dark';
-  const newTheme = theme ?? computedNewTheme;
-  document.documentElement.dataset.theme = newTheme;
+function switchTheme() {
+  const currentMode = Dark.mode; // "auto", true, false
+  Dark.set(!currentMode); // or false or "auto"
 }
 </script>
 
@@ -15,7 +11,7 @@ function switchTheme(theme: string | null = null) {
   <button
     class="themeswitcher"
     id="themeSwitch"
-    @click="switchTheme()"
+    @click="switchTheme"
   >
     Switch Theme
   </button>

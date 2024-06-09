@@ -14,11 +14,14 @@
     "chart.js": "^4.4.2"
   },
   "devDependencies": {
+    "@quasar/extras": "^1.16.11",
+    "@quasar/vite-plugin": "^1.7.0",
     "@types/node": "^20.12.11",
     "@vitejs/plugin-vue": "^5.0.4",
     "@vueuse/core": "^10.9.0",
     "pinia": "^2.1.7",
     "prettier": "^3.0.0",
+    "quasar": "^2.16.4",
     "sass": "^1.77.1",
     "typescript": "^5.4.5",
     "vite": "^5.2.11",

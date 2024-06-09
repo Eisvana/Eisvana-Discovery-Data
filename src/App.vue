@@ -1,12 +1,11 @@
 <script setup lang="ts">
-import NavBar from './components/NavBar.vue';
+import Toolbar from './components/Toolbar.vue';
 import PageFooter from '@/components/PageFooter.vue';
 </script>
 
 <template>
   <header>
-    <NavBar />
-    <h1 class="title">Eisvana Discovery Data</h1>
+    <Toolbar />
   </header>
 
   <RouterView />

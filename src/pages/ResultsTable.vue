@@ -7,9 +7,10 @@ import { ref } from 'vue';
 import { getFormattedUTCDateString } from '@/helpers/date';
 import Pagination from '@/components/table/Pagination.vue';
 import { getPlatform } from '@/helpers/platform';
+import TableSkeleton from '@/components/table/TableSkeleton.vue';
 
 const dataStore = useDataStore();
-const { filteredData, isLoading } = storeToRefs(dataStore);
+const { filteredData } = storeToRefs(dataStore);
 
 const paginatedData = ref<DiscoveryData[]>([]);
 
@@ -55,10 +56,7 @@ const updateData = (newPaginatedArray: DiscoveryData[]) => (paginatedData.value 
       </template>
     </div>
   </div>
-  <div
-    v-else
-    :aria-busy="isLoading"
-  ></div>
+  <TableSkeleton v-else />
 </template>
 
 <style scoped lang="scss">
@@ -72,5 +70,10 @@ const updateData = (newPaginatedArray: DiscoveryData[]) => (paginatedData.value 
     column-gap: 0.5rem;
     align-items: center;
   }
+}
+
+.spinner {
+  display: block;
+  margin-inline: auto;
 }
 </style>

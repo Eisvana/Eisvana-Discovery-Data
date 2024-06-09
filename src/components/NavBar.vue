@@ -13,19 +13,14 @@ const isPlanet = computed(() => route.name?.toString() === 'planetOverview');
     <ul>
       <li v-if="!glyphs"><a href="/">&larr; View other pages</a></li>
       <li v-else>
-        <nav
-          aria-label="breadcrumb"
-          class="breadcrumb-nav"
-        >
-          <ul>
-            <li><RouterLink to="/">Table</RouterLink></li>
-            <template v-if="isPlanet">
-              <li><RouterLink :to="`/system/${glyphs}`">System</RouterLink></li>
-              <li>Planet</li>
-            </template>
-            <li v-else>System</li>
-          </ul>
-        </nav>
+        <QBreadcrumbs separator=">">
+          <QBreadcrumbsEl> <RouterLink to="/">Table</RouterLink></QBreadcrumbsEl>
+          <template v-if="isPlanet">
+            <QBreadcrumbsEl><RouterLink :to="`/system/${glyphs}`">System</RouterLink></QBreadcrumbsEl>
+            <QBreadcrumbsEl>Planet</QBreadcrumbsEl>
+          </template>
+          <QBreadcrumbsEl v-else>System</QBreadcrumbsEl>
+        </QBreadcrumbs>
       </li>
     </ul>
     <ul>
