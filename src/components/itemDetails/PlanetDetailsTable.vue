@@ -18,7 +18,7 @@ withDefaults(defineProps<Props>(), {
 <template>
   <details>
     <summary
-      :class="{ secondary: !planetDetails.length }"
+      :class="{ 'secondary outline': !planetDetails.length }"
       :inert="!planetDetails.length"
       role="button"
     >
