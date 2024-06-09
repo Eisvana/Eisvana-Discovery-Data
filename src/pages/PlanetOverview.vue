@@ -7,6 +7,7 @@ import { onMounted, reactive, ref } from 'vue';
 import { useRoute } from 'vue-router';
 import DiscovererTag from '@/components/itemDetails/DiscovererTag.vue';
 import PlanetDetailsTable from '@/components/itemDetails/PlanetDetailsTable.vue';
+import DiscoveryNote from '@/components/DiscoveryNote.vue';
 
 const route = useRoute();
 
@@ -57,9 +58,11 @@ onMounted(async () => {
     <p v-else>Something went wrong!</p>
   </header>
 
+  <DiscoveryNote />
+
   <details>
     <summary
-      :class="{ secondary: !planetDetails.bases?.length }"
+      :class="{ 'secondary outline': !planetDetails.bases?.length }"
       :inert="!planetDetails.bases?.length"
       role="button"
     >

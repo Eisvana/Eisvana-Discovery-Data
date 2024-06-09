@@ -4,6 +4,7 @@ import type { DiscoveryData } from '@/types/data';
 import { onMounted, reactive } from 'vue';
 import { regions } from '@/variables/regions';
 import { useRoute } from 'vue-router';
+import DiscoveryNote from '@/components/DiscoveryNote.vue';
 
 const planetData: DiscoveryData[] = reactive([]);
 
@@ -26,6 +27,7 @@ onMounted(async () => {
 </script>
 
 <template>
+  <DiscoveryNote />
   <div class="planet-cards-container">
     <PlanetCard
       v-if="planetData.length"
