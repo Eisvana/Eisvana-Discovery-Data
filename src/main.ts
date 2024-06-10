@@ -1,4 +1,3 @@
-// import '@picocss/pico';
 import 'quasar/src/css/index.sass'; // Import Quasar css
 import '@quasar/extras/material-icons/material-icons.css'; // Import icon libraries
 import './css/style.scss';
