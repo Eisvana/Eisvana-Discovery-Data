@@ -5,9 +5,9 @@ import type { DiscoveryData, PlanetDetailItems, PlanetDetails } from '@/types/da
 import { regions } from '@/variables/regions';
 import { onMounted, reactive, ref } from 'vue';
 import { useRoute } from 'vue-router';
-import DiscovererTag from '@/components/itemDetails/DiscovererTag.vue';
 import PlanetDetailsTable from '@/components/itemDetails/PlanetDetailsTable.vue';
 import DiscoveryNote from '@/components/DiscoveryNote.vue';
+import OverviewHeader from '@/components/itemDetails/OverviewHeader.vue';
 
 const route = useRoute();
 
@@ -41,33 +41,18 @@ onMounted(async () => {
 </script>
 
 <template>
-  <header class="discovery-header">
-    <template v-if="planetData">
-      <div>
-        <h2 :class="{ unknown: !planetData.Name }">{{ planetData.Name || 'unknown' }}</h2>
-        <div class="glyphs">{{ planetData.Glyphs }}</div>
-      </div>
-      <div class="discoverer-data">
-        <DiscovererTag
-          :name="planetData.Discoverer"
-          :platform="planetData.Platform"
-        />
-        <div>{{ getFormattedUTCDateString(planetData.Timestamp) }}</div>
-      </div>
-    </template>
-    <p v-else>Something went wrong!</p>
-  </header>
+  <OverviewHeader
+    v-if="planetData"
+    :item-data="planetData"
+  />
+  <p v-else>Something went wrong!</p>
 
   <DiscoveryNote />
 
-  <details>
-    <summary
-      :class="{ 'secondary outline': !planetDetails.bases?.length }"
-      :inert="!planetDetails.bases?.length"
-      role="button"
-    >
-      Bases ({{ planetDetails.bases?.length }})
-    </summary>
+  <QExpansionItem
+    :disable="!planetDetails.bases?.length"
+    :label="`Bases (${planetDetails.bases?.length})`"
+  >
     <table class="striped">
       <thead>
         <tr>
@@ -90,7 +75,7 @@ onMounted(async () => {
         </tr>
       </tbody>
     </table>
-  </details>
+  </QExpansionItem>
   <PlanetDetailsTable
     :planetDetails="planetDetails.animals"
     itemType="Creatures"
@@ -109,24 +94,3 @@ onMounted(async () => {
     itemType="Settlements"
   />
 </template>
-
-<style scoped lang="scss">
-.discovery-header {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  margin-block-end: 0.75rem;
-
-  h2 {
-    margin: 0;
-
-    &.unknown {
-      font-style: italic;
-    }
-  }
-
-  .discoverer-data {
-    text-align: right;
-  }
-}
-</style>

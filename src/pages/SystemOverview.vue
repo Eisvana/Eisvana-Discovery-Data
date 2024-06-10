@@ -1,12 +1,14 @@
 <script setup lang="ts">
 import PlanetCard from '@/components/itemDetails/PlanetCard.vue';
 import type { DiscoveryData } from '@/types/data';
-import { onMounted, reactive } from 'vue';
+import { onMounted, reactive, ref } from 'vue';
 import { regions } from '@/variables/regions';
 import { useRoute } from 'vue-router';
+import OverviewHeader from '@/components/itemDetails/OverviewHeader.vue';
 import DiscoveryNote from '@/components/DiscoveryNote.vue';
 
 const planetData: DiscoveryData[] = reactive([]);
+const systemData = ref<DiscoveryData>();
 
 const route = useRoute();
 
@@ -17,17 +19,32 @@ onMounted(async () => {
   const regionGlyphs = Object.keys(regions);
   const regionIndex = regionGlyphs.findIndex((item) => glyphs.endsWith(item));
   const regionNumber = regionIndex + 1;
+  const glyphsWithoutPlanetIndex = glyphs.slice(1);
   const data: { default: DiscoveryData[] } = await import(`../assets/planets/EV${regionNumber}.json`);
   for (let i = 1; i <= planetsPerSystem; i++) {
-    const planetGlyphs = `${i}${glyphs.slice(1)}`;
+    const planetGlyphs = `${i}${glyphsWithoutPlanetIndex}`;
     const planetObject = data.default.find((item) => item.Glyphs === planetGlyphs);
     if (planetObject) planetData.push(planetObject);
   }
+
+  const systemDataFile: { default: DiscoveryData[] } = await import(`../assets/systems/EV${regionNumber}.json`);
+  const systemDataObject = systemDataFile.default.find((item) => item.Glyphs.endsWith(glyphsWithoutPlanetIndex)); // ignoring the planet index
+  systemData.value = systemDataObject;
 });
 </script>
 
 <template>
+  <OverviewHeader
+    v-if="systemData"
+    :item-data="systemData"
+  />
+
+  <QCardSection v-else>
+    <p>Something went wrong!</p>
+  </QCardSection>
+
   <DiscoveryNote />
+
   <div class="planet-cards-container">
     <PlanetCard
       v-if="planetData.length"
@@ -37,7 +54,7 @@ onMounted(async () => {
     />
     <p
       v-else
-      class="undiscovered"
+      class="q-mx-auto"
     >
       No planets discovered!
     </p>
@@ -49,9 +66,5 @@ onMounted(async () => {
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
-}
-
-.undiscovered {
-  margin-inline: auto;
 }
 </style>

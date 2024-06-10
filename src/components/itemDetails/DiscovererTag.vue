@@ -2,6 +2,7 @@
 import type { Platform } from '@/types/platform';
 import { getPlatform } from '@/helpers/platform';
 import { platformIcons } from '@/variables/platforms';
+import GameIcon from '../GameIcon.vue';
 
 defineProps<{
   name: string;
@@ -12,7 +13,7 @@ defineProps<{
 <template>
   <div class="discoverer-name-platform">
     <span>{{ name }}</span>
-    <img
+    <GameIcon
       :alt="`${getPlatform(platform)} Icon`"
       :src="platformIcons[platform]"
       :title="getPlatform(platform)"
@@ -29,9 +30,5 @@ defineProps<{
   .platform-icon {
     width: 1.55rem;
   }
-}
-
-[data-theme='light'] .platform-icon {
-  filter: invert(100);
 }
 </style>

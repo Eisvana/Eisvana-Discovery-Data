@@ -41,11 +41,10 @@ function toggleRegion(e: Event, regionName: EisvanaRegions) {
 
 <template>
   <fieldset>
-    <details>
-      <summary>Filter Regions</summary>
+    <QExpansionItem label="Filter Regions">
       <legend>Filter Regions:</legend>
       <button
-        class="invert-button"
+        class="q-mb-sm"
         @click="filterStore.invertRegionSwitches()"
       >
         Invert Selection
@@ -59,12 +58,6 @@ function toggleRegion(e: Event, regionName: EisvanaRegions) {
           @change="(e: Event) => toggleRegion(e, regionName)"
         />
       </div>
-    </details>
+    </QExpansionItem>
   </fieldset>
 </template>
-
-<style scoped lang="scss">
-.invert-button {
-  margin-block-end: 0.5rem;
-}
-</style>

@@ -16,14 +16,10 @@ withDefaults(defineProps<Props>(), {
 </script>
 
 <template>
-  <details>
-    <summary
-      :class="{ 'secondary outline': !planetDetails.length }"
-      :inert="!planetDetails.length"
-      role="button"
-    >
-      {{ itemType }} ({{ planetDetails.length }})
-    </summary>
+  <QExpansionItem
+    :disable="!planetDetails.length"
+    :label="`${itemType} (${planetDetails.length})`"
+  >
     <table class="striped">
       <thead>
         <tr>
@@ -39,5 +35,5 @@ withDefaults(defineProps<Props>(), {
         </tr>
       </tbody>
     </table>
-  </details>
+  </QExpansionItem>
 </template>

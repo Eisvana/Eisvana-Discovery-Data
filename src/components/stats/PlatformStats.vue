@@ -85,15 +85,15 @@ const headers: TableHeadings = {
 </script>
 
 <template>
-  <details
+  <QExpansionItem
     v-if="platformDataSorted.length"
-    open
+    label="Platform Stats"
+    default-opened
   >
-    <summary>Platform Stats</summary>
     <DataTable
       :headers="headers"
       :sorting="sorting"
       :data="platformDataSorted"
     />
-  </details>
+  </QExpansionItem>
 </template>

@@ -8,11 +8,12 @@ function switchTheme() {
 </script>
 
 <template>
-  <button
-    class="themeswitcher"
-    id="themeSwitch"
+  <QBtn
+    icon="settings_brightness"
+    title="Switch Theme"
+    flat
+    fab
     @click="switchTheme"
   >
-    Switch Theme
-  </button>
+  </QBtn>
 </template>

@@ -106,41 +106,42 @@ const getDate = (dateString: string | undefined) => (dateString ? getFormattedUT
 </script>
 
 <template>
-  <details open>
-    <summary>Number Stats</summary>
-    <div class="number-stats-wrapper">
-      <div>Tagged:</div>
-      <div>{{ amountTagged }} ({{ systemsTaggedPercent }}%)</div>
-      <div>Not/incorrectly prefixed:</div>
-      <div>{{ systemsNotTagged }} ({{ systemsNotTaggedPercent }}%)</div>
-      <div>Procedural name:</div>
-      <div>{{ systemsProcName }} ({{ systemsProcNamePercent }}%)</div>
-      <div v-if="systemsUndiscovered">Undiscovered:</div>
-      <div v-if="systemsUndiscovered">{{ systemsUndiscovered }} ({{ systemsUndiscoveredPercent }}%)</div>
-      <div>Number of discoverers:</div>
-      <div>{{ discovererNumber }}</div>
-      <div>Average discoveries per day:</div>
-      <div>{{ avgDiscoveriesPerDay }}</div>
-      <div>Average number of players per day:</div>
-      <div>{{ avgDiscoverersPerDay }}</div>
-      <div>Average number of prefixes per day:</div>
-      <div>{{ avgCorrectTagsPerDay }}</div>
-      <div>Average non-prefixed systems per day:</div>
-      <div>{{ avgIncorrectTagsPerDay }}</div>
-      <div>Earliest Discovery:</div>
-      <div>{{ getDate(dateRange[0]) }}</div>
-      <div>Latest Discovery:</div>
-      <div>{{ getDate(dateRange[1]) }}</div>
-      <div v-if="false">Duplicate system names:</div>
-      <div v-if="false">{{ systemsDuplicates.length }}</div>
+  <QExpansionItem
+    class="number-stats-wrapper"
+    label="Number Stats"
+    default-opened
+  >
+    <div>Tagged:</div>
+    <div>{{ amountTagged }} ({{ systemsTaggedPercent }}%)</div>
+    <div>Not/incorrectly prefixed:</div>
+    <div>{{ systemsNotTagged }} ({{ systemsNotTaggedPercent }}%)</div>
+    <div>Procedural name:</div>
+    <div>{{ systemsProcName }} ({{ systemsProcNamePercent }}%)</div>
+    <div v-if="systemsUndiscovered">Undiscovered:</div>
+    <div v-if="systemsUndiscovered">{{ systemsUndiscovered }} ({{ systemsUndiscoveredPercent }}%)</div>
+    <div>Number of discoverers:</div>
+    <div>{{ discovererNumber }}</div>
+    <div>Average discoveries per day:</div>
+    <div>{{ avgDiscoveriesPerDay }}</div>
+    <div>Average number of players per day:</div>
+    <div>{{ avgDiscoverersPerDay }}</div>
+    <div>Average number of prefixes per day:</div>
+    <div>{{ avgCorrectTagsPerDay }}</div>
+    <div>Average non-prefixed systems per day:</div>
+    <div>{{ avgIncorrectTagsPerDay }}</div>
+    <div>Earliest Discovery:</div>
+    <div>{{ getDate(dateRange[0]) }}</div>
+    <div>Latest Discovery:</div>
+    <div>{{ getDate(dateRange[1]) }}</div>
+    <div v-if="false">Duplicate system names:</div>
+    <div v-if="false">{{ systemsDuplicates.length }}</div>
 
-      <DataTable
-        v-if="false"
-        :headers="headers"
-        :data="systemsDuplicates.flat()"
-      />
-    </div>
-  </details>
+    <DataTable
+      v-if="false"
+      :headers="headers"
+      :data="systemsDuplicates.flat()"
+    />
+  </QExpansionItem>
 </template>
 
 <style scoped lang="scss">

@@ -1,5 +1,10 @@
 <script setup lang="ts">
+import { ref } from 'vue';
 import ThemeSwitch from './ThemeSwitch.vue';
+
+const leftDrawerOpen = ref(false);
+
+const toggleLeftDrawer = () => (leftDrawerOpen.value = !leftDrawerOpen.value);
 </script>
 
 <template>
@@ -10,6 +15,7 @@ import ThemeSwitch from './ThemeSwitch.vue';
       dense
       flat
       round
+      @click="toggleLeftDrawer"
     />
 
     <QToolbarTitle class="title">Eisvana Discovery Data</QToolbarTitle>

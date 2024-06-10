@@ -21,6 +21,12 @@ const headers: TableHeadings = {
 };
 
 const updateData = (newPaginatedArray: DiscoveryData[]) => (paginatedData.value = newPaginatedArray);
+
+// const columns = [
+//   {
+
+//   }
+// ]
 </script>
 
 <template>
@@ -70,10 +76,5 @@ const updateData = (newPaginatedArray: DiscoveryData[]) => (paginatedData.value 
     column-gap: 0.5rem;
     align-items: center;
   }
-}
-
-.spinner {
-  display: block;
-  margin-inline: auto;
 }
 </style>

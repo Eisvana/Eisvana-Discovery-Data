@@ -1,22 +1,35 @@
 <script setup lang="ts">
-import Toolbar from './components/Toolbar.vue';
-import PageFooter from '@/components/PageFooter.vue';
+import ThemeSwitch from './components/ThemeSwitch.vue';
+import PageFooter from './components/PageFooter.vue';
+import NavBar from './components/NavBar.vue';
 </script>
 
 <template>
-  <header>
-    <Toolbar />
-  </header>
+  <QLayout view="hHh LpR fff">
+    <QHeader
+      class="bg-primary text-white"
+      elevated
+    >
+      <QToolbar class="bg-primary text-white">
+        <NavBar />
 
-  <RouterView />
+        <QToolbarTitle class="text-center">Eisvana Discovery Data</QToolbarTitle>
 
-  <PageFooter />
+        <ThemeSwitch />
+      </QToolbar>
+    </QHeader>
+
+    <QPageContainer>
+      <QPage padding>
+        <RouterView />
+      </QPage>
+    </QPageContainer>
+
+    <QFooter
+      class="bg-grey-8 text-white text-center"
+      elevated
+    >
+      <PageFooter />
+    </QFooter>
+  </QLayout>
 </template>
-
-<style scoped lang="scss">
-.title {
-  margin-block-end: 2rem;
-  text-align: center;
-}
-
-</style>

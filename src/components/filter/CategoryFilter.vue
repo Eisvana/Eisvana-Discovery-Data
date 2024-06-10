@@ -39,8 +39,7 @@ onUnmounted(() => document.removeEventListener('reset', resetFunc));
 
 <template>
   <fieldset>
-    <details>
-      <summary>Filter Categories</summary>
+    <QExpansionItem label="Filter Categories">
       <legend>Filter Categories:</legend>
       <div class="stat-grid dynamic-cols">
         <Switch
@@ -51,6 +50,6 @@ onUnmounted(() => document.removeEventListener('reset', resetFunc));
           @change="(e: Event) => toggleCategory(e, categoryName)"
         />
       </div>
-    </details>
+    </QExpansionItem>
   </fieldset>
 </template>

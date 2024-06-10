@@ -76,11 +76,11 @@ const headers: TableHeadings = {
 </script>
 
 <template>
-  <details
+  <QExpansionItem
     v-if="useableData.length"
-    open
+    label="Discoverer Stats"
+    default-opened
   >
-    <summary>Discoverer Stats</summary>
     <PaginationControls
       :total-pages="paginatedData.length"
       :section="appSections.discovererStats"
@@ -90,5 +90,5 @@ const headers: TableHeadings = {
       :sorting="sorting"
       :data="useableData"
     />
-  </details>
+  </QExpansionItem>
 </template>

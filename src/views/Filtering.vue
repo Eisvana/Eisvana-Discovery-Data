@@ -1,42 +1,53 @@
 <script setup lang="ts">
+import { useRoute } from 'vue-router';
 import FilterInputs from '../components/filter/FilterInputs.vue';
 import ResultsCounter from '../components/ResultsCounter.vue';
-import { RouterView, RouterLink } from 'vue-router';
+import { toRefs } from 'vue';
+
+const route = useRoute();
+const { name: tab } = toRefs(route);
 </script>
 
 <template>
-  <main>
-    <FilterInputs />
-    <ResultsCounter />
-    <nav class="subpage-nav">
-      <ul>
-        <li><RouterLink to="/">Table</RouterLink></li>
-        <li><RouterLink to="stats">Stats</RouterLink></li>
-        <li><RouterLink to="charts">Charts</RouterLink></li>
-      </ul>
-    </nav>
-    <hr />
-    <RouterView />
-  </main>
+  <FilterInputs />
+  <ResultsCounter />
+  <QTabs class="subpage-nav text-primary">
+    <QRouteTab
+      name="table"
+      to="/"
+      exact
+      >Table</QRouteTab
+    >
+    <QRouteTab
+      name="stats"
+      to="/stats"
+      exact
+      >Stats</QRouteTab
+    >
+    <QRouteTab
+      name="charts"
+      to="/charts"
+      exact
+      >Charts</QRouteTab
+    >
+  </QTabs>
+
+  <QSeparator />
+
+  <QTabPanels
+    v-model="tab"
+    animated
+  >
+    <QTabPanel name="table">
+      <RouterView />
+    </QTabPanel>
+
+    <QTabPanel name="stats">
+      <RouterView />
+    </QTabPanel>
+
+    <QTabPanel name="charts">
+      <RouterView />
+    </QTabPanel>
+  </QTabPanels>
 </template>
-
-<style scoped lang="scss">
-.subpage-nav ul {
-  justify-content: center;
-  gap: 2rem;
-  font-size: larger;
-  flex-wrap: wrap;
-  margin-inline: auto;
-
-  li,
-  a {
-    padding: 0;
-    margin: 0;
-  }
-
-  a.router-link-exact-active {
-    color: inherit;
-    pointer-events: none;
-  }
-}
-</style>

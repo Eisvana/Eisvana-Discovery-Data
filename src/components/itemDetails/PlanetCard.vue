@@ -8,6 +8,7 @@ import mineralIcon from '@/assets/images/mineral.png';
 import settlementIcon from '@/assets/images/settlement.png';
 import { reactive } from 'vue';
 import DiscovererTag from './DiscovererTag.vue';
+import GameIcon from '../GameIcon.vue';
 
 const props = defineProps<{
   planetData: DiscoveryData;
@@ -53,11 +54,14 @@ const statData: {
 </script>
 
 <template>
-  <article>
-    <header :class="planetData.Name ? 'text-bold' : 'italic'">
+  <QCard>
+    <QCardSection :class="planetData.Name ? 'text-bold' : 'text-italic'">
       {{ planetData.Name || 'Unknown' }}
-    </header>
-    <div class="stat-grid">
+    </QCardSection>
+
+    <QSeparator />
+
+    <QCardSection class="stat-grid">
       <div class="discoverer-data">
         <DiscovererTag
           :name="planetData.Discoverer"
@@ -72,7 +76,7 @@ const statData: {
           :key="stat.title"
           :data-tooltip="stat.title"
         >
-          <img
+          <GameIcon
             :alt="stat.alt"
             :src="stat.src"
             :title="stat.title"
@@ -80,11 +84,16 @@ const statData: {
           <span>{{ stat.counter }}</span>
         </div>
       </div>
-    </div>
-    <footer>
-      <RouterLink :to="`/planet/${planetData.Glyphs}`">View More</RouterLink>
-    </footer>
-  </article>
+    </QCardSection>
+
+    <QSeparator />
+
+    <QItem
+      class="planet-link"
+      :to="`/planet/${planetData.Glyphs}`"
+      >View More</QItem
+    >
+  </QCard>
 </template>
 
 <style scoped lang="scss">
@@ -113,7 +122,8 @@ const statData: {
   }
 }
 
-[data-theme='light'] .stat-grid img {
-  filter: invert(100);
+.planet-link {
+  display: flex;
+  align-items: center;
 }
 </style>

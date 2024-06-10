@@ -65,8 +65,7 @@ watchEffect(() => (tagged.value = getTagStatus(taggedRaw.value)));
 
 <template>
   <fieldset>
-    <details>
-      <summary>Filter Data</summary>
+    <QExpansionItem label="Filter Data">
       <legend>Filter Data:</legend>
       <div class="data-filter">
         <TextFilterInput
@@ -104,7 +103,7 @@ watchEffect(() => (tagged.value = getTagStatus(taggedRaw.value)));
           :options="selectInput.options"
         />
       </div>
-    </details>
+    </QExpansionItem>
   </fieldset>
 </template>
 
