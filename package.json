@@ -10,7 +10,6 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "@picocss/pico": "^2.0.6",
     "chart.js": "^4.4.2"
   },
   "devDependencies": {
