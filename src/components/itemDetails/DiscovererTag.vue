@@ -15,6 +15,7 @@ defineProps<{
     <span>{{ name }}</span>
     <GameIcon
       :alt="`${getPlatform(platform)} Icon`"
+      :no-theming="platform === 'PS'"
       :src="platformIcons[platform]"
       :title="getPlatform(platform)"
       class="platform-icon"

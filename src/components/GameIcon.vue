@@ -6,6 +6,7 @@ defineProps<{
   src: string;
   alt?: string;
   title?: string;
+  noTheming?: boolean;
 }>();
 
 const reactiveDark = reactive(Dark);
@@ -14,7 +15,7 @@ const { mode } = toRefs(reactiveDark);
 
 <template>
   <img
-    :class="{ dark: !mode }"
+    :class="{ dark: !mode && !noTheming }"
     :alt
     :src
     :title
