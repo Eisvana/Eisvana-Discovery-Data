@@ -4,7 +4,7 @@
     "Discoverer": "Bahann",
     "Glyphs": "0001A21117FE",
     "Platform": "ST",
-    "Timestamp": 1695762390,
+    "Timestamp": 1695762390000,
     "Correctly Prefixed": true
   },
   {
@@ -12,7 +12,7 @@
     "Discoverer": "Bahann",
     "Glyphs": "0002A21117FE",
     "Platform": "ST",
-    "Timestamp": 1695773438,
+    "Timestamp": 1695773438000,
     "Correctly Prefixed": true
   },
   {
@@ -20,7 +20,7 @@
     "Discoverer": "Bahann",
     "Glyphs": "0003A21117FE",
     "Platform": "ST",
-    "Timestamp": 1695776521,
+    "Timestamp": 1695776521000,
     "Correctly Prefixed": true
   },
   {
@@ -28,7 +28,7 @@
     "Discoverer": "Bahann",
     "Glyphs": "0004A21117FE",
     "Platform": "ST",
-    "Timestamp": 1696055569,
+    "Timestamp": 1696055569000,
     "Correctly Prefixed": true
   },
   {
@@ -36,7 +36,7 @@
     "Discoverer": "Bahann",
     "Glyphs": "0005A21117FE",
     "Platform": "ST",
-    "Timestamp": 1696742069,
+    "Timestamp": 1696742069000,
     "Correctly Prefixed": true
   },
   {
@@ -44,7 +44,7 @@
     "Discoverer": "Bahann",
     "Glyphs": "0006A21117FE",
     "Platform": "ST",
-    "Timestamp": 1696997339,
+    "Timestamp": 1696997339000,
     "Correctly Prefixed": true
   },
   {
@@ -52,7 +52,7 @@
     "Discoverer": "Bahann",
     "Glyphs": "0007A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697256440,
+    "Timestamp": 1697256440000,
     "Correctly Prefixed": true
   },
   {
@@ -60,7 +60,7 @@
     "Discoverer": "Bahann",
     "Glyphs": "0008A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697259648,
+    "Timestamp": 1697259648000,
     "Correctly Prefixed": true
   },
   {
@@ -68,7 +68,7 @@
     "Discoverer": "Bahann",
     "Glyphs": "0009A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697352748,
+    "Timestamp": 1697352748000,
     "Correctly Prefixed": true
   },
   {
@@ -76,7 +76,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "000AA21117FE",
     "Platform": "ST",
-    "Timestamp": 1700353561,
+    "Timestamp": 1700353561000,
     "Correctly Prefixed": true
   },
   {
@@ -84,7 +84,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "000BA21117FE",
     "Platform": "ST",
-    "Timestamp": 1700354022,
+    "Timestamp": 1700354022000,
     "Correctly Prefixed": true
   },
   {
@@ -92,7 +92,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "000CA21117FE",
     "Platform": "ST",
-    "Timestamp": 1700406745,
+    "Timestamp": 1700406745000,
     "Correctly Prefixed": true
   },
   {
@@ -100,7 +100,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "000DA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698697873,
+    "Timestamp": 1698697873000,
     "Correctly Prefixed": true
   },
   {
@@ -108,7 +108,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "000EA21117FE",
     "Platform": "ST",
-    "Timestamp": 1700406848,
+    "Timestamp": 1700406848000,
     "Correctly Prefixed": true
   },
   {
@@ -116,7 +116,7 @@
     "Discoverer": "sskeen",
     "Glyphs": "000FA21117FE",
     "Platform": "ST",
-    "Timestamp": 1696371348,
+    "Timestamp": 1696371348000,
     "Correctly Prefixed": false
   },
   {
@@ -124,7 +124,7 @@
     "Discoverer": "admiraldeannadark",
     "Glyphs": "0010A21117FE",
     "Platform": "ST",
-    "Timestamp": 1696007720,
+    "Timestamp": 1696007720000,
     "Correctly Prefixed": true
   },
   {
@@ -132,7 +132,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0011A21117FE",
     "Platform": "ST",
-    "Timestamp": 1700406961,
+    "Timestamp": 1700406961000,
     "Correctly Prefixed": true
   },
   {
@@ -140,7 +140,7 @@
     "Discoverer": "sskeen",
     "Glyphs": "0012A21117FE",
     "Platform": "ST",
-    "Timestamp": 1696371408,
+    "Timestamp": 1696371408000,
     "Correctly Prefixed": false
   },
   {
@@ -148,7 +148,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0013A21117FE",
     "Platform": "ST",
-    "Timestamp": 1700407057,
+    "Timestamp": 1700407057000,
     "Correctly Prefixed": true
   },
   {
@@ -156,7 +156,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0014A21117FE",
     "Platform": "ST",
-    "Timestamp": 1700407140,
+    "Timestamp": 1700407140000,
     "Correctly Prefixed": true
   },
   {
@@ -164,7 +164,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0015A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697890707,
+    "Timestamp": 1697890707000,
     "Correctly Prefixed": true
   },
   {
@@ -172,7 +172,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0016A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697892244,
+    "Timestamp": 1697892244000,
     "Correctly Prefixed": true
   },
   {
@@ -180,7 +180,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0017A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698698672,
+    "Timestamp": 1698698672000,
     "Correctly Prefixed": true
   },
   {
@@ -188,7 +188,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0018A21117FE",
     "Platform": "ST",
-    "Timestamp": 1700407251,
+    "Timestamp": 1700407251000,
     "Correctly Prefixed": true
   },
   {
@@ -196,7 +196,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0019A21117FE",
     "Platform": "ST",
-    "Timestamp": 1700407339,
+    "Timestamp": 1700407339000,
     "Correctly Prefixed": true
   },
   {
@@ -204,7 +204,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "001AA21117FE",
     "Platform": "ST",
-    "Timestamp": 1700407421,
+    "Timestamp": 1700407421000,
     "Correctly Prefixed": true
   },
   {
@@ -212,7 +212,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "001BA21117FE",
     "Platform": "ST",
-    "Timestamp": 1700407483,
+    "Timestamp": 1700407483000,
     "Correctly Prefixed": true
   },
   {
@@ -220,7 +220,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "001CA21117FE",
     "Platform": "ST",
-    "Timestamp": 1700407582,
+    "Timestamp": 1700407582000,
     "Correctly Prefixed": true
   },
   {
@@ -228,7 +228,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "001DA21117FE",
     "Platform": "ST",
-    "Timestamp": 1700407683,
+    "Timestamp": 1700407683000,
     "Correctly Prefixed": true
   },
   {
@@ -236,7 +236,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "001EA21117FE",
     "Platform": "ST",
-    "Timestamp": 1700407757,
+    "Timestamp": 1700407757000,
     "Correctly Prefixed": true
   },
   {
@@ -244,7 +244,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "001FA21117FE",
     "Platform": "ST",
-    "Timestamp": 1700407831,
+    "Timestamp": 1700407831000,
     "Correctly Prefixed": true
   },
   {
@@ -252,7 +252,7 @@
     "Discoverer": "Angel of the wired",
     "Glyphs": "0020A21117FE",
     "Platform": "ST",
-    "Timestamp": 1696952334,
+    "Timestamp": 1696952334000,
     "Correctly Prefixed": true
   },
   {
@@ -260,7 +260,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "0021A21117FE",
     "Platform": "XB",
-    "Timestamp": 1698785779,
+    "Timestamp": 1698785779000,
     "Correctly Prefixed": true
   },
   {
@@ -268,7 +268,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0022A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698164222,
+    "Timestamp": 1698164222000,
     "Correctly Prefixed": true
   },
   {
@@ -276,7 +276,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0023A21117FE",
     "Platform": "ST",
-    "Timestamp": 1700407902,
+    "Timestamp": 1700407902000,
     "Correctly Prefixed": true
   },
   {
@@ -284,7 +284,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0024A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698261685,
+    "Timestamp": 1698261685000,
     "Correctly Prefixed": true
   },
   {
@@ -292,7 +292,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0025A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697967689,
+    "Timestamp": 1697967689000,
     "Correctly Prefixed": true
   },
   {
@@ -300,7 +300,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0026A21117FE",
     "Platform": "ST",
-    "Timestamp": 1700407984,
+    "Timestamp": 1700407984000,
     "Correctly Prefixed": true
   },
   {
@@ -308,7 +308,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0027A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697912156,
+    "Timestamp": 1697912156000,
     "Correctly Prefixed": true
   },
   {
@@ -316,7 +316,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0028A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698505803,
+    "Timestamp": 1698505803000,
     "Correctly Prefixed": true
   },
   {
@@ -324,7 +324,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0029A21117FE",
     "Platform": "ST",
-    "Timestamp": 1700408815,
+    "Timestamp": 1700408815000,
     "Correctly Prefixed": true
   },
   {
@@ -332,7 +332,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "002AA21117FE",
     "Platform": "ST",
-    "Timestamp": 1700408904,
+    "Timestamp": 1700408904000,
     "Correctly Prefixed": true
   },
   {
@@ -340,7 +340,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "002BA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698699570,
+    "Timestamp": 1698699570000,
     "Correctly Prefixed": true
   },
   {
@@ -348,7 +348,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "002CA21117FE",
     "Platform": "XB",
-    "Timestamp": 1698786232,
+    "Timestamp": 1698786232000,
     "Correctly Prefixed": true
   },
   {
@@ -356,7 +356,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "002DA21117FE",
     "Platform": "XB",
-    "Timestamp": 1698786121,
+    "Timestamp": 1698786121000,
     "Correctly Prefixed": true
   },
   {
@@ -364,7 +364,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "002EA21117FE",
     "Platform": "ST",
-    "Timestamp": 1700409036,
+    "Timestamp": 1700409036000,
     "Correctly Prefixed": true
   },
   {
@@ -372,7 +372,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "002FA21117FE",
     "Platform": "ST",
-    "Timestamp": 1700409154,
+    "Timestamp": 1700409154000,
     "Correctly Prefixed": true
   },
   {
@@ -380,7 +380,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0030A21117FE",
     "Platform": "ST",
-    "Timestamp": 1700409230,
+    "Timestamp": 1700409230000,
     "Correctly Prefixed": true
   },
   {
@@ -388,7 +388,7 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "0031A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698571436,
+    "Timestamp": 1698571436000,
     "Correctly Prefixed": true
   },
   {
@@ -396,7 +396,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0032A21117FE",
     "Platform": "ST",
-    "Timestamp": 1700409301,
+    "Timestamp": 1700409301000,
     "Correctly Prefixed": true
   },
   {
@@ -404,7 +404,7 @@
     "Discoverer": "Goose of the wired",
     "Glyphs": "0033A21117FE",
     "Platform": "ST",
-    "Timestamp": 1695997711,
+    "Timestamp": 1695997711000,
     "Correctly Prefixed": true
   },
   {
@@ -412,7 +412,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0034A21117FE",
     "Platform": "ST",
-    "Timestamp": 1700409401,
+    "Timestamp": 1700409401000,
     "Correctly Prefixed": true
   },
   {
@@ -420,7 +420,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0035A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698512793,
+    "Timestamp": 1698512793000,
     "Correctly Prefixed": true
   },
   {
@@ -428,7 +428,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0036A21117FE",
     "Platform": "ST",
-    "Timestamp": 1700409535,
+    "Timestamp": 1700409535000,
     "Correctly Prefixed": true
   },
   {
@@ -436,7 +436,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0037A21117FE",
     "Platform": "ST",
-    "Timestamp": 1700409613,
+    "Timestamp": 1700409613000,
     "Correctly Prefixed": true
   },
   {
@@ -444,7 +444,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0038A21117FE",
     "Platform": "ST",
-    "Timestamp": 1700409715,
+    "Timestamp": 1700409715000,
     "Correctly Prefixed": true
   },
   {
@@ -452,7 +452,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0039A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698757954,
+    "Timestamp": 1698757954000,
     "Correctly Prefixed": true
   },
   {
@@ -460,7 +460,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "003AA21117FE",
     "Platform": "ST",
-    "Timestamp": 1700409813,
+    "Timestamp": 1700409813000,
     "Correctly Prefixed": true
   },
   {
@@ -468,7 +468,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "003BA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698164974,
+    "Timestamp": 1698164974000,
     "Correctly Prefixed": true
   },
   {
@@ -476,7 +476,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "003CA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698699420,
+    "Timestamp": 1698699420000,
     "Correctly Prefixed": true
   },
   {
@@ -484,7 +484,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "003DA21117FE",
     "Platform": "ST",
-    "Timestamp": 1700409888,
+    "Timestamp": 1700409888000,
     "Correctly Prefixed": true
   },
   {
@@ -492,7 +492,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "003EA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698588771,
+    "Timestamp": 1698588771000,
     "Correctly Prefixed": true
   },
   {
@@ -500,7 +500,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "003FA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698510042,
+    "Timestamp": 1698510042000,
     "Correctly Prefixed": true
   },
   {
@@ -508,7 +508,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0040A21117FE",
     "Platform": "ST",
-    "Timestamp": 1700409982,
+    "Timestamp": 1700409982000,
     "Correctly Prefixed": true
   },
   {
@@ -516,7 +516,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "0041A21117FE",
     "Platform": "XB",
-    "Timestamp": 1698785977,
+    "Timestamp": 1698785977000,
     "Correctly Prefixed": true
   },
   {
@@ -524,7 +524,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0042A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698765505,
+    "Timestamp": 1698765505000,
     "Correctly Prefixed": true
   },
   {
@@ -532,7 +532,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0043A21117FE",
     "Platform": "ST",
-    "Timestamp": 1700411104,
+    "Timestamp": 1700411104000,
     "Correctly Prefixed": false
   },
   {
@@ -540,7 +540,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0044A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698587319,
+    "Timestamp": 1698587319000,
     "Correctly Prefixed": true
   },
   {
@@ -548,7 +548,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0045A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698698027,
+    "Timestamp": 1698698027000,
     "Correctly Prefixed": true
   },
   {
@@ -556,7 +556,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0046A21117FE",
     "Platform": "XB",
-    "Timestamp": 1713219811,
+    "Timestamp": 1713219811000,
     "Correctly Prefixed": true
   },
   {
@@ -564,7 +564,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0047A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698763648,
+    "Timestamp": 1698763648000,
     "Correctly Prefixed": true
   },
   {
@@ -572,7 +572,15 @@
     "Discoverer": "Lenni",
     "Glyphs": "0048A21117FE",
     "Platform": "ST",
-    "Timestamp": 1705179196,
+    "Timestamp": 1705179196000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV7-49 Eyuang",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "0049A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1716235924000,
     "Correctly Prefixed": true
   },
   {
@@ -580,7 +588,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "004AA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698342356,
+    "Timestamp": 1698342356000,
     "Correctly Prefixed": true
   },
   {
@@ -588,7 +596,15 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "004BA21117FE",
     "Platform": "XB",
-    "Timestamp": 1713219753,
+    "Timestamp": 1713219753000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV7-4C Uobusc",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "004CA21117FE",
+    "Platform": "ST",
+    "Timestamp": 1716501747000,
     "Correctly Prefixed": true
   },
   {
@@ -596,7 +612,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "004DA21117FE",
     "Platform": "ST",
-    "Timestamp": 1708880274,
+    "Timestamp": 1708880274000,
     "Correctly Prefixed": true
   },
   {
@@ -604,7 +620,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "004EA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698583691,
+    "Timestamp": 1698583691000,
     "Correctly Prefixed": true
   },
   {
@@ -612,7 +628,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "004FA21117FE",
     "Platform": "XB",
-    "Timestamp": 1698786048,
+    "Timestamp": 1698786048000,
     "Correctly Prefixed": true
   },
   {
@@ -620,7 +636,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0050A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698764540,
+    "Timestamp": 1698764540000,
     "Correctly Prefixed": true
   },
   {
@@ -628,7 +644,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0052A21117FE",
     "Platform": "XB",
-    "Timestamp": 1713217897,
+    "Timestamp": 1713217897000,
     "Correctly Prefixed": true
   },
   {
@@ -636,7 +652,7 @@
     "Discoverer": "HumidRose74590",
     "Glyphs": "0053A21117FE",
     "Platform": "XB",
-    "Timestamp": 1704235945,
+    "Timestamp": 1704235945000,
     "Correctly Prefixed": false
   },
   {
@@ -644,7 +660,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0055A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712210143,
+    "Timestamp": 1712210143000,
     "Correctly Prefixed": true
   },
   {
@@ -652,7 +668,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0056A21117FE",
     "Platform": "XB",
-    "Timestamp": 1709526236,
+    "Timestamp": 1709526236000,
     "Correctly Prefixed": true
   },
   {
@@ -660,7 +676,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0057A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698164692,
+    "Timestamp": 1698164692000,
     "Correctly Prefixed": true
   },
   {
@@ -668,7 +684,7 @@
     "Discoverer": "sskeen",
     "Glyphs": "0058A21117FE",
     "Platform": "ST",
-    "Timestamp": 1696371383,
+    "Timestamp": 1696371383000,
     "Correctly Prefixed": false
   },
   {
@@ -676,7 +692,7 @@
     "Discoverer": "sskeen",
     "Glyphs": "0059A21117FE",
     "Platform": "ST",
-    "Timestamp": 1696371376,
+    "Timestamp": 1696371376000,
     "Correctly Prefixed": false
   },
   {
@@ -684,7 +700,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "005AA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698764063,
+    "Timestamp": 1698764063000,
     "Correctly Prefixed": true
   },
   {
@@ -692,7 +708,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "005BA21117FE",
     "Platform": "ST",
-    "Timestamp": 1697889721,
+    "Timestamp": 1697889721000,
     "Correctly Prefixed": true
   },
   {
@@ -700,7 +716,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "005CA21117FE",
     "Platform": "ST",
-    "Timestamp": 1705179070,
+    "Timestamp": 1705179070000,
     "Correctly Prefixed": true
   },
   {
@@ -708,7 +724,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "005DA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698588403,
+    "Timestamp": 1698588403000,
     "Correctly Prefixed": true
   },
   {
@@ -716,7 +732,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "005EA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698585204,
+    "Timestamp": 1698585204000,
     "Correctly Prefixed": true
   },
   {
@@ -724,7 +740,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "005FA21117FE",
     "Platform": "ST",
-    "Timestamp": 1697995818,
+    "Timestamp": 1697995818000,
     "Correctly Prefixed": true
   },
   {
@@ -732,7 +748,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0061A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698587129,
+    "Timestamp": 1698587129000,
     "Correctly Prefixed": true
   },
   {
@@ -740,7 +756,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0062A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698765790,
+    "Timestamp": 1698765790000,
     "Correctly Prefixed": true
   },
   {
@@ -748,7 +764,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0066A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698763547,
+    "Timestamp": 1698763547000,
     "Correctly Prefixed": true
   },
   {
@@ -756,7 +772,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0068A21117FE",
     "Platform": "XB",
-    "Timestamp": 1713219357,
+    "Timestamp": 1713219357000,
     "Correctly Prefixed": true
   },
   {
@@ -764,7 +780,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0069A21117FE",
     "Platform": "ST",
-    "Timestamp": 1708880128,
+    "Timestamp": 1708880128000,
     "Correctly Prefixed": true
   },
   {
@@ -772,7 +788,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "006AA21117FE",
     "Platform": "XB",
-    "Timestamp": 1698758630,
+    "Timestamp": 1698758630000,
     "Correctly Prefixed": true
   },
   {
@@ -780,7 +796,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "006BA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698695441,
+    "Timestamp": 1698695441000,
     "Correctly Prefixed": true
   },
   {
@@ -788,7 +804,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "006FA21117FE",
     "Platform": "ST",
-    "Timestamp": 1707510428,
+    "Timestamp": 1707510428000,
     "Correctly Prefixed": true
   },
   {
@@ -796,7 +812,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0071A21117FE",
     "Platform": "XB",
-    "Timestamp": 1713780483,
+    "Timestamp": 1713780483000,
     "Correctly Prefixed": true
   },
   {
@@ -804,7 +820,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "0072A21117FE",
     "Platform": "XB",
-    "Timestamp": 1698785645,
+    "Timestamp": 1698785645000,
     "Correctly Prefixed": true
   },
   {
@@ -812,7 +828,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0073A21117FE",
     "Platform": "ST",
-    "Timestamp": 1705178865,
+    "Timestamp": 1705178865000,
     "Correctly Prefixed": true
   },
   {
@@ -820,7 +836,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0075A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698586809,
+    "Timestamp": 1698586809000,
     "Correctly Prefixed": true
   },
   {
@@ -828,7 +844,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0076A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698767531,
+    "Timestamp": 1698767531000,
     "Correctly Prefixed": true
   },
   {
@@ -836,7 +852,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0079A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697911806,
+    "Timestamp": 1697911806000,
     "Correctly Prefixed": true
   },
   {
@@ -844,7 +860,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "007AA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698576633,
+    "Timestamp": 1698576633000,
     "Correctly Prefixed": true
   },
   {
@@ -852,7 +868,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "007CA21117FE",
     "Platform": "XB",
-    "Timestamp": 1713217058,
+    "Timestamp": 1713217058000,
     "Correctly Prefixed": true
   },
   {
@@ -860,7 +876,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "007DA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698420461,
+    "Timestamp": 1698420461000,
     "Correctly Prefixed": true
   },
   {
@@ -868,7 +884,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "007EA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698345756,
+    "Timestamp": 1698345756000,
     "Correctly Prefixed": true
   },
   {
@@ -876,7 +892,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0080A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712562855,
+    "Timestamp": 1712562855000,
     "Correctly Prefixed": true
   },
   {
@@ -884,7 +900,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0081A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698176103,
+    "Timestamp": 1698176103000,
     "Correctly Prefixed": true
   },
   {
@@ -892,7 +908,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0082A21117FE",
     "Platform": "XB",
-    "Timestamp": 1713217243,
+    "Timestamp": 1713217243000,
     "Correctly Prefixed": true
   },
   {
@@ -900,7 +916,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0083A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697994184,
+    "Timestamp": 1697994184000,
     "Correctly Prefixed": true
   },
   {
@@ -908,7 +924,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0085A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712947872,
+    "Timestamp": 1712947872000,
     "Correctly Prefixed": true
   },
   {
@@ -916,7 +932,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0086A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698256246,
+    "Timestamp": 1698256246000,
     "Correctly Prefixed": true
   },
   {
@@ -924,7 +940,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0087A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698172221,
+    "Timestamp": 1698172221000,
     "Correctly Prefixed": true
   },
   {
@@ -932,7 +948,7 @@
     "Discoverer": "Lunivore",
     "Glyphs": "0088A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697895448,
+    "Timestamp": 1697895448000,
     "Correctly Prefixed": true
   },
   {
@@ -940,7 +956,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0089A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712781090,
+    "Timestamp": 1712781090000,
     "Correctly Prefixed": true
   },
   {
@@ -948,7 +964,7 @@
     "Discoverer": "Oliver",
     "Glyphs": "008AA21117FE",
     "Platform": "NI",
-    "Timestamp": 1712636481,
+    "Timestamp": 1712636481000,
     "Correctly Prefixed": false
   },
   {
@@ -956,7 +972,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "008BA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712982154,
+    "Timestamp": 1712982154000,
     "Correctly Prefixed": true
   },
   {
@@ -964,7 +980,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "008CA21117FE",
     "Platform": "ST",
-    "Timestamp": 1710621385,
+    "Timestamp": 1710621385000,
     "Correctly Prefixed": true
   },
   {
@@ -972,7 +988,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "008DA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712982233,
+    "Timestamp": 1712982233000,
     "Correctly Prefixed": true
   },
   {
@@ -980,7 +996,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "008EA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698342999,
+    "Timestamp": 1698342999000,
     "Correctly Prefixed": true
   },
   {
@@ -988,7 +1004,7 @@
     "Discoverer": "ETOBOTETOT",
     "Glyphs": "0090A21117FE",
     "Platform": "PS",
-    "Timestamp": 1703838651,
+    "Timestamp": 1703838651000,
     "Correctly Prefixed": false
   },
   {
@@ -996,7 +1012,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0091A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698180770,
+    "Timestamp": 1698180770000,
     "Correctly Prefixed": true
   },
   {
@@ -1004,7 +1020,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0092A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712902117,
+    "Timestamp": 1712902117000,
     "Correctly Prefixed": true
   },
   {
@@ -1012,7 +1028,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0093A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712947719,
+    "Timestamp": 1712947719000,
     "Correctly Prefixed": true
   },
   {
@@ -1020,7 +1036,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0094A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697984228,
+    "Timestamp": 1697984228000,
     "Correctly Prefixed": true
   },
   {
@@ -1028,7 +1044,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0095A21117FE",
     "Platform": "XB",
-    "Timestamp": 1713217157,
+    "Timestamp": 1713217157000,
     "Correctly Prefixed": true
   },
   {
@@ -1036,7 +1052,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0096A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698413637,
+    "Timestamp": 1698413637000,
     "Correctly Prefixed": true
   },
   {
@@ -1044,7 +1060,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0097A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698344906,
+    "Timestamp": 1698344906000,
     "Correctly Prefixed": true
   },
   {
@@ -1052,7 +1068,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0098A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697985094,
+    "Timestamp": 1697985094000,
     "Correctly Prefixed": true
   },
   {
@@ -1060,7 +1076,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0099A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712783623,
+    "Timestamp": 1712783623000,
     "Correctly Prefixed": true
   },
   {
@@ -1068,7 +1084,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "009AA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698172526,
+    "Timestamp": 1698172526000,
     "Correctly Prefixed": true
   },
   {
@@ -1076,7 +1092,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "009BA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712783555,
+    "Timestamp": 1712783555000,
     "Correctly Prefixed": true
   },
   {
@@ -1084,7 +1100,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "009CA21117FE",
     "Platform": "XB",
-    "Timestamp": 1709524060,
+    "Timestamp": 1709524060000,
     "Correctly Prefixed": true
   },
   {
@@ -1092,7 +1108,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "009DA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698337064,
+    "Timestamp": 1698337064000,
     "Correctly Prefixed": true
   },
   {
@@ -1100,7 +1116,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "009EA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698347165,
+    "Timestamp": 1698347165000,
     "Correctly Prefixed": true
   },
   {
@@ -1108,7 +1124,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "009FA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712946874,
+    "Timestamp": 1712946874000,
     "Correctly Prefixed": true
   },
   {
@@ -1116,7 +1132,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00A0A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712609431,
+    "Timestamp": 1712609431000,
     "Correctly Prefixed": true
   },
   {
@@ -1124,7 +1140,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00A1A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698165806,
+    "Timestamp": 1698165806000,
     "Correctly Prefixed": true
   },
   {
@@ -1132,7 +1148,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00A2A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698071283,
+    "Timestamp": 1698071283000,
     "Correctly Prefixed": true
   },
   {
@@ -1140,7 +1156,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00A3A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712780957,
+    "Timestamp": 1712780957000,
     "Correctly Prefixed": true
   },
   {
@@ -1148,7 +1164,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00A4A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698171773,
+    "Timestamp": 1698171773000,
     "Correctly Prefixed": true
   },
   {
@@ -1156,7 +1172,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00A5A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698255585,
+    "Timestamp": 1698255585000,
     "Correctly Prefixed": true
   },
   {
@@ -1164,7 +1180,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00A7A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698414471,
+    "Timestamp": 1698414471000,
     "Correctly Prefixed": true
   },
   {
@@ -1172,7 +1188,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00A8A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712781942,
+    "Timestamp": 1712781942000,
     "Correctly Prefixed": true
   },
   {
@@ -1180,7 +1196,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00A9A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697987106,
+    "Timestamp": 1697987106000,
     "Correctly Prefixed": true
   },
   {
@@ -1188,7 +1204,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00AAA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698413746,
+    "Timestamp": 1698413746000,
     "Correctly Prefixed": true
   },
   {
@@ -1196,7 +1212,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00ABA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698335893,
+    "Timestamp": 1698335893000,
     "Correctly Prefixed": true
   },
   {
@@ -1204,7 +1220,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00ACA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712946727,
+    "Timestamp": 1712946727000,
     "Correctly Prefixed": true
   },
   {
@@ -1212,7 +1228,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00ADA21117FE",
     "Platform": "ST",
-    "Timestamp": 1697989677,
+    "Timestamp": 1697989677000,
     "Correctly Prefixed": true
   },
   {
@@ -1220,7 +1236,7 @@
     "Discoverer": "Lunivore",
     "Glyphs": "00AEA21117FE",
     "Platform": "ST",
-    "Timestamp": 1697964492,
+    "Timestamp": 1697964492000,
     "Correctly Prefixed": true
   },
   {
@@ -1228,7 +1244,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00AFA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698172386,
+    "Timestamp": 1698172386000,
     "Correctly Prefixed": true
   },
   {
@@ -1236,7 +1252,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00B0A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698343644,
+    "Timestamp": 1698343644000,
     "Correctly Prefixed": true
   },
   {
@@ -1244,7 +1260,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00B1A21117FE",
     "Platform": "XB",
-    "Timestamp": 1709525285,
+    "Timestamp": 1709525285000,
     "Correctly Prefixed": true
   },
   {
@@ -1252,7 +1268,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00B2A21117FE",
     "Platform": "ST",
-    "Timestamp": 1702138393,
+    "Timestamp": 1702138393000,
     "Correctly Prefixed": true
   },
   {
@@ -1260,7 +1276,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00B3A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698257035,
+    "Timestamp": 1698257035000,
     "Correctly Prefixed": true
   },
   {
@@ -1268,7 +1284,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00B4A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712610251,
+    "Timestamp": 1712610251000,
     "Correctly Prefixed": true
   },
   {
@@ -1276,7 +1292,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00B5A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698412259,
+    "Timestamp": 1698412259000,
     "Correctly Prefixed": true
   },
   {
@@ -1284,7 +1300,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00B6A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698337810,
+    "Timestamp": 1698337810000,
     "Correctly Prefixed": true
   },
   {
@@ -1292,7 +1308,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00B7A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712607711,
+    "Timestamp": 1712607711000,
     "Correctly Prefixed": true
   },
   {
@@ -1300,7 +1316,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00B8A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712978589,
+    "Timestamp": 1712978589000,
     "Correctly Prefixed": true
   },
   {
@@ -1308,7 +1324,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00B9A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698171666,
+    "Timestamp": 1698171666000,
     "Correctly Prefixed": true
   },
   {
@@ -1316,7 +1332,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00BAA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698347336,
+    "Timestamp": 1698347336000,
     "Correctly Prefixed": true
   },
   {
@@ -1324,7 +1340,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00BBA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698173062,
+    "Timestamp": 1698173062000,
     "Correctly Prefixed": true
   },
   {
@@ -1332,7 +1348,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00BCA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698166381,
+    "Timestamp": 1698166381000,
     "Correctly Prefixed": true
   },
   {
@@ -1340,7 +1356,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00BEA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698419861,
+    "Timestamp": 1698419861000,
     "Correctly Prefixed": true
   },
   {
@@ -1348,7 +1364,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00BFA21117FE",
     "Platform": "ST",
-    "Timestamp": 1697982899,
+    "Timestamp": 1697982899000,
     "Correctly Prefixed": true
   },
   {
@@ -1356,7 +1372,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00C0A21117FE",
     "Platform": "XB",
-    "Timestamp": 1709587897,
+    "Timestamp": 1709587897000,
     "Correctly Prefixed": true
   },
   {
@@ -1364,7 +1380,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00C1A21117FE",
     "Platform": "XB",
-    "Timestamp": 1713216908,
+    "Timestamp": 1713216908000,
     "Correctly Prefixed": true
   },
   {
@@ -1372,7 +1388,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00C2A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698336511,
+    "Timestamp": 1698336511000,
     "Correctly Prefixed": true
   },
   {
@@ -1380,7 +1396,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00C3A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697993504,
+    "Timestamp": 1697993504000,
     "Correctly Prefixed": true
   },
   {
@@ -1388,7 +1404,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00C4A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712947382,
+    "Timestamp": 1712947382000,
     "Correctly Prefixed": true
   },
   {
@@ -1396,7 +1412,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00C5A21117FE",
     "Platform": "ST",
-    "Timestamp": 1710542816,
+    "Timestamp": 1710542816000,
     "Correctly Prefixed": true
   },
   {
@@ -1404,7 +1420,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00C7A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697916887,
+    "Timestamp": 1697916887000,
     "Correctly Prefixed": true
   },
   {
@@ -1412,7 +1428,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00C8A21117FE",
     "Platform": "XB",
-    "Timestamp": 1713779646,
+    "Timestamp": 1713779646000,
     "Correctly Prefixed": true
   },
   {
@@ -1420,7 +1436,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00C9A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697985853,
+    "Timestamp": 1697985853000,
     "Correctly Prefixed": true
   },
   {
@@ -1428,7 +1444,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00CAA21117FE",
     "Platform": "ST",
-    "Timestamp": 1697987973,
+    "Timestamp": 1697987973000,
     "Correctly Prefixed": true
   },
   {
@@ -1436,7 +1452,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00CCA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698423488,
+    "Timestamp": 1698423488000,
     "Correctly Prefixed": true
   },
   {
@@ -1444,7 +1460,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00CDA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698337190,
+    "Timestamp": 1698337190000,
     "Correctly Prefixed": true
   },
   {
@@ -1452,7 +1468,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00CEA21117FE",
     "Platform": "ST",
-    "Timestamp": 1697921227,
+    "Timestamp": 1697921227000,
     "Correctly Prefixed": true
   },
   {
@@ -1460,7 +1476,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00CFA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698175453,
+    "Timestamp": 1698175453000,
     "Correctly Prefixed": true
   },
   {
@@ -1468,7 +1484,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00D0A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698344187,
+    "Timestamp": 1698344187000,
     "Correctly Prefixed": true
   },
   {
@@ -1476,7 +1492,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00D1A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712982393,
+    "Timestamp": 1712982393000,
     "Correctly Prefixed": true
   },
   {
@@ -1484,7 +1500,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00D2A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698502340,
+    "Timestamp": 1698502340000,
     "Correctly Prefixed": true
   },
   {
@@ -1492,7 +1508,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00D4A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698069618,
+    "Timestamp": 1698069618000,
     "Correctly Prefixed": true
   },
   {
@@ -1500,7 +1516,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00D5A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712982320,
+    "Timestamp": 1712982320000,
     "Correctly Prefixed": true
   },
   {
@@ -1508,7 +1524,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00D6A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698178001,
+    "Timestamp": 1698178001000,
     "Correctly Prefixed": true
   },
   {
@@ -1516,7 +1532,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00D8A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698344318,
+    "Timestamp": 1698344318000,
     "Correctly Prefixed": true
   },
   {
@@ -1524,7 +1540,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00D9A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712781846,
+    "Timestamp": 1712781846000,
     "Correctly Prefixed": true
   },
   {
@@ -1532,7 +1548,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00DAA21117FE",
     "Platform": "ST",
-    "Timestamp": 1697993657,
+    "Timestamp": 1697993657000,
     "Correctly Prefixed": true
   },
   {
@@ -1540,7 +1556,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00DBA21117FE",
     "Platform": "XB",
-    "Timestamp": 1713217367,
+    "Timestamp": 1713217367000,
     "Correctly Prefixed": true
   },
   {
@@ -1548,7 +1564,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00DCA21117FE",
     "Platform": "XB",
-    "Timestamp": 1713222260,
+    "Timestamp": 1713222260000,
     "Correctly Prefixed": true
   },
   {
@@ -1556,7 +1572,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00DDA21117FE",
     "Platform": "ST",
-    "Timestamp": 1711702508,
+    "Timestamp": 1711702508000,
     "Correctly Prefixed": true
   },
   {
@@ -1564,7 +1580,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00DEA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712607628,
+    "Timestamp": 1712607628000,
     "Correctly Prefixed": true
   },
   {
@@ -1572,7 +1588,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00DFA21117FE",
     "Platform": "ST",
-    "Timestamp": 1709410678,
+    "Timestamp": 1709410678000,
     "Correctly Prefixed": true
   },
   {
@@ -1580,7 +1596,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00E0A21117FE",
     "Platform": "XB",
-    "Timestamp": 1713216706,
+    "Timestamp": 1713216706000,
     "Correctly Prefixed": true
   },
   {
@@ -1588,7 +1604,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00E1A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698496396,
+    "Timestamp": 1698496396000,
     "Correctly Prefixed": true
   },
   {
@@ -1596,7 +1612,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00E2A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712902004,
+    "Timestamp": 1712902004000,
     "Correctly Prefixed": true
   },
   {
@@ -1604,7 +1620,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00E3A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698411303,
+    "Timestamp": 1698411303000,
     "Correctly Prefixed": true
   },
   {
@@ -1612,7 +1628,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00E4A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712781305,
+    "Timestamp": 1712781305000,
     "Correctly Prefixed": true
   },
   {
@@ -1620,7 +1636,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00E5A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698175567,
+    "Timestamp": 1698175567000,
     "Correctly Prefixed": true
   },
   {
@@ -1628,7 +1644,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00E6A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698166827,
+    "Timestamp": 1698166827000,
     "Correctly Prefixed": true
   },
   {
@@ -1636,7 +1652,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00E7A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712780873,
+    "Timestamp": 1712780873000,
     "Correctly Prefixed": true
   },
   {
@@ -1644,7 +1660,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00E8A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698070128,
+    "Timestamp": 1698070128000,
     "Correctly Prefixed": true
   },
   {
@@ -1652,7 +1668,7 @@
     "Discoverer": "enrasilver1108",
     "Glyphs": "00E9A21117FE",
     "Platform": "PS",
-    "Timestamp": 1696081152,
+    "Timestamp": 1696081152000,
     "Correctly Prefixed": true
   },
   {
@@ -1660,7 +1676,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00EAA21117FE",
     "Platform": "ST",
-    "Timestamp": 1710621498,
+    "Timestamp": 1710621498000,
     "Correctly Prefixed": true
   },
   {
@@ -1668,7 +1684,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00EBA21117FE",
     "Platform": "ST",
-    "Timestamp": 1697915703,
+    "Timestamp": 1697915703000,
     "Correctly Prefixed": true
   },
   {
@@ -1676,7 +1692,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00ECA21117FE",
     "Platform": "ST",
-    "Timestamp": 1703265860,
+    "Timestamp": 1703265860000,
     "Correctly Prefixed": true
   },
   {
@@ -1684,7 +1700,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00EDA21117FE",
     "Platform": "ST",
-    "Timestamp": 1697914894,
+    "Timestamp": 1697914894000,
     "Correctly Prefixed": true
   },
   {
@@ -1692,7 +1708,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00EEA21117FE",
     "Platform": "XB",
-    "Timestamp": 1713223549,
+    "Timestamp": 1713223549000,
     "Correctly Prefixed": true
   },
   {
@@ -1700,7 +1716,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00F1A21117FE",
     "Platform": "ST",
-    "Timestamp": 1703264273,
+    "Timestamp": 1703264273000,
     "Correctly Prefixed": true
   },
   {
@@ -1708,7 +1724,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00F2A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712171147,
+    "Timestamp": 1712171147000,
     "Correctly Prefixed": true
   },
   {
@@ -1716,7 +1732,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00F4A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697967185,
+    "Timestamp": 1697967185000,
     "Correctly Prefixed": true
   },
   {
@@ -1724,7 +1740,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00F5A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698506350,
+    "Timestamp": 1698506350000,
     "Correctly Prefixed": true
   },
   {
@@ -1732,7 +1748,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00F6A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698066974,
+    "Timestamp": 1698066974000,
     "Correctly Prefixed": true
   },
   {
@@ -1740,7 +1756,7 @@
     "Discoverer": "iggdawg",
     "Glyphs": "00F8A21117FE",
     "Platform": "ST",
-    "Timestamp": 1707935653,
+    "Timestamp": 1707935653000,
     "Correctly Prefixed": true
   },
   {
@@ -1748,7 +1764,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00F9A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712781212,
+    "Timestamp": 1712781212000,
     "Correctly Prefixed": true
   },
   {
@@ -1756,7 +1772,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00FAA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698068275,
+    "Timestamp": 1698068275000,
     "Correctly Prefixed": true
   },
   {
@@ -1764,7 +1780,7 @@
     "Discoverer": "iggdawg",
     "Glyphs": "00FBA21117FE",
     "Platform": "ST",
-    "Timestamp": 1709315017,
+    "Timestamp": 1709315017000,
     "Correctly Prefixed": true
   },
   {
@@ -1772,7 +1788,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00FCA21117FE",
     "Platform": "ST",
-    "Timestamp": 1697983472,
+    "Timestamp": 1697983472000,
     "Correctly Prefixed": true
   },
   {
@@ -1780,7 +1796,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00FDA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712783462,
+    "Timestamp": 1712783462000,
     "Correctly Prefixed": true
   },
   {
@@ -1788,7 +1804,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "00FEA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712644108,
+    "Timestamp": 1712644108000,
     "Correctly Prefixed": true
   },
   {
@@ -1796,7 +1812,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "00FFA21117FE",
     "Platform": "ST",
-    "Timestamp": 1710542648,
+    "Timestamp": 1710542648000,
     "Correctly Prefixed": true
   },
   {
@@ -1804,7 +1820,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0100A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697968626,
+    "Timestamp": 1697968626000,
     "Correctly Prefixed": true
   },
   {
@@ -1812,7 +1828,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0101A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712113020,
+    "Timestamp": 1712113020000,
     "Correctly Prefixed": true
   },
   {
@@ -1820,7 +1836,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0103A21117FE",
     "Platform": "XB",
-    "Timestamp": 1713783463,
+    "Timestamp": 1713783463000,
     "Correctly Prefixed": true
   },
   {
@@ -1828,7 +1844,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0104A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712473733,
+    "Timestamp": 1712473733000,
     "Correctly Prefixed": true
   },
   {
@@ -1836,7 +1852,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0105A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698348584,
+    "Timestamp": 1698348584000,
     "Correctly Prefixed": true
   },
   {
@@ -1844,7 +1860,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0106A21117FE",
     "Platform": "ST",
-    "Timestamp": 1710541639,
+    "Timestamp": 1710541639000,
     "Correctly Prefixed": true
   },
   {
@@ -1852,7 +1868,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0107A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712901853,
+    "Timestamp": 1712901853000,
     "Correctly Prefixed": true
   },
   {
@@ -1860,7 +1876,7 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "0108A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698353328,
+    "Timestamp": 1698353328000,
     "Correctly Prefixed": true
   },
   {
@@ -1868,7 +1884,7 @@
     "Discoverer": "Ak187",
     "Glyphs": "0109A21117FE",
     "Platform": "PS",
-    "Timestamp": 1700346719,
+    "Timestamp": 1700346719000,
     "Correctly Prefixed": false
   },
   {
@@ -1876,7 +1892,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "010AA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698506496,
+    "Timestamp": 1698506496000,
     "Correctly Prefixed": true
   },
   {
@@ -1884,7 +1900,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "010BA21117FE",
     "Platform": "XB",
-    "Timestamp": 1713780354,
+    "Timestamp": 1713780354000,
     "Correctly Prefixed": true
   },
   {
@@ -1892,7 +1908,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "010DA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698586199,
+    "Timestamp": 1698586199000,
     "Correctly Prefixed": true
   },
   {
@@ -1900,7 +1916,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "010EA21117FE",
     "Platform": "XB",
-    "Timestamp": 1713217662,
+    "Timestamp": 1713217662000,
     "Correctly Prefixed": false
   },
   {
@@ -1908,7 +1924,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "010FA21117FE",
     "Platform": "ST",
-    "Timestamp": 1710544733,
+    "Timestamp": 1710544733000,
     "Correctly Prefixed": true
   },
   {
@@ -1916,7 +1932,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0110A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698766365,
+    "Timestamp": 1698766365000,
     "Correctly Prefixed": true
   },
   {
@@ -1924,7 +1940,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0111A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698070678,
+    "Timestamp": 1698070678000,
     "Correctly Prefixed": true
   },
   {
@@ -1932,7 +1948,7 @@
     "Discoverer": "admiraldeannadark",
     "Glyphs": "0112A21117FE",
     "Platform": "ST",
-    "Timestamp": 1695800264,
+    "Timestamp": 1695800264000,
     "Correctly Prefixed": true
   },
   {
@@ -1940,7 +1956,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0113A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712883373,
+    "Timestamp": 1712883373000,
     "Correctly Prefixed": true
   },
   {
@@ -1948,7 +1964,15 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0114A21117FE",
     "Platform": "XB",
-    "Timestamp": 1709339232,
+    "Timestamp": 1709339232000,
+    "Correctly Prefixed": true
+  },
+  {
+    "Name": "EV7-116 Uigang-Iwa",
+    "Discoverer": "McJoxen",
+    "Glyphs": "0116A21117FE",
+    "Platform": "PS",
+    "Timestamp": 1716440764000,
     "Correctly Prefixed": true
   },
   {
@@ -1956,7 +1980,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0117A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698511654,
+    "Timestamp": 1698511654000,
     "Correctly Prefixed": true
   },
   {
@@ -1964,7 +1988,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0118A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712557672,
+    "Timestamp": 1712557672000,
     "Correctly Prefixed": true
   },
   {
@@ -1972,7 +1996,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "011AA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698263255,
+    "Timestamp": 1698263255000,
     "Correctly Prefixed": true
   },
   {
@@ -1980,7 +2004,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "011BA21117FE",
     "Platform": "XB",
-    "Timestamp": 1713780026,
+    "Timestamp": 1713780026000,
     "Correctly Prefixed": true
   },
   {
@@ -1988,7 +2012,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "011CA21117FE",
     "Platform": "ST",
-    "Timestamp": 1697915576,
+    "Timestamp": 1697915576000,
     "Correctly Prefixed": true
   },
   {
@@ -1996,7 +2020,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "011DA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698335129,
+    "Timestamp": 1698335129000,
     "Correctly Prefixed": true
   },
   {
@@ -2004,7 +2028,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "011EA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698350220,
+    "Timestamp": 1698350220000,
     "Correctly Prefixed": true
   },
   {
@@ -2012,7 +2036,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "011FA21117FE",
     "Platform": "ST",
-    "Timestamp": 1710621202,
+    "Timestamp": 1710621202000,
     "Correctly Prefixed": true
   },
   {
@@ -2020,7 +2044,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0120A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698408830,
+    "Timestamp": 1698408830000,
     "Correctly Prefixed": true
   },
   {
@@ -2028,7 +2052,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "0121A21117FE",
     "Platform": "XB",
-    "Timestamp": 1698759898,
+    "Timestamp": 1698759898000,
     "Correctly Prefixed": true
   },
   {
@@ -2036,7 +2060,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0122A21117FE",
     "Platform": "ST",
-    "Timestamp": 1710541761,
+    "Timestamp": 1710541761000,
     "Correctly Prefixed": true
   },
   {
@@ -2044,7 +2068,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0123A21117FE",
     "Platform": "XB",
-    "Timestamp": 1713216663,
+    "Timestamp": 1713216663000,
     "Correctly Prefixed": true
   },
   {
@@ -2052,7 +2076,7 @@
     "Discoverer": "iggdawg",
     "Glyphs": "0124A21117FE",
     "Platform": "ST",
-    "Timestamp": 1709314251,
+    "Timestamp": 1709314251000,
     "Correctly Prefixed": true
   },
   {
@@ -2060,7 +2084,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0125A21117FE",
     "Platform": "ST",
-    "Timestamp": 1710621118,
+    "Timestamp": 1710621118000,
     "Correctly Prefixed": true
   },
   {
@@ -2068,7 +2092,7 @@
     "Discoverer": "iggdawg",
     "Glyphs": "0126A21117FE",
     "Platform": "ST",
-    "Timestamp": 1709313639,
+    "Timestamp": 1709313639000,
     "Correctly Prefixed": true
   },
   {
@@ -2076,7 +2100,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0127A21117FE",
     "Platform": "ST",
-    "Timestamp": 1710620998,
+    "Timestamp": 1710620998000,
     "Correctly Prefixed": true
   },
   {
@@ -2084,7 +2108,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0128A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697913796,
+    "Timestamp": 1697913796000,
     "Correctly Prefixed": true
   },
   {
@@ -2092,7 +2116,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0129A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712982490,
+    "Timestamp": 1712982490000,
     "Correctly Prefixed": true
   },
   {
@@ -2100,7 +2124,7 @@
     "Discoverer": "Ak187",
     "Glyphs": "012AA21117FE",
     "Platform": "PS",
-    "Timestamp": 1700221864,
+    "Timestamp": 1700221864000,
     "Correctly Prefixed": false
   },
   {
@@ -2108,7 +2132,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "012BA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698507681,
+    "Timestamp": 1698507681000,
     "Correctly Prefixed": true
   },
   {
@@ -2116,7 +2140,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "012CA21117FE",
     "Platform": "XB",
-    "Timestamp": 1698759164,
+    "Timestamp": 1698759164000,
     "Correctly Prefixed": true
   },
   {
@@ -2124,7 +2148,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "012DA21117FE",
     "Platform": "ST",
-    "Timestamp": 1710620806,
+    "Timestamp": 1710620806000,
     "Correctly Prefixed": true
   },
   {
@@ -2132,7 +2156,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "012FA21117FE",
     "Platform": "XB",
-    "Timestamp": 1699817359,
+    "Timestamp": 1699817359000,
     "Correctly Prefixed": true
   },
   {
@@ -2140,7 +2164,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0130A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712884306,
+    "Timestamp": 1712884306000,
     "Correctly Prefixed": true
   },
   {
@@ -2148,7 +2172,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "0133A21117FE",
     "Platform": "XB",
-    "Timestamp": 1698760373,
+    "Timestamp": 1698760373000,
     "Correctly Prefixed": true
   },
   {
@@ -2156,7 +2180,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0134A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712097403,
+    "Timestamp": 1712097403000,
     "Correctly Prefixed": true
   },
   {
@@ -2164,7 +2188,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0135A21117FE",
     "Platform": "ST",
-    "Timestamp": 1710542539,
+    "Timestamp": 1710542539000,
     "Correctly Prefixed": true
   },
   {
@@ -2172,7 +2196,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0136A21117FE",
     "Platform": "ST",
-    "Timestamp": 1710541541,
+    "Timestamp": 1710541541000,
     "Correctly Prefixed": true
   },
   {
@@ -2180,7 +2204,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0137A21117FE",
     "Platform": "ST",
-    "Timestamp": 1700064417,
+    "Timestamp": 1700064417000,
     "Correctly Prefixed": true
   },
   {
@@ -2188,7 +2212,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0138A21117FE",
     "Platform": "ST",
-    "Timestamp": 1710620912,
+    "Timestamp": 1710620912000,
     "Correctly Prefixed": true
   },
   {
@@ -2196,7 +2220,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "0139A21117FE",
     "Platform": "XB",
-    "Timestamp": 1698759599,
+    "Timestamp": 1698759599000,
     "Correctly Prefixed": true
   },
   {
@@ -2204,7 +2228,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "013AA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712781755,
+    "Timestamp": 1712781755000,
     "Correctly Prefixed": true
   },
   {
@@ -2212,7 +2236,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "013BA21117FE",
     "Platform": "XB",
-    "Timestamp": 1698758337,
+    "Timestamp": 1698758337000,
     "Correctly Prefixed": true
   },
   {
@@ -2220,7 +2244,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "013CA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698069112,
+    "Timestamp": 1698069112000,
     "Correctly Prefixed": true
   },
   {
@@ -2228,7 +2252,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "013DA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712781541,
+    "Timestamp": 1712781541000,
     "Correctly Prefixed": false
   },
   {
@@ -2236,7 +2260,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "013EA21117FE",
     "Platform": "XB",
-    "Timestamp": 1713217793,
+    "Timestamp": 1713217793000,
     "Correctly Prefixed": true
   },
   {
@@ -2244,7 +2268,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "013FA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712436035,
+    "Timestamp": 1712436035000,
     "Correctly Prefixed": true
   },
   {
@@ -2252,7 +2276,7 @@
     "Discoverer": "admiraldeannadark",
     "Glyphs": "0140A21117FE",
     "Platform": "ST",
-    "Timestamp": 1696008085,
+    "Timestamp": 1696008085000,
     "Correctly Prefixed": true
   },
   {
@@ -2260,7 +2284,7 @@
     "Discoverer": "enrasilver1108",
     "Glyphs": "0143A21117FE",
     "Platform": "PS",
-    "Timestamp": 1696080424,
+    "Timestamp": 1696080424000,
     "Correctly Prefixed": true
   },
   {
@@ -2268,7 +2292,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "0146A21117FE",
     "Platform": "XB",
-    "Timestamp": 1698760442,
+    "Timestamp": 1698760442000,
     "Correctly Prefixed": true
   },
   {
@@ -2276,7 +2300,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0147A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697885903,
+    "Timestamp": 1697885903000,
     "Correctly Prefixed": true
   },
   {
@@ -2284,7 +2308,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "0148A21117FE",
     "Platform": "XB",
-    "Timestamp": 1698760033,
+    "Timestamp": 1698760033000,
     "Correctly Prefixed": true
   },
   {
@@ -2292,7 +2316,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0149A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698575721,
+    "Timestamp": 1698575721000,
     "Correctly Prefixed": true
   },
   {
@@ -2300,7 +2324,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "014BA21117FE",
     "Platform": "XB",
-    "Timestamp": 1698760915,
+    "Timestamp": 1698760915000,
     "Correctly Prefixed": true
   },
   {
@@ -2308,7 +2332,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "014CA21117FE",
     "Platform": "ST",
-    "Timestamp": 1710541445,
+    "Timestamp": 1710541445000,
     "Correctly Prefixed": true
   },
   {
@@ -2316,7 +2340,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "014DA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698506938,
+    "Timestamp": 1698506938000,
     "Correctly Prefixed": true
   },
   {
@@ -2324,7 +2348,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "014EA21117FE",
     "Platform": "ST",
-    "Timestamp": 1709409225,
+    "Timestamp": 1709409225000,
     "Correctly Prefixed": true
   },
   {
@@ -2332,7 +2356,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "014FA21117FE",
     "Platform": "ST",
-    "Timestamp": 1697913336,
+    "Timestamp": 1697913336000,
     "Correctly Prefixed": true
   },
   {
@@ -2340,7 +2364,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "0150A21117FE",
     "Platform": "XB",
-    "Timestamp": 1698759505,
+    "Timestamp": 1698759505000,
     "Correctly Prefixed": true
   },
   {
@@ -2348,7 +2372,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0151A21117FE",
     "Platform": "ST",
-    "Timestamp": 1708882334,
+    "Timestamp": 1708882334000,
     "Correctly Prefixed": true
   },
   {
@@ -2356,7 +2380,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "0152A21117FE",
     "Platform": "XB",
-    "Timestamp": 1698784818,
+    "Timestamp": 1698784818000,
     "Correctly Prefixed": true
   },
   {
@@ -2364,7 +2388,7 @@
     "Discoverer": "Angel of the wired",
     "Glyphs": "0153A21117FE",
     "Platform": "ST",
-    "Timestamp": 1696269993,
+    "Timestamp": 1696269993000,
     "Correctly Prefixed": false
   },
   {
@@ -2372,7 +2396,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0154A21117FE",
     "Platform": "XB",
-    "Timestamp": 1709526356,
+    "Timestamp": 1709526356000,
     "Correctly Prefixed": true
   },
   {
@@ -2380,7 +2404,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0155A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712556358,
+    "Timestamp": 1712556358000,
     "Correctly Prefixed": true
   },
   {
@@ -2388,7 +2412,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0157A21117FE",
     "Platform": "XB",
-    "Timestamp": 1709338709,
+    "Timestamp": 1709338709000,
     "Correctly Prefixed": true
   },
   {
@@ -2396,7 +2420,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0159A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712116824,
+    "Timestamp": 1712116824000,
     "Correctly Prefixed": true
   },
   {
@@ -2404,7 +2428,7 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "015AA21117FE",
     "Platform": "PS",
-    "Timestamp": 1697685859,
+    "Timestamp": 1697685859000,
     "Correctly Prefixed": true
   },
   {
@@ -2412,7 +2436,7 @@
     "Discoverer": "admiraldeannadark",
     "Glyphs": "015BA21117FE",
     "Platform": "ST",
-    "Timestamp": 1695799881,
+    "Timestamp": 1695799881000,
     "Correctly Prefixed": true
   },
   {
@@ -2420,7 +2444,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "015CA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712557044,
+    "Timestamp": 1712557044000,
     "Correctly Prefixed": true
   },
   {
@@ -2428,7 +2452,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "015DA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712436360,
+    "Timestamp": 1712436360000,
     "Correctly Prefixed": true
   },
   {
@@ -2436,7 +2460,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "015FA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712983999,
+    "Timestamp": 1712983999000,
     "Correctly Prefixed": true
   },
   {
@@ -2444,7 +2468,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0160A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712775876,
+    "Timestamp": 1712775876000,
     "Correctly Prefixed": true
   },
   {
@@ -2452,7 +2476,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0162A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697892558,
+    "Timestamp": 1697892558000,
     "Correctly Prefixed": true
   },
   {
@@ -2460,7 +2484,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "0163A21117FE",
     "Platform": "XB",
-    "Timestamp": 1698759829,
+    "Timestamp": 1698759829000,
     "Correctly Prefixed": true
   },
   {
@@ -2468,7 +2492,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "0164A21117FE",
     "Platform": "XB",
-    "Timestamp": 1698760981,
+    "Timestamp": 1698760981000,
     "Correctly Prefixed": true
   },
   {
@@ -2476,7 +2500,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0165A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712472497,
+    "Timestamp": 1712472497000,
     "Correctly Prefixed": true
   },
   {
@@ -2484,7 +2508,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0166A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712983610,
+    "Timestamp": 1712983610000,
     "Correctly Prefixed": true
   },
   {
@@ -2492,7 +2516,7 @@
     "Discoverer": "aragunde",
     "Glyphs": "0167A21117FE",
     "Platform": "ST",
-    "Timestamp": 1700166940,
+    "Timestamp": 1700166940000,
     "Correctly Prefixed": false
   },
   {
@@ -2500,7 +2524,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0168A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712982579,
+    "Timestamp": 1712982579000,
     "Correctly Prefixed": true
   },
   {
@@ -2508,7 +2532,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0169A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698851167,
+    "Timestamp": 1698851167000,
     "Correctly Prefixed": true
   },
   {
@@ -2516,7 +2540,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "016AA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698512151,
+    "Timestamp": 1698512151000,
     "Correctly Prefixed": true
   },
   {
@@ -2524,7 +2548,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "016BA21117FE",
     "Platform": "XB",
-    "Timestamp": 1698758798,
+    "Timestamp": 1698758798000,
     "Correctly Prefixed": true
   },
   {
@@ -2532,7 +2556,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "016DA21117FE",
     "Platform": "XB",
-    "Timestamp": 1698759056,
+    "Timestamp": 1698759056000,
     "Correctly Prefixed": true
   },
   {
@@ -2540,7 +2564,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "016EA21117FE",
     "Platform": "XB",
-    "Timestamp": 1713777312,
+    "Timestamp": 1713777312000,
     "Correctly Prefixed": true
   },
   {
@@ -2548,7 +2572,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "016FA21117FE",
     "Platform": "XB",
-    "Timestamp": 1709423127,
+    "Timestamp": 1709423127000,
     "Correctly Prefixed": true
   },
   {
@@ -2556,7 +2580,7 @@
     "Discoverer": "WraithRaptor",
     "Glyphs": "0171A21117FE",
     "Platform": "GX",
-    "Timestamp": 1707933504,
+    "Timestamp": 1707933504000,
     "Correctly Prefixed": true
   },
   {
@@ -2564,7 +2588,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0172A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712776663,
+    "Timestamp": 1712776663000,
     "Correctly Prefixed": true
   },
   {
@@ -2572,7 +2596,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0173A21117FE",
     "Platform": "XB",
-    "Timestamp": 1713774580,
+    "Timestamp": 1713774580000,
     "Correctly Prefixed": true
   },
   {
@@ -2580,7 +2604,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "0174A21117FE",
     "Platform": "XB",
-    "Timestamp": 1698759967,
+    "Timestamp": 1698759967000,
     "Correctly Prefixed": true
   },
   {
@@ -2588,7 +2612,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0176A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697887674,
+    "Timestamp": 1697887674000,
     "Correctly Prefixed": true
   },
   {
@@ -2596,7 +2620,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0178A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697889108,
+    "Timestamp": 1697889108000,
     "Correctly Prefixed": true
   },
   {
@@ -2604,7 +2628,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "0179A21117FE",
     "Platform": "ST",
-    "Timestamp": 1697893783,
+    "Timestamp": 1697893783000,
     "Correctly Prefixed": true
   },
   {
@@ -2612,7 +2636,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "017BA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712783361,
+    "Timestamp": 1712783361000,
     "Correctly Prefixed": true
   },
   {
@@ -2620,7 +2644,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "017CA21117FE",
     "Platform": "XB",
-    "Timestamp": 1698761299,
+    "Timestamp": 1698761299000,
     "Correctly Prefixed": true
   },
   {
@@ -2628,7 +2652,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "017DA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712290173,
+    "Timestamp": 1712290173000,
     "Correctly Prefixed": true
   },
   {
@@ -2636,7 +2660,7 @@
     "Discoverer": "Conte Mascetti",
     "Glyphs": "017EA21117FE",
     "Platform": "ST",
-    "Timestamp": 1712503570,
+    "Timestamp": 1712503570000,
     "Correctly Prefixed": false
   },
   {
@@ -2644,7 +2668,7 @@
     "Discoverer": "tenaus",
     "Glyphs": "017FA21117FE",
     "Platform": "ST",
-    "Timestamp": 1699230821,
+    "Timestamp": 1699230821000,
     "Correctly Prefixed": false
   },
   {
@@ -2652,7 +2676,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "0181A21117FE",
     "Platform": "XB",
-    "Timestamp": 1698785242,
+    "Timestamp": 1698785242000,
     "Correctly Prefixed": true
   },
   {
@@ -2660,7 +2684,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0183A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712557229,
+    "Timestamp": 1712557229000,
     "Correctly Prefixed": true
   },
   {
@@ -2668,7 +2692,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0185A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712202641,
+    "Timestamp": 1712202641000,
     "Correctly Prefixed": true
   },
   {
@@ -2676,7 +2700,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0186A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712117094,
+    "Timestamp": 1712117094000,
     "Correctly Prefixed": true
   },
   {
@@ -2684,7 +2708,7 @@
     "Discoverer": "admiraldeannadark",
     "Glyphs": "0188A21117FE",
     "Platform": "ST",
-    "Timestamp": 1695798266,
+    "Timestamp": 1695798266000,
     "Correctly Prefixed": true
   },
   {
@@ -2692,7 +2716,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "018AA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712113880,
+    "Timestamp": 1712113880000,
     "Correctly Prefixed": true
   },
   {
@@ -2700,7 +2724,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "018BA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712984094,
+    "Timestamp": 1712984094000,
     "Correctly Prefixed": true
   },
   {
@@ -2708,7 +2732,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "018CA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712282823,
+    "Timestamp": 1712282823000,
     "Correctly Prefixed": true
   },
   {
@@ -2716,7 +2740,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "018DA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712782083,
+    "Timestamp": 1712782083000,
     "Correctly Prefixed": true
   },
   {
@@ -2724,7 +2748,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "018FA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712113604,
+    "Timestamp": 1712113604000,
     "Correctly Prefixed": true
   },
   {
@@ -2732,7 +2756,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0190A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712437769,
+    "Timestamp": 1712437769000,
     "Correctly Prefixed": true
   },
   {
@@ -2740,7 +2764,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "0194A21117FE",
     "Platform": "XB",
-    "Timestamp": 1698761142,
+    "Timestamp": 1698761142000,
     "Correctly Prefixed": true
   },
   {
@@ -2748,7 +2772,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "0196A21117FE",
     "Platform": "XB",
-    "Timestamp": 1698761372,
+    "Timestamp": 1698761372000,
     "Correctly Prefixed": true
   },
   {
@@ -2756,7 +2780,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "0197A21117FE",
     "Platform": "XB",
-    "Timestamp": 1698761631,
+    "Timestamp": 1698761631000,
     "Correctly Prefixed": true
   },
   {
@@ -2764,7 +2788,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "0199A21117FE",
     "Platform": "XB",
-    "Timestamp": 1699057899,
+    "Timestamp": 1699057899000,
     "Correctly Prefixed": true
   },
   {
@@ -2772,7 +2796,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "019AA21117FE",
     "Platform": "XB",
-    "Timestamp": 1698761715,
+    "Timestamp": 1698761715000,
     "Correctly Prefixed": true
   },
   {
@@ -2780,7 +2804,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "019CA21117FE",
     "Platform": "XB",
-    "Timestamp": 1698785146,
+    "Timestamp": 1698785146000,
     "Correctly Prefixed": true
   },
   {
@@ -2788,7 +2812,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "019DA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712781640,
+    "Timestamp": 1712781640000,
     "Correctly Prefixed": true
   },
   {
@@ -2796,7 +2820,7 @@
     "Discoverer": "admiraldeannadark",
     "Glyphs": "019EA21117FE",
     "Platform": "ST",
-    "Timestamp": 1695801131,
+    "Timestamp": 1695801131000,
     "Correctly Prefixed": true
   },
   {
@@ -2804,7 +2828,7 @@
     "Discoverer": "admiraldeannadark",
     "Glyphs": "019FA21117FE",
     "Platform": "ST",
-    "Timestamp": 1696008848,
+    "Timestamp": 1696008848000,
     "Correctly Prefixed": true
   },
   {
@@ -2812,7 +2836,7 @@
     "Discoverer": "admiraldeannadark",
     "Glyphs": "01A0A21117FE",
     "Platform": "ST",
-    "Timestamp": 1696008485,
+    "Timestamp": 1696008485000,
     "Correctly Prefixed": true
   },
   {
@@ -2820,7 +2844,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01A1A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712883902,
+    "Timestamp": 1712883902000,
     "Correctly Prefixed": true
   },
   {
@@ -2828,7 +2852,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01A2A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712983960,
+    "Timestamp": 1712983960000,
     "Correctly Prefixed": true
   },
   {
@@ -2836,7 +2860,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01A4A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712901348,
+    "Timestamp": 1712901348000,
     "Correctly Prefixed": true
   },
   {
@@ -2844,7 +2868,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "01A5A21117FE",
     "Platform": "ST",
-    "Timestamp": 1709409502,
+    "Timestamp": 1709409502000,
     "Correctly Prefixed": true
   },
   {
@@ -2852,7 +2876,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "01A6A21117FE",
     "Platform": "XB",
-    "Timestamp": 1698783837,
+    "Timestamp": 1698783837000,
     "Correctly Prefixed": true
   },
   {
@@ -2860,7 +2884,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "01A7A21117FE",
     "Platform": "XB",
-    "Timestamp": 1699040459,
+    "Timestamp": 1699040459000,
     "Correctly Prefixed": true
   },
   {
@@ -2868,7 +2892,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01A9A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712209374,
+    "Timestamp": 1712209374000,
     "Correctly Prefixed": true
   },
   {
@@ -2876,7 +2900,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "01AAA21117FE",
     "Platform": "XB",
-    "Timestamp": 1698784972,
+    "Timestamp": 1698784972000,
     "Correctly Prefixed": true
   },
   {
@@ -2884,7 +2908,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "01ABA21117FE",
     "Platform": "XB",
-    "Timestamp": 1698785068,
+    "Timestamp": 1698785068000,
     "Correctly Prefixed": true
   },
   {
@@ -2892,7 +2916,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01ADA21117FE",
     "Platform": "XB",
-    "Timestamp": 1713777473,
+    "Timestamp": 1713777473000,
     "Correctly Prefixed": true
   },
   {
@@ -2900,7 +2924,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01AFA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712562953,
+    "Timestamp": 1712562953000,
     "Correctly Prefixed": true
   },
   {
@@ -2908,7 +2932,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01B0A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712884627,
+    "Timestamp": 1712884627000,
     "Correctly Prefixed": true
   },
   {
@@ -2916,7 +2940,7 @@
     "Discoverer": "Goose of the wired",
     "Glyphs": "01B4A21117FE",
     "Platform": "ST",
-    "Timestamp": 1695845768,
+    "Timestamp": 1695845768000,
     "Correctly Prefixed": true
   },
   {
@@ -2924,7 +2948,7 @@
     "Discoverer": "Goose of the wired",
     "Glyphs": "01B5A21117FE",
     "Platform": "ST",
-    "Timestamp": 1695760287,
+    "Timestamp": 1695760287000,
     "Correctly Prefixed": true
   },
   {
@@ -2932,7 +2956,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "01B7A21117FE",
     "Platform": "XB",
-    "Timestamp": 1698761072,
+    "Timestamp": 1698761072000,
     "Correctly Prefixed": true
   },
   {
@@ -2940,7 +2964,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01B9A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712782174,
+    "Timestamp": 1712782174000,
     "Correctly Prefixed": true
   },
   {
@@ -2948,7 +2972,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "01BAA21117FE",
     "Platform": "XB",
-    "Timestamp": 1698784608,
+    "Timestamp": 1698784608000,
     "Correctly Prefixed": true
   },
   {
@@ -2956,7 +2980,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01BBA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712113384,
+    "Timestamp": 1712113384000,
     "Correctly Prefixed": true
   },
   {
@@ -2964,7 +2988,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "01BCA21117FE",
     "Platform": "XB",
-    "Timestamp": 1698758921,
+    "Timestamp": 1698758921000,
     "Correctly Prefixed": true
   },
   {
@@ -2972,7 +2996,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "01BDA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698508437,
+    "Timestamp": 1698508437000,
     "Correctly Prefixed": true
   },
   {
@@ -2980,7 +3004,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01BEA21117FE",
     "Platform": "XB",
-    "Timestamp": 1713220276,
+    "Timestamp": 1713220276000,
     "Correctly Prefixed": true
   },
   {
@@ -2988,7 +3012,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01C1A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712557461,
+    "Timestamp": 1712557461000,
     "Correctly Prefixed": true
   },
   {
@@ -2996,7 +3020,7 @@
     "Discoverer": "admiraldeannadark",
     "Glyphs": "01C2A21117FE",
     "Platform": "ST",
-    "Timestamp": 1695798964,
+    "Timestamp": 1695798964000,
     "Correctly Prefixed": true
   },
   {
@@ -3004,7 +3028,7 @@
     "Discoverer": "admiraldeannadark",
     "Glyphs": "01C4A21117FE",
     "Platform": "ST",
-    "Timestamp": 1695798696,
+    "Timestamp": 1695798696000,
     "Correctly Prefixed": true
   },
   {
@@ -3012,7 +3036,7 @@
     "Discoverer": "admiraldeannadark",
     "Glyphs": "01C6A21117FE",
     "Platform": "ST",
-    "Timestamp": 1695799422,
+    "Timestamp": 1695799422000,
     "Correctly Prefixed": true
   },
   {
@@ -3020,7 +3044,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01C7A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712563024,
+    "Timestamp": 1712563024000,
     "Correctly Prefixed": true
   },
   {
@@ -3028,7 +3052,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01CAA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712983828,
+    "Timestamp": 1712983828000,
     "Correctly Prefixed": true
   },
   {
@@ -3036,7 +3060,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "01CBA21117FE",
     "Platform": "ST",
-    "Timestamp": 1697888395,
+    "Timestamp": 1697888395000,
     "Correctly Prefixed": true
   },
   {
@@ -3044,7 +3068,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01CEA21117FE",
     "Platform": "XB",
-    "Timestamp": 1709337767,
+    "Timestamp": 1709337767000,
     "Correctly Prefixed": true
   },
   {
@@ -3052,7 +3076,7 @@
     "Discoverer": "Goose of the wired",
     "Glyphs": "01CFA21117FE",
     "Platform": "ST",
-    "Timestamp": 1695761158,
+    "Timestamp": 1695761158000,
     "Correctly Prefixed": true
   },
   {
@@ -3060,7 +3084,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01D0A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712983741,
+    "Timestamp": 1712983741000,
     "Correctly Prefixed": true
   },
   {
@@ -3068,7 +3092,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "01D3A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698588233,
+    "Timestamp": 1698588233000,
     "Correctly Prefixed": true
   },
   {
@@ -3076,7 +3100,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01D4A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712782257,
+    "Timestamp": 1712782257000,
     "Correctly Prefixed": true
   },
   {
@@ -3084,7 +3108,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "01D5A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698587459,
+    "Timestamp": 1698587459000,
     "Correctly Prefixed": true
   },
   {
@@ -3092,7 +3116,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "01D6A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698507881,
+    "Timestamp": 1698507881000,
     "Correctly Prefixed": true
   },
   {
@@ -3100,7 +3124,7 @@
     "Discoverer": "Damalvina",
     "Glyphs": "01D7A21117FE",
     "Platform": "ST",
-    "Timestamp": 1706964593,
+    "Timestamp": 1706964593000,
     "Correctly Prefixed": true
   },
   {
@@ -3108,7 +3132,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01D8A21117FE",
     "Platform": "XB",
-    "Timestamp": 1713215924,
+    "Timestamp": 1713215924000,
     "Correctly Prefixed": true
   },
   {
@@ -3116,7 +3140,7 @@
     "Discoverer": "aragunde",
     "Glyphs": "01DAA21117FE",
     "Platform": "ST",
-    "Timestamp": 1700345529,
+    "Timestamp": 1700345529000,
     "Correctly Prefixed": false
   },
   {
@@ -3124,7 +3148,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01DBA21117FE",
     "Platform": "XB",
-    "Timestamp": 1709338351,
+    "Timestamp": 1709338351000,
     "Correctly Prefixed": true
   },
   {
@@ -3132,7 +3156,7 @@
     "Discoverer": "admiraldeannadark",
     "Glyphs": "01DEA21117FE",
     "Platform": "ST",
-    "Timestamp": 1695801327,
+    "Timestamp": 1695801327000,
     "Correctly Prefixed": true
   },
   {
@@ -3140,7 +3164,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01E3A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712439046,
+    "Timestamp": 1712439046000,
     "Correctly Prefixed": true
   },
   {
@@ -3148,7 +3172,7 @@
     "Discoverer": "sskeen",
     "Glyphs": "01E5A21117FE",
     "Platform": "ST",
-    "Timestamp": 1696371408,
+    "Timestamp": 1696371408000,
     "Correctly Prefixed": false
   },
   {
@@ -3156,7 +3180,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01E6A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712782330,
+    "Timestamp": 1712782330000,
     "Correctly Prefixed": true
   },
   {
@@ -3164,7 +3188,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01E7A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712901469,
+    "Timestamp": 1712901469000,
     "Correctly Prefixed": true
   },
   {
@@ -3172,7 +3196,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01E8A21117FE",
     "Platform": "XB",
-    "Timestamp": 1713215996,
+    "Timestamp": 1713215996000,
     "Correctly Prefixed": true
   },
   {
@@ -3180,7 +3204,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "01E9A21117FE",
     "Platform": "ST",
-    "Timestamp": 1709409426,
+    "Timestamp": 1709409426000,
     "Correctly Prefixed": true
   },
   {
@@ -3188,7 +3212,7 @@
     "Discoverer": "Goose of the wired",
     "Glyphs": "01EFA21117FE",
     "Platform": "ST",
-    "Timestamp": 1695750538,
+    "Timestamp": 1695750538000,
     "Correctly Prefixed": false
   },
   {
@@ -3196,7 +3220,7 @@
     "Discoverer": "admiraldeannadark",
     "Glyphs": "01F3A21117FE",
     "Platform": "ST",
-    "Timestamp": 1695800575,
+    "Timestamp": 1695800575000,
     "Correctly Prefixed": true
   },
   {
@@ -3204,7 +3228,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01F6A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712766641,
+    "Timestamp": 1712766641000,
     "Correctly Prefixed": true
   },
   {
@@ -3212,7 +3236,7 @@
     "Discoverer": "Goose of the wired",
     "Glyphs": "01F7A21117FE",
     "Platform": "ST",
-    "Timestamp": 1695847774,
+    "Timestamp": 1695847774000,
     "Correctly Prefixed": true
   },
   {
@@ -3220,7 +3244,7 @@
     "Discoverer": "aragunde",
     "Glyphs": "01F9A21117FE",
     "Platform": "ST",
-    "Timestamp": 1700345513,
+    "Timestamp": 1700345513000,
     "Correctly Prefixed": false
   },
   {
@@ -3228,7 +3252,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "01FDA21117FE",
     "Platform": "XB",
-    "Timestamp": 1713220428,
+    "Timestamp": 1713220428000,
     "Correctly Prefixed": true
   },
   {
@@ -3236,7 +3260,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "01FEA21117FE",
     "Platform": "XB",
-    "Timestamp": 1698786333,
+    "Timestamp": 1698786333000,
     "Correctly Prefixed": true
   },
   {
@@ -3244,7 +3268,7 @@
     "Discoverer": "admiraldeannadark",
     "Glyphs": "0200A21117FE",
     "Platform": "ST",
-    "Timestamp": 1696007466,
+    "Timestamp": 1696007466000,
     "Correctly Prefixed": true
   },
   {
@@ -3252,7 +3276,7 @@
     "Discoverer": "admiraldeannadark",
     "Glyphs": "0201A21117FE",
     "Platform": "ST",
-    "Timestamp": 1695800818,
+    "Timestamp": 1695800818000,
     "Correctly Prefixed": true
   },
   {
@@ -3260,7 +3284,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "0203A21117FE",
     "Platform": "XB",
-    "Timestamp": 1712900603,
+    "Timestamp": 1712900603000,
     "Correctly Prefixed": true
   },
   {
@@ -3268,7 +3292,7 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "0208A21117FE",
     "Platform": "ST",
-    "Timestamp": 1698357540,
+    "Timestamp": 1698357540000,
     "Correctly Prefixed": true
   },
   {
@@ -3276,7 +3300,7 @@
     "Discoverer": "Lenni",
     "Glyphs": "020CA21117FE",
     "Platform": "ST",
-    "Timestamp": 1698524699,
+    "Timestamp": 1698524699000,
     "Correctly Prefixed": true
   },
   {
@@ -3284,7 +3308,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "020DA21117FE",
     "Platform": "XB",
-    "Timestamp": 1712645599,
+    "Timestamp": 1712645599000,
     "Correctly Prefixed": true
   },
   {
@@ -3292,7 +3316,7 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "020EA21117FE",
     "Platform": "XB",
-    "Timestamp": 1713216052,
+    "Timestamp": 1713216052000,
     "Correctly Prefixed": true
   },
   {
@@ -3300,7 +3324,7 @@
     "Discoverer": "DiceTronik",
     "Glyphs": "0210A21117FE",
     "Platform": "XB",
-    "Timestamp": 1698784737,
+    "Timestamp": 1698784737000,
     "Correctly Prefixed": true
   },
   {
@@ -3308,7 +3332,7 @@
     "Discoverer": "aragunde",
     "Glyphs": "0211A21117FE",
     "Platform": "ST",
-    "Timestamp": 1700158325,
+    "Timestamp": 1700158325000,
     "Correctly Prefixed": true
   }
 ]
