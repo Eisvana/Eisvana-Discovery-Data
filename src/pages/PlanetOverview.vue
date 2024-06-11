@@ -49,48 +49,63 @@ onMounted(async () => {
 
   <DiscoveryNote />
 
-  <QExpansionItem
-    :disable="!planetDetails.bases?.length"
-    :label="`Bases (${planetDetails.bases?.length})`"
-  >
-    <table class="striped">
-      <thead>
-        <tr>
-          <th>Name</th>
-          <th>Builder</th>
-          <th>Platform</th>
-          <th>Mode</th>
-          <th>Parts</th>
-          <th>Timestamp</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr v-for="base in planetDetails.bases">
-          <td>{{ base.Name }}</td>
-          <td>{{ base.Discoverer }}</td>
-          <td>{{ getPlatform(base.Platform) }}</td>
-          <td>{{ base.Gamemode }}</td>
-          <td>{{ base.Parts }}</td>
-          <td>{{ getFormattedUTCDateString(base.Timestamp) }}</td>
-        </tr>
-      </tbody>
-    </table>
-  </QExpansionItem>
-  <PlanetDetailsTable
-    :planetDetails="planetDetails.animals"
-    itemType="Creatures"
-  />
-  <PlanetDetailsTable
-    :planetDetails="planetDetails.flora"
-    itemType="Flora"
-  />
-  <PlanetDetailsTable
-    :planetDetails="planetDetails.minerals"
-    itemType="Minerals"
-  />
-  <PlanetDetailsTable
-    :headings="['Name', 'Overseer', 'Platform', 'Timestamp']"
-    :planetDetails="planetDetails.settlements"
-    itemType="Settlements"
-  />
+  <div class="table-list">
+    <QCard flat bordered>
+      <QExpansionItem
+        :disable="!planetDetails.bases?.length"
+        :label="`Bases (${planetDetails.bases?.length})`"
+      >
+        <QMarkupTable
+          class="text-left"
+          flat
+        >
+          <thead class="table-header">
+            <tr>
+              <th scope="col">Name</th>
+              <th scope="col">Builder</th>
+              <th scope="col">Platform</th>
+              <th scope="col">Mode</th>
+              <th scope="col">Parts</th>
+              <th scope="col">Timestamp</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr v-for="base in planetDetails.bases">
+              <td>{{ base.Name }}</td>
+              <td>{{ base.Discoverer }}</td>
+              <td>{{ getPlatform(base.Platform) }}</td>
+              <td>{{ base.Gamemode }}</td>
+              <td>{{ base.Parts }}</td>
+              <td>{{ getFormattedUTCDateString(base.Timestamp) }}</td>
+            </tr>
+          </tbody>
+        </QMarkupTable>
+      </QExpansionItem>
+    </QCard>
+    <PlanetDetailsTable
+      :planetDetails="planetDetails.animals"
+      itemType="Creatures"
+    />
+    <PlanetDetailsTable
+      :planetDetails="planetDetails.flora"
+      itemType="Flora"
+    />
+    <PlanetDetailsTable
+      :planetDetails="planetDetails.minerals"
+      itemType="Minerals"
+    />
+    <PlanetDetailsTable
+      :headings="['Name', 'Overseer', 'Platform', 'Timestamp']"
+      :planetDetails="planetDetails.settlements"
+      itemType="Settlements"
+    />
+  </div>
 </template>
+
+<style scoped lang="scss">
+.table-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+</style>

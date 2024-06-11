@@ -16,24 +16,35 @@ withDefaults(defineProps<Props>(), {
 </script>
 
 <template>
-  <QExpansionItem
-    :disable="!planetDetails.length"
-    :label="`${itemType} (${planetDetails.length})`"
-  >
-    <table class="striped">
-      <thead>
-        <tr>
-          <th v-for="heading in headings">{{ heading }}</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr v-for="item in planetDetails">
-          <td>{{ item.Name || 'unknown' }}</td>
-          <td>{{ item.Discoverer }}</td>
-          <td>{{ getPlatform(item.Platform) }}</td>
-          <td>{{ getFormattedUTCDateString(item.Timestamp) }}</td>
-        </tr>
-      </tbody>
-    </table>
-  </QExpansionItem>
+  <QCard flat bordered>
+    <QExpansionItem
+      :disable="!planetDetails.length"
+      :label="`${itemType} (${planetDetails.length})`"
+    >
+      <QMarkupTable
+        class="text-left"
+        flat
+      >
+        <thead class="table-header">
+          <tr>
+            <th
+              v-for="heading in headings"
+              class="text-left"
+              scope="col"
+            >
+              {{ heading }}
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr v-for="item in planetDetails">
+            <td :class="{ 'text-italic': !item.Name }">{{ item.Name || 'unknown (procedural name)' }}</td>
+            <td>{{ item.Discoverer }}</td>
+            <td>{{ getPlatform(item.Platform) }}</td>
+            <td>{{ getFormattedUTCDateString(item.Timestamp) }}</td>
+          </tr>
+        </tbody>
+      </QMarkupTable>
+    </QExpansionItem>
+  </QCard>
 </template>

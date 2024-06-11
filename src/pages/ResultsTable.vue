@@ -51,7 +51,7 @@ const columns = reactive([
     align: 'left',
     field: 'Name',
     format: (name: string) => name || 'Unknown (procedural name)',
-    classes: (row: DiscoveryData) => (row.Name ? '' : 'italic'),
+    classes: (row: DiscoveryData) => (row.Name ? '' : 'text-italic'),
   },
   {
     name: 'glyphs',
@@ -195,9 +195,5 @@ watchEffect(() => updateRequiredCols(currentItems.value));
 <style scoped lang="scss">
 :deep(.glyphs-cell) {
   font-size: 2rem;
-}
-
-:deep(.table-header th) {
-  font-weight: bold;
 }
 </style>
