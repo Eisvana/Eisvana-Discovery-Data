@@ -86,7 +86,7 @@ const columns = reactive([
     field: 'Correctly Prefixed',
     align: 'left',
     sortable: true,
-    format: (val: boolean | undefined) => (val === undefined ? '' : capitaliseFirst(val.toString())), // doing a comparison because `false` is a falsy value (obviously) and would therefore lead to some systems not showing their tagging status
+    format: (val: boolean | undefined) => (typeof val === 'boolean' ? capitaliseFirst(val.toString()) : ''), // doing a comparison because `false` is a falsy value (obviously) and would therefore lead to some systems not showing their tagging status
   },
   {
     name: 'fauna',
