@@ -38,7 +38,7 @@ watchDebounced(
     activePlatforms,
     activeCategories,
   ],
-  () => loadData(),
+  loadData,
   { deep: true, immediate: true, debounce: 500 }
 );
 
