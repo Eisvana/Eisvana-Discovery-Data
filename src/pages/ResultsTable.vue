@@ -5,25 +5,40 @@ import { useDataStore } from '@/stores/data';
 import type { DiscoveryData } from '@/types/data';
 import type { Platform } from '@/types/platform';
 import { storeToRefs } from 'pinia';
-import { computed, ref, reactive } from 'vue';
+import { computed, ref, reactive, watch, watchEffect } from 'vue';
 import type { QTableProps } from 'quasar';
+
+interface PaginationObject {
+  sortBy: string | null;
+  descending: boolean;
+  page: number;
+  rowsPerPage: number;
+  rowsNumber?: number;
+}
 
 const dataStore = useDataStore();
 const { filteredData, isLoading } = storeToRefs(dataStore);
 
 const capitaliseFirst = (str: string) => `${str.charAt(0).toUpperCase()}${str.slice(1)}`;
 
-const pagination = ref();
-
+const rowsPerPage = [10, 50, 100, 500, 1000, 0]; // NoSonar these show how many items are displayed on the page at once. The user can switch between them
 const requiredCols = ref(['name', 'glyphs', 'discoverer', 'platform', 'date']);
+
+const currentItems = ref<DiscoveryData[]>([]);
+const pagination = ref<PaginationObject>({
+  sortBy: null,
+  descending: false,
+  page: 1,
+  rowsPerPage: 50,
+});
 
 const discovererColName = computed(() => {
   const isBase = (item: DiscoveryData) => 'Parts' in item;
 
-  const allHaveBuilder = filteredData.value.some(isBase);
+  const allHaveBuilder = currentItems.value.every(isBase);
   if (allHaveBuilder) return 'Builder';
 
-  const someHaveBuilder = filteredData.value.every(isBase);
+  const someHaveBuilder = currentItems.value.some(isBase);
   if (someHaveBuilder) return 'Discoverer / Builder';
 
   return 'Discoverer';
@@ -63,7 +78,7 @@ const columns = reactive([
     label: 'Date',
     align: 'left',
     field: 'Timestamp',
-    format: (val: number) => getFormattedUTCDateString(val),
+    format: (val: number | undefined) => (val ? getFormattedUTCDateString(val) : ''),
   },
   {
     name: 'prefixed',
@@ -71,7 +86,7 @@ const columns = reactive([
     field: 'Correctly Prefixed',
     align: 'left',
     sortable: true,
-    format: (val: boolean) => capitaliseFirst(val.toString()),
+    format: (val: boolean | undefined) => (val === undefined ? '' : capitaliseFirst(val.toString())), // doing a comparison because `false` is a falsy value (obviously) and would therefore lead to some systems not showing their tagging status
   },
   {
     name: 'fauna',
@@ -124,59 +139,65 @@ const columns = reactive([
   },
 ]);
 
-const rowsPerPage = [10, 50, 100, 500, 1000, 0]; // NoSonar these show how many items are displayed on the page at once. The user can switch between them
+function updateCurrentItems(newPagination: PaginationObject) {
+  const { rowsPerPage, page } = newPagination;
+  const minIndex = (page - 1) * rowsPerPage;
+  const maxIndex = page * rowsPerPage;
+
+  currentItems.value = filteredData.value.slice(minIndex, maxIndex);
+}
+
+function updateRequiredCols(newItems: DiscoveryData[]) {
+  const allFields = columns.map((item) => item.field);
+  const usedFields = allFields.filter((field) => newItems.some((item) => field in item));
+
+  // this is a stupid helper function that is necessary because TS currently cannot infer that .filter(Boolean) removes undefined values
+  const isStringArray = (item: unknown): item is string => typeof item === 'string';
+
+  const usedFieldColNames = usedFields
+    .map((field) => columns.find((item) => item.field === field)?.name)
+    .filter(isStringArray);
+
+  requiredCols.value = usedFieldColNames;
+}
+
+watch([pagination, filteredData], ([newPagination]) => updateCurrentItems(newPagination));
+watchEffect(() => updateRequiredCols(currentItems.value));
 </script>
 
 <template>
   <div class="table-wrapper">
     <QTable
+      v-model:pagination="pagination"
       :columns
       :loading="isLoading"
       :rows="filteredData"
       :rows-per-page-options="rowsPerPage"
       :visible-columns="requiredCols"
-      class="my-sticky-header-table"
       row-key="glyphs"
+      table-header-class="table-header"
       flat
-      v-model:pagination="pagination"
     >
       <template v-slot:body-cell-name="props">
         <QTd :props="props">
-          <RouterLink :to="`/system/${props.row.Glyphs}`">{{
-            props.row.Name || 'Unknown (procedural name)'
-          }}</RouterLink>
+          <RouterLink
+            v-if="'Bases' in props.row || 'Correctly Prefixed' in props.row"
+            :to="`/${'Bases' in props.row ? 'planet' : 'system'}/${props.row.Glyphs}`"
+            >{{ props.row.Name || 'Unknown (procedural name)' }}</RouterLink
+          >
+          <template v-else>{{ props.row.Name }}</template>
         </QTd>
       </template>
     </QTable>
-    <!--
-    <div class="data-table">
-      <TableHeaders :headers />
-      <template v-for="obj in paginatedData">
-        <div :class="{ italic: !obj.Name }">
-
-        </div>
-        <div class="glyphs">
-          {{ obj.Glyphs }}
-        </div>
-        <div>
-          {{ obj.Discoverer }}
-        </div>
-        <div>
-          {{ getPlatform(obj.Platform) }}
-        </div>
-        <div>
-          {{ getFormattedUTCDateString(obj.Timestamp) }}
-        </div>
-        <div>
-          {{ capitaliseFirst(obj['Correctly Prefixed']?.toString() ?? '') }}
-        </div>
-      </template>
-    </div> -->
   </div>
 </template>
 
 <style scoped lang="scss">
 :deep(.glyphs-cell) {
   font-size: 2rem;
+}
+
+:deep(.table-header th) {
+  font-weight: bold;
 }
 </style>
