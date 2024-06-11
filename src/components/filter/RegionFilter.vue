@@ -43,12 +43,14 @@ function toggleRegion(e: Event, regionName: EisvanaRegions) {
   <fieldset>
     <QExpansionItem label="Filter Regions">
       <legend>Filter Regions:</legend>
-      <button
+      <QBtn
         class="q-mb-sm"
+        label="Invert Selection"
+        outline
+        no-caps
         @click="filterStore.invertRegionSwitches()"
-      >
-        Invert Selection
-      </button>
+      />
+
       <div class="stat-grid dynamic-cols">
         <Switch
           v-for="(regionName, index) in eisvanaRegionNames"

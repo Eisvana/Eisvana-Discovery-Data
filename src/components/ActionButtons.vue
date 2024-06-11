@@ -194,12 +194,11 @@ function searchRegion(region: string) {
 
 <template>
   <div class="actions">
-    <button
+    <QBtn
+      label="Reset Filter"
       type="reset"
       @click="resetStore"
-    >
-      Reset Filer
-    </button>
+    />
   </div>
 </template>
 
