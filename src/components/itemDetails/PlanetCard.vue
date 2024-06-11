@@ -89,8 +89,8 @@ const statData: {
     <QSeparator />
 
     <QItem
-      class="planet-link"
       :to="`/planet/${planetData.Glyphs}`"
+      class="planet-link"
       >View More</QItem
     >
   </QCard>
