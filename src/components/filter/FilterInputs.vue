@@ -6,16 +6,10 @@ import CategoryFilter from './CategoryFilter.vue';
 </script>
 
 <template>
-  <form @submit.prevent>
-    <CategoryFilter />
-    <ColumnFilter />
-    <RegionFilter />
-    <ActionButtons />
-  </form>
+  <QForm class="q-gutter-xs">
+    <CategoryFilter class="full-width" />
+    <ColumnFilter class="full-width" />
+    <RegionFilter class="full-width" />
+    <ActionButtons class="full-width" />
+  </QForm>
 </template>
-
-<style scoped lang="scss">
-:deep(legend) {
-  display: none;
-}
-</style>

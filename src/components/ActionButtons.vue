@@ -169,9 +169,9 @@ function searchRegion(region: string) {
 
 <template>
   <QBtn
-    class="full-width"
     label="Reset Filter"
     type="reset"
+    outline
     @click="filterStore.resetStore"
   />
 </template>

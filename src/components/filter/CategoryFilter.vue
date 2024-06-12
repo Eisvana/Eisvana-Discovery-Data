@@ -8,25 +8,29 @@ const { categories } = storeToRefs(filterStore);
 </script>
 
 <template>
-  <fieldset>
+  <QCard
+    bordered
+    flat
+  >
     <QExpansionItem label="Filter Categories">
-      <legend>Filter Categories:</legend>
-      <QBtn
-        class="q-mb-sm"
-        label="Invert Selection"
-        outline
-        no-caps
-        @click="filterStore.invertCategorySwitches()"
-      />
-
-      <div class="stat-grid dynamic-cols">
-        <QToggle
-          v-for="(displayName, categoryName) in availableCategories"
-          v-model="categories"
-          :label="displayName"
-          :val="categoryName"
+      <QCardSection>
+        <QBtn
+          class="q-mb-sm"
+          label="Invert Selection"
+          outline
+          no-caps
+          @click="filterStore.invertCategorySwitches()"
         />
-      </div>
+
+        <div class="stat-grid dynamic-cols">
+          <QToggle
+            v-for="(displayName, categoryName) in availableCategories"
+            v-model="categories"
+            :label="displayName"
+            :val="categoryName"
+          />
+        </div>
+      </QCardSection>
     </QExpansionItem>
-  </fieldset>
+  </QCard>
 </template>

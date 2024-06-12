@@ -52,10 +52,12 @@ const dataContainsSystems = computed(() => categories.value.includes('system'));
 </script>
 
 <template>
-  <fieldset>
+  <QCard
+    bordered
+    flat
+  >
     <QExpansionItem label="Filter Data">
-      <legend>Filter Data:</legend>
-      <div class="data-filter">
+      <QCardSection class="data-filter">
         <!--Name/Discoverer/Glyphs filter-->
         <TextFilterInput
           v-for="textInput in textInputs"
@@ -78,6 +80,8 @@ const dataContainsSystems = computed(() => categories.value.includes('system'));
           firstDayOfWeek="1"
           mask="YYYY-MM-DD"
           title="Date Range"
+          bordered
+          flat
           range
           today-btn
         />
@@ -89,9 +93,9 @@ const dataContainsSystems = computed(() => categories.value.includes('system'));
           :label="selectInput.label"
           :options="selectInput.options"
         />
-      </div>
+      </QCardSection>
     </QExpansionItem>
-  </fieldset>
+  </QCard>
 </template>
 
 <style scoped lang="scss">

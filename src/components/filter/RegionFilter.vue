@@ -10,25 +10,29 @@ const eisvanaRegionNames = Object.values(eisvanaRegions);
 </script>
 
 <template>
-  <fieldset>
+  <QCard
+    bordered
+    flat
+  >
     <QExpansionItem label="Filter Regions">
-      <legend>Filter Regions:</legend>
-      <QBtn
-        class="q-mb-sm"
-        label="Invert Selection"
-        outline
-        no-caps
-        @click="filterStore.invertRegionSwitches()"
-      />
-
-      <div class="stat-grid dynamic-cols">
-        <QToggle
-          v-for="(regionName, index) in eisvanaRegionNames"
-          v-model="regions"
-          :label="`${regionName} (EV${index + 1})`"
-          :val="regionName"
+      <QCardSection>
+        <QBtn
+          class="q-mb-sm"
+          label="Invert Selection"
+          outline
+          no-caps
+          @click="filterStore.invertRegionSwitches()"
         />
-      </div>
+
+        <div class="stat-grid dynamic-cols">
+          <QToggle
+            v-for="(regionName, index) in eisvanaRegionNames"
+            v-model="regions"
+            :label="`${regionName} (EV${index + 1})`"
+            :val="regionName"
+          />
+        </div>
+      </QCardSection>
     </QExpansionItem>
-  </fieldset>
+  </QCard>
 </template>
