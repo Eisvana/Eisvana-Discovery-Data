@@ -168,10 +168,16 @@ function searchRegion(region: string) {
 </script>
 
 <template>
-  <QBtn
-    label="Reset Filter"
-    type="reset"
-    outline
-    @click="filterStore.resetStore"
-  />
+  <QCard
+    flat
+    bordered
+  >
+    <QBtn
+      class="full-width"
+      label="Reset Filter"
+      type="reset"
+      flat
+      @click="filterStore.resetStore"
+    />
+  </QCard>
 </template>
