@@ -6,7 +6,7 @@ import type { DiscoveryData } from '@/types/data';
 import type { Platform } from '@/types/platform';
 import { storeToRefs } from 'pinia';
 import { computed, ref, reactive, watch, watchEffect } from 'vue';
-import type { QTableProps } from 'quasar';
+import type { QTableColumn } from 'quasar';
 
 interface PaginationObject {
   sortBy: string | null;
@@ -44,7 +44,7 @@ const discovererColName = computed(() => {
   return 'Discoverer';
 });
 
-const columns = reactive([
+const columns: QTableColumn<DiscoveryData>[] = reactive([
   {
     name: 'name',
     label: 'Name',
@@ -71,7 +71,7 @@ const columns = reactive([
     label: 'Platform',
     align: 'left',
     field: 'Platform',
-    format: (val: Platform) => getPlatform(val),
+    format: (val: Platform) => getPlatform(val) ?? '',
   },
   {
     name: 'date',
@@ -149,14 +149,14 @@ function updateCurrentItems(newPagination: PaginationObject) {
 
 function updateRequiredCols(newItems: DiscoveryData[]) {
   const allFields = columns.map((item) => item.field);
-  const usedFields = allFields.filter((field) => newItems.some((item) => field in item));
+  const usedFields = allFields.filter((field) => typeof field === 'string' && newItems.some((item) => field in item));
 
   // this is a stupid helper function that is necessary because TS currently cannot infer that .filter(Boolean) removes undefined values
   const isStringArray = (item: unknown): item is string => typeof item === 'string';
 
   const usedFieldColNames = usedFields
     .map((field) => columns.find((item) => item.field === field)?.name)
-    .filter(isStringArray);
+    .filter(isStringArray); // see comment above for why this is not done with `Boolean`
 
   requiredCols.value = usedFieldColNames;
 }
