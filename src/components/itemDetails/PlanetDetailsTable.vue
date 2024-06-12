@@ -16,7 +16,10 @@ withDefaults(defineProps<Props>(), {
 </script>
 
 <template>
-  <QCard flat bordered>
+  <QCard
+    bordered
+    flat
+  >
     <QExpansionItem
       :disable="!planetDetails.length"
       :label="`${itemType} (${planetDetails.length})`"
