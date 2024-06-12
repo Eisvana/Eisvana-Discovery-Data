@@ -21,7 +21,7 @@ interface State {
   caseSensitivity: TextSearch<boolean>;
   platforms: string[];
   date: DateRangeObj;
-  tagged: '' | boolean;
+  tagged: { label: string; value: string | boolean };
 }
 
 const defaultFilterState: State = {
@@ -45,7 +45,10 @@ const defaultFilterState: State = {
 
   platforms: Object.keys(platformMapping),
   date: null,
-  tagged: '',
+  tagged: {
+    label: '',
+    value: '',
+  },
 };
 
 export const useFilterStore = defineStore('filter', {

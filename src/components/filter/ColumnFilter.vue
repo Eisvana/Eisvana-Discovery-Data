@@ -1,11 +1,10 @@
 <script setup lang="ts">
 import PlatformCheckbox from './PlatformCheckbox.vue';
-import TagSelect from './TagSelect.vue';
 import TextFilterInput from './TextFilterInput.vue';
 import { useFilterStore } from '@/stores/filter';
 import { storeToRefs } from 'pinia';
 import { platformMapping } from '@/variables/mappings';
-import { computed, ref, watchEffect } from 'vue';
+import { computed } from 'vue';
 import { useDataStore } from '@/stores/data';
 
 const textInputs = [
@@ -23,44 +22,35 @@ const textInputs = [
   },
 ];
 
-const platformSwitches = [
-  {
-    label: 'Platforms',
-    id: 'platform',
-    switches: platformMapping,
-  },
-];
+const platformSwitch = {
+  label: 'Platforms',
+  id: 'platform',
+  switches: platformMapping,
+};
 
-const selectInputs = [
-  {
-    label: 'Correctly Prefixed',
-    options: [
-      {
-        label: '',
-        value: '',
-      },
-      {
-        label: 'True',
-        value: 'true',
-      },
-      {
-        label: 'False',
-        value: 'false',
-      },
-    ],
-  },
-];
+const selectInput = {
+  label: 'Correctly Prefixed',
+  options: [
+    {
+      label: '',
+      value: '',
+    },
+    {
+      label: 'True',
+      value: true,
+    },
+    {
+      label: 'False',
+      value: false,
+    },
+  ],
+};
 
 const filterStore = useFilterStore();
 const { searchTerms, intersections, caseSensitivity, date, tagged } = storeToRefs(filterStore);
 
 const dataStore = useDataStore();
 const { filteredData } = storeToRefs(dataStore);
-
-const taggedRaw = ref<string>('');
-
-const getTagStatus = (tagStatus: string) => (tagStatus === '' ? '' : tagStatus === 'true');
-watchEffect(() => (tagged.value = getTagStatus(taggedRaw.value)));
 
 const dataContainsSystems = computed(() => filteredData.value.some((item) => 'Correctly Prefixed' in item));
 </script>
@@ -70,6 +60,7 @@ const dataContainsSystems = computed(() => filteredData.value.some((item) => 'Co
     <QExpansionItem label="Filter Data">
       <legend>Filter Data:</legend>
       <div class="data-filter">
+        <!--Name/Discoverer/Glyphs filter-->
         <TextFilterInput
           v-for="textInput in textInputs"
           v-model:searchTerm="searchTerms[textInput.id]"
@@ -79,25 +70,26 @@ const dataContainsSystems = computed(() => filteredData.value.some((item) => 'Co
           :label="textInput.label"
         />
 
+        <!--Platform switches-->
         <PlatformCheckbox
-          v-for="platformSwitch in platformSwitches"
           :label="platformSwitch.label"
           :switches="platformSwitch.switches"
         />
 
+        <!--Date picker-->
         <QDate
           v-model="date"
           firstDayOfWeek="1"
           mask="YYYY-MM-DD"
           title="Date Range"
           range
-          todayBtn
+          today-btn
         />
 
-        <TagSelect
+        <!--Tagging status selector-->
+        <QSelect
           v-if="dataContainsSystems"
-          v-for="selectInput in selectInputs"
-          v-model="taggedRaw"
+          v-model="tagged"
           :label="selectInput.label"
           :options="selectInput.options"
         />
