@@ -4,23 +4,15 @@ import { useFilterStore } from '@/stores/filter';
 import type { DiscoveryData } from '@/types/data';
 import { storeToRefs } from 'pinia';
 import { ref, watchEffect } from 'vue';
-import { regions } from '@/variables/regions';
+import { regions as allEisvanaRegions } from '@/variables/regions';
 import { watchDebounced } from '@vueuse/core';
 import { isDiscoveryData } from '@/helpers/typeGuards';
 
 const filterStore = useFilterStore();
 const dataStore = useDataStore();
 
-const {
-  unixTimestamp,
-  tagged,
-  intersections,
-  searchTerms,
-  caseSensitivity,
-  activeRegions,
-  activePlatforms,
-  activeCategories,
-} = storeToRefs(filterStore);
+const { unixTimestamp, tagged, intersections, searchTerms, caseSensitivity, regions, platforms, categories } =
+  storeToRefs(filterStore);
 const { filteredData, isLoading } = storeToRefs(dataStore);
 
 const temporaryData = ref<DiscoveryData[][]>([]);
@@ -28,16 +20,7 @@ const temporaryData = ref<DiscoveryData[][]>([]);
 watchEffect(() => (filteredData.value = temporaryData.value.flat()));
 
 watchDebounced(
-  [
-    unixTimestamp,
-    tagged,
-    intersections,
-    searchTerms,
-    caseSensitivity,
-    activeRegions,
-    activePlatforms,
-    activeCategories,
-  ],
+  [unixTimestamp, tagged, intersections, searchTerms, caseSensitivity, regions, platforms, categories],
   loadData,
   { deep: true, immediate: true, debounce: 500 }
 );
@@ -71,14 +54,14 @@ async function loadData() {
       system: systemImports,
     };
 
-    const regionMapping: string[] = Object.values(regions);
+    const regionMapping: string[] = Object.values(allEisvanaRegions);
 
-    const activeRegionCodes = activeRegions.value
+    const activeRegionCodes = regions.value
       .map((item) => regionMapping.indexOf(item) + 1)
       .filter(Boolean)
       .map((item) => `EV${item}`);
 
-    const imports = activeCategories.value.flatMap((category) => {
+    const imports = categories.value.flatMap((category) => {
       const entries = Object.entries(importMapping[category]); // [[path/to/file.json, () => import(file.json)], [path/to/anotherfile.json, () => import(anotherfile.json)]]
       return entries
         .filter((item) => activeRegionCodes.some((regionCode) => item[0].endsWith(`${regionCode}.json`)))
@@ -106,7 +89,7 @@ async function addData(getData: () => Promise<unknown>, index: number) {
 function applyFilter(data: DiscoveryData[]) {
   const { startDate = 0, endDate = 0 } = unixTimestamp.value;
 
-  const regionData = activeRegions.value.map((item) => searchRegion(item));
+  const regionData = regions.value.map((item) => searchRegion(item));
 
   // handle case sensitivity option
   const searchName = caseSensitivity.value.name ? searchTerms.value.name : searchTerms.value.name.toLowerCase();
@@ -138,8 +121,7 @@ function applyFilter(data: DiscoveryData[]) {
 
     if (!isValidDate) return false;
 
-    const isValidPlatform =
-      (!activePlatforms.value.length && !item.Platform) || activePlatforms.value.includes(item.Platform);
+    const isValidPlatform = (!platforms.value.length && !item.Platform) || platforms.value.includes(item.Platform);
 
     if (!isValidPlatform) return false;
 
@@ -187,7 +169,7 @@ function applyFilter(data: DiscoveryData[]) {
 }
 
 function searchRegion(region: string) {
-  const regionGlyphs = Object.entries(regions).find((item) => item[1] === region)?.[0] ?? '';
+  const regionGlyphs = Object.entries(allEisvanaRegions).find((item) => item[1] === region)?.[0] ?? '';
   return { regionGlyphs };
 }
 </script>

@@ -1,5 +1,6 @@
 import { defineStore } from 'pinia';
 import type { DateRangeObj } from '@/types/date';
+import { regions as allEisvanaRegions } from '@/variables/regions';
 
 interface TextSearch<T> {
   name: T;
@@ -9,24 +10,20 @@ interface TextSearch<T> {
 }
 
 interface State {
-  regions: {
-    [keys: string]: boolean;
-  };
-  categories: {
-    [key: string]: boolean;
-  };
+  regions: string[];
+  categories: string[];
   searchTerms: TextSearch<string>;
   intersections: TextSearch<'includes' | 'is' | '!includes' | '!is'>;
   caseSensitivity: TextSearch<boolean>;
-  platforms: { [keys: string]: boolean };
+  platforms: string[];
   date: DateRangeObj;
   tagged: '' | boolean;
 }
 
 export const useFilterStore = defineStore('filter', {
   state: (): State => ({
-    regions: {},
-    categories: {},
+    regions: [],
+    categories: [],
     searchTerms: {
       name: '',
       glyphs: '',
@@ -43,7 +40,7 @@ export const useFilterStore = defineStore('filter', {
       discoverer: false,
     },
 
-    platforms: {},
+    platforms: [],
     date: {
       startDate: '',
       endDate: '',
@@ -68,28 +65,11 @@ export const useFilterStore = defineStore('filter', {
       }
       return numberDateObj;
     },
-    activePlatforms: (state) =>
-      Object.entries(state.platforms)
-        .filter((item) => item[1])
-        .map((item) => item[0]),
-
-    activeRegions: (state) =>
-      Object.entries(state.regions)
-        .filter((item) => item[1])
-        .map((item) => item[0]),
-
-    activeCategories: (state) =>
-      Object.entries(state.categories)
-        .filter((item) => item[1])
-        .map((item) => item[0]),
   },
 
   actions: {
     invertRegionSwitches() {
-      const hubRegionData = this.regions;
-      for (const [key, value] of Object.entries(hubRegionData)) {
-        hubRegionData[key] = !value;
-      }
+      this.regions = Object.values(allEisvanaRegions).filter((item) => !this.regions.includes(item));
     },
   },
 });

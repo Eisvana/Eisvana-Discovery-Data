@@ -1,9 +1,7 @@
 <script setup lang="ts">
 import { useFilterStore } from '@/stores/filter';
-import Switch from '../Switch.vue';
 import { storeToRefs } from 'pinia';
 import { onMounted, onUnmounted } from 'vue';
-import type { Platform } from '@/types/platform';
 
 const props = defineProps<{
   label: string;
@@ -20,13 +18,10 @@ const props = defineProps<{
 const filterStore = useFilterStore();
 const { platforms } = storeToRefs(filterStore);
 
-enableAll();
+const allPlatforms = Object.keys(props.switches);
+const enableAll = () => (platforms.value = allPlatforms);
 
-function enableAll() {
-  for (const platformCode in props.switches) {
-    platforms.value[platformCode] ||= true;
-  }
-}
+enableAll();
 
 // setTimeout so that this code is executed after the reset action (setTimeout pushes its content to the end of the callstack)
 function resetFunc() {
@@ -37,23 +32,18 @@ function resetFunc() {
 
 onMounted(() => document.addEventListener('reset', resetFunc));
 onUnmounted(() => document.removeEventListener('reset', resetFunc));
-
-function togglePlatform(e: Event, key: Platform) {
-  const { target } = e;
-  if (!(target instanceof HTMLInputElement)) return;
-  platforms.value[key] = target.checked;
-}
 </script>
 
 <template>
   <div>
     {{ label }}
-    <Switch
+    <div>
+    <QToggle
       v-for="(value, key) in switches"
-      :checked="platforms[key]"
-      :id="key"
+      v-model="platforms"
       :label="value"
-      @change="(e: Event) => togglePlatform(e, key)"
+      :val="key"
     />
+  </div>
   </div>
 </template>

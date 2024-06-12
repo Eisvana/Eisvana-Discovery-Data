@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import { useFilterStore } from '@/stores/filter';
 import { storeToRefs } from 'pinia';
-import Switch from '../Switch.vue';
 import { availableCategories } from '@/variables/categories';
 import { onMounted, onUnmounted } from 'vue';
 
@@ -9,19 +8,7 @@ const filterStore = useFilterStore();
 const { categories } = storeToRefs(filterStore);
 
 // systems should be checked by default, everything else should be disabled
-function disableAllButSystem() {
-  Object.keys(availableCategories).forEach(
-    (categoryName) => (categories.value[categoryName] = categoryName === 'system')
-  );
-}
-
-type AvailableCategories = keyof typeof availableCategories;
-
-function toggleCategory(e: Event, categoryName: AvailableCategories) {
-  const { target } = e;
-  if (!(target instanceof HTMLInputElement)) return;
-  categories.value[categoryName] = target.checked;
-}
+const disableAllButSystem = () => (categories.value = ['system']);
 
 // setTimeout so that this code is executed after the reset action (setTimeout pushes its content to the end of the callstack)
 function resetFunc() {
@@ -42,12 +29,11 @@ onUnmounted(() => document.removeEventListener('reset', resetFunc));
     <QExpansionItem label="Filter Categories">
       <legend>Filter Categories:</legend>
       <div class="stat-grid dynamic-cols">
-        <Switch
+        <QToggle
           v-for="(displayName, categoryName) in availableCategories"
-          :checked="categories[categoryName]"
-          :id="categoryName"
+          v-model="categories"
           :label="displayName"
-          @change="(e: Event) => toggleCategory(e, categoryName)"
+          :val="categoryName"
         />
       </div>
     </QExpansionItem>
