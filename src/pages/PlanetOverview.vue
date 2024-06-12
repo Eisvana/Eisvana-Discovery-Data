@@ -49,7 +49,7 @@ onMounted(async () => {
 
   <DiscoveryNote />
 
-  <div class="table-list">
+  <div class="column q-gutter-y-sm">
     <QCard flat bordered>
       <QExpansionItem
         :disable="!planetDetails.bases?.length"
@@ -101,11 +101,3 @@ onMounted(async () => {
     />
   </div>
 </template>
-
-<style scoped lang="scss">
-.table-list {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-}
-</style>

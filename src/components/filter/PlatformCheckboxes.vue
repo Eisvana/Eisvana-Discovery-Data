@@ -37,13 +37,13 @@ onUnmounted(() => document.removeEventListener('reset', resetFunc));
 <template>
   <div>
     {{ label }}
-    <div>
-    <QToggle
-      v-for="(value, key) in switches"
-      v-model="platforms"
-      :label="value"
-      :val="key"
-    />
-  </div>
+    <div class="column">
+      <QToggle
+        v-for="(value, key) in switches"
+        v-model="platforms"
+        :label="value"
+        :val="key"
+      />
+    </div>
   </div>
 </template>
