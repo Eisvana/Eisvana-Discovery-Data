@@ -1,12 +1,12 @@
 <script setup lang="ts">
-import PlatformCheckboxes from './PlatformCheckboxes.vue';
-import DateInput from './DateInput.vue';
+import PlatformCheckbox from './PlatformCheckbox.vue';
 import TagSelect from './TagSelect.vue';
 import TextFilterInput from './TextFilterInput.vue';
 import { useFilterStore } from '@/stores/filter';
 import { storeToRefs } from 'pinia';
 import { platformMapping } from '@/variables/mappings';
-import { ref, watchEffect } from 'vue';
+import { computed, ref, watchEffect } from 'vue';
+import { useDataStore } from '@/stores/data';
 
 const textInputs = [
   {
@@ -31,36 +31,38 @@ const platformSwitches = [
   },
 ];
 
-const dateInputs = [
-  {
-    label: 'Startdate',
-    id: 'startDate',
-  },
-  {
-    label: 'Enddate',
-    id: 'endDate',
-  },
-];
-
 const selectInputs = [
   {
     label: 'Correctly Prefixed',
-    id: 'correctly prefixed',
-    options: {
-      '': '',
-      true: 'True',
-      false: 'False',
-    },
+    options: [
+      {
+        label: '',
+        value: '',
+      },
+      {
+        label: 'True',
+        value: 'true',
+      },
+      {
+        label: 'False',
+        value: 'false',
+      },
+    ],
   },
 ];
 
 const filterStore = useFilterStore();
 const { searchTerms, intersections, caseSensitivity, date, tagged } = storeToRefs(filterStore);
 
+const dataStore = useDataStore();
+const { filteredData } = storeToRefs(dataStore);
+
 const taggedRaw = ref<string>('');
 
 const getTagStatus = (tagStatus: string) => (tagStatus === '' ? '' : tagStatus === 'true');
 watchEffect(() => (tagged.value = getTagStatus(taggedRaw.value)));
+
+const dataContainsSystems = computed(() => filteredData.value.some((item) => 'Correctly Prefixed' in item));
 </script>
 
 <template>
@@ -69,7 +71,6 @@ watchEffect(() => (tagged.value = getTagStatus(taggedRaw.value)));
       <legend>Filter Data:</legend>
       <div class="data-filter">
         <TextFilterInput
-          v-if="textInputs.length"
           v-for="textInput in textInputs"
           v-model:searchTerm="searchTerms[textInput.id]"
           v-model:intersection="intersections[textInput.id]"
@@ -78,27 +79,25 @@ watchEffect(() => (tagged.value = getTagStatus(taggedRaw.value)));
           :label="textInput.label"
         />
 
-        <PlatformCheckboxes
-          v-if="platformSwitches.length"
+        <PlatformCheckbox
           v-for="platformSwitch in platformSwitches"
-          :id="platformSwitch.id"
           :label="platformSwitch.label"
           :switches="platformSwitch.switches"
         />
 
-        <DateInput
-          v-if="dateInputs.length"
-          v-for="dateInput in dateInputs"
-          v-model="date[dateInput.id]"
-          :id="dateInput.id"
-          :label="dateInput.label"
+        <QDate
+          v-model="date"
+          firstDayOfWeek="1"
+          mask="YYYY-MM-DD"
+          title="Date Range"
+          range
+          todayBtn
         />
 
         <TagSelect
-          v-if="selectInputs.length"
+          v-if="dataContainsSystems"
           v-for="selectInput in selectInputs"
           v-model="taggedRaw"
-          :id="selectInput.id"
           :label="selectInput.label"
           :options="selectInput.options"
         />

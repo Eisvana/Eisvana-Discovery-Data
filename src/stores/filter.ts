@@ -4,6 +4,7 @@ import { regions as allEisvanaRegions } from '@/variables/regions';
 import { availableCategories } from '@/variables/categories';
 import { invertSwitches } from '@/helpers/filter';
 import { platformMapping } from '@/variables/mappings';
+import { is } from 'quasar';
 
 interface TextSearch<T> {
   name: T;
@@ -43,10 +44,7 @@ const defaultFilterState: State = {
   },
 
   platforms: Object.keys(platformMapping),
-  date: {
-    startDate: '',
-    endDate: '',
-  },
+  date: null,
   tagged: '',
 };
 
@@ -54,21 +52,23 @@ export const useFilterStore = defineStore('filter', {
   state: (): State => structuredClone(defaultFilterState),
 
   getters: {
-    unixTimestamp: (state) => {
+    unixTimestamp: (state): { startDate: number; endDate: number } => {
       const dateObj = state.date;
-      const numberDateObj: {
-        startDate: number;
-        endDate: number;
-        [key: string]: number;
-      } = {
-        startDate: 0,
-        endDate: 0,
-      };
-      for (const date in dateObj) {
-        const timestamp = new Date(dateObj[date]).valueOf();
-        numberDateObj[date] = isNaN(timestamp) ? 0 : timestamp;
+
+      if (is.object(dateObj)) {
+        // if it's an object, we have a range
+        return {
+          startDate: Date.parse(dateObj.from),
+          endDate: Date.parse(dateObj.to),
+        };
+      } else {
+        // if it's a string, a single day is selected -> both values are the same
+        // if it's null, nothing is selected -> from 0 to current day
+        return {
+          startDate: Date.parse(dateObj ?? '0'),
+          endDate: dateObj ? Date.parse(dateObj) : Date.now(),
+        };
       }
-      return numberDateObj;
     },
   },
 

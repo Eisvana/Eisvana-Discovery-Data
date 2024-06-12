@@ -1,5 +1,7 @@
-export interface DateRangeObj {
-  startDate: string;
-  endDate: string;
-  [key: string]: string;
-}
+export type DateRangeObj =
+  | string
+  | null
+  | {
+      from: string;
+      to: string;
+    };

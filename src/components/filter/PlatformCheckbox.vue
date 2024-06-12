@@ -4,7 +4,6 @@ import { storeToRefs } from 'pinia';
 
 defineProps<{
   label: string;
-  id: string;
   switches: {
     ST: string;
     PS: string;
@@ -19,15 +18,13 @@ const { platforms } = storeToRefs(filterStore);
 </script>
 
 <template>
-  <div>
+  <div class="column">
     {{ label }}
-    <div class="column">
-      <QToggle
-        v-for="(value, key) in switches"
-        v-model="platforms"
-        :label="value"
-        :val="key"
-      />
-    </div>
+    <QToggle
+      v-for="(value, key) in switches"
+      v-model="platforms"
+      :label="value"
+      :val="key"
+    />
   </div>
 </template>
