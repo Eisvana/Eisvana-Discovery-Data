@@ -21,7 +21,7 @@ const eisvanaRegionNames = Object.values(eisvanaRegions);
           label="Invert Selection"
           outline
           no-caps
-          @click="filterStore.invertRegionSwitches()"
+          @click="filterStore.invertRegionSwitches"
         />
 
         <div class="stat-grid dynamic-cols">

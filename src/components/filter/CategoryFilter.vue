@@ -19,7 +19,7 @@ const { categories } = storeToRefs(filterStore);
           label="Invert Selection"
           outline
           no-caps
-          @click="filterStore.invertCategorySwitches()"
+          @click="filterStore.invertCategorySwitches"
         />
 
         <div class="stat-grid dynamic-cols">
