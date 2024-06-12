@@ -25,13 +25,6 @@ watchDebounced(
   { deep: true, immediate: true, debounce: 500 }
 );
 
-const resetStore = () => {
-  filterStore.$reset();
-  filteredData.value = [];
-  const event = new Event('reset');
-  document.dispatchEvent(event);
-};
-
 async function loadData() {
   isLoading.value = true;
 
@@ -179,7 +172,7 @@ function searchRegion(region: string) {
     <QBtn
       label="Reset Filter"
       type="reset"
-      @click="resetStore"
+      @click="filterStore.resetStore"
     />
   </div>
 </template>

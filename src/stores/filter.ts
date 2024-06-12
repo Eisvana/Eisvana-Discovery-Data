@@ -1,6 +1,9 @@
 import { defineStore } from 'pinia';
 import type { DateRangeObj } from '@/types/date';
 import { regions as allEisvanaRegions } from '@/variables/regions';
+import { availableCategories } from '@/variables/categories';
+import { invertSwitches } from '@/helpers/filter';
+import { platformMapping } from '@/variables/mappings';
 
 interface TextSearch<T> {
   name: T;
@@ -20,33 +23,35 @@ interface State {
   tagged: '' | boolean;
 }
 
-export const useFilterStore = defineStore('filter', {
-  state: (): State => ({
-    regions: [],
-    categories: [],
-    searchTerms: {
-      name: '',
-      glyphs: '',
-      discoverer: '',
-    },
-    intersections: {
-      name: 'includes',
-      glyphs: 'includes',
-      discoverer: 'includes',
-    },
-    caseSensitivity: {
-      name: false,
-      glyphs: false,
-      discoverer: false,
-    },
+const defaultFilterState: State = {
+  regions: Object.values(allEisvanaRegions),
+  categories: ['system'],
+  searchTerms: {
+    name: '',
+    glyphs: '',
+    discoverer: '',
+  },
+  intersections: {
+    name: 'includes',
+    glyphs: 'includes',
+    discoverer: 'includes',
+  },
+  caseSensitivity: {
+    name: false,
+    glyphs: false,
+    discoverer: false,
+  },
 
-    platforms: [],
-    date: {
-      startDate: '',
-      endDate: '',
-    },
-    tagged: '',
-  }),
+  platforms: Object.keys(platformMapping),
+  date: {
+    startDate: '',
+    endDate: '',
+  },
+  tagged: '',
+};
+
+export const useFilterStore = defineStore('filter', {
+  state: (): State => structuredClone(defaultFilterState),
 
   getters: {
     unixTimestamp: (state) => {
@@ -69,7 +74,15 @@ export const useFilterStore = defineStore('filter', {
 
   actions: {
     invertRegionSwitches() {
-      this.regions = Object.values(allEisvanaRegions).filter((item) => !this.regions.includes(item));
+      this.regions = invertSwitches(this.regions, Object.values(allEisvanaRegions));
+    },
+
+    invertCategorySwitches() {
+      this.categories = invertSwitches(this.categories, Object.keys(availableCategories));
+    },
+
+    resetStore() {
+      this.$patch(structuredClone(defaultFilterState));
     },
   },
 });
