@@ -5,7 +5,6 @@ import { useFilterStore } from '@/stores/filter';
 import { storeToRefs } from 'pinia';
 import { platformMapping } from '@/variables/mappings';
 import { computed } from 'vue';
-import { useDataStore } from '@/stores/data';
 
 const textInputs = [
   {
