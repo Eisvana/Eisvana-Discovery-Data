@@ -47,12 +47,9 @@ const selectInput = {
 };
 
 const filterStore = useFilterStore();
-const { searchTerms, intersections, caseSensitivity, date, tagged } = storeToRefs(filterStore);
+const { searchTerms, intersections, caseSensitivity, date, tagged, categories } = storeToRefs(filterStore);
 
-const dataStore = useDataStore();
-const { filteredData } = storeToRefs(dataStore);
-
-const dataContainsSystems = computed(() => filteredData.value.some((item) => 'Correctly Prefixed' in item));
+const dataContainsSystems = computed(() => categories.value.includes('system'));
 </script>
 
 <template>
