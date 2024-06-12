@@ -168,23 +168,10 @@ function searchRegion(region: string) {
 </script>
 
 <template>
-  <div class="actions">
-    <QBtn
-      label="Reset Filter"
-      type="reset"
-      @click="filterStore.resetStore"
-    />
-  </div>
+  <QBtn
+    class="full-width"
+    label="Reset Filter"
+    type="reset"
+    @click="filterStore.resetStore"
+  />
 </template>
-
-<style scoped lang="scss">
-.actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-
-  & > * {
-    flex: 1;
-  }
-}
-</style>

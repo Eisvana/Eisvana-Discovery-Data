@@ -22,7 +22,7 @@ const distanceRight = computed(() => width.value - right.value);
     <div>
       <h2
         :class="itemData.Name ? 'text-bold' : 'text-italic'"
-        class="q-ma-none"
+        class="no-margin"
       >
         {{ itemData.Name || 'Unknown' }}
       </h2>
