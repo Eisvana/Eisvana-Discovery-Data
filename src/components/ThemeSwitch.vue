@@ -3,7 +3,7 @@ import { Dark } from 'quasar';
 
 function switchTheme() {
   const currentMode = Dark.mode; // "auto", true, false
-  Dark.set(!currentMode); // or false or "auto"
+  Dark.set(!currentMode);
 }
 </script>
 
