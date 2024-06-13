@@ -16,7 +16,7 @@ defineProps<{
 </template>
 
 <style scoped lang="scss">
-body.body--light img {
+.body--light img {
   filter: invert(100);
 }
 </style>
