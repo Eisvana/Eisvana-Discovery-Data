@@ -5,7 +5,8 @@ import { onMounted, reactive, ref } from 'vue';
 import { regions } from '@/variables/regions';
 import { useRoute } from 'vue-router';
 import OverviewHeader from '@/components/itemDetails/OverviewHeader.vue';
-import DiscoveryNote from '@/components/DiscoveryNote.vue';
+import DiscoveryNote from '@/components/itemDetails/DiscoveryNote.vue';
+import UndiscoveredNote from '@/components/itemDetails/UndiscoveredNote.vue';
 
 const planetData: DiscoveryData[] = reactive([]);
 const systemData = ref<DiscoveryData>();
@@ -39,9 +40,10 @@ onMounted(async () => {
     :item-data="systemData"
   />
 
-  <QCardSection v-else>
-    <p>Something went wrong!</p>
-  </QCardSection>
+  <UndiscoveredNote
+    v-else
+    type="system"
+  />
 
   <DiscoveryNote />
 

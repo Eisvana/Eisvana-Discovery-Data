@@ -6,7 +6,8 @@ import { regions } from '@/variables/regions';
 import { onMounted, reactive, ref } from 'vue';
 import { useRoute } from 'vue-router';
 import PlanetDetailsTable from '@/components/itemDetails/PlanetDetailsTable.vue';
-import DiscoveryNote from '@/components/DiscoveryNote.vue';
+import DiscoveryNote from '@/components/itemDetails/DiscoveryNote.vue';
+import UndiscoveredNote from '@/components/itemDetails/UndiscoveredNote.vue';
 import OverviewHeader from '@/components/itemDetails/OverviewHeader.vue';
 
 const route = useRoute();
@@ -45,12 +46,19 @@ onMounted(async () => {
     v-if="planetData"
     :item-data="planetData"
   />
-  <p v-else>Something went wrong!</p>
+
+  <UndiscoveredNote
+    v-else
+    type="planet"
+  />
 
   <DiscoveryNote />
 
   <div class="column q-gutter-y-sm">
-    <QCard flat bordered>
+    <QCard
+      flat
+      bordered
+    >
       <QExpansionItem
         :disable="!planetDetails.bases?.length"
         :label="`Bases (${planetDetails.bases?.length})`"
