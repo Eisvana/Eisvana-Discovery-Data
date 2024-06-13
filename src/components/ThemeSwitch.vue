@@ -1,9 +1,15 @@
 <script setup lang="ts">
 import { Dark } from 'quasar';
 
-function switchTheme() {
-  const currentMode = Dark.mode; // "auto", true, false
-  Dark.set(!currentMode);
+const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+const localStorageData = localStorage.getItem('theme');
+const initialTheme = (localStorageData ?? prefersDark.toString()) === 'true'; // true = dark; false = light
+switchTheme(initialTheme);
+
+function switchTheme(theme?: boolean) {
+  const newTheme = theme ?? !Dark.mode;
+  Dark.set(newTheme);
+  localStorage.setItem('theme', newTheme.toString());
 }
 </script>
 
@@ -13,7 +19,7 @@ function switchTheme() {
     title="Switch Theme"
     flat
     fab
-    @click="switchTheme"
+    @click="switchTheme()"
   >
   </QBtn>
 </template>
