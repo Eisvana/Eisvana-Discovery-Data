@@ -11,26 +11,28 @@ const { name: tab } = toRefs(route);
 <template>
   <FilterInputs />
   <ResultsCounter />
-  <QTabs class="subpage-nav text-primary">
-    <QRouteTab
-      name="table"
-      to="/"
-      exact
-      >Table</QRouteTab
-    >
-    <QRouteTab
-      name="stats"
-      to="/stats"
-      exact
-      >Stats</QRouteTab
-    >
-    <QRouteTab
-      name="charts"
-      to="/charts"
-      exact
-      >Charts</QRouteTab
-    >
-  </QTabs>
+  <nav>
+    <QTabs class="subpage-nav text-primary">
+      <QRouteTab
+        name="table"
+        to="/"
+        exact
+        >Table</QRouteTab
+      >
+      <QRouteTab
+        name="stats"
+        to="/stats"
+        exact
+        >Stats</QRouteTab
+      >
+      <QRouteTab
+        name="charts"
+        to="/charts"
+        exact
+        >Charts</QRouteTab
+      >
+    </QTabs>
+  </nav>
 
   <QSeparator />
 
