@@ -10,9 +10,7 @@ const eisvanaRegionNames = Object.values(eisvanaRegions);
 </script>
 
 <template>
-  <QCard
-    bordered
-  >
+  <QCard bordered>
     <QExpansionItem label="Filter Regions">
       <QCardSection>
         <QBtn

@@ -15,7 +15,7 @@ import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import { Line } from 'vue-chartjs';
 import DetailsWrapper from '@/components/DetailsWrapper.vue';
-import { getUTCDateString,getDatesBetween } from '@/helpers/date';
+import { getUTCDateString, getDatesBetween } from '@/helpers/date';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 

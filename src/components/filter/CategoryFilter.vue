@@ -8,9 +8,7 @@ const { categories } = storeToRefs(filterStore);
 </script>
 
 <template>
-  <QCard
-    bordered
-  >
+  <QCard bordered>
     <QExpansionItem label="Filter Categories">
       <QCardSection>
         <QBtn

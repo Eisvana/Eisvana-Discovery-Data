@@ -52,9 +52,7 @@ const dataContainsSystems = computed(() => categories.value.includes('system'));
 </script>
 
 <template>
-  <QCard
-    bordered
-  >
+  <QCard bordered>
     <QExpansionItem label="Filter Data">
       <QCardSection class="data-filter">
         <!--Name/Discoverer/Glyphs filter-->

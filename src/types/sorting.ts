@@ -1,5 +1,5 @@
-import type { orders } from "@/variables/mappings";
-import type { ValueOf } from "./utility";
+import type { orders } from '@/variables/mappings';
+import type { ValueOf } from './utility';
 
 export interface Sorting {
   col: number;
