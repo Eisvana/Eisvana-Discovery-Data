@@ -12,11 +12,6 @@
   line-height: initial;
 }
 
-.container {
-  margin-block-start: 1rem;
-  margin-block-end: 5rem;
-}
-
 .table-header {
   font-weight: bold;
   border-block-end: 1px solid var(--pico-color);
@@ -91,4 +86,21 @@ details[open] {
 
 .table-header th {
   font-weight: bold;
+}
+
+// link colours copied from Pico CSS
+.body--light .link-colour {
+  color: rgb(1, 114, 173);
+
+  &:hover {
+    color: rgb(1, 88, 135);
+  }
+}
+
+.body--dark .link-colour {
+  color: rgb(1, 170, 255);
+
+  &:hover {
+    color: rgb(121, 192, 255);
+  }
 }

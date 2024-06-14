@@ -181,6 +181,7 @@ watchEffect(() => updateRequiredCols(currentItems.value));
       <template v-slot:body-cell-name="props">
         <QTd :props="props">
           <RouterLink
+          class="link-colour"
             v-if="'Bases' in props.row || 'Correctly Prefixed' in props.row"
             :to="`/${'Bases' in props.row ? 'planet' : 'system'}/${props.row.Glyphs}`"
             >{{ props.row.Name || 'Unknown (procedural name)' }}</RouterLink

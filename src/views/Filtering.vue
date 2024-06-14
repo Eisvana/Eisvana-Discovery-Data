@@ -12,7 +12,7 @@ const { name: tab } = toRefs(route);
   <FilterInputs />
   <ResultsCounter />
   <nav>
-    <QTabs class="subpage-nav text-primary">
+    <QTabs class="subpage-nav link-colour">
       <QRouteTab
         name="table"
         to="/"
