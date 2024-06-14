@@ -17,8 +17,9 @@ withDefaults(defineProps<Props>(), {
 
 <template>
   <QCard
+    :class="{ 'shadow-1': planetDetails.length }"
+    :flat="!planetDetails.length"
     bordered
-    flat
   >
     <QExpansionItem
       :disable="!planetDetails.length"

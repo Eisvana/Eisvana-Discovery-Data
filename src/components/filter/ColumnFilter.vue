@@ -54,7 +54,6 @@ const dataContainsSystems = computed(() => categories.value.includes('system'));
 <template>
   <QCard
     bordered
-    flat
   >
     <QExpansionItem label="Filter Data">
       <QCardSection class="data-filter">

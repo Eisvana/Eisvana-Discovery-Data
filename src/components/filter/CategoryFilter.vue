@@ -10,7 +10,6 @@ const { categories } = storeToRefs(filterStore);
 <template>
   <QCard
     bordered
-    flat
   >
     <QExpansionItem label="Filter Categories">
       <QCardSection>

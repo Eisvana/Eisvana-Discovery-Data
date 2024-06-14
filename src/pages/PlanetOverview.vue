@@ -56,7 +56,8 @@ onMounted(async () => {
 
   <div class="column q-gutter-y-sm">
     <QCard
-      flat
+      :class="{ 'shadow-1': planetDetails.bases?.length }"
+      :flat="!planetDetails.bases?.length"
       bordered
     >
       <QExpansionItem

@@ -170,7 +170,6 @@ function searchRegion(region: string) {
 <template>
   <QCard
     bordered
-    flat
   >
     <QBtn
       class="full-width"
