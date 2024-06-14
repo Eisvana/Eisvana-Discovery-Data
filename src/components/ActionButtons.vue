@@ -119,9 +119,9 @@ function applyFilter(data: DiscoveryData[]) {
     if (!isValidPlatform) return false;
 
     const isValidTagged =
-      tagged.value.value === '' ||
-      (tagged.value.value && item['Correctly Prefixed']) ||
-      (!tagged.value.value && !item['Correctly Prefixed']);
+      tagged.value === '' ||
+      (tagged.value && item['Correctly Prefixed']) ||
+      (!tagged.value && !item['Correctly Prefixed']);
 
     if (!isValidTagged) return false;
 

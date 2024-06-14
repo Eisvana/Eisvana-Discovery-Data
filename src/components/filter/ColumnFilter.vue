@@ -5,6 +5,7 @@ import { useFilterStore } from '@/stores/filter';
 import { storeToRefs } from 'pinia';
 import { platformMapping } from '@/variables/mappings';
 import { computed } from 'vue';
+import type { QSelectOption } from 'quasar';
 
 const textInputs = [
   {
@@ -23,11 +24,10 @@ const textInputs = [
 
 const platformSwitch = {
   label: 'Platforms',
-  id: 'platform',
   switches: platformMapping,
 };
 
-const selectInput = {
+const selectInput: { label: string; options: QSelectOption<string | boolean>[] } = {
   label: 'Correctly Prefixed',
   options: [
     {
@@ -61,7 +61,6 @@ const dataContainsSystems = computed(() => categories.value.includes('system'));
           v-model:searchTerm="searchTerms[textInput.id]"
           v-model:intersection="intersections[textInput.id]"
           v-model:caseSensitivity="caseSensitivity[textInput.id]"
-          :id="textInput.id"
           :label="textInput.label"
         />
 
@@ -89,6 +88,8 @@ const dataContainsSystems = computed(() => categories.value.includes('system'));
           v-model="tagged"
           :label="selectInput.label"
           :options="selectInput.options"
+          emit-value
+          map-options
         />
       </QCardSection>
     </QExpansionItem>
