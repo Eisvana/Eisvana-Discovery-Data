@@ -1,5 +1,5 @@
 <template>
-  <div class="credits">
+  <div class="credits q-pb-md">
     <p>Data last updated on 12 May 2024</p>
     <p>
       Project enabled by the research of the
@@ -17,7 +17,6 @@
 <style scoped lang="scss">
 .credits {
   padding-block-start: 2rem;
-  padding-block-end: 1rem;
 
   & > p {
     font-size: initial;
