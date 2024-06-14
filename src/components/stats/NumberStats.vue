@@ -38,6 +38,7 @@ const differenceInDays = computed(() => {
   const [date1, date2] = dateRange.value;
 
   // To calculate the time difference of two dates
+  // the dates are definitely defined, otherwise the function would've returned above
   const diffTime = new Date(date2!).getTime() - new Date(date1!).getTime();
 
   // To calculate the no. of days between two dates
@@ -56,7 +57,8 @@ const avgDiscoverersPerDay = computed(() => {
     [key: string]: Set<string>;
   } = {};
 
-  for (const dataObj of filteredData.value.filter((item) => item.Discoverer)) {
+  const discoveredItems = filteredData.value.filter((item) => item.Discoverer);
+  for (const dataObj of discoveredItems) {
     const utcDate = getUTCDateString(dataObj.Timestamp);
     timestampObj[utcDate] ??= new Set<string>();
     timestampObj[utcDate].add(dataObj.Discoverer);
@@ -64,9 +66,7 @@ const avgDiscoverersPerDay = computed(() => {
 
   const discoverersPerDay = Object.values(timestampObj).map((item) => item.size);
 
-  const totalDiscoverers = discoverersPerDay.reduce((a, b) => {
-    return a + b;
-  }, 0);
+  const totalDiscoverers = discoverersPerDay.reduce((a, b) => a + b, 0);
 
   return differenceInDays.value ? (totalDiscoverers / differenceInDays.value).toFixed(2) : 0; // NoSonar this generates two decimals
 });
