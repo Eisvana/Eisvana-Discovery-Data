@@ -6,7 +6,7 @@ import CategoryFilter from './CategoryFilter.vue';
 </script>
 
 <template>
-  <QForm class="q-gutter-xs">
+  <QForm class="q-mb-sm q-gutter-xs">
     <CategoryFilter class="full-width shadow-1" />
     <ColumnFilter class="full-width shadow-1" />
     <RegionFilter class="full-width shadow-1" />
