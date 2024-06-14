@@ -5,6 +5,7 @@ import { availableCategories } from '@/variables/categories';
 import { invertSwitches } from '@/helpers/filter';
 import { platformMapping } from '@/variables/mappings';
 import { is } from 'quasar';
+import type { QSelectOptions } from '@/types/form';
 
 interface TextSearch<T> {
   name: T;
@@ -21,7 +22,7 @@ interface State {
   caseSensitivity: TextSearch<boolean>;
   platforms: string[];
   date: DateRangeObj;
-  tagged: { label: string; value: string | boolean };
+  tagged: QSelectOptions;
 }
 
 const defaultFilterState: State = {

@@ -19,6 +19,7 @@ import DetailsWrapper from '@/components/DetailsWrapper.vue';
 import { getUTCDateString, getDatesBetween } from '@/helpers/date';
 import { setPlatformColours } from '@/helpers/colours';
 import { isPlatformCode } from '@/helpers/typeGuards';
+import type { ChartData } from '@/types/chart';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
@@ -83,12 +84,7 @@ function combineIndizes(platform: Platform): (number | null)[] {
   return Object.values(timestampData).map((item) => item[platform] || null);
 }
 
-function individualDatasetObjectFactory(platform: Platform): {
-  label: string;
-  backgroundColor: string;
-  borderColor: string;
-  data: (number | null)[];
-} {
+function individualDatasetObjectFactory(platform: Platform): ChartData {
   const colour = getPlatformColour(platform);
 
   const data = Object.values(transformedData.value).map((item) => item[platform] || null);
@@ -101,12 +97,7 @@ function individualDatasetObjectFactory(platform: Platform): {
   };
 }
 
-function combinedDatasetObjectFactory(platform: Platform): {
-  label: string;
-  backgroundColor: string;
-  borderColor: string;
-  data: (number | null)[];
-} {
+function combinedDatasetObjectFactory(platform: Platform): ChartData {
   const colour = getPlatformColour(platform);
 
   const data = combineIndizes(platform);

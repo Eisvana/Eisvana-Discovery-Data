@@ -19,6 +19,7 @@ import DetailsWrapper from '@/components/DetailsWrapper.vue';
 import { getUTCDateString, getDatesBetween } from '@/helpers/date';
 import { paginateData } from '@/helpers/paginate';
 import { getRandomColour } from '@/helpers/colours';
+import type { ChartData } from '@/types/chart';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
@@ -110,12 +111,7 @@ const combinedData = computed(() => {
   };
 });
 
-function combinedDatasetObjectFactory(playerObj: PlayerData): {
-  label: string;
-  backgroundColor: string;
-  borderColor: string;
-  data: (number | null)[];
-} {
+function combinedDatasetObjectFactory(playerObj: PlayerData): ChartData {
   const colour = playerObj.colour;
 
   const data = combineIndizes(playerObj.name);
@@ -128,12 +124,7 @@ function combinedDatasetObjectFactory(playerObj: PlayerData): {
   };
 }
 
-function individualDatasetObjectFactory(playerObj: PlayerData): {
-  label: string;
-  backgroundColor: string;
-  borderColor: string;
-  data: (number | null)[];
-} {
+function individualDatasetObjectFactory(playerObj: PlayerData): ChartData {
   const colour = playerObj.colour;
 
   const data = Object.values(transformedData.value).map((item) => item[playerObj.name] || null);
