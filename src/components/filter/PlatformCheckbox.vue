@@ -18,7 +18,7 @@ const { platforms } = storeToRefs(filterStore);
 </script>
 
 <template>
-  <div class="column">
+  <div class="column width-content">
     {{ label }}
     <QToggle
       v-for="(value, key) in switches"
@@ -28,3 +28,9 @@ const { platforms } = storeToRefs(filterStore);
     />
   </div>
 </template>
+
+<style scoped lang="scss">
+.width-content {
+  width: fit-content;
+}
+</style>

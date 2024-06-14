@@ -65,32 +65,38 @@ const dataContainsSystems = computed(() => categories.value.includes('system'));
         />
 
         <!--Platform switches-->
-        <PlatformCheckbox
-          :label="platformSwitch.label"
-          :switches="platformSwitch.switches"
-        />
+        <div class="col-grow">
+          <PlatformCheckbox
+            :label="platformSwitch.label"
+            :switches="platformSwitch.switches"
+          />
+        </div>
 
         <!--Date picker-->
-        <QDate
-          v-model="date"
-          firstDayOfWeek="1"
-          mask="YYYY-MM-DD"
-          title="Date Range"
-          bordered
-          flat
-          range
-          today-btn
-        />
+        <div class="col-grow">
+          <QDate
+            v-model="date"
+            firstDayOfWeek="1"
+            mask="YYYY-MM-DD"
+            title="Date Range"
+            bordered
+            flat
+            range
+            today-btn
+          />
+        </div>
 
         <!--Tagging status selector-->
-        <QSelect
-          v-if="dataContainsSystems"
-          v-model="tagged"
-          :label="selectInput.label"
-          :options="selectInput.options"
-          emit-value
-          map-options
-        />
+        <div class="col-grow">
+          <QSelect
+            v-if="dataContainsSystems"
+            v-model="tagged"
+            :label="selectInput.label"
+            :options="selectInput.options"
+            emit-value
+            map-options
+          />
+        </div>
       </QCardSection>
     </QExpansionItem>
   </QCard>
