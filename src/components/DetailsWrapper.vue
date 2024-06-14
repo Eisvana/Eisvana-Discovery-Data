@@ -11,8 +11,8 @@ const isOpen = ref(false);
 <template>
   <QExpansionItem
     :label="summary"
-    @before-show="isOpen = true"
     @after-hide="isOpen = false"
+    @before-show="isOpen = true"
   >
     <slot v-if="isOpen"></slot>
   </QExpansionItem>
