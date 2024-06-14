@@ -58,15 +58,15 @@ export const useFilterStore = defineStore('filter', {
       if (is.object(dateObj)) {
         // if it's an object, we have a range
         return {
-          startDate: Date.parse(dateObj.from),
-          endDate: Date.parse(dateObj.to),
+          startDate: new Date(dateObj.from).getTime(),
+          endDate: new Date(dateObj.to).getTime(),
         };
       } else {
         // if it's a string, a single day is selected -> both values are the same
         // if it's null, nothing is selected -> from 0 to current day
         return {
-          startDate: Date.parse(dateObj ?? '0'),
-          endDate: dateObj ? Date.parse(dateObj) : Date.now(),
+          startDate: new Date(dateObj ?? '0').getTime(),
+          endDate: dateObj ? new Date(dateObj).getTime() : Date.now(),
         };
       }
     },
