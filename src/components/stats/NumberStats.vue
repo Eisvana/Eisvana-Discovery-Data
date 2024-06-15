@@ -3,8 +3,6 @@ import { getPercentage } from '@/helpers/maths';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
-import DataTable from '../table/DataTable.vue';
-import type { TableHeadings } from '@/types/data';
 import { getFormattedUTCDateString, getUTCDateString } from '@/helpers/date';
 
 const dataStore = useDataStore();
@@ -98,49 +96,62 @@ const systemsDuplicates = computed(() => {
   return Object.entries(systemTracker).filter((item) => item[1] > 1);
 });
 
-const headers: TableHeadings = {
-  normal: ['Name', 'Amount of duplicates'],
-};
+const headers = ['Name', 'Amount of duplicates'];
 
 const getDate = (dateString: string | undefined) => (dateString ? getFormattedUTCDateString(dateString) : '-');
 </script>
 
 <template>
   <QExpansionItem
-    class="number-stats-wrapper"
+    class="full-width"
     label="Number Stats"
     default-opened
   >
-    <div>Tagged:</div>
-    <div>{{ amountTagged }} ({{ systemsTaggedPercent }}%)</div>
-    <div>Not/incorrectly prefixed:</div>
-    <div>{{ systemsNotTagged }} ({{ systemsNotTaggedPercent }}%)</div>
-    <div>Procedural name:</div>
-    <div>{{ systemsProcName }} ({{ systemsProcNamePercent }}%)</div>
-    <div v-if="systemsUndiscovered">Undiscovered:</div>
-    <div v-if="systemsUndiscovered">{{ systemsUndiscovered }} ({{ systemsUndiscoveredPercent }}%)</div>
-    <div>Number of discoverers:</div>
-    <div>{{ discovererNumber }}</div>
-    <div>Average discoveries per day:</div>
-    <div>{{ avgDiscoveriesPerDay }}</div>
-    <div>Average number of players per day:</div>
-    <div>{{ avgDiscoverersPerDay }}</div>
-    <div>Average number of prefixes per day:</div>
-    <div>{{ avgCorrectTagsPerDay }}</div>
-    <div>Average non-prefixed systems per day:</div>
-    <div>{{ avgIncorrectTagsPerDay }}</div>
-    <div>Earliest Discovery:</div>
-    <div>{{ getDate(dateRange[0]) }}</div>
-    <div>Latest Discovery:</div>
-    <div>{{ getDate(dateRange[1]) }}</div>
-    <div v-if="false">Duplicate system names:</div>
-    <div v-if="false">{{ systemsDuplicates.length }}</div>
+    <div class="number-stats-wrapper q-px-md q-mt-sm">
+      <div>Tagged:</div>
+      <div>{{ amountTagged }} ({{ systemsTaggedPercent }}%)</div>
+      <div>Not/incorrectly prefixed:</div>
+      <div>{{ systemsNotTagged }} ({{ systemsNotTaggedPercent }}%)</div>
+      <div>Procedural name:</div>
+      <div>{{ systemsProcName }} ({{ systemsProcNamePercent }}%)</div>
+      <div v-if="systemsUndiscovered">Undiscovered:</div>
+      <div v-if="systemsUndiscovered">{{ systemsUndiscovered }} ({{ systemsUndiscoveredPercent }}%)</div>
+      <div>Number of discoverers:</div>
+      <div>{{ discovererNumber }}</div>
+      <div>Average discoveries per day:</div>
+      <div>{{ avgDiscoveriesPerDay }}</div>
+      <div>Average number of players per day:</div>
+      <div>{{ avgDiscoverersPerDay }}</div>
+      <div>Average number of prefixes per day:</div>
+      <div>{{ avgCorrectTagsPerDay }}</div>
+      <div>Average non-prefixed systems per day:</div>
+      <div>{{ avgIncorrectTagsPerDay }}</div>
+      <div>Earliest Discovery:</div>
+      <div>{{ getDate(dateRange[0]) }}</div>
+      <div>Latest Discovery:</div>
+      <div>{{ getDate(dateRange[1]) }}</div>
+      <div v-if="false">Duplicate system names:</div>
+      <div v-if="false">{{ systemsDuplicates.length }}</div>
+    </div>
 
-    <DataTable
-      v-if="false"
-      :headers="headers"
-      :data="systemsDuplicates.flat()"
-    />
+    <QMarkupTable v-if="false">
+      <thead>
+        <tr>
+          <th
+            v-for="header in headers"
+            scope="col"
+          >
+            {{ header }}
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr v-for="[name, amount] in systemsDuplicates">
+          <td>{{ name }}</td>
+          <td>{{ amount }}</td>
+        </tr>
+      </tbody>
+    </QMarkupTable>
   </QExpansionItem>
 </template>
 
