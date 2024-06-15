@@ -8,6 +8,7 @@ import type { QTable, QTableColumn } from 'quasar';
 import type { PaginationObject } from '@/types/pagination';
 import { rowsPerPage } from '@/variables/pagination';
 import type { BaseDiscovererData } from '@/types/data';
+import { formatPercentage } from '@/helpers/formatting';
 
 const dataStore = useDataStore();
 const { filteredData, dataLength, amountTagged } = storeToRefs(dataStore);
@@ -89,7 +90,7 @@ const columns: QTableColumn<BaseDiscovererData>[] = reactive([
     label: 'Discoveries %',
     align: 'left',
     field: 'discPercent',
-    format: (val) => `${val}%`,
+    format: formatPercentage,
     sortable: true,
   },
   {
@@ -104,7 +105,7 @@ const columns: QTableColumn<BaseDiscovererData>[] = reactive([
     label: 'Tagged %\nof total',
     align: 'left',
     field: 'taggedPercent',
-    format: (val) => `${val}%`,
+    format: formatPercentage,
     sortable: true,
   },
   {
@@ -112,7 +113,7 @@ const columns: QTableColumn<BaseDiscovererData>[] = reactive([
     label: 'Tag Rate',
     align: 'left',
     field: 'taggedPercentSelf',
-    format: (val) => `${val}%`,
+    format: formatPercentage,
     sortable: true,
   },
 ]);
