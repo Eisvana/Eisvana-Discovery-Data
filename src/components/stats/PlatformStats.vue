@@ -1,42 +1,39 @@
 <script setup lang="ts">
-import { orders, platformMapping } from '@/variables/mappings';
+import { platformMapping } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
-import type { TableHeadings } from '@/types/data';
+import type { BaseDiscovererData } from '@/types/data';
 import { storeToRefs } from 'pinia';
-import { computed, reactive } from 'vue';
-import DataTable from '../table/DataTable.vue';
+import { computed, reactive, ref, watch } from 'vue';
 import { getPercentage } from '@/helpers/maths';
-import { sortData } from '@/helpers/sorting';
-import type { Sorting } from '@/types/sorting';
+import type { QTable, QTableColumn } from 'quasar';
+import type { PaginationObject } from '@/types/pagination';
+import { rowsPerPage } from '@/variables/pagination';
 
 const dataStore = useDataStore();
 const { filteredData, dataLength, amountTagged } = storeToRefs(dataStore);
 
-const sorting: Sorting = reactive({
-  col: 2,
-  order: orders.desc,
+interface PlatformData {
+  [key: string]: BaseDiscovererData;
+}
+
+interface PlayerData {
+  Steam: Set<string>;
+  PlayStation: Set<string>;
+  Xbox: Set<string>;
+  GOG: Set<string>;
+  'Nintendo Switch': Set<string>;
+}
+
+const platformTable = ref<QTable | null>(null);
+
+const pagination = ref<PaginationObject>({
+  sortBy: 'discoveries',
+  descending: true,
+  page: 1,
+  rowsPerPage: 10,
 });
 
 const platformStats = computed(() => {
-  interface PlatformData {
-    [key: string]: {
-      players: number;
-      discoveries: number;
-      discPercent: string;
-      tagged: number;
-      taggedPercent: string;
-      taggedPercentSelf: string;
-    };
-  }
-
-  interface PlayerData {
-    Steam: Set<string>;
-    PlayStation: Set<string>;
-    Xbox: Set<string>;
-    GOG: Set<string>;
-    'Nintendo Switch': Set<string>;
-  }
-
   const playerData: PlayerData = {
     Steam: new Set(),
     PlayStation: new Set(),
@@ -53,47 +50,121 @@ const platformStats = computed(() => {
     const platformObject = (platformData[platform] ??= {
       players: 0,
       discoveries: 0,
-      discPercent: '0%',
+      discPercent: 0,
       tagged: 0,
-      taggedPercent: '0%',
-      taggedPercentSelf: '0%',
+      taggedPercent: 0,
+      taggedPercentSelf: 0,
     });
     platformObject.discoveries++;
     if (data['Correctly Prefixed']) platformObject.tagged++;
     playerData[platform].add(data.Discoverer);
     platformObject.players = playerData[platform].size;
-    platformObject.discPercent = getPercentage(platformObject.discoveries, dataLength.value) + '%';
-    platformObject.taggedPercent = getPercentage(platformObject.tagged, amountTagged.value) + '%';
-    platformObject.taggedPercentSelf = getPercentage(platformObject.tagged, platformObject.discoveries) + '%';
+    platformObject.discPercent = getPercentage(platformObject.discoveries, dataLength.value);
+    platformObject.taggedPercent = getPercentage(platformObject.tagged, amountTagged.value);
+    platformObject.taggedPercentSelf = getPercentage(platformObject.tagged, platformObject.discoveries);
   }
 
-  const dataArray: (string | number)[][] = [];
+  const discovererDataArray: BaseDiscovererData[] = Object.entries(platformData).map(([platform, stats]) => ({
+    platform,
+    ...stats,
+  }));
 
-  for (const [platform, stats] of Object.entries(platformData)) {
-    dataArray.push([platform, ...Object.values(stats)]);
-  }
-
-  return dataArray;
+  return discovererDataArray;
 });
 
-const platformDataSorted = computed(() => sortData(platformStats.value, sorting).flat());
+const sortedRows = ref<BaseDiscovererData[]>([]);
 
-const headers: TableHeadings = {
-  normal: ['Pos.'],
-  sortable: ['Platform', 'Players', 'Discoveries', 'Discoveries %', 'Tagged', 'Tagged %\nof total', 'Tag Rate'],
-};
+const columns: QTableColumn<BaseDiscovererData>[] = reactive([
+  {
+    name: 'pos',
+    label: 'Pos.',
+    align: 'left',
+    field: (row) => `${sortedRows.value.indexOf(row) + 1}.`,
+  },
+  {
+    name: 'platform',
+    label: 'Platform',
+    align: 'left',
+    field: 'platform',
+    sortable: true,
+  },
+  {
+    name: 'players',
+    label: 'Players',
+    align: 'left',
+    field: 'players',
+    sortable: true,
+  },
+  {
+    name: 'discoveries',
+    label: 'Discoveries',
+    align: 'left',
+    field: 'discoveries',
+    sortable: true,
+  },
+  {
+    name: 'discPercent',
+    label: 'Discoveries %',
+    align: 'left',
+    field: 'discPercent',
+    format: (val) => `${val}%`,
+    sortable: true,
+  },
+  {
+    name: 'tagged',
+    label: 'Tagged',
+    align: 'left',
+    field: 'tagged',
+    sortable: true,
+  },
+  {
+    name: 'taggedPercent',
+    label: 'Tagged %\nof total',
+    align: 'left',
+    field: 'taggedPercent',
+    format: (val) => `${val}%`,
+    sortable: true,
+  },
+  {
+    name: 'taggedPercentSelf',
+    label: 'Tag Rate',
+    align: 'left',
+    field: 'taggedPercentSelf',
+    format: (val) => `${val}%`,
+    sortable: true,
+  },
+]);
+
+watch(
+  [() => pagination.value.sortBy, () => pagination.value.descending, () => platformTable.value?.filteredSortedRows],
+  ([newSortCol, newSortDir, newTable]) => {
+    if (!newSortCol) return;
+    if (newSortDir) {
+      sortedRows.value = newTable ? [...newTable] : [];
+    } else {
+      sortedRows.value = newTable ? [...newTable.toReversed()] : [];
+    }
+  },
+  { immediate: true }
+);
 </script>
 
 <template>
   <QExpansionItem
-    v-if="platformDataSorted.length"
+    v-if="platformStats.length"
     label="Platform Stats"
     default-opened
   >
-    <DataTable
-      :headers="headers"
-      :sorting="sorting"
-      :data="platformDataSorted"
+    <QTable
+      v-model:pagination="pagination"
+      :columns
+      :rows="platformStats"
+      :rows-per-page-options="rowsPerPage"
+      column-sort-order="da"
+      ref="platformTable"
+      binary-state-sort
+      flat
+      hide-bottom
     />
   </QExpansionItem>
 </template>
