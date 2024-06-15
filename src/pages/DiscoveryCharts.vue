@@ -15,7 +15,7 @@ const { filteredData } = storeToRefs(dataStore);
 </script>
 
 <template>
-  <p class="freeze-warning">Charting data over time can freeze the page for multiple seconds!</p>
+  <p class="text-center text-body2">Charting data over time can freeze the page for multiple seconds!</p>
   <div
     v-if="filteredData.length"
     class="stats-wrapper"
@@ -30,10 +30,3 @@ const { filteredData } = storeToRefs(dataStore);
     <PlayerTimeChart />
   </div>
 </template>
-
-<style scoped lang="scss">
-.freeze-warning {
-  text-align: center;
-  font-size: initial;
-}
-</style>
