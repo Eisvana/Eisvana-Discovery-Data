@@ -7,21 +7,14 @@ import type { Platform } from '@/types/platform';
 import { storeToRefs } from 'pinia';
 import { computed, ref, reactive, watch, watchEffect } from 'vue';
 import type { QTableColumn } from 'quasar';
-
-interface PaginationObject {
-  sortBy: string | null;
-  descending: boolean;
-  page: number;
-  rowsPerPage: number;
-  rowsNumber?: number;
-}
+import type { PaginationObject } from '@/types/pagination';
+import { rowsPerPage } from '@/variables/pagination';
 
 const dataStore = useDataStore();
 const { filteredData, isLoading } = storeToRefs(dataStore);
 
 const capitaliseFirst = (str: string) => `${str.charAt(0).toUpperCase()}${str.slice(1)}`;
 
-const rowsPerPage = [10, 50, 100, 500, 1000, 0]; // NoSonar these show how many items are displayed on the page at once. The user can switch between them
 const requiredCols = ref(['name', 'glyphs', 'discoverer', 'platform', 'date']);
 
 const currentItems = ref<DiscoveryData[]>([]);
@@ -174,16 +167,15 @@ watchEffect(() => updateRequiredCols(currentItems.value));
       :rows="filteredData"
       :rows-per-page-options="rowsPerPage"
       :visible-columns="requiredCols"
-      row-key="glyphs"
       table-header-class="table-header"
       flat
     >
       <template v-slot:body-cell-name="props">
         <QTd :props="props">
           <RouterLink
-          class="link-colour"
             v-if="'Bases' in props.row || 'Correctly Prefixed' in props.row"
             :to="`/${'Bases' in props.row ? 'planet' : 'system'}/${props.row.Glyphs}`"
+            class="link-colour"
             >{{ props.row.Name || 'Unknown (procedural name)' }}</RouterLink
           >
           <template v-else>{{ props.row.Name }}</template>
