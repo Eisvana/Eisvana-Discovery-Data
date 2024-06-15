@@ -36,3 +36,14 @@ export interface DiscovererDataArray {
 
 export type PlanetDetailItems = 'bases' | 'settlements' | 'animals' | 'flora' | 'minerals';
 export type PlanetDetails = Partial<Record<PlanetDetailItems, DiscoveryData[]>>;
+
+export interface BaseDiscovererData {
+  platform?: string;
+  players?: number;
+  discoverer?: string;
+  discoveries: number;
+  discPercent: number;
+  tagged: number;
+  taggedPercent: number;
+  taggedPercentSelf: number;
+}

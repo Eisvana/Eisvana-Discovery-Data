@@ -7,25 +7,13 @@ import { getPercentage } from '@/helpers/maths';
 import type { QTable, QTableColumn } from 'quasar';
 import type { PaginationObject } from '@/types/pagination';
 import { rowsPerPage } from '@/variables/pagination';
+import type { BaseDiscovererData } from '@/types/data';
 
 const dataStore = useDataStore();
 const { filteredData, dataLength, amountTagged } = storeToRefs(dataStore);
 
-interface BaseDiscovererObject {
-  platform: string;
-  discoveries: number;
-  discPercent: number;
-  tagged: number;
-  taggedPercent: number;
-  taggedPercentSelf: number;
-}
-
 interface DiscovererData {
-  [key: string]: BaseDiscovererObject;
-}
-
-interface UseableDiscovererObject extends BaseDiscovererObject {
-  discoverer: string;
+  [key: string]: BaseDiscovererData;
 }
 
 const discovererTable = ref<QTable | null>(null);
@@ -58,7 +46,7 @@ const discovererStats = computed(() => {
     discovererObject.taggedPercentSelf = getPercentage(discovererObject.tagged, discovererObject.discoveries);
   }
 
-  const discovererDataArray: UseableDiscovererObject[] = Object.entries(discovererData).map(([discoverer, stats]) => ({
+  const discovererDataArray: BaseDiscovererData[] = Object.entries(discovererData).map(([discoverer, stats]) => ({
     discoverer,
     ...stats,
   }));
@@ -66,9 +54,9 @@ const discovererStats = computed(() => {
   return discovererDataArray;
 });
 
-const sortedRows = ref<UseableDiscovererObject[]>([]);
+const sortedRows = ref<BaseDiscovererData[]>([]);
 
-const columns: QTableColumn<UseableDiscovererObject>[] = reactive([
+const columns: QTableColumn<BaseDiscovererData>[] = reactive([
   {
     name: 'pos',
     label: 'Pos.',
