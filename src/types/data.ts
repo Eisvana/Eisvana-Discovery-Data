@@ -47,3 +47,7 @@ export interface BaseDiscovererData {
   taggedPercent: number;
   taggedPercentSelf: number;
 }
+
+export interface DiscovererDataObject {
+  [key: string]: BaseDiscovererData;
+}

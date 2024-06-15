@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { platformMapping } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
-import type { BaseDiscovererData } from '@/types/data';
+import type { BaseDiscovererData, DiscovererDataObject } from '@/types/data';
 import { storeToRefs } from 'pinia';
 import { computed, reactive, ref, watch } from 'vue';
 import { getPercentage } from '@/helpers/maths';
@@ -11,10 +11,6 @@ import { formatPercentage } from '@/helpers/formatting';
 
 const dataStore = useDataStore();
 const { filteredData, dataLength, amountTagged } = storeToRefs(dataStore);
-
-interface PlatformData {
-  [key: string]: BaseDiscovererData;
-}
 
 interface PlayerData {
   Steam: Set<string>;
@@ -42,7 +38,7 @@ const platformStats = computed(() => {
     'Nintendo Switch': new Set(),
   };
 
-  const platformData: PlatformData = {};
+  const platformData: DiscovererDataObject = {};
 
   for (const data of filteredData.value) {
     if (!data.Platform) continue;

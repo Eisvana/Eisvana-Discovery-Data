@@ -7,15 +7,11 @@ import { getPercentage } from '@/helpers/maths';
 import type { QTable, QTableColumn } from 'quasar';
 import type { PaginationObject } from '@/types/pagination';
 import { rowsPerPage } from '@/variables/pagination';
-import type { BaseDiscovererData } from '@/types/data';
+import type { BaseDiscovererData, DiscovererDataObject } from '@/types/data';
 import { formatPercentage } from '@/helpers/formatting';
 
 const dataStore = useDataStore();
 const { filteredData, dataLength, amountTagged } = storeToRefs(dataStore);
-
-interface DiscovererData {
-  [key: string]: BaseDiscovererData;
-}
 
 const discovererTable = ref<QTable | null>(null);
 
@@ -27,7 +23,7 @@ const pagination = ref<PaginationObject>({
 });
 
 const discovererStats = computed(() => {
-  const discovererData: DiscovererData = {};
+  const discovererData: DiscovererDataObject = {};
 
   for (const data of filteredData.value) {
     if (!data.Discoverer) continue;
