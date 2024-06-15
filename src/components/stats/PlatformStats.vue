@@ -7,7 +7,6 @@ import { computed, reactive, ref, watch } from 'vue';
 import { getPercentage } from '@/helpers/maths';
 import type { QTable, QTableColumn } from 'quasar';
 import type { PaginationObject } from '@/types/pagination';
-import { rowsPerPage } from '@/variables/pagination';
 
 const dataStore = useDataStore();
 const { filteredData, dataLength, amountTagged } = storeToRefs(dataStore);
@@ -30,7 +29,7 @@ const pagination = ref<PaginationObject>({
   sortBy: 'discoveries',
   descending: true,
   page: 1,
-  rowsPerPage: 10,
+  rowsPerPage: 0,
 });
 
 const platformStats = computed(() => {
@@ -159,7 +158,6 @@ watch(
       v-model:pagination="pagination"
       :columns
       :rows="platformStats"
-      :rows-per-page-options="rowsPerPage"
       column-sort-order="da"
       ref="platformTable"
       binary-state-sort
