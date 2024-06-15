@@ -55,7 +55,7 @@ const dataContainsSystems = computed(() => categories.value.includes('system'));
   <QCard bordered>
     <QExpansionItem label="Filter Data">
       <QCardSection class="data-filter">
-        <!--Name/Discoverer/Glyphs filter-->
+        <!--Name/Glyphs/Discoverer filter-->
         <TextFilterInput
           v-for="textInput in textInputs"
           v-model:searchTerm="searchTerms[textInput.id]"
