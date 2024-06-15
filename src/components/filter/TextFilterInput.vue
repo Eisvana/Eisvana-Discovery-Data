@@ -42,6 +42,7 @@ const intersectionOptions: QSelectOption[] = [
               outlined
             />
             <QToggle
+              v-if="label !== 'Glyphs'"
               v-model="caseSensitivity"
               label="Case Sensitive"
             />
