@@ -10,6 +10,7 @@ const isOpen = ref(false);
 
 <template>
   <QExpansionItem
+    :class="{ 'full-width': isOpen }"
     :label="summary"
     @after-hide="isOpen = false"
     @before-show="isOpen = true"
