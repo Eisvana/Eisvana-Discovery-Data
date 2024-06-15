@@ -9,6 +9,7 @@ import { computed, ref, reactive, watch, watchEffect } from 'vue';
 import type { QTableColumn } from 'quasar';
 import type { PaginationObject } from '@/types/pagination';
 import { rowsPerPage } from '@/variables/pagination';
+import { paginateData } from '@/helpers/paginate';
 
 const dataStore = useDataStore();
 const { filteredData, isLoading } = storeToRefs(dataStore);
@@ -134,10 +135,8 @@ const columns: QTableColumn<DiscoveryData>[] = reactive([
 
 function updateCurrentItems(newPagination: PaginationObject) {
   const { rowsPerPage, page } = newPagination;
-  const minIndex = (page - 1) * rowsPerPage;
-  const maxIndex = page * rowsPerPage;
-
-  currentItems.value = filteredData.value.slice(minIndex, maxIndex);
+  const paginatedData = paginateData(filteredData.value, rowsPerPage, page);
+  currentItems.value = paginatedData;
 }
 
 function updateRequiredCols(newItems: DiscoveryData[]) {

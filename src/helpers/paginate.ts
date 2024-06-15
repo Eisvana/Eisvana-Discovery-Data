@@ -1,12 +1,6 @@
-export function paginateData<T>(inputArray: T[], itemsPerPage: number): T[][] {
-  const pages = inputArray.reduce((resultArray: T[][], item, index) => {
-    const chunkIndex = Math.floor(index / itemsPerPage);
+export function paginateData<T>(inputArray: T[], itemsPerPage: number, currentPageIndex: number): T[] {
+  const minIndex = currentPageIndex * itemsPerPage;
+  const maxIndex = (currentPageIndex + 1) * itemsPerPage;
 
-    resultArray[chunkIndex] ??= []; // start a new chunk
-
-    resultArray[chunkIndex].push(item);
-
-    return resultArray;
-  }, []);
-  return pages;
+  return inputArray.slice(minIndex, maxIndex);
 }
