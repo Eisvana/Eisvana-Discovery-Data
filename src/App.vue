@@ -13,9 +13,14 @@ import NavBar from './components/NavBar.vue';
       <QToolbar class="bg-primary text-white">
         <NavBar />
 
-        <QToolbarTitle class="text-center">Eisvana Discovery Data</QToolbarTitle>
+        <QSpace class="xs" />
+
+        <QToolbarTitle class="text-center gt-xs">Eisvana Discovery Data</QToolbarTitle>
 
         <ThemeSwitch />
+      </QToolbar>
+      <QToolbar class="xs">
+        <QToolbarTitle class="text-center">Eisvana Discovery Data</QToolbarTitle>
       </QToolbar>
     </QHeader>
 
