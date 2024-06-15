@@ -139,8 +139,10 @@ watch(
       :columns
       :rows="discovererStats"
       :rows-per-page-options="rowsPerPage"
+      class="q-px-md"
       column-sort-order="da"
       ref="discovererTable"
+      table-header-class="table-header"
       binary-state-sort
       flat
     />

@@ -155,8 +155,10 @@ watch(
       v-model:pagination="pagination"
       :columns
       :rows="platformStats"
+      class="q-px-md"
       column-sort-order="da"
       ref="platformTable"
+      table-header-class="table-header"
       binary-state-sort
       flat
       hide-bottom
