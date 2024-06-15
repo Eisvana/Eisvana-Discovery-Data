@@ -142,7 +142,9 @@ watch(
       :columns
       :rows="discovererStats"
       :rows-per-page-options="rowsPerPage"
+      column-sort-order="da"
       ref="discovererTable"
+      binary-state-sort
       flat
     />
   </QExpansionItem>
