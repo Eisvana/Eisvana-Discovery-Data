@@ -17,7 +17,11 @@ const { filteredData, isLoading } = storeToRefs(dataStore);
 
 const temporaryData = ref<DiscoveryData[][]>([]);
 
-watchEffect(() => (filteredData.value = temporaryData.value.flat()));
+watchEffect(() => {
+  const newData = temporaryData.value.flat();
+  if (isLoading.value && !newData.length) return;
+  filteredData.value = newData;
+});
 
 watchDebounced(
   [unixTimestamp, tagged, intersections, searchTerms, caseSensitivity, regions, platforms, categories],
@@ -105,7 +109,7 @@ function applyFilter(data: DiscoveryData[]) {
     const itemGlyphs = item.Glyphs.slice(1);
 
     // begin filtering
-    const dayInMs = 86400000;
+    const dayInMs = 24 * 60 * 60 * 1000; // NoSonar 24h times 60 minutes times 60 seconds times 1000 milliseconds
     const isValidDate =
       (!startDate && !endDate) ||
       (startDate < item.Timestamp && item.Timestamp < endDate + dayInMs) ||
