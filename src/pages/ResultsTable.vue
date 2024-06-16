@@ -34,13 +34,13 @@ const requiredCols = computed(() => updateRequiredCols(currentItems.value));
 const discovererColLabel = computed(() => {
   const isBase = (item: DiscoveryData) => 'Parts' in item;
 
-  const allHaveBuilder = currentItems.value.every(isBase);
-  if (allHaveBuilder) return 'Builder';
+  const noneHaveBuilder = !currentItems.value.some(isBase);
+  if (noneHaveBuilder) return 'Discoverer';
 
-  const someHaveBuilder = currentItems.value.some(isBase);
-  if (someHaveBuilder) return 'Discoverer / Builder';
+  const someDontHaveBuilder = currentItems.value.some((item) => !isBase(item));
+  if (someDontHaveBuilder) return 'Discoverer / Builder';
 
-  return 'Discoverer';
+  return 'Builder';
 });
 
 const columns: QTableColumn<DiscoveryData>[] = reactive([
