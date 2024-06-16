@@ -33,7 +33,6 @@ withDefaults(defineProps<Props>(), {
           <tr>
             <th
               v-for="heading in headings"
-              class="text-left"
               scope="col"
             >
               {{ heading }}

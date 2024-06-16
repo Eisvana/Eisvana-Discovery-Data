@@ -12,10 +12,10 @@ const { dataLength } = storeToRefs(dataStore);
 <template>
   <div
     v-if="dataLength"
-    class="stats-wrapper"
+    class="column q-gutter-y-lg"
   >
-    <NumberStats class="full-width" />
-    <DiscovererStats class="full-width" />
-    <PlatformStats class="full-width" />
+    <NumberStats />
+    <DiscovererStats />
+    <PlatformStats />
   </div>
 </template>
