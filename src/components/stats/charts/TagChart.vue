@@ -82,7 +82,10 @@ const options = {
 </script>
 
 <template>
-  <ChartWrapper summary="Prefixes over time">
+  <ChartWrapper
+    group="chart"
+    summary="Prefixes over time"
+  >
     <Line
       :data="data"
       :options="options"

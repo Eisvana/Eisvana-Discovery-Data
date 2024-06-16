@@ -139,7 +139,10 @@ const options = {
 </script>
 
 <template>
-  <ChartWrapper summary="Players over time">
+  <ChartWrapper
+    group="chart"
+    summary="Players over time"
+  >
     <PaginationControls
       v-model:current-page="currentPage"
       v-model:items-per-page="itemsPerPage"

@@ -73,7 +73,10 @@ const chartOptions = {
 </script>
 
 <template>
-  <ChartWrapper summary="Players per platform">
+  <ChartWrapper
+    group="chart"
+    summary="Players per platform"
+  >
     <Bar
       v-if="false"
       :data="barChartData"

@@ -115,7 +115,10 @@ const pieChartOptions = {
 </script>
 
 <template>
-  <ChartWrapper summary="Discoveries and prefixes per platform">
+  <ChartWrapper
+    group="chart"
+    summary="Discoveries and prefixes per platform"
+  >
     <Bar
       :data="barChartData"
       :options="barChartOptions"

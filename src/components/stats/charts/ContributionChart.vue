@@ -56,7 +56,10 @@ const chartOptions = {
 </script>
 
 <template>
-  <ChartWrapper summary="Average contributions">
+  <ChartWrapper
+    group="chart"
+    summary="Average contributions"
+  >
     <Bar
       :data="chartData"
       :options="chartOptions"

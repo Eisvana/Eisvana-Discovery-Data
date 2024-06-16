@@ -18,7 +18,7 @@ const { dataLength } = storeToRefs(dataStore);
   <p class="text-center text-body2">Charting data over time can freeze the page for multiple seconds!</p>
   <div
     v-if="dataLength"
-    class="stats-wrapper"
+    class="stats-wrapper column"
   >
     <DiscovererChart />
     <PlatformChart />

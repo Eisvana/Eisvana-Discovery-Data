@@ -89,7 +89,10 @@ const options = {
 </script>
 
 <template>
-  <ChartWrapper summary="Discoveries over time">
+  <ChartWrapper
+    group="chart"
+    summary="Discoveries over time"
+  >
     <Line
       :data="data"
       :options="options"

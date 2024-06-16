@@ -103,7 +103,10 @@ const pieChartOptions = {
 </script>
 
 <template>
-  <ChartWrapper summary="Discoveries and prefixes per player">
+  <ChartWrapper
+    group="chart"
+    summary="Discoveries and prefixes per player"
+  >
     <PaginationControls
       v-model:currentPage="currentPage"
       v-model:itemsPerPage="itemsPerPage"

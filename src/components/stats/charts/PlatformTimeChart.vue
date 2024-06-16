@@ -145,7 +145,10 @@ const options = {
 </script>
 
 <template>
-  <ChartWrapper summary="Platforms over time">
+  <ChartWrapper
+    group="chart"
+    summary="Platforms over time"
+  >
     <Line
       :data="individualData"
       :options="options"
