@@ -14,7 +14,7 @@ import {
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import { Line } from 'vue-chartjs';
-import DetailsWrapper from '@/components/DetailsWrapper.vue';
+import ChartWrapper from '@/components/ChartWrapper.vue';
 import { getUTCDateString, getDatesBetween } from '@/helpers/date';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
@@ -58,31 +58,29 @@ const transformedData = computed(() => {
   return timestampData;
 });
 
-const data = computed(() => {
-  return {
-    labels: Object.keys(transformedData.value).map((ts) => new Date(ts).toLocaleDateString()),
-    datasets: [
-      {
-        label: 'Total Discoveries',
-        backgroundColor: chartColours.green,
-        borderColor: chartColours.green + '70',
-        data: Object.values(transformedData.value).map((num) => num.correct + num.incorrect || null),
-      },
-      {
-        label: 'Correct Tags',
-        backgroundColor: chartColours.blue,
-        borderColor: chartColours.blue + '70',
-        data: Object.values(transformedData.value).map((num) => num.correct || null),
-      },
-      {
-        label: 'Incorrect Tags',
-        backgroundColor: chartColours.red,
-        borderColor: chartColours.red + '70',
-        data: Object.values(transformedData.value).map((num) => num.incorrect || null),
-      },
-    ],
-  };
-});
+const data = computed(() => ({
+  labels: Object.keys(transformedData.value).map((ts) => new Date(ts).toLocaleDateString()),
+  datasets: [
+    {
+      label: 'Total Discoveries',
+      backgroundColor: chartColours.green,
+      borderColor: chartColours.green + '70',
+      data: Object.values(transformedData.value).map((num) => num.correct + num.incorrect || null),
+    },
+    {
+      label: 'Correct Tags',
+      backgroundColor: chartColours.blue,
+      borderColor: chartColours.blue + '70',
+      data: Object.values(transformedData.value).map((num) => num.correct || null),
+    },
+    {
+      label: 'Incorrect Tags',
+      backgroundColor: chartColours.red,
+      borderColor: chartColours.red + '70',
+      data: Object.values(transformedData.value).map((num) => num.incorrect || null),
+    },
+  ],
+}));
 
 const options = {
   responsive: true,
@@ -91,10 +89,11 @@ const options = {
 </script>
 
 <template>
-  <DetailsWrapper summary="Discoveries over time">
+  <ChartWrapper summary="Discoveries over time">
     <Line
       :data="data"
       :options="options"
+      class="chart"
     />
-  </DetailsWrapper>
+  </ChartWrapper>
 </template>

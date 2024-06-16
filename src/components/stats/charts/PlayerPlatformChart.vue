@@ -8,7 +8,7 @@ import { chartColours, platformMapping } from '@/variables/mappings';
 import type { Platform } from '@/types/platform';
 import type { ValueOf } from '@/types/utility';
 import { setPlatformColours } from '@/helpers/colours';
-import DetailsWrapper from '@/components/DetailsWrapper.vue';
+import ChartWrapper from '@/components/ChartWrapper.vue';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
@@ -42,17 +42,15 @@ const platformStats = computed(
   }
 );
 
-const barChartData = computed(() => {
-  return {
-    labels: platformStats.value.platforms,
-    datasets: [
-      {
-        backgroundColor: chartColours.blue,
-        data: platformStats.value.players,
-      },
-    ],
-  };
-});
+const barChartData = computed(() => ({
+  labels: platformStats.value.platforms,
+  datasets: [
+    {
+      backgroundColor: chartColours.blue,
+      data: platformStats.value.players,
+    },
+  ],
+}));
 
 const pieChartData = computed(() => {
   const colours = setPlatformColours(platformStats.value.platforms);
@@ -75,25 +73,24 @@ const chartOptions = {
 </script>
 
 <template>
-  <DetailsWrapper summary="Players per platform">
+  <ChartWrapper summary="Players per platform">
     <Bar
       v-if="false"
       :data="barChartData"
       :options="chartOptions"
     />
-    <div class="pie-chart">
+    <div class="pie-chart q-mx-auto">
       <Pie
         :data="pieChartData"
         :options="chartOptions"
       />
     </div>
-  </DetailsWrapper>
+  </ChartWrapper>
 </template>
 
 <style scoped lang="scss">
 .pie-chart {
   width: min(700px, 100%);
-  margin-inline: auto;
   margin-block-start: 2rem;
 }
 </style>

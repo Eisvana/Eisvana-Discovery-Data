@@ -11,20 +11,19 @@ import {
   Legend,
 } from 'chart.js';
 import { storeToRefs } from 'pinia';
-import { computed } from 'vue';
+import { computed, ref } from 'vue';
 import { Line } from 'vue-chartjs';
-import PaginationControls from '@/components/table/PaginationControls.vue';
-import { appSections } from '@/variables/mappings';
-import DetailsWrapper from '@/components/DetailsWrapper.vue';
+import ChartWrapper from '@/components/ChartWrapper.vue';
 import { getUTCDateString, getDatesBetween } from '@/helpers/date';
 import { paginateData } from '@/helpers/paginate';
 import { getRandomColour } from '@/helpers/colours';
 import type { ChartData } from '@/types/chart';
+import PaginationControls from '@/components/PaginationControls.vue';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
 const dataStore = useDataStore();
-const { filteredData, dateRange, currentPageIndex, itemsPerPage } = storeToRefs(dataStore);
+const { filteredData, dateRange } = storeToRefs(dataStore);
 
 interface TimestampData {
   [key: string]: {
@@ -37,7 +36,9 @@ interface PlayerData {
   colour: string;
 }
 
-const activeSection = computed(() => paginatedData.value[currentPageIndex.value.playerChart]);
+const itemsPerPage = ref(10);
+const currentPage = ref(1);
+const currentPageIndex = computed(() => currentPage.value - 1);
 
 const players = computed((): PlayerData[] => {
   const playerSet = new Set<string>();
@@ -71,45 +72,21 @@ const transformedData = computed(() => {
   return discoveryAmount;
 });
 
-const paginatedData = computed(() => {
-  const pages = paginateData(players.value, itemsPerPage.value.playerChart);
+const paginatedData = computed(() => paginateData(players.value, itemsPerPage.value, currentPageIndex.value));
 
-  if (pages.length < currentPageIndex.value.playerChart) currentPageIndex.value.playerChart = 0;
-  return pages;
-});
+const individualDatasets = computed(() => paginatedData.value.map(individualDatasetObjectFactory));
 
-const individualDatasets = computed(() => {
-  const datasets = [];
-  for (const playerObj of activeSection.value) {
-    const dataset = individualDatasetObjectFactory(playerObj);
-    datasets.push(dataset);
-  }
-  return datasets;
-});
+const individualData = computed(() => ({
+  labels: Object.keys(blankData.value).map((ts) => new Date(ts).toLocaleDateString()),
+  datasets: individualDatasets.value,
+}));
 
-const individualData = computed(() => {
-  return {
-    labels: Object.keys(blankData.value).map((ts) => new Date(ts).toLocaleDateString()),
-    datasets: individualDatasets.value,
-  };
-});
+const combinedDatasets = computed(() => paginatedData.value.map(combinedDatasetObjectFactory));
 
-const combinedDatasets = computed(() => {
-  const datasets = [];
-  for (const playerObj of activeSection.value) {
-    const dataset = combinedDatasetObjectFactory(playerObj);
-    datasets.push(dataset);
-  }
-
-  return datasets;
-});
-
-const combinedData = computed(() => {
-  return {
-    labels: Object.keys(blankData.value).map((ts) => new Date(ts).toLocaleDateString()),
-    datasets: combinedDatasets.value,
-  };
-});
+const combinedData = computed(() => ({
+  labels: Object.keys(blankData.value).map((ts) => new Date(ts).toLocaleDateString()),
+  datasets: combinedDatasets.value,
+}));
 
 function combinedDatasetObjectFactory(playerObj: PlayerData): ChartData {
   const colour = playerObj.colour;
@@ -157,23 +134,26 @@ function combineIndizes(player: string): (number | null)[] {
 
 const options = {
   responsive: true,
-  maintainAspectRatio: true,
+  maintainAspectRatio: false,
 };
 </script>
 
 <template>
-  <DetailsWrapper summary="Players over time">
+  <ChartWrapper summary="Players over time">
     <PaginationControls
-      :total-pages="paginatedData.length"
-      :section="appSections.playerChart"
+      v-model:current-page="currentPage"
+      v-model:items-per-page="itemsPerPage"
+      :data="players"
     />
     <Line
       :data="individualData"
       :options="options"
+      class="chart"
     />
     <Line
       :data="combinedData"
       :options="options"
+      class="chart"
     />
-  </DetailsWrapper>
+  </ChartWrapper>
 </template>

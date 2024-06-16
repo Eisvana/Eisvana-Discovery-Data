@@ -5,7 +5,7 @@ import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import { chartColours, platformMapping } from '@/variables/mappings';
-import DetailsWrapper from '@/components/DetailsWrapper.vue';
+import ChartWrapper from '@/components/ChartWrapper.vue';
 import { setPlatformColours } from '@/helpers/colours';
 import type { ValueOf } from '@/types/utility';
 import type { Platform } from '@/types/platform';
@@ -115,24 +115,24 @@ const pieChartOptions = {
 </script>
 
 <template>
-  <DetailsWrapper summary="Discoveries and prefixes per platform">
+  <ChartWrapper summary="Discoveries and prefixes per platform">
     <Bar
       :data="barChartData"
       :options="barChartOptions"
+      class="chart"
     />
-    <div class="pie-chart">
+    <div class="pie-chart q-mx-auto">
       <Pie
         :data="pieChartData"
         :options="pieChartOptions"
       />
     </div>
-  </DetailsWrapper>
+  </ChartWrapper>
 </template>
 
 <style scoped lang="scss">
 .pie-chart {
   width: min(700px, 100%);
-  margin-inline: auto;
   margin-block-start: 2rem;
 }
 </style>

@@ -5,7 +5,7 @@ import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import type { DiscovererData } from '@/types/data';
 import { chartColours } from '@/variables/mappings';
-import DetailsWrapper from '@/components/DetailsWrapper.vue';
+import ChartWrapper from '@/components/ChartWrapper.vue';
 import { computed } from 'vue';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
@@ -38,18 +38,16 @@ const discovererStats = computed(() => {
   return counts;
 });
 
-const chartData = computed(() => {
-  return {
-    labels: Object.keys(discovererStats.value),
-    datasets: [
-      {
-        label: 'Players with contribution',
-        backgroundColor: chartColours.blue,
-        data: Object.values(discovererStats.value),
-      },
-    ],
-  };
-});
+const chartData = computed(() => ({
+  labels: Object.keys(discovererStats.value),
+  datasets: [
+    {
+      label: 'Players with contribution',
+      backgroundColor: chartColours.blue,
+      data: Object.values(discovererStats.value),
+    },
+  ],
+}));
 
 const chartOptions = {
   responsive: true,
@@ -58,10 +56,11 @@ const chartOptions = {
 </script>
 
 <template>
-  <DetailsWrapper summary="Average contributions">
+  <ChartWrapper summary="Average contributions">
     <Bar
       :data="chartData"
       :options="chartOptions"
+      class="chart"
     />
-  </DetailsWrapper>
+  </ChartWrapper>
 </template>

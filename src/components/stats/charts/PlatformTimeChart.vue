@@ -15,7 +15,7 @@ import {
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import { Line } from 'vue-chartjs';
-import DetailsWrapper from '@/components/DetailsWrapper.vue';
+import ChartWrapper from '@/components/ChartWrapper.vue';
 import { getUTCDateString, getDatesBetween } from '@/helpers/date';
 import { setPlatformColours } from '@/helpers/colours';
 import { isPlatformCode } from '@/helpers/typeGuards';
@@ -69,17 +69,15 @@ function combineIndizes(platform: Platform): (number | null)[] {
   const timestampData = structuredClone(transformedData.value);
   const keys = Object.keys(timestampData);
 
-  for (const [ts, platformValues] of Object.entries(timestampData)) {
-    const index = keys.indexOf(ts);
-
-    for (const [platform, amount] of Object.entries(platformValues)) {
+  Object.entries(timestampData).forEach(([_, platformValues], index) => {
+    Object.entries(platformValues).forEach(([platform, amount]) => {
       const timestampDataObj = timestampData[keys[index + 1]];
-      if (index + 1 === keys.length) continue;
+      if (index + 1 === keys.length) return;
 
-      if (!isPlatformCode(platform)) continue;
+      if (!isPlatformCode(platform)) return;
       timestampDataObj[platform] += amount;
-    }
-  }
+    });
+  });
 
   return Object.values(timestampData).map((item) => item[platform] || null);
 }
@@ -120,12 +118,10 @@ const individualDatasets = computed(() => {
   return datasets;
 });
 
-const individualData = computed(() => {
-  return {
-    labels: Object.keys(blankData.value).map((ts) => new Date(ts).toLocaleDateString()),
-    datasets: individualDatasets.value,
-  };
-});
+const individualData = computed(() => ({
+  labels: Object.keys(blankData.value).map((ts) => new Date(ts).toLocaleDateString()),
+  datasets: individualDatasets.value,
+}));
 
 const combinedDatasets = computed(() => {
   const datasets = [];
@@ -137,12 +133,10 @@ const combinedDatasets = computed(() => {
   return datasets;
 });
 
-const combinedData = computed(() => {
-  return {
-    labels: Object.keys(blankData.value).map((ts) => new Date(ts).toLocaleDateString()),
-    datasets: combinedDatasets.value,
-  };
-});
+const combinedData = computed(() => ({
+  labels: Object.keys(blankData.value).map((ts) => new Date(ts).toLocaleDateString()),
+  datasets: combinedDatasets.value,
+}));
 
 const options = {
   responsive: true,
@@ -151,14 +145,16 @@ const options = {
 </script>
 
 <template>
-  <DetailsWrapper summary="Platforms over time">
+  <ChartWrapper summary="Platforms over time">
     <Line
       :data="individualData"
       :options="options"
+      class="chart"
     />
     <Line
       :data="combinedData"
       :options="options"
+      class="chart"
     />
-  </DetailsWrapper>
+  </ChartWrapper>
 </template>

@@ -14,7 +14,7 @@ import {
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import { Line } from 'vue-chartjs';
-import DetailsWrapper from '@/components/DetailsWrapper.vue';
+import ChartWrapper from '@/components/ChartWrapper.vue';
 import { getDatesBetween, getUTCDateString } from '@/helpers/date';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
@@ -44,43 +44,36 @@ const transformedData = computed(() => {
     timestampData[utcDate][item['Correctly Prefixed'] ? 'correct' : 'incorrect']++;
   }
 
-  const newDateArray: { ts: string; correct: number; incorrect: number }[] = [];
-
-  for (const [ts, data] of Object.entries(timestampData)) {
-    newDateArray.push({
-      ts,
-      ...data,
-    });
-  }
+  const newDateArray: { ts: string; correct: number; incorrect: number }[] = Object.entries(timestampData).map(
+    ([ts, data]) => ({ ts, ...data })
+  );
 
   return newDateArray;
 });
 
-const data = computed(() => {
-  return {
-    labels: transformedData.value.map((obj) => new Date(obj.ts).toLocaleDateString()),
-    datasets: [
-      {
-        label: 'Total Discoveries',
-        backgroundColor: chartColours.green,
-        borderColor: chartColours.green + '70',
-        data: transformedData.value.map((obj) => obj.correct + obj.incorrect || null),
-      },
-      {
-        label: 'Correct Tags',
-        backgroundColor: chartColours.blue,
-        borderColor: chartColours.blue + '70',
-        data: transformedData.value.map((obj) => obj.correct || null),
-      },
-      {
-        label: 'Incorrect Tags',
-        backgroundColor: chartColours.red,
-        borderColor: chartColours.red + '70',
-        data: transformedData.value.map((obj) => obj.incorrect || null),
-      },
-    ],
-  };
-});
+const data = computed(() => ({
+  labels: transformedData.value.map((obj) => new Date(obj.ts).toLocaleDateString()),
+  datasets: [
+    {
+      label: 'Total Discoveries',
+      backgroundColor: chartColours.green,
+      borderColor: chartColours.green + '70',
+      data: transformedData.value.map((obj) => obj.correct + obj.incorrect || null),
+    },
+    {
+      label: 'Correct Tags',
+      backgroundColor: chartColours.blue,
+      borderColor: chartColours.blue + '70',
+      data: transformedData.value.map((obj) => obj.correct || null),
+    },
+    {
+      label: 'Incorrect Tags',
+      backgroundColor: chartColours.red,
+      borderColor: chartColours.red + '70',
+      data: transformedData.value.map((obj) => obj.incorrect || null),
+    },
+  ],
+}));
 
 const options = {
   responsive: true,
@@ -89,10 +82,11 @@ const options = {
 </script>
 
 <template>
-  <DetailsWrapper summary="Prefixes over time">
+  <ChartWrapper summary="Prefixes over time">
     <Line
       :data="data"
       :options="options"
+      class="chart"
     />
-  </DetailsWrapper>
+  </ChartWrapper>
 </template>
