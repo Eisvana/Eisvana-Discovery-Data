@@ -103,7 +103,6 @@ const getDate = (dateString: string | undefined) => (dateString ? getFormattedUT
 
 <template>
   <QExpansionItem
-    class="full-width"
     label="Number Stats"
     default-opened
   >

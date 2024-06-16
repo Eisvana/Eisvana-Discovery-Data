@@ -14,8 +14,8 @@ const { filteredData } = storeToRefs(dataStore);
     v-if="filteredData.length"
     class="stats-wrapper"
   >
-    <NumberStats />
-    <DiscovererStats />
-    <PlatformStats />
+    <NumberStats class="full-width" />
+    <DiscovererStats class="full-width" />
+    <PlatformStats class="full-width" />
   </div>
 </template>
