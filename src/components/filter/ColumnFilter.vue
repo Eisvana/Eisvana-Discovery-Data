@@ -87,7 +87,7 @@ const dataContainsSystems = computed(() => categories.value.includes('system'));
         </div>
 
         <!--Tagging status selector-->
-        <div class="col-grow">
+        <div class="col-grow select-min-width">
           <QSelect
             v-if="dataContainsSystems"
             v-model="tagged"
