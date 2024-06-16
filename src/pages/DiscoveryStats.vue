@@ -6,12 +6,12 @@ import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 
 const dataStore = useDataStore();
-const { filteredData } = storeToRefs(dataStore);
+const { dataLength } = storeToRefs(dataStore);
 </script>
 
 <template>
   <div
-    v-if="filteredData.length"
+    v-if="dataLength"
     class="stats-wrapper"
   >
     <NumberStats class="full-width" />

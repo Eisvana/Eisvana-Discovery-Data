@@ -11,13 +11,13 @@ import PlatformTimeChart from '@/components/stats/charts/PlatformTimeChart.vue';
 import PlayerTimeChart from '@/components/stats/charts/PlayerTimeChart.vue';
 
 const dataStore = useDataStore();
-const { filteredData } = storeToRefs(dataStore);
+const { dataLength } = storeToRefs(dataStore);
 </script>
 
 <template>
   <p class="text-center text-body2">Charting data over time can freeze the page for multiple seconds!</p>
   <div
-    v-if="filteredData.length"
+    v-if="dataLength"
     class="stats-wrapper"
   >
     <DiscovererChart />
