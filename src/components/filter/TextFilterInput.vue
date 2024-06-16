@@ -5,9 +5,9 @@ defineProps<{
   label: string;
 }>();
 
-const searchTerm = defineModel('searchTerm', { type: String, required: true });
-const intersection = defineModel('intersection', { type: String, required: true });
-const caseSensitivity = defineModel('caseSensitivity', { type: Boolean, required: true });
+const searchTerm = defineModel<string>('searchTerm', { required: true });
+const intersection = defineModel<string>('intersection', { required: true });
+const caseSensitivity = defineModel<boolean>('caseSensitivity', { required: true });
 
 const intersectionOptions: QSelectOption[] = [
   { label: 'Includes', value: 'includes' },
