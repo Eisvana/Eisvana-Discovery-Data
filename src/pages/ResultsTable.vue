@@ -5,7 +5,7 @@ import { useDataStore } from '@/stores/data';
 import type { DiscoveryData } from '@/types/data';
 import type { Platform } from '@/types/platform';
 import { storeToRefs } from 'pinia';
-import { computed, ref, reactive, watch, watchEffect } from 'vue';
+import { computed, ref, reactive } from 'vue';
 import type { QTableColumn } from 'quasar';
 import type { PaginationObject } from '@/types/pagination';
 import { rowsPerPage } from '@/variables/pagination';
@@ -16,9 +16,6 @@ const { filteredData, isLoading } = storeToRefs(dataStore);
 
 const capitaliseFirst = (str: string) => `${str.charAt(0).toUpperCase()}${str.slice(1)}`;
 
-const requiredCols = ref(['name', 'glyphs', 'discoverer', 'platform', 'date']);
-
-const currentItems = ref<DiscoveryData[]>([]);
 const pagination = ref<PaginationObject>({
   sortBy: null,
   descending: false,
@@ -26,7 +23,15 @@ const pagination = ref<PaginationObject>({
   rowsPerPage: 50,
 });
 
-const discovererColName = computed(() => {
+const currentItems = computed(() => {
+  const { rowsPerPage, page } = pagination.value;
+  const paginatedData = paginateData(filteredData.value, rowsPerPage, page - 1);
+  return paginatedData;
+});
+
+const requiredCols = computed(() => updateRequiredCols(currentItems.value));
+
+const discovererColLabel = computed(() => {
   const isBase = (item: DiscoveryData) => 'Parts' in item;
 
   const allHaveBuilder = currentItems.value.every(isBase);
@@ -56,7 +61,7 @@ const columns: QTableColumn<DiscoveryData>[] = reactive([
   },
   {
     name: 'discoverer',
-    label: discovererColName,
+    label: discovererColLabel,
     align: 'left',
     field: 'Discoverer',
   },
@@ -133,12 +138,6 @@ const columns: QTableColumn<DiscoveryData>[] = reactive([
   },
 ]);
 
-function updateCurrentItems(newPagination: PaginationObject) {
-  const { rowsPerPage, page } = newPagination;
-  const paginatedData = paginateData(filteredData.value, rowsPerPage, page);
-  currentItems.value = paginatedData;
-}
-
 function updateRequiredCols(newItems: DiscoveryData[]) {
   const allFields = columns.map((item) => item.field);
   const usedFields = allFields.filter((field) => typeof field === 'string' && newItems.some((item) => field in item));
@@ -150,11 +149,8 @@ function updateRequiredCols(newItems: DiscoveryData[]) {
     .map((field) => columns.find((item) => item.field === field)?.name)
     .filter(isStringArray); // see comment above for why this is not done with `Boolean`
 
-  requiredCols.value = usedFieldColNames;
+  return usedFieldColNames;
 }
-
-watch([pagination, filteredData], ([newPagination]) => updateCurrentItems(newPagination));
-watchEffect(() => updateRequiredCols(currentItems.value));
 </script>
 
 <template>
