@@ -88,6 +88,14 @@ details[open] {
   font-weight: bold;
 }
 
+.chart {
+  max-height: 600px;
+}
+
+.select-min-width {
+  min-width: 150px;
+}
+
 // link colours copied from Pico CSS
 .body--light .link-colour {
   color: rgb(1, 114, 173);
