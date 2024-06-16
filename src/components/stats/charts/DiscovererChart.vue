@@ -3,18 +3,22 @@ import { Bar, Pie } from 'vue-chartjs';
 import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale, ArcElement } from 'chart.js';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
-import { computed } from 'vue';
-import { appSections, chartColours } from '@/variables/mappings';
-import PaginationControls from '@/components/table/PaginationControls.vue';
+import { computed, ref } from 'vue';
+import { chartColours } from '@/variables/mappings';
 import type { DiscovererData, DiscovererDataArray } from '@/types/data';
-import DetailsWrapper from '@/components/DetailsWrapper.vue';
+import ChartWrapper from '@/components/ChartWrapper.vue';
 import { paginateData } from '@/helpers/paginate';
 import { getRandomColour } from '@/helpers/colours';
+import PaginationControls from '@/components/PaginationControls.vue';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
 const dataStore = useDataStore();
-const { filteredData, currentPageIndex, itemsPerPage } = storeToRefs(dataStore);
+const { filteredData } = storeToRefs(dataStore);
+
+const itemsPerPage = ref(50); // NoSonar this is one of the three possible itemsPerRow options
+const currentPage = ref(1);
+const currentPageIndex = computed(() => currentPage.value - 1);
 
 const discovererStats = computed(() => {
   const discovererData: DiscovererData = {};
@@ -31,34 +35,20 @@ const discovererStats = computed(() => {
 
   const sortedDiscovererArray = Object.entries(discovererData).toSorted((a, b) => b[1].discoveries - a[1].discoveries);
 
-  const discovererStatsObject: DiscovererDataArray[] = [];
-
-  for (const [name, playerStats] of sortedDiscovererArray) {
-    discovererStatsObject.push({ name, ...playerStats });
-  }
+  const discovererStatsObject: DiscovererDataArray[] = sortedDiscovererArray.map(([name, playerStats]) => ({
+    name,
+    ...playerStats,
+  }));
 
   return discovererStatsObject;
 });
 
-const paginatedData = computed(() => {
-  const pages = paginateData(discovererStats.value, itemsPerPage.value.discovererChart);
-
-  if (pages.length < currentPageIndex.value.discovererChart) currentPageIndex.value.discovererChart = 0;
-  return pages;
-});
+const paginatedData = computed(() => paginateData(discovererStats.value, itemsPerPage.value, currentPageIndex.value));
 
 const pieChartData = computed(() => {
-  const data = discovererStats.value;
-
-  const playerNames: string[] = [];
-  const playerDiscoveries: number[] = [];
-  const colours: string[] = [];
-
-  for (const obj of data) {
-    playerNames.push(obj.name);
-    playerDiscoveries.push(obj.discoveries);
-    colours.push(getRandomColour());
-  }
+  const playerNames: string[] = discovererStats.value.map((item) => item.name);
+  const playerDiscoveries: number[] = discovererStats.value.map((item) => item.discoveries);
+  const colours: string[] = discovererStats.value.map(getRandomColour);
 
   return {
     labels: playerNames,
@@ -72,17 +62,9 @@ const pieChartData = computed(() => {
 });
 
 const barChartData = computed(() => {
-  const data = paginatedData.value[currentPageIndex.value.discovererChart];
-
-  const playerNames: string[] = [];
-  const playerTags: number[] = [];
-  const playerMistags: number[] = [];
-
-  for (const obj of data) {
-    playerNames.push(obj.name);
-    playerTags.push(obj.tags);
-    playerMistags.push(obj.discoveries - obj.tags);
-  }
+  const playerNames: string[] = paginatedData.value.map((item) => item.name);
+  const playerTags: number[] = paginatedData.value.map((item) => item.tags);
+  const playerMistags: number[] = paginatedData.value.map((item) => item.discoveries - item.tags);
 
   return {
     labels: playerNames,
@@ -121,19 +103,22 @@ const pieChartOptions = {
 </script>
 
 <template>
-  <DetailsWrapper summary="Discoveries and prefixes per player">
+  <ChartWrapper summary="Discoveries and prefixes per player">
     <PaginationControls
-      :total-pages="paginatedData.length"
-      :section="appSections.discovererChart"
+      v-model:currentPage="currentPage"
+      v-model:itemsPerPage="itemsPerPage"
+      :data="discovererStats"
     />
+
     <Bar
       :data="barChartData"
       :options="barChartOptions"
+      class="chart"
     />
     <Pie
       v-if="false"
       :data="pieChartData"
       :options="pieChartOptions"
     />
-  </DetailsWrapper>
+  </ChartWrapper>
 </template>
