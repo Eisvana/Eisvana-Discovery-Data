@@ -1,15 +1,16 @@
 @font-face {
-  font-family: 'NMS-Glyphs-Tight';
+  font-family: 'NMS-Glyphs-Mono';
   src:
-    local('NMS-Glyphs-Tight'),
-    url('./fonts/NMS-Glyphs-Tight.ttf') format('truetype');
+    local('NMS-Glyphs-Mono'),
+    url('./fonts/NMS-Glyphs-Mono.ttf') format('truetype');
 }
 
 .glyphs {
-  font-family: NMS-Glyphs-Tight;
+  font-family: NMS-Glyphs-Mono;
   font-size: 2rem;
   vertical-align: sub;
   line-height: initial;
+  letter-spacing: -6px;
 }
 
 .table-header {
