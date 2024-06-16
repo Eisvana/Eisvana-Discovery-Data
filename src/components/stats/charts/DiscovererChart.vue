@@ -10,6 +10,7 @@ import ChartWrapper from '@/components/ChartWrapper.vue';
 import { paginateData } from '@/helpers/paginate';
 import { getRandomColour } from '@/helpers/colours';
 import PaginationControls from '@/components/PaginationControls.vue';
+import { chartOptions } from '@/variables/chart';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
@@ -84,8 +85,7 @@ const barChartData = computed(() => {
 });
 
 const barChartOptions = {
-  responsive: true,
-  maintainAspectRatio: true,
+  ...chartOptions,
   scales: {
     x: {
       stacked: true,
@@ -94,11 +94,6 @@ const barChartOptions = {
       stacked: true,
     },
   },
-};
-
-const pieChartOptions = {
-  responsive: true,
-  maintainAspectRatio: true,
 };
 </script>
 
@@ -121,7 +116,7 @@ const pieChartOptions = {
     <Pie
       v-if="false"
       :data="pieChartData"
-      :options="pieChartOptions"
+      :options="chartOptions"
     />
   </ChartWrapper>
 </template>

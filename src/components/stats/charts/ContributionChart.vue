@@ -7,6 +7,7 @@ import type { DiscovererData } from '@/types/data';
 import { chartColours } from '@/variables/mappings';
 import ChartWrapper from '@/components/ChartWrapper.vue';
 import { computed } from 'vue';
+import { chartOptions } from '@/variables/chart';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
 
@@ -48,11 +49,6 @@ const chartData = computed(() => ({
     },
   ],
 }));
-
-const chartOptions = {
-  responsive: true,
-  maintainAspectRatio: true,
-};
 </script>
 
 <template>

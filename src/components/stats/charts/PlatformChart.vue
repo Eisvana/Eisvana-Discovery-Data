@@ -9,6 +9,7 @@ import ChartWrapper from '@/components/ChartWrapper.vue';
 import { setPlatformColours } from '@/helpers/colours';
 import type { ValueOf } from '@/types/utility';
 import type { Platform } from '@/types/platform';
+import { chartOptions } from '@/variables/chart';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
@@ -96,8 +97,7 @@ const pieChartData = computed(() => {
 });
 
 const barChartOptions = {
-  responsive: true,
-  maintainAspectRatio: true,
+  ...chartOptions,
   scales: {
     x: {
       stacked: true,
@@ -106,11 +106,6 @@ const barChartOptions = {
       stacked: true,
     },
   },
-};
-
-const pieChartOptions = {
-  responsive: true,
-  maintainAspectRatio: true,
 };
 </script>
 
@@ -127,7 +122,7 @@ const pieChartOptions = {
     <div class="pie-chart q-mx-auto">
       <Pie
         :data="pieChartData"
-        :options="pieChartOptions"
+        :options="chartOptions"
       />
     </div>
   </ChartWrapper>

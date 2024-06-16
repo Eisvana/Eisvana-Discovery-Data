@@ -9,6 +9,7 @@ import type { Platform } from '@/types/platform';
 import type { ValueOf } from '@/types/utility';
 import { setPlatformColours } from '@/helpers/colours';
 import ChartWrapper from '@/components/ChartWrapper.vue';
+import { chartOptions } from '@/variables/chart';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
@@ -65,11 +66,6 @@ const pieChartData = computed(() => {
     ],
   };
 });
-
-const chartOptions = {
-  responsive: true,
-  maintainAspectRatio: true,
-};
 </script>
 
 <template>
