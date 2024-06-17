@@ -3,7 +3,6 @@ import { Bar } from 'vue-chartjs';
 import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale } from 'chart.js';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
-import type { DiscovererData } from '@/types/data';
 import { chartColours } from '@/variables/mappings';
 import ChartWrapper from '@/components/ChartWrapper.vue';
 import { computed } from 'vue';
@@ -15,21 +14,17 @@ const dataStore = useDataStore();
 const { filteredData } = storeToRefs(dataStore);
 
 const discovererStats = computed(() => {
-  const discovererData: DiscovererData = {};
+  const discoveriesPerPlayer: Record<string, number> = {};
 
   for (const data of filteredData.value) {
     if (!data.Discoverer) continue;
-    const discovererObject = (discovererData[data.Discoverer] ??= {
-      discoveries: 0,
-      tags: 0,
-    });
-    discovererObject.discoveries++;
-    if (data['Correctly Prefixed']) discovererObject.tags++;
+    discoveriesPerPlayer[data.Discoverer] ??= 0;
+    discoveriesPerPlayer[data.Discoverer]++;
   }
 
-  const discoveryNumbers: number[] = Object.values(discovererData).map((item) => item.discoveries);
+  const discoveryNumbers: number[] = Object.values(discoveriesPerPlayer);
 
-  const counts: { [key: number]: number } = {};
+  const counts: Record<number, number> = {};
 
   for (const num of discoveryNumbers) {
     counts[num] ??= 0;
