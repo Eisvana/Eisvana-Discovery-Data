@@ -25,6 +25,7 @@ export interface DiscovererData {
   [key: string]: {
     discoveries: number;
     tags: number;
+    mistags: number;
   };
 }
 
@@ -32,6 +33,7 @@ export interface DiscovererDataArray {
   name: string;
   discoveries: number;
   tags: number;
+  mistags: number;
 }
 
 export type PlanetDetailItems = 'bases' | 'settlements' | 'animals' | 'flora' | 'minerals';

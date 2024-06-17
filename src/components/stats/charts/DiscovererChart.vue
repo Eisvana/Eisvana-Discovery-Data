@@ -29,9 +29,15 @@ const discovererStats = computed(() => {
     const discovererObject = (discovererData[data.Discoverer] ??= {
       discoveries: 0,
       tags: 0,
+      mistags: 0,
     });
     discovererObject.discoveries++;
-    if (data['Correctly Prefixed']) discovererObject.tags++;
+    // doing strict comparisons with true/false to filter out undefined values from non-star system entries
+    if (data['Correctly Prefixed'] === true) {
+      discovererObject.tags++;
+    } else if (data['Correctly Prefixed'] === false) {
+      discovererObject.mistags++;
+    }
   }
 
   const sortedDiscovererArray = Object.entries(discovererData).toSorted((a, b) => b[1].discoveries - a[1].discoveries);
@@ -65,7 +71,10 @@ const pieChartData = computed(() => {
 const barChartData = computed(() => {
   const playerNames: string[] = paginatedData.value.map((item) => item.name);
   const playerTags: number[] = paginatedData.value.map((item) => item.tags);
-  const playerMistags: number[] = paginatedData.value.map((item) => item.discoveries - item.tags);
+  const playerMistags: number[] = paginatedData.value.map((item) => item.mistags);
+  const playerOtherDiscoveries: number[] = paginatedData.value.map(
+    (item) => item.discoveries - item.tags - item.mistags
+  );
 
   return {
     labels: playerNames,
@@ -79,6 +88,11 @@ const barChartData = computed(() => {
         label: 'Not Tagged',
         backgroundColor: chartColours.red,
         data: playerMistags,
+      },
+      {
+        label: 'Other Discoveries',
+        backgroundColor: chartColours.grey,
+        data: playerOtherDiscoveries,
       },
     ],
   };

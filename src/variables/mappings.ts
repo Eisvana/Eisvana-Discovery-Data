@@ -15,6 +15,7 @@ export const chartColours = {
   blue: '#1095C1',
   red: '#e85123',
   green: '#1A8F1A',
+  grey: '#888',
 } as const;
 
 export const appSections = {
