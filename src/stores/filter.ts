@@ -70,6 +70,9 @@ export const useFilterStore = defineStore('filter', {
         };
       }
     },
+
+    sortedCategories: (state) => Object.keys(availableCategories).filter((item) => state.categories.includes(item)),
+    sortedRegions: (state) => Object.values(allEisvanaRegions).filter((item) => state.regions.includes(item)),
   },
 
   actions: {
