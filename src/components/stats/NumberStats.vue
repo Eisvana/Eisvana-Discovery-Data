@@ -99,6 +99,8 @@ const systemsDuplicates = computed(() => {
 const headers = ['Name', 'Amount of duplicates'];
 
 const getDate = (dateString: string | undefined) => (dateString ? getFormattedUTCDateString(dateString) : '-');
+
+const dataHasSystems = computed(() => filteredData.value.some((item) => 'Correctly Prefixed' in item));
 </script>
 
 <template>
@@ -107,10 +109,12 @@ const getDate = (dateString: string | undefined) => (dateString ? getFormattedUT
     default-opened
   >
     <div class="number-stats-wrapper q-px-md q-mt-sm">
-      <div>Tagged:</div>
-      <div>{{ amountTagged }} ({{ systemsTaggedPercent }}%)</div>
-      <div>Not/incorrectly prefixed:</div>
-      <div>{{ systemsNotTagged }} ({{ systemsNotTaggedPercent }}%)</div>
+      <template v-if="dataHasSystems">
+        <div>Tagged:</div>
+        <div>{{ amountTagged }} ({{ systemsTaggedPercent }}%)</div>
+        <div>Not/incorrectly prefixed:</div>
+        <div>{{ systemsNotTagged }} ({{ systemsNotTaggedPercent }}%)</div>
+      </template>
       <div>Procedural name:</div>
       <div>{{ systemsProcName }} ({{ systemsProcNamePercent }}%)</div>
       <div v-if="systemsUndiscovered">Undiscovered:</div>
@@ -121,10 +125,12 @@ const getDate = (dateString: string | undefined) => (dateString ? getFormattedUT
       <div>{{ avgDiscoveriesPerDay }}</div>
       <div>Average number of players per day:</div>
       <div>{{ avgDiscoverersPerDay }}</div>
-      <div>Average number of prefixes per day:</div>
-      <div>{{ avgCorrectTagsPerDay }}</div>
-      <div>Average non-prefixed systems per day:</div>
-      <div>{{ avgIncorrectTagsPerDay }}</div>
+      <template v-if="dataHasSystems">
+        <div>Average number of prefixes per day:</div>
+        <div>{{ avgCorrectTagsPerDay }}</div>
+        <div>Average non-prefixed systems per day:</div>
+        <div>{{ avgIncorrectTagsPerDay }}</div>
+      </template>
       <div>Earliest Discovery:</div>
       <div>{{ getDate(dateRange[0]) }}</div>
       <div>Latest Discovery:</div>
