@@ -5,3 +5,8 @@ export type DateRangeObj =
       from: string;
       to: string;
     };
+
+export interface UnixTimestamp {
+  startDate: number;
+  endDate: number;
+}

@@ -1,5 +1,5 @@
 import { defineStore } from 'pinia';
-import type { DateRangeObj } from '@/types/date';
+import type { DateRangeObj, UnixTimestamp } from '@/types/date';
 import { regions as allEisvanaRegions } from '@/variables/regions';
 import { availableCategories } from '@/variables/categories';
 import { invertSwitches } from '@/helpers/filter';
@@ -52,7 +52,7 @@ export const useFilterStore = defineStore('filter', {
   state: (): State => structuredClone(defaultFilterState),
 
   getters: {
-    unixTimestamp: (state): { startDate: number; endDate: number } => {
+    unixTimestamp: (state): UnixTimestamp => {
       const dateObj = state.date;
 
       if (is.object(dateObj)) {
@@ -86,3 +86,5 @@ export const useFilterStore = defineStore('filter', {
     },
   },
 });
+
+export type { State as FilterStoreState };

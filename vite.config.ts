@@ -18,6 +18,9 @@ export default defineConfig({
       sassVariables: 'src/css/quasar-variables.scss',
     }),
   ],
+  worker: {
+    format: 'es',
+  },
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url)),
