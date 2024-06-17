@@ -4,27 +4,77 @@ import type { FilterConfig, WorkerMessage, WorkerResponse } from '@/types/worker
 import { regions as allEisvanaRegions } from '@/variables/regions';
 
 onmessage = async ({ data }: MessageEvent<WorkerMessage>) => {
-  await loadData(data.path, data.filterConfig);
+  await loadData(data);
+  const finalResponse: WorkerResponse = {
+    status: 'finished',
+  };
+  postMessage(finalResponse);
   close();
 };
 
-async function loadData(path: string, filterConfig: FilterConfig) {
-  const { default: data }: { default: unknown } = await import(path);
+async function loadData({ regions, categories, filterConfig }: WorkerMessage) {
+  try {
+    const animalImports = import.meta.glob('../assets/animals/*.json', { import: 'default' });
+    const baseImports = import.meta.glob('../assets/bases/*.json', { import: 'default' });
+    const floraImports = import.meta.glob('../assets/flora/*.json', { import: 'default' });
+    const mineralImports = import.meta.glob('../assets/minerals/*.json', { import: 'default' });
+    const planetImports = import.meta.glob('../assets/planets/*.json', { import: 'default' });
+    const settlementImports = import.meta.glob('../assets/settlements/*.json', { import: 'default' });
+    const systemImports = import.meta.glob('../assets/systems/*.json', { import: 'default' });
+
+    const importMapping: Record<string, Record<string, () => Promise<unknown>>> = {
+      base: baseImports,
+      creature: animalImports,
+      flora: floraImports,
+      mineral: mineralImports,
+      planet: planetImports,
+      settlement: settlementImports,
+      system: systemImports,
+    };
+
+    const regionMapping: string[] = Object.values(allEisvanaRegions);
+
+    const activeRegionCodes = regions
+      .map((item) => regionMapping.indexOf(item) + 1)
+      .filter(Boolean)
+      .map((item) => `EV${item}`);
+
+    const imports = categories.flatMap((category) => {
+      const entries = Object.entries(importMapping[category]); // [[path/to/file.json, () => import(file.json)], [path/to/anotherfile.json, () => import(anotherfile.json)]]
+      return entries
+        .filter((item) => activeRegionCodes.some((regionCode) => item[0].endsWith(`${regionCode}.json`)))
+        .map((item) => item[1]);
+    });
+
+    const amountOfRequests = imports.length;
+    const initialMessage: WorkerResponse = {
+      status: 'initialised',
+      data: Array.from({ length: amountOfRequests }, () => []),
+    };
+    postMessage(initialMessage);
+    const importData = imports.map((item, index) => addData(item, index, filterConfig));
+    await Promise.all(importData);
+  } catch (error) {
+    console.warn(error);
+  }
+}
+
+async function addData(getData: () => Promise<unknown>, index: number, filterConfig: FilterConfig) {
+  const data = await getData();
   if (!Array.isArray(data)) return;
   const trueDiscoveryData = data.filter((item) => isDiscoveryData(item));
-
   const filteredData = applyFilter(trueDiscoveryData, filterConfig);
-
   const workerResponse: WorkerResponse = {
+    status: 'running',
     data: filteredData,
+    index,
   };
-
   postMessage(workerResponse);
 }
 
 function applyFilter(
   data: DiscoveryData[],
-  { unixTimestamp, tagged, intersections, searchTerms, caseSensitivity, regions, platforms }: FilterConfig
+  { regions, unixTimestamp, tagged, intersections, searchTerms, caseSensitivity, platforms }: FilterConfig
 ) {
   const { startDate = 0, endDate = 0 } = unixTimestamp;
 

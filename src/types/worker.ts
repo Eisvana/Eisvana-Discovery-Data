@@ -5,10 +5,24 @@ import type { UnixTimestamp } from './date';
 export type FilterConfig = Omit<Omit<FilterStoreState, 'date'>, 'categories'> & { unixTimestamp: UnixTimestamp };
 
 export interface WorkerMessage {
-  path: string;
+  regions: string[];
+  categories: string[];
   filterConfig: FilterConfig;
 }
 
-export interface WorkerResponse {
+interface FinalWorkerResponse {
+  status: 'finished';
+}
+
+interface InitialWorkerResponse {
+  status: 'initialised';
+  data: [][];
+}
+
+interface DataWorkerResponse {
+  status: 'running';
+  index: number;
   data: DiscoveryData[];
 }
+
+export type WorkerResponse = FinalWorkerResponse | InitialWorkerResponse | DataWorkerResponse;
