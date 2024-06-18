@@ -25,8 +25,11 @@ const pagination = ref<PaginationObject>({
 const discovererStats = computed(() => {
   const discovererData: DiscovererDataObject = {};
 
-  for (const data of filteredData.value) {
+  // prettier-ignore
+  for (let i = 0; i < filteredData.value.length; i++) { // NoSonar this is for better performance
+    const data = filteredData.value[i];
     if (!data.Discoverer) continue;
+
     const discovererObject = (discovererData[data.Discoverer] ??= {
       platform: '',
       discoveries: 0,

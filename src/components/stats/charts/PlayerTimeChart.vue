@@ -68,8 +68,11 @@ const blankData = computed(() => {
 
 const transformedData = computed(() => {
   const discoveryAmount = structuredClone(blankData.value);
-  for (const dataObj of debouncedFilteredData.value) {
+  // prettier-ignore
+  for (let i = 0; i < debouncedFilteredData.value.length; i++) {  // NoSonar this is for performance
+    const dataObj = debouncedFilteredData.value[i];
     if (!dataObj.Timestamp) continue;
+
     const utcDate = getUTCDateString(dataObj.Timestamp);
     discoveryAmount[utcDate][dataObj.Discoverer]++;
   }

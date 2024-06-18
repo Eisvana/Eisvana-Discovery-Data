@@ -32,7 +32,9 @@ const platformStats = computed(
   } => {
     const platformData = new Map<Platform, PlatformData>();
 
-    for (const data of debouncedFilteredData.value) {
+    // prettier-ignore
+    for (let i = 0; i < debouncedFilteredData.value.length; i++) {  // NoSonar this is for performance
+    const data = debouncedFilteredData.value[i];
       if (!platformData.has(data.Platform))
         platformData.set(data.Platform, {
           discoveries: 0,

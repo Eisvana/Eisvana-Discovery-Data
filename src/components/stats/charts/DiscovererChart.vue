@@ -27,8 +27,11 @@ const currentPageIndex = computed(() => currentPage.value - 1);
 const discovererStats = computed(() => {
   const discovererData: DiscovererData = {};
 
-  for (const data of debouncedFilteredData.value) {
+  // prettier-ignore
+  for (let i = 0; i < debouncedFilteredData.value.length; i++) {  // NoSonar this is for performance
+    const data = debouncedFilteredData.value[i];
     if (!data.Discoverer) continue;
+
     const discovererObject = (discovererData[data.Discoverer] ??= {
       discoveries: 0,
       tags: 0,

@@ -42,8 +42,11 @@ const transformedData = computed(() => {
     timestampData[date] = { correct: 0, incorrect: 0 };
   }
 
-  for (const item of debouncedFilteredData.value) {
+  // prettier-ignore
+  for (let i = 0; i < debouncedFilteredData.value.length; i++) {  // NoSonar this is for performance
+    const item = debouncedFilteredData.value[i];
     if (!item.Timestamp) continue;
+
     const utcDate = getUTCDateString(item.Timestamp);
     timestampData[utcDate][item['Correctly Prefixed'] ? 'correct' : 'incorrect']++;
   }
@@ -86,9 +89,9 @@ const options = {
 </script>
 
 <template>
-    <Line
-      :data="data"
-      :options="options"
-      class="chart"
-    />
+  <Line
+    :data="data"
+    :options="options"
+    class="chart"
+  />
 </template>

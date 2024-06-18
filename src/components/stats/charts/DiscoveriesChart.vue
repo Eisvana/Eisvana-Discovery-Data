@@ -47,8 +47,11 @@ const transformedData = computed(() => {
 
   const keys = Object.keys(timestampData);
 
-  for (const dataObj of debouncedFilteredData.value) {
+  // prettier-ignore
+  for (let i = 0; i < debouncedFilteredData.value.length; i++) {  // NoSonar this is for performance
+    const dataObj = debouncedFilteredData.value[i];
     if (!dataObj.Timestamp) continue;
+
     const utcDate = getUTCDateString(dataObj.Timestamp);
     const index = keys.indexOf(utcDate);
     const isCorrect = dataObj['Correctly Prefixed'];

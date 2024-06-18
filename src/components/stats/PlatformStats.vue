@@ -40,8 +40,11 @@ const platformStats = computed(() => {
 
   const platformData: DiscovererDataObject = {};
 
-  for (const data of filteredData.value) {
+  // prettier-ignore
+  for (let i = 0; i < filteredData.value.length; i++) { // NoSonar this is for better performance
+    const data = filteredData.value[i];
     if (!data.Platform) continue;
+
     const platform = platformMapping[data.Platform];
     const platformObject = (platformData[platform] ??= {
       players: 0,

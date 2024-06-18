@@ -18,8 +18,11 @@ const debouncedFilteredData = refDebounced(filteredData, 1000);
 const discovererStats = computed(() => {
   const discoveriesPerPlayer: Record<string, number> = {};
 
-  for (const data of debouncedFilteredData.value) {
+  // prettier-ignore
+  for (let i = 0; i < debouncedFilteredData.value.length; i++) {  // NoSonar this is for performance
+    const data = debouncedFilteredData.value[i];
     if (!data.Discoverer) continue;
+
     discoveriesPerPlayer[data.Discoverer] ??= 0;
     discoveriesPerPlayer[data.Discoverer]++;
   }
