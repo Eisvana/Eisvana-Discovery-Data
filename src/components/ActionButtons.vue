@@ -42,8 +42,6 @@ watchDebounced(
 
 async function loadData() {
   return new Promise<void>((resolve, reject) => {
-    console.time();
-
     workers.forEach((worker) => worker.terminate());
     workers.length = 0;
 
@@ -85,7 +83,6 @@ async function loadData() {
         case 'finished':
           isLoading.value = false;
           workers.length = 0;
-          console.timeEnd();
           resolve();
           break;
 
