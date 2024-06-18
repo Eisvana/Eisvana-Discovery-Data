@@ -40,54 +40,62 @@ watchDebounced(
   { deep: true, immediate: true, debounce: debounceDelay }
 );
 
-function loadData() {
-  console.time();
+async function loadData() {
+  return new Promise<void>((resolve, reject) => {
+    console.time();
 
-  workers.forEach((worker) => worker.terminate());
-  workers.length = 0;
+    workers.forEach((worker) => worker.terminate());
+    workers.length = 0;
 
-  isLoading.value = true;
+    isLoading.value = true;
 
-  const reactiveFilterData = {
-    regions: sortedRegions,
-    unixTimestamp,
-    tagged,
-    intersections,
-    searchTerms,
-    caseSensitivity,
-    platforms,
-  };
+    const reactiveFilterData = {
+      regions: sortedRegions,
+      unixTimestamp,
+      tagged,
+      intersections,
+      searchTerms,
+      caseSensitivity,
+      platforms,
+    };
 
-  const filterDataArray = Object.entries(reactiveFilterData).map((item) => [item[0], toRaw(item[1].value)]);
-  const filterConfig: FilterConfig = Object.fromEntries(filterDataArray);
+    const filterDataArray = Object.entries(reactiveFilterData).map((item) => [item[0], toRaw(item[1].value)]);
+    const filterConfig: FilterConfig = Object.fromEntries(filterDataArray);
 
-  const workerMessage: WorkerMessage = {
-    categories: toRaw(sortedCategories.value),
-    regions: filterConfig.regions,
-    filterConfig,
-  };
+    const workerMessage: WorkerMessage = {
+      categories: toRaw(sortedCategories.value),
+      regions: filterConfig.regions,
+      filterConfig,
+    };
 
-  const dataLoaderWorker = new DataLoaderWorker();
-  workers.push(dataLoaderWorker);
-  dataLoaderWorker.postMessage(workerMessage);
-  dataLoaderWorker.onmessage = ({ data: responseData }: MessageEvent<WorkerResponse>) => {
-    const { status } = responseData;
-    switch (status) {
-      case 'initialised':
-        temporaryData.value = responseData.data;
-        break;
+    const dataLoaderWorker = new DataLoaderWorker();
+    workers.push(dataLoaderWorker);
+    dataLoaderWorker.postMessage(workerMessage);
+    dataLoaderWorker.onmessage = ({ data: responseData }: MessageEvent<WorkerResponse>) => {
+      const { status } = responseData;
+      switch (status) {
+        case 'initialised':
+          temporaryData.value = responseData.data;
+          break;
 
-      case 'running':
-        temporaryData.value[responseData.index] = responseData.data;
-        break;
+        case 'running':
+          temporaryData.value[responseData.index] = responseData.data;
+          break;
 
-      case 'finished':
-        isLoading.value = false;
-        workers.length = 0;
-        console.timeEnd();
-        break;
-    }
-  };
+        case 'finished':
+          isLoading.value = false;
+          workers.length = 0;
+          console.timeEnd();
+          resolve();
+          break;
+
+        case 'error':
+          console.warn(responseData.data);
+          reject(responseData.data);
+          break;
+      }
+    };
+  });
 }
 </script>
 

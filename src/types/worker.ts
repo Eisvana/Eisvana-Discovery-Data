@@ -25,4 +25,9 @@ interface DataWorkerResponse {
   data: DiscoveryData[];
 }
 
-export type WorkerResponse = FinalWorkerResponse | InitialWorkerResponse | DataWorkerResponse;
+interface ErrorWorkerResponse {
+  status: 'error';
+  data: Error;
+}
+
+export type WorkerResponse = InitialWorkerResponse | FinalWorkerResponse | DataWorkerResponse | ErrorWorkerResponse;

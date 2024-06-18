@@ -4,12 +4,18 @@ import type { FilterConfig, WorkerMessage, WorkerResponse } from '@/types/worker
 import { regions as allEisvanaRegions } from '@/variables/regions';
 
 onmessage = async ({ data }: MessageEvent<WorkerMessage>) => {
-  await loadData(data);
-  const finalResponse: WorkerResponse = {
-    status: 'finished',
-  };
-  postMessage(finalResponse);
-  close();
+  try {
+    await loadData(data);
+    const finalResponse: WorkerResponse = {
+      status: 'finished',
+    };
+    postMessage(finalResponse);
+  } catch (error) {
+    console.warn('something happened in worker:', error);
+    sendWorkerError(error);
+  } finally {
+    close();
+  }
 };
 
 async function loadData({ regions, categories, filterConfig }: WorkerMessage) {
@@ -56,20 +62,25 @@ async function loadData({ regions, categories, filterConfig }: WorkerMessage) {
     await Promise.all(importData);
   } catch (error) {
     console.warn(error);
+    sendWorkerError(error);
   }
 }
 
 async function addData(getData: () => Promise<unknown>, index: number, filterConfig: FilterConfig) {
-  const data = await getData();
-  if (!Array.isArray(data)) return;
-  const trueDiscoveryData = data.filter((item) => isDiscoveryData(item));
-  const filteredData = applyFilter(trueDiscoveryData, filterConfig);
-  const workerResponse: WorkerResponse = {
-    status: 'running',
-    data: filteredData,
-    index,
-  };
-  postMessage(workerResponse);
+  try {
+    const data = await getData();
+    if (!Array.isArray(data)) return;
+    const trueDiscoveryData = data.filter((item) => isDiscoveryData(item));
+    const filteredData = applyFilter(trueDiscoveryData, filterConfig);
+    const workerResponse: WorkerResponse = {
+      status: 'running',
+      data: filteredData,
+      index,
+    };
+    postMessage(workerResponse);
+  } catch (error) {
+    sendWorkerError(error);
+  }
 }
 
 function applyFilter(
@@ -156,4 +167,13 @@ function applyFilter(
 function searchRegion(region: string) {
   const regionGlyphs = Object.entries(allEisvanaRegions).find((item) => item[1] === region)?.[0] ?? '';
   return { regionGlyphs };
+}
+
+function sendWorkerError(error: unknown) {
+  const errorMessage = typeof error === 'string' ? error : 'something went wrong';
+  const workerResponse: WorkerResponse = {
+    status: 'error',
+    data: error instanceof Error ? error : new Error(errorMessage),
+  };
+  postMessage(workerResponse);
 }
