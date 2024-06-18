@@ -19,11 +19,16 @@ import { paginateData } from '@/helpers/paginate';
 import { getRandomColour } from '@/helpers/colours';
 import type { ChartData } from '@/types/chart';
 import PaginationControls from '@/components/PaginationControls.vue';
+import { refDebounced } from '@vueuse/core';
+import { debounceDelay } from '@/variables/debounce';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
 const dataStore = useDataStore();
 const { filteredData, dateRange } = storeToRefs(dataStore);
+
+const debouncedFilteredData = refDebounced(filteredData, debounceDelay);
+const debouncedDateRange = refDebounced(dateRange, debounceDelay);
 
 interface TimestampData {
   [key: string]: {
@@ -42,7 +47,7 @@ const currentPageIndex = computed(() => currentPage.value - 1);
 
 const players = computed((): PlayerData[] => {
   const playerSet = new Set<string>();
-  filteredData.value.forEach((item) => playerSet.add(item.Discoverer));
+  debouncedFilteredData.value.forEach((item) => playerSet.add(item.Discoverer));
   const playerObj = Array.from(playerSet).map((player) => ({ name: player, colour: getRandomColour() }));
 
   return playerObj;
@@ -51,8 +56,8 @@ const players = computed((): PlayerData[] => {
 const blankData = computed(() => {
   const timestampData: TimestampData = {};
 
-  const dates = getDatesBetween(...dateRange.value);
-  if (dateRange.value[1]) dates.push(dateRange.value[1]);
+  const dates = getDatesBetween(...debouncedDateRange.value);
+  if (debouncedDateRange.value[1]) dates.push(debouncedDateRange.value[1]);
   for (const date of dates) {
     const timestampObj: { [key: string]: number } = (timestampData[date] = {});
     for (const player of players.value) {
@@ -64,7 +69,7 @@ const blankData = computed(() => {
 
 const transformedData = computed(() => {
   const discoveryAmount = structuredClone(blankData.value);
-  for (const dataObj of filteredData.value) {
+  for (const dataObj of debouncedFilteredData.value) {
     if (!dataObj.Timestamp) continue;
     const utcDate = getUTCDateString(dataObj.Timestamp);
     discoveryAmount[utcDate][dataObj.Discoverer]++;

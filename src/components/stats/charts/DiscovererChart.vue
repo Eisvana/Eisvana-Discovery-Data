@@ -11,11 +11,15 @@ import { paginateData } from '@/helpers/paginate';
 import { getRandomColour } from '@/helpers/colours';
 import PaginationControls from '@/components/PaginationControls.vue';
 import { chartOptions } from '@/variables/chart';
+import { refDebounced } from '@vueuse/core';
+import { debounceDelay } from '@/variables/debounce';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
 const dataStore = useDataStore();
 const { filteredData } = storeToRefs(dataStore);
+
+const debouncedFilteredData = refDebounced(filteredData, debounceDelay);
 
 const itemsPerPage = ref(50); // NoSonar this is one of the three possible itemsPerRow options
 const currentPage = ref(1);
@@ -24,7 +28,7 @@ const currentPageIndex = computed(() => currentPage.value - 1);
 const discovererStats = computed(() => {
   const discovererData: DiscovererData = {};
 
-  for (const data of filteredData.value) {
+  for (const data of debouncedFilteredData.value) {
     if (!data.Discoverer) continue;
     const discovererObject = (discovererData[data.Discoverer] ??= {
       discoveries: 0,

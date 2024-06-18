@@ -10,11 +10,15 @@ import type { ValueOf } from '@/types/utility';
 import { setPlatformColours } from '@/helpers/colours';
 import ChartWrapper from '@/components/ChartWrapper.vue';
 import { chartOptions } from '@/variables/chart';
+import { refDebounced } from '@vueuse/core';
+import { debounceDelay } from '@/variables/debounce';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
 const dataStore = useDataStore();
 const { filteredData } = storeToRefs(dataStore);
+
+const debouncedFilteredData = refDebounced(filteredData, debounceDelay);
 
 const platformStats = computed(
   (): {
@@ -23,7 +27,7 @@ const platformStats = computed(
   } => {
     const platformData = new Map<Platform, Set<string>>();
 
-    for (const data of filteredData.value) {
+    for (const data of debouncedFilteredData.value) {
       if (!platformData.has(data.Platform)) platformData.set(data.Platform, new Set<string>());
       platformData.get(data.Platform)?.add(data.Discoverer);
     }

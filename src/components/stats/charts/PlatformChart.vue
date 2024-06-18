@@ -10,11 +10,15 @@ import { setPlatformColours } from '@/helpers/colours';
 import type { ValueOf } from '@/types/utility';
 import type { Platform } from '@/types/platform';
 import { chartOptions } from '@/variables/chart';
+import { refDebounced } from '@vueuse/core';
+import { debounceDelay } from '@/variables/debounce';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
 const dataStore = useDataStore();
 const { filteredData } = storeToRefs(dataStore);
+
+const debouncedFilteredData = refDebounced(filteredData, debounceDelay);
 
 interface PlatformData {
   discoveries: number;
@@ -29,7 +33,7 @@ const platformStats = computed(
   } => {
     const platformData = new Map<Platform, PlatformData>();
 
-    for (const data of filteredData.value) {
+    for (const data of debouncedFilteredData.value) {
       if (!platformData.has(data.Platform))
         platformData.set(data.Platform, {
           discoveries: 0,

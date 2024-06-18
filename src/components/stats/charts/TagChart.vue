@@ -16,11 +16,16 @@ import { computed } from 'vue';
 import { Line } from 'vue-chartjs';
 import ChartWrapper from '@/components/ChartWrapper.vue';
 import { getDatesBetween, getUTCDateString } from '@/helpers/date';
+import { refDebounced } from '@vueuse/core';
+import { debounceDelay } from '@/variables/debounce';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
 const dataStore = useDataStore();
 const { filteredData, dateRange } = storeToRefs(dataStore);
+
+const debouncedFilteredData = refDebounced(filteredData, debounceDelay);
+const debouncedDateRange = refDebounced(dateRange, debounceDelay);
 
 interface TimestampData {
   [key: string]: {
@@ -32,13 +37,13 @@ interface TimestampData {
 const transformedData = computed(() => {
   const timestampData: TimestampData = {};
 
-  const dates = getDatesBetween(...dateRange.value);
-  if (dateRange.value[1]) dates.push(dateRange.value[1]);
+  const dates = getDatesBetween(...debouncedDateRange.value);
+  if (debouncedDateRange.value[1]) dates.push(debouncedDateRange.value[1]);
   for (const date of dates) {
     timestampData[date] = { correct: 0, incorrect: 0 };
   }
 
-  for (const item of filteredData.value) {
+  for (const item of debouncedFilteredData.value) {
     if (!item.Timestamp) continue;
     const utcDate = getUTCDateString(item.Timestamp);
     timestampData[utcDate][item['Correctly Prefixed'] ? 'correct' : 'incorrect']++;

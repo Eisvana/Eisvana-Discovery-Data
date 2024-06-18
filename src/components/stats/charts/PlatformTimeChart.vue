@@ -20,11 +20,16 @@ import { getUTCDateString, getDatesBetween } from '@/helpers/date';
 import { setPlatformColours } from '@/helpers/colours';
 import { isPlatformCode } from '@/helpers/typeGuards';
 import type { ChartData } from '@/types/chart';
+import { refDebounced } from '@vueuse/core';
+import { debounceDelay } from '@/variables/debounce';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
 const dataStore = useDataStore();
 const { filteredData, dateRange } = storeToRefs(dataStore);
+
+const debouncedFilteredData = refDebounced(filteredData, debounceDelay);
+const debouncedDateRange = refDebounced(dateRange, debounceDelay);
 
 interface TimestampData {
   [key: string]: {
@@ -39,8 +44,8 @@ interface TimestampData {
 const blankData = computed(() => {
   const timestampData: TimestampData = {};
 
-  const dates = getDatesBetween(...dateRange.value);
-  if (dateRange.value[1]) dates.push(dateRange.value[1]);
+  const dates = getDatesBetween(...debouncedDateRange.value);
+  if (debouncedDateRange.value[1]) dates.push(debouncedDateRange.value[1]);
   for (const date of dates) {
     timestampData[date] = {
       ST: 0,
@@ -57,7 +62,7 @@ const getPlatformColour = (platform: Platform) => setPlatformColours([platformMa
 
 const transformedData = computed(() => {
   const discoveryAmount = structuredClone(blankData.value);
-  for (const dataObj of filteredData.value) {
+  for (const dataObj of debouncedFilteredData.value) {
     if (!dataObj.Timestamp) continue;
     const utcDate = getUTCDateString(dataObj.Timestamp);
     discoveryAmount[utcDate][dataObj.Platform]++;

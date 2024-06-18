@@ -7,16 +7,19 @@ import { chartColours } from '@/variables/mappings';
 import ChartWrapper from '@/components/ChartWrapper.vue';
 import { computed } from 'vue';
 import { chartOptions } from '@/variables/chart';
+import { refDebounced } from '@vueuse/core';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
 
 const dataStore = useDataStore();
 const { filteredData } = storeToRefs(dataStore);
 
+const debouncedFilteredData = refDebounced(filteredData, 1000);
+
 const discovererStats = computed(() => {
   const discoveriesPerPlayer: Record<string, number> = {};
 
-  for (const data of filteredData.value) {
+  for (const data of debouncedFilteredData.value) {
     if (!data.Discoverer) continue;
     discoveriesPerPlayer[data.Discoverer] ??= 0;
     discoveriesPerPlayer[data.Discoverer]++;

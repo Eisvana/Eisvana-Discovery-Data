@@ -16,11 +16,16 @@ import { computed } from 'vue';
 import { Line } from 'vue-chartjs';
 import ChartWrapper from '@/components/ChartWrapper.vue';
 import { getUTCDateString, getDatesBetween } from '@/helpers/date';
+import { refDebounced } from '@vueuse/core';
+import { debounceDelay } from '@/variables/debounce';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
 const dataStore = useDataStore();
 const { filteredData, dateRange } = storeToRefs(dataStore);
+
+const debouncedFilteredData = refDebounced(filteredData, debounceDelay);
+const debouncedDateRange = refDebounced(dateRange, debounceDelay);
 
 interface TimestampData {
   [key: string]: {
@@ -32,8 +37,8 @@ interface TimestampData {
 const transformedData = computed(() => {
   const timestampData: TimestampData = {};
 
-  const dates = getDatesBetween(...dateRange.value);
-  if (dateRange.value[1]) dates.push(dateRange.value[1]);
+  const dates = getDatesBetween(...debouncedDateRange.value);
+  if (debouncedDateRange.value[1]) dates.push(debouncedDateRange.value[1]);
   for (const date of dates) {
     timestampData[date] = {
       correct: 0,
@@ -43,7 +48,7 @@ const transformedData = computed(() => {
 
   const keys = Object.keys(timestampData);
 
-  for (const dataObj of filteredData.value) {
+  for (const dataObj of debouncedFilteredData.value) {
     if (!dataObj.Timestamp) continue;
     const utcDate = getUTCDateString(dataObj.Timestamp);
     const index = keys.indexOf(utcDate);
