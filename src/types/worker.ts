@@ -2,7 +2,7 @@ import type { FilterStoreState } from '@/stores/filter';
 import type { DiscoveryData } from './data';
 import type { UnixTimestamp } from './date';
 
-// Filter worker
+// Data loader worker
 export type FilterConfig = Omit<FilterStoreState, 'date' | 'categories'> & { unixTimestamp: UnixTimestamp };
 
 export interface LoaderWorkerMessage {
