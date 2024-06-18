@@ -25,6 +25,8 @@ const { filteredData, isLoading } = storeToRefs(dataStore);
 
 const temporaryData = ref<DiscoveryData[][]>([]);
 
+const workers: Worker[] = [];
+
 watchEffect(() => {
   const newData = temporaryData.value.flat();
   if (isLoading.value && !newData.length) return;
@@ -39,6 +41,10 @@ watchDebounced(
 
 function loadData() {
   console.time();
+
+  workers.forEach((worker) => worker.terminate());
+  workers.length = 0;
+
   isLoading.value = true;
 
   const reactiveFilterData = {
@@ -61,12 +67,14 @@ function loadData() {
   };
 
   const dataLoaderWorker = new DataLoaderWorker();
+  workers.push(dataLoaderWorker);
   dataLoaderWorker.postMessage(workerMessage);
   dataLoaderWorker.onmessage = ({ data: responseData }: MessageEvent<WorkerResponse>) => {
     const { status } = responseData;
     switch (status) {
       case 'initialised':
         temporaryData.value = responseData.data;
+        workers.length = 0;
         break;
 
       case 'running':
