@@ -7,6 +7,7 @@ import { ref, toRaw, watchEffect } from 'vue';
 import { watchDebounced } from '@vueuse/core';
 import type { FilterConfig, WorkerMessage, WorkerResponse } from '@/types/worker';
 import DataLoaderWorker from '@/worker/dataLoaderWorker?worker';
+import { debounceDelay } from '@/variables/debounce';
 
 const filterStore = useFilterStore();
 const dataStore = useDataStore();
@@ -36,7 +37,7 @@ watchEffect(() => {
 watchDebounced(
   [unixTimestamp, tagged, intersections, searchTerms, caseSensitivity, sortedRegions, platforms, sortedCategories],
   loadData,
-  { deep: true, immediate: true, debounce: 500 }
+  { deep: true, immediate: true, debounce: debounceDelay }
 );
 
 function loadData() {
@@ -74,7 +75,6 @@ function loadData() {
     switch (status) {
       case 'initialised':
         temporaryData.value = responseData.data;
-        workers.length = 0;
         break;
 
       case 'running':
@@ -83,6 +83,7 @@ function loadData() {
 
       case 'finished':
         isLoading.value = false;
+        workers.length = 0;
         console.timeEnd();
         break;
     }
