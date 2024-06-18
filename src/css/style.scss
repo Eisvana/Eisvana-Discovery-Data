@@ -26,6 +26,13 @@
   }
 }
 
+.number-stats-wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  gap: 0.5rem 1rem;
+  width: fit-content;
+}
+
 // this cannot be done with text-bold because of specificity
 .table-header th {
   font-weight: bold;
