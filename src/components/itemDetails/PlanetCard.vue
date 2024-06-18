@@ -61,7 +61,7 @@ const statData: {
 
     <QSeparator />
 
-    <QCardSection class="stat-grid">
+    <QCardSection>
       <div class="discoverer-data">
         <DiscovererTag
           :name="planetData.Discoverer"
@@ -97,28 +97,26 @@ const statData: {
 </template>
 
 <style scoped lang="scss">
-.stat-grid {
-  .discoverer-data {
+.discoverer-data {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+img {
+  width: 2rem;
+}
+
+.stat-wrapper {
+  display: flex;
+  justify-content: space-between;
+
+  & > * {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-
-  img {
-    width: 2rem;
-  }
-
-  .stat-wrapper {
-    display: flex;
-    justify-content: space-between;
-
-    & > * {
-      display: flex;
-      flex-direction: column;
-      text-align: center;
-      cursor: auto;
-      border: none;
-    }
+    flex-direction: column;
+    text-align: center;
+    cursor: auto;
+    border: none;
   }
 }
 
