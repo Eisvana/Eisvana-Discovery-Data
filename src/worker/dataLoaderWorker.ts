@@ -1,13 +1,13 @@
 import { isDiscoveryData } from '@/helpers/typeGuards';
 import type { DiscoveryData } from '@/types/data';
-import type { FilterConfig, WorkerMessage, WorkerResponse } from '@/types/worker';
+import type { FilterConfig, LoaderWorkerMessage, LoaderWorkerResponse } from '@/types/worker';
 import { regions as allEisvanaRegions } from '@/variables/regions';
 import { dayInMs } from '@/variables/time';
 
-onmessage = async ({ data }: MessageEvent<WorkerMessage>) => {
+onmessage = async ({ data }: MessageEvent<LoaderWorkerMessage>) => {
   try {
     await loadData(data);
-    const finalResponse: WorkerResponse = {
+    const finalResponse: LoaderWorkerResponse = {
       status: 'finished',
     };
     postMessage(finalResponse);
@@ -19,7 +19,7 @@ onmessage = async ({ data }: MessageEvent<WorkerMessage>) => {
   }
 };
 
-async function loadData({ regions, categories, filterConfig }: WorkerMessage) {
+async function loadData({ regions, categories, filterConfig }: LoaderWorkerMessage) {
   try {
     const animalImports = import.meta.glob('../assets/animals/*.json', { import: 'default' });
     const baseImports = import.meta.glob('../assets/bases/*.json', { import: 'default' });
@@ -54,7 +54,7 @@ async function loadData({ regions, categories, filterConfig }: WorkerMessage) {
     });
 
     const amountOfRequests = imports.length;
-    const initialMessage: WorkerResponse = {
+    const initialMessage: LoaderWorkerResponse = {
       status: 'initialised',
       data: Array.from({ length: amountOfRequests }, () => []),
     };
@@ -73,7 +73,7 @@ async function addData(getData: () => Promise<unknown>, index: number, filterCon
     if (!Array.isArray(data)) return;
     const trueDiscoveryData = data.filter((item) => isDiscoveryData(item));
     const filteredData = applyFilter(trueDiscoveryData, filterConfig);
-    const workerResponse: WorkerResponse = {
+    const workerResponse: LoaderWorkerResponse = {
       status: 'running',
       data: filteredData,
       index,
@@ -171,7 +171,7 @@ function searchRegion(region: string) {
 
 function sendWorkerError(error: unknown) {
   const errorMessage = typeof error === 'string' ? error : 'something went wrong';
-  const workerResponse: WorkerResponse = {
+  const workerResponse: LoaderWorkerResponse = {
     status: 'error',
     data: error instanceof Error ? error : new Error(errorMessage),
   };

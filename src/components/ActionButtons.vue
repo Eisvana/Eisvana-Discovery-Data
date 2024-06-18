@@ -5,7 +5,7 @@ import type { DiscoveryData } from '@/types/data';
 import { storeToRefs } from 'pinia';
 import { ref, toRaw, watchEffect } from 'vue';
 import { watchDebounced } from '@vueuse/core';
-import type { FilterConfig, WorkerMessage, WorkerResponse } from '@/types/worker';
+import type { FilterConfig, LoaderWorkerMessage, LoaderWorkerResponse } from '@/types/worker';
 import DataLoaderWorker from '@/worker/dataLoaderWorker?worker';
 import { debounceDelay } from '@/variables/debounce';
 
@@ -62,7 +62,7 @@ async function loadData() {
     const filterDataArray = Object.entries(reactiveFilterData).map((item) => [item[0], toRaw(item[1].value)]);
     const filterConfig: FilterConfig = Object.fromEntries(filterDataArray);
 
-    const workerMessage: WorkerMessage = {
+    const workerMessage: LoaderWorkerMessage = {
       categories: toRaw(sortedCategories.value),
       regions: filterConfig.regions,
       filterConfig,
@@ -71,7 +71,7 @@ async function loadData() {
     const dataLoaderWorker = new DataLoaderWorker();
     workers.push(dataLoaderWorker);
     dataLoaderWorker.postMessage(workerMessage);
-    dataLoaderWorker.onmessage = ({ data: responseData }: MessageEvent<WorkerResponse>) => {
+    dataLoaderWorker.onmessage = ({ data: responseData }: MessageEvent<LoaderWorkerResponse>) => {
       const { status } = responseData;
       switch (status) {
         case 'initialised':

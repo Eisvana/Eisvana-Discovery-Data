@@ -2,32 +2,37 @@ import type { FilterStoreState } from '@/stores/filter';
 import type { DiscoveryData } from './data';
 import type { UnixTimestamp } from './date';
 
+// Filter worker
 export type FilterConfig = Omit<FilterStoreState, 'date' | 'categories'> & { unixTimestamp: UnixTimestamp };
 
-export interface WorkerMessage {
+export interface LoaderWorkerMessage {
   regions: string[];
   categories: string[];
   filterConfig: FilterConfig;
 }
 
-interface FinalWorkerResponse {
+interface FinalLoaderWorkerResponse {
   status: 'finished';
 }
 
-interface InitialWorkerResponse {
+interface InitialLoaderWorkerResponse {
   status: 'initialised';
   data: [][];
 }
 
-interface DataWorkerResponse {
+interface DataLoaderWorkerResponse {
   status: 'running';
   index: number;
   data: DiscoveryData[];
 }
 
-interface ErrorWorkerResponse {
+interface ErrorLoaderWorkerResponse {
   status: 'error';
   data: Error;
 }
 
-export type WorkerResponse = InitialWorkerResponse | FinalWorkerResponse | DataWorkerResponse | ErrorWorkerResponse;
+export type LoaderWorkerResponse =
+  | InitialLoaderWorkerResponse
+  | FinalLoaderWorkerResponse
+  | DataLoaderWorkerResponse
+  | ErrorLoaderWorkerResponse;
