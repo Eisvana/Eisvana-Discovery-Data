@@ -2,6 +2,7 @@ import { isDiscoveryData } from '@/helpers/typeGuards';
 import type { DiscoveryData } from '@/types/data';
 import type { FilterConfig, WorkerMessage, WorkerResponse } from '@/types/worker';
 import { regions as allEisvanaRegions } from '@/variables/regions';
+import { dayInMs } from '@/variables/time';
 
 onmessage = async ({ data }: MessageEvent<WorkerMessage>) => {
   try {
@@ -110,7 +111,6 @@ function applyFilter(
     const itemGlyphs = item.Glyphs.slice(1);
 
     // begin filtering
-    const dayInMs = 24 * 60 * 60 * 1000; // NoSonar 24h times 60 minutes times 60 seconds times 1000 milliseconds
     const isValidDate =
       (!startDate && !endDate) ||
       (startDate < item.Timestamp && item.Timestamp < endDate + dayInMs) ||
