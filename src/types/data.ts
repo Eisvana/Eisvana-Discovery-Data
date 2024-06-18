@@ -53,3 +53,14 @@ export interface BaseDiscovererData {
 export interface DiscovererDataObject {
   [key: string]: BaseDiscovererData;
 }
+
+export interface NumberStats {
+  systemsNotTagged: number;
+  systemsProcName: number;
+  nonSystemsProcName: number;
+  systemsUndiscovered: number;
+  discovererNumber: number;
+  dataHasSystems: boolean;
+  avgDiscoverersPerDay: string; // because .toFixed() converts to string
+  systemsDuplicates: [string, number][];
+}
