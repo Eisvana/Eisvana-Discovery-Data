@@ -4,7 +4,6 @@ import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, Li
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { chartColours } from '@/variables/mappings';
-import ChartWrapper from '@/components/ChartWrapper.vue';
 import { computed } from 'vue';
 import { chartOptions } from '@/variables/chart';
 import { refDebounced } from '@vueuse/core';
@@ -50,14 +49,9 @@ const chartData = computed(() => ({
 </script>
 
 <template>
-  <ChartWrapper
-    group="chart"
-    summary="Average contributions"
-  >
-    <Bar
-      :data="chartData"
-      :options="chartOptions"
-      class="chart"
-    />
-  </ChartWrapper>
+  <Bar
+    :data="chartData"
+    :options="chartOptions"
+    class="chart"
+  />
 </template>

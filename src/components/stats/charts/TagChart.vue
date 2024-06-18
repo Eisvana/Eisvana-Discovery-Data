@@ -14,7 +14,6 @@ import {
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import { Line } from 'vue-chartjs';
-import ChartWrapper from '@/components/ChartWrapper.vue';
 import { getDatesBetween, getUTCDateString } from '@/helpers/date';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
@@ -87,14 +86,9 @@ const options = {
 </script>
 
 <template>
-  <ChartWrapper
-    group="chart"
-    summary="Prefixes over time"
-  >
     <Line
       :data="data"
       :options="options"
       class="chart"
     />
-  </ChartWrapper>
 </template>

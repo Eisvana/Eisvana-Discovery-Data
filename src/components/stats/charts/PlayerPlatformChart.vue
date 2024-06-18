@@ -8,7 +8,6 @@ import { chartColours, platformMapping } from '@/variables/mappings';
 import type { Platform } from '@/types/platform';
 import type { ValueOf } from '@/types/utility';
 import { setPlatformColours } from '@/helpers/colours';
-import ChartWrapper from '@/components/ChartWrapper.vue';
 import { chartOptions } from '@/variables/chart';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
@@ -73,27 +72,15 @@ const pieChartData = computed(() => {
 </script>
 
 <template>
-  <ChartWrapper
-    group="chart"
-    summary="Players per platform"
-  >
-    <Bar
-      v-if="false"
-      :data="barChartData"
+  <Bar
+    v-if="false"
+    :data="barChartData"
+    :options="chartOptions"
+  />
+  <div class="pie-chart q-mx-auto">
+    <Pie
+      :data="pieChartData"
       :options="chartOptions"
     />
-    <div class="pie-chart q-mx-auto">
-      <Pie
-        :data="pieChartData"
-        :options="chartOptions"
-      />
-    </div>
-  </ChartWrapper>
+  </div>
 </template>
-
-<style scoped lang="scss">
-.pie-chart {
-  width: min(700px, 100%);
-  margin-block-start: 2rem;
-}
-</style>

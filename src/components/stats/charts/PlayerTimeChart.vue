@@ -13,7 +13,6 @@ import {
 import { storeToRefs } from 'pinia';
 import { computed, ref } from 'vue';
 import { Line } from 'vue-chartjs';
-import ChartWrapper from '@/components/ChartWrapper.vue';
 import { getUTCDateString, getDatesBetween } from '@/helpers/date';
 import { paginateData } from '@/helpers/paginate';
 import { getRandomColour } from '@/helpers/colours';
@@ -144,24 +143,19 @@ const options = {
 </script>
 
 <template>
-  <ChartWrapper
-    group="chart"
-    summary="Players over time"
-  >
-    <PaginationControls
-      v-model:current-page="currentPage"
-      v-model:items-per-page="itemsPerPage"
-      :data="players"
-    />
-    <Line
-      :data="individualData"
-      :options="options"
-      class="chart"
-    />
-    <Line
-      :data="combinedData"
-      :options="options"
-      class="chart"
-    />
-  </ChartWrapper>
+  <PaginationControls
+    v-model:current-page="currentPage"
+    v-model:items-per-page="itemsPerPage"
+    :data="players"
+  />
+  <Line
+    :data="individualData"
+    :options="options"
+    class="chart"
+  />
+  <Line
+    :data="combinedData"
+    :options="options"
+    class="chart"
+  />
 </template>

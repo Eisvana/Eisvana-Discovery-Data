@@ -14,7 +14,6 @@ import {
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import { Line } from 'vue-chartjs';
-import ChartWrapper from '@/components/ChartWrapper.vue';
 import { getUTCDateString, getDatesBetween } from '@/helpers/date';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
@@ -94,14 +93,9 @@ const options = {
 </script>
 
 <template>
-  <ChartWrapper
-    group="chart"
-    summary="Discoveries over time"
-  >
-    <Line
-      :data="data"
-      :options="options"
-      class="chart"
-    />
-  </ChartWrapper>
+  <Line
+    :data="data"
+    :options="options"
+    class="chart"
+  />
 </template>

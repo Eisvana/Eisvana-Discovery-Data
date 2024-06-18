@@ -6,7 +6,6 @@ import { storeToRefs } from 'pinia';
 import { computed, ref } from 'vue';
 import { chartColours } from '@/variables/mappings';
 import type { DiscovererData, DiscovererDataArray } from '@/types/data';
-import ChartWrapper from '@/components/ChartWrapper.vue';
 import { paginateData } from '@/helpers/paginate';
 import { getRandomColour } from '@/helpers/colours';
 import PaginationControls from '@/components/PaginationControls.vue';
@@ -116,25 +115,20 @@ const barChartOptions = {
 </script>
 
 <template>
-  <ChartWrapper
-    group="chart"
-    summary="Discoveries and prefixes per player"
-  >
-    <PaginationControls
-      v-model:currentPage="currentPage"
-      v-model:itemsPerPage="itemsPerPage"
-      :data="discovererStats"
-    />
+  <PaginationControls
+    v-model:currentPage="currentPage"
+    v-model:itemsPerPage="itemsPerPage"
+    :data="discovererStats"
+  />
 
-    <Bar
-      :data="barChartData"
-      :options="barChartOptions"
-      class="chart"
-    />
-    <Pie
-      v-if="false"
-      :data="pieChartData"
-      :options="chartOptions"
-    />
-  </ChartWrapper>
+  <Bar
+    :data="barChartData"
+    :options="barChartOptions"
+    class="chart"
+  />
+  <Pie
+    v-if="false"
+    :data="pieChartData"
+    :options="chartOptions"
+  />
 </template>

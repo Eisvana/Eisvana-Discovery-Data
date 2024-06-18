@@ -9,9 +9,12 @@ import PlayerPlatformChart from '@/components/stats/charts/PlayerPlatformChart.v
 import ContributionChart from '@/components/stats/charts/ContributionChart.vue';
 import PlatformTimeChart from '@/components/stats/charts/PlatformTimeChart.vue';
 import PlayerTimeChart from '@/components/stats/charts/PlayerTimeChart.vue';
+import ChartWrapper from '@/components/ChartWrapper.vue';
 
 const dataStore = useDataStore();
 const { dataLength } = storeToRefs(dataStore);
+
+const group = 'chart';
 </script>
 
 <template>
@@ -20,13 +23,60 @@ const { dataLength } = storeToRefs(dataStore);
     v-if="dataLength"
     class="column"
   >
-    <DiscovererChart />
-    <PlatformChart />
-    <TagChart />
-    <DiscoveriesChart />
-    <PlayerPlatformChart />
-    <ContributionChart />
-    <PlatformTimeChart />
-    <PlayerTimeChart />
+    <ChartWrapper
+      :group
+      summary="Discoveries and prefixes per player"
+    >
+      <DiscovererChart />
+    </ChartWrapper>
+
+    <ChartWrapper
+      :group
+      summary="Discoveries and prefixes per platform"
+    >
+      <PlatformChart />
+    </ChartWrapper>
+
+    <ChartWrapper
+      :group
+      summary="Prefixes over time"
+    >
+      <TagChart />
+    </ChartWrapper>
+
+    <ChartWrapper
+      :group
+      summary="Discoveries over time"
+    >
+      <DiscoveriesChart />
+    </ChartWrapper>
+
+    <ChartWrapper
+      :group
+      summary="Players per platform"
+    >
+      <PlayerPlatformChart />
+    </ChartWrapper>
+
+    <ChartWrapper
+      :group
+      summary="Average contributions"
+    >
+      <ContributionChart />
+    </ChartWrapper>
+
+    <ChartWrapper
+      :group
+      summary="Platforms over time"
+    >
+      <PlatformTimeChart />
+    </ChartWrapper>
+
+    <ChartWrapper
+      :group
+      summary="Players over time"
+    >
+      <PlayerTimeChart />
+    </ChartWrapper>
   </div>
 </template>
