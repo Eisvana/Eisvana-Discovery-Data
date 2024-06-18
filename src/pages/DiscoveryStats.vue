@@ -5,12 +5,21 @@ import NumberStats from '@/components/stats/NumberStats.vue';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import SkeletonTable from '@/components/SkeletonTable.vue';
+import { ref } from 'vue';
 
 const dataStore = useDataStore();
 const { dataLength, isLoading } = storeToRefs(dataStore);
 
 const amountOfStatRows = 5;
 const amountOfStatItems = amountOfStatRows * 2;
+
+const isVisible = ref(false);
+
+// delay data component mounts until page transition is done, so the transition happens quickly and isn't delayed
+const transitionDuration = 300;
+setTimeout(() => {
+  isVisible.value = true;
+}, transitionDuration);
 </script>
 
 <template>
@@ -18,7 +27,7 @@ const amountOfStatItems = amountOfStatRows * 2;
     :class="{ 'q-px-md q-gutter-y-xl': isLoading }"
     class="column q-gutter-y-lg"
   >
-    <template v-if="!isLoading">
+    <template v-if="!isLoading && isVisible">
       <template v-if="dataLength">
         <NumberStats />
         <DiscovererStats />
