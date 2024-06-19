@@ -6,7 +6,7 @@ import type { DiscoveryData } from '@/types/data';
 import type { Platform } from '@/types/platform';
 import { storeToRefs } from 'pinia';
 import { computed, ref, reactive } from 'vue';
-import type { QTableColumn } from 'quasar';
+import { format, type QTableColumn } from 'quasar';
 import type { PaginationObject } from '@/types/pagination';
 import { rowsPerPage } from '@/variables/pagination';
 import { paginateData } from '@/helpers/paginate';
@@ -14,7 +14,7 @@ import { paginateData } from '@/helpers/paginate';
 const dataStore = useDataStore();
 const { filteredData, isLoading } = storeToRefs(dataStore);
 
-const capitaliseFirst = (str: string) => `${str.charAt(0).toUpperCase()}${str.slice(1)}`;
+const { capitalize } = format;
 
 const pagination = ref<PaginationObject>({
   sortBy: null,
@@ -85,7 +85,7 @@ const columns: QTableColumn<DiscoveryData>[] = reactive([
     field: 'Correctly Prefixed',
     align: 'left',
     sortable: true,
-    format: (val: boolean | undefined) => (typeof val === 'boolean' ? capitaliseFirst(val.toString()) : ''), // doing a comparison because `false` is a falsy value (obviously) and would therefore lead to some systems not showing their tagging status
+    format: (val: boolean | undefined) => (typeof val === 'boolean' ? capitalize(val.toString()) : ''), // doing a comparison because `false` is a falsy value (obviously) and would therefore lead to some systems not showing their tagging status
   },
   {
     name: 'fauna',
