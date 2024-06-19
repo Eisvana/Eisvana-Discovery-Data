@@ -2,6 +2,19 @@
 import ThemeSwitch from './components/ThemeSwitch.vue';
 import PageFooter from './components/PageFooter.vue';
 import NavBar from './components/NavBar.vue';
+import router from './router';
+import { useDataStore } from './stores/data';
+import { storeToRefs } from 'pinia';
+
+const dataStore = useDataStore();
+const { isLoading } = storeToRefs(dataStore);
+
+router.beforeEach(() => (isLoading.value = true));
+
+router.afterEach(() => {
+  const transitionDuration = 300;
+  setTimeout(() => (isLoading.value = false), transitionDuration);
+});
 </script>
 
 <template>

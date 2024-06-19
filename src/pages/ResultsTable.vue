@@ -10,6 +10,8 @@ import { format, type QTableColumn } from 'quasar';
 import type { PaginationObject } from '@/types/pagination';
 import { rowsPerPage } from '@/variables/pagination';
 import { paginateData } from '@/helpers/paginate';
+import SkeletonTable from '@/components/SkeletonTable.vue';
+import FadeTransition from '@/components/FadeTransition.vue';
 
 const dataStore = useDataStore();
 const { filteredData, isLoading } = storeToRefs(dataStore);
@@ -154,28 +156,36 @@ function updateRequiredCols(newItems: DiscoveryData[]) {
 </script>
 
 <template>
-  <QTable
-    v-model:pagination="pagination"
-    :columns
-    :loading="isLoading"
-    :rows="filteredData"
-    :rows-per-page-options="rowsPerPage"
-    :visible-columns="requiredCols"
-    table-header-class="table-header"
-    flat
-  >
-    <template v-slot:body-cell-name="props">
-      <QTd :props="props">
-        <RouterLink
-          v-if="'Bases' in props.row || 'Correctly Prefixed' in props.row"
-          :to="`/${'Bases' in props.row ? 'planet' : 'system'}/${props.row.Glyphs}`"
-          class="link-colour"
-          >{{ props.row.Name || 'Unknown (procedural name)' }}</RouterLink
-        >
-        <template v-else>{{ props.row.Name }}</template>
-      </QTd>
+  <FadeTransition :condition="!isLoading">
+    <template #default>
+      <QTable
+        v-model:pagination="pagination"
+        :columns
+        :loading="isLoading"
+        :rows="filteredData"
+        :rows-per-page-options="rowsPerPage"
+        :visible-columns="requiredCols"
+        table-header-class="table-header"
+        flat
+      >
+        <template v-slot:body-cell-name="props">
+          <QTd :props="props">
+            <RouterLink
+              v-if="'Bases' in props.row || 'Correctly Prefixed' in props.row"
+              :to="`/${'Bases' in props.row ? 'planet' : 'system'}/${props.row.Glyphs}`"
+              class="link-colour"
+              >{{ props.row.Name || 'Unknown (procedural name)' }}</RouterLink
+            >
+            <template v-else>{{ props.row.Name }}</template>
+          </QTd>
+        </template>
+      </QTable>
     </template>
-  </QTable>
+
+    <template #else>
+      <SkeletonTable :data-length="10" />
+    </template>
+  </FadeTransition>
 </template>
 
 <style scoped lang="scss">
