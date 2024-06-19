@@ -23,7 +23,7 @@ router.afterEach(() => {
       class="bg-primary text-white"
       elevated
     >
-      <QToolbar class="bg-primary text-white">
+      <QToolbar>
         <NavBar />
 
         <QSpace class="xs" />
