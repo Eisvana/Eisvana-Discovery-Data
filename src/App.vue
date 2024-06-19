@@ -9,7 +9,7 @@ import { storeToRefs } from 'pinia';
 const dataStore = useDataStore();
 const { isLoading } = storeToRefs(dataStore);
 
-router.beforeEach(() => (isLoading.value = true));
+router.beforeResolve(() => (isLoading.value = true));
 
 router.afterEach(() => {
   const transitionDuration = 300;
