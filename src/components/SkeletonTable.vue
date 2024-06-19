@@ -11,7 +11,7 @@ withDefaults(defineProps<Props>(), {
 </script>
 
 <template>
-  <QMarkupTable>
+  <QMarkupTable flat>
     <thead>
       <tr>
         <th
