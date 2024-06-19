@@ -23,28 +23,53 @@ setTimeout(() => {
 </script>
 
 <template>
-  <div
-    :class="{ 'q-px-md q-gutter-y-xl': isLoading }"
-    class="column q-gutter-y-lg"
-  >
-    <template v-if="!isLoading && isVisible">
-      <template v-if="dataLength">
-        <NumberStats />
-        <DiscovererStats />
-        <PlatformStats />
+  <div class="transition-container">
+    <Transition>
+      <template v-if="!isLoading && isVisible">
+        <div
+          v-if="dataLength"
+          class="column q-gutter-y-lg"
+        >
+          <NumberStats />
+          <DiscovererStats />
+          <PlatformStats />
+        </div>
       </template>
-    </template>
 
-    <template v-else>
-      <div class="number-stats-wrapper">
-        <QSkeleton
-          v-for="_n in amountOfStatItems"
-          width="200px"
-          type="text"
-        />
+      <div
+        v-else
+        class="column q-px-md q-gutter-y-xl"
+      >
+        <div class="number-stats-wrapper">
+          <QSkeleton
+            v-for="_n in amountOfStatItems"
+            width="200px"
+            type="text"
+          />
+        </div>
+        <SkeletonTable />
+        <SkeletonTable />
       </div>
-      <SkeletonTable />
-      <SkeletonTable />
-    </template>
+    </Transition>
   </div>
 </template>
+
+<style scoped lang="scss">
+.transition-container {
+  display: grid;
+
+  & > * {
+    grid-area: 1 / 1;
+  }
+}
+
+.v-enter-active,
+.v-leave-active {
+  transition: opacity 0.5s ease;
+}
+
+.v-enter-from,
+.v-leave-to {
+  opacity: 0;
+}
+</style>
