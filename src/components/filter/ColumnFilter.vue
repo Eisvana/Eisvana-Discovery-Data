@@ -4,8 +4,13 @@ import TextFilterInput from './TextFilterInput.vue';
 import { useFilterStore } from '@/stores/filter';
 import { storeToRefs } from 'pinia';
 import { platformMapping } from '@/variables/mappings';
-import { computed } from 'vue';
+import { computed, reactive } from 'vue';
 import type { QSelectOption } from 'quasar';
+
+const filterStore = useFilterStore();
+const { searchTerms, intersections, caseSensitivity, date, tagged, procName, categories } = storeToRefs(filterStore);
+
+const dataContainsSystems = computed(() => categories.value.includes('system'));
 
 const textInputs = [
   {
@@ -27,28 +32,50 @@ const platformSwitch = {
   switches: platformMapping,
 };
 
-const selectInput: { label: string; options: QSelectOption<string | boolean>[] } = {
-  label: 'Correctly Prefixed',
-  options: [
-    {
-      label: '',
-      value: '',
-    },
-    {
-      label: 'True',
-      value: true,
-    },
-    {
-      label: 'False',
-      value: false,
-    },
-  ],
-};
-
-const filterStore = useFilterStore();
-const { searchTerms, intersections, caseSensitivity, date, tagged, categories } = storeToRefs(filterStore);
-
-const dataContainsSystems = computed(() => categories.value.includes('system'));
+const selectInputs: {
+  label: string;
+  condition?: boolean;
+  model: boolean | '';
+  options: QSelectOption<string | boolean>[];
+}[] = reactive([
+  {
+    label: 'Correctly Prefixed',
+    condition: dataContainsSystems,
+    model: tagged,
+    options: [
+      {
+        label: '',
+        value: '',
+      },
+      {
+        label: 'True',
+        value: true,
+      },
+      {
+        label: 'False',
+        value: false,
+      },
+    ],
+  },
+  {
+    label: 'Procedural Name',
+    model: procName,
+    options: [
+      {
+        label: '',
+        value: '',
+      },
+      {
+        label: 'True',
+        value: true,
+      },
+      {
+        label: 'False',
+        value: false,
+      },
+    ],
+  },
+]);
 </script>
 
 <template>
@@ -86,16 +113,18 @@ const dataContainsSystems = computed(() => categories.value.includes('system'));
           />
         </div>
 
-        <!--Tagging status selector-->
-        <div class="col-grow select-min-width">
-          <QSelect
-            v-if="dataContainsSystems"
-            v-model="tagged"
-            :label="selectInput.label"
-            :options="selectInput.options"
-            emit-value
-            map-options
-          />
+        <!--Tagging/Rename status selector-->
+        <div class="column col-grow q-gutter-y-xl select-min-width">
+          <div v-for="select in selectInputs">
+            <QSelect
+              v-if="select.condition ?? true"
+              v-model="select.model"
+              :label="select.label"
+              :options="select.options"
+              emit-value
+              map-options
+            />
+          </div>
         </div>
       </QCardSection>
     </QExpansionItem>

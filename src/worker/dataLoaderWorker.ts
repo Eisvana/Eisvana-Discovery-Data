@@ -86,7 +86,7 @@ async function addData(getData: () => Promise<unknown>, index: number, filterCon
 
 function applyFilter(
   data: DiscoveryData[],
-  { regions, unixTimestamp, tagged, intersections, searchTerms, caseSensitivity, platforms }: FilterConfig
+  { regions, unixTimestamp, tagged, procName, intersections, searchTerms, caseSensitivity, platforms }: FilterConfig
 ) {
   const { startDate = 0, endDate = 0 } = unixTimestamp;
 
@@ -127,6 +127,10 @@ function applyFilter(
       tagged === '' || (tagged && item['Correctly Prefixed']) || (!tagged && !item['Correctly Prefixed']);
 
     if (!isValidTagged) return false;
+
+    const isValidNamed = procName === '' || (procName && !item.Name) || (!procName && item.Name);
+
+    if (!isValidNamed) return false;
 
     const isValidName =
       !searchName ||

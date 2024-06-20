@@ -22,6 +22,7 @@ interface State {
   platforms: string[];
   date: DateRangeObj;
   tagged: '' | boolean;
+  procName: '' | boolean;
 }
 
 const defaultFilterState: State = {
@@ -46,6 +47,7 @@ const defaultFilterState: State = {
   platforms: Object.keys(platformMapping),
   date: null,
   tagged: '',
+  procName: '',
 };
 
 export const useFilterStore = defineStore('filter', {

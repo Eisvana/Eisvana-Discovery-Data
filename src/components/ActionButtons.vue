@@ -15,6 +15,7 @@ const dataStore = useDataStore();
 const {
   unixTimestamp,
   tagged,
+  procName,
   intersections,
   searchTerms,
   caseSensitivity,
@@ -35,7 +36,17 @@ watchEffect(() => {
 });
 
 watchDebounced(
-  [unixTimestamp, tagged, intersections, searchTerms, caseSensitivity, sortedRegions, platforms, sortedCategories],
+  [
+    unixTimestamp,
+    tagged,
+    intersections,
+    searchTerms,
+    caseSensitivity,
+    sortedRegions,
+    platforms,
+    sortedCategories,
+    procName,
+  ],
   loadData,
   { deep: true, immediate: true, debounce: debounceDelay }
 );
@@ -51,6 +62,7 @@ async function loadData() {
       regions: sortedRegions,
       unixTimestamp,
       tagged,
+      procName,
       intersections,
       searchTerms,
       caseSensitivity,
