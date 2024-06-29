@@ -7,6 +7,7 @@ export interface DiscoveryData {
   Platform: Platform;
   Timestamp: number;
   'Correctly Prefixed'?: boolean;
+  Planets?: number;
   Bases?: number;
   Settlements?: number;
   Flora?: number;
