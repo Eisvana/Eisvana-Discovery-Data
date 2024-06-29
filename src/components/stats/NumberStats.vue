@@ -59,7 +59,7 @@ const numberStats = computed(() => {
     if (!item.Name && !item.Discoverer) resultObj.systemsUndiscovered++;
 
     // data has systems
-    if (!resultObj.dataHasSystems && 'Correctly Prefixed' in item) resultObj.dataHasSystems = true;
+    resultObj.dataHasSystems ||= !resultObj.dataHasSystems && item.Category === 'SolarSystem';
 
     // discoverers
     if (item.Discoverer) {

@@ -147,7 +147,7 @@ watch(
   { immediate: true }
 );
 
-const dataHasSystems = computed(() => filteredData.value.some((item) => 'Correctly Prefixed' in item));
+const dataHasSystems = computed(() => filteredData.value.some((item) => item.Category === 'SolarSystem'));
 
 const nonSystemCols = columns.slice(0, -3); // NoSonar this removes the last 3 items, which are related to tagging
 </script>
