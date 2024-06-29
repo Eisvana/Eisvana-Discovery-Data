@@ -130,12 +130,16 @@ async function loadData() {
 
         <QSpace class="xs" />
 
-        <QToolbarTitle class="text-center gt-xs">Eisvana Discovery Data</QToolbarTitle>
+        <QToolbarTitle class="text-center gt-xs">
+          <h1>Eisvana Discovery Data</h1>
+        </QToolbarTitle>
 
         <ThemeSwitch />
       </QToolbar>
       <QToolbar class="xs">
-        <QToolbarTitle class="text-center">Eisvana Discovery Data</QToolbarTitle>
+        <QToolbarTitle class="text-center">
+          <h1>Eisvana Discovery Data</h1>
+        </QToolbarTitle>
       </QToolbar>
     </QHeader>
 
@@ -153,3 +157,9 @@ async function loadData() {
     </QFooter>
   </QLayout>
 </template>
+
+<style scoped lang="scss">
+h1 {
+  all: unset;
+}
+</style>
