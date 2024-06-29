@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import { getFormattedUTCDateString } from '@/helpers/date';
-import { getPlatform } from '@/helpers/platform';
 import type { DiscoveryData, PlanetDetailItems, PlanetDetails } from '@/types/data';
 import { regions } from '@/variables/regions';
 import { onMounted, reactive, ref } from 'vue';
@@ -55,42 +53,11 @@ onMounted(async () => {
   <DiscoveryNote />
 
   <div class="column q-gutter-y-sm">
-    <QCard
-      :class="{ 'shadow-1': planetDetails.bases?.length }"
-      :flat="!planetDetails.bases?.length"
-      bordered
-    >
-      <QExpansionItem
-        :disable="!planetDetails.bases?.length"
-        :label="`Bases (${planetDetails.bases?.length})`"
-      >
-        <QMarkupTable
-          class="text-left"
-          flat
-        >
-          <thead class="table-header">
-            <tr>
-              <th scope="col">Name</th>
-              <th scope="col">Builder</th>
-              <th scope="col">Platform</th>
-              <th scope="col">Mode</th>
-              <th scope="col">Parts</th>
-              <th scope="col">Timestamp</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr v-for="base in planetDetails.bases">
-              <td>{{ base.Name }}</td>
-              <td>{{ base.Discoverer }}</td>
-              <td>{{ getPlatform(base.Platform) }}</td>
-              <td>{{ base.Gamemode }}</td>
-              <td>{{ base.Parts }}</td>
-              <td>{{ getFormattedUTCDateString(base.Timestamp) }}</td>
-            </tr>
-          </tbody>
-        </QMarkupTable>
-      </QExpansionItem>
-    </QCard>
+    <PlanetDetailsTable
+      :headings="['Name', 'Builder', 'Platform', 'Mode', 'Parts', 'Timestamp']"
+      :planetDetails="planetDetails.bases"
+      itemType="Bases"
+    />
     <PlanetDetailsTable
       :planetDetails="planetDetails.animals"
       itemType="Creatures"

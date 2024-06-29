@@ -44,6 +44,8 @@ withDefaults(defineProps<Props>(), {
             <td :class="{ 'text-italic': !item.Name }">{{ item.Name || 'unknown (procedural name)' }}</td>
             <td>{{ item.Discoverer }}</td>
             <td>{{ getPlatform(item.Platform) }}</td>
+            <td v-if="item.Gamemode">{{ item.Gamemode }}</td>
+            <td v-if="item.Parts">{{ item.Parts }}</td>
             <td>{{ getFormattedUTCDateString(item.Timestamp) }}</td>
           </tr>
         </tbody>
