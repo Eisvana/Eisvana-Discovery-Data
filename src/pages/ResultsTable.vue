@@ -2,7 +2,7 @@
 import { getFormattedUTCDateString } from '@/helpers/date';
 import { getPlatform } from '@/helpers/platform';
 import { useDataStore } from '@/stores/data';
-import type { DiscoveryData } from '@/types/data';
+import type { DiscoveryCategories, DiscoveryData } from '@/types/data';
 import type { Platform } from '@/types/platform';
 import { storeToRefs } from 'pinia';
 import { computed, ref, reactive } from 'vue';
@@ -12,6 +12,7 @@ import { rowsPerPage } from '@/variables/pagination';
 import { paginateData } from '@/helpers/paginate';
 import SkeletonTable from '@/components/SkeletonTable.vue';
 import FadeTransition from '@/components/FadeTransition.vue';
+import { categoryMapping } from '@/variables/mappings';
 
 const dataStore = useDataStore();
 const { filteredData, isLoading } = storeToRefs(dataStore);
@@ -60,6 +61,13 @@ const columns: QTableColumn<DiscoveryData>[] = reactive([
     field: 'Glyphs',
     align: 'left',
     classes: 'glyphs glyphs-cell',
+  },
+  {
+    name: 'category',
+    label: 'Category',
+    field: 'Category',
+    format: (cat: DiscoveryCategories) => categoryMapping[cat],
+    align: 'left',
   },
   {
     name: 'discoverer',

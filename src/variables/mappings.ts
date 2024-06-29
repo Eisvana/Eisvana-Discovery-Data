@@ -1,3 +1,5 @@
+import type { DiscoveryCategories } from '@/types/data';
+
 export const platformMapping = {
   ST: 'Steam',
   PS: 'PlayStation',
@@ -20,3 +22,13 @@ export const platformColours = {
   gog: '#EBFF3A',
   switch: '#FF3A3A',
 } as const;
+
+export const categoryMapping: Record<DiscoveryCategories, string> = {
+  SolarSystem: 'System',
+  Animal: 'Creature',
+  Mineral: 'Mineral',
+  Flora: 'Flora',
+  Planet: 'Planet',
+  Settlement: 'Settlement',
+  Base: 'Base',
+};
