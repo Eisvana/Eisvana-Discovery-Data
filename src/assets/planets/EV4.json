@@ -5,7 +5,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1005A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713644912000
+    "Timestamp": 1713644912000,
+    "Fauna": 7,
+    "Flora": 6,
+    "Minerals": 9,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -13,7 +18,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1006A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713692144000
+    "Timestamp": 1713692144000,
+    "Fauna": 3,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -21,7 +31,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1007A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713694253000
+    "Timestamp": 1713694253000,
+    "Fauna": 0,
+    "Flora": 5,
+    "Minerals": 3,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -29,7 +44,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "100BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713699761000
+    "Timestamp": 1713699761000,
+    "Fauna": 7,
+    "Flora": 5,
+    "Minerals": 3,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -37,7 +57,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "100EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713700726000
+    "Timestamp": 1713700726000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -45,7 +70,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "100FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713707066000
+    "Timestamp": 1713707066000,
+    "Fauna": 6,
+    "Flora": 6,
+    "Minerals": 4,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -53,7 +83,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1011A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714023390000
+    "Timestamp": 1714023390000,
+    "Fauna": 0,
+    "Flora": 9,
+    "Minerals": 2,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -61,7 +96,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1012A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714024574000
+    "Timestamp": 1714024574000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -69,7 +109,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1017A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714116790000
+    "Timestamp": 1714116790000,
+    "Fauna": 7,
+    "Flora": 6,
+    "Minerals": 5,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -77,7 +122,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1018A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714120262000
+    "Timestamp": 1714120262000,
+    "Fauna": 5,
+    "Flora": 9,
+    "Minerals": 3,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -85,7 +135,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1019A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714128888000
+    "Timestamp": 1714128888000,
+    "Fauna": 3,
+    "Flora": 6,
+    "Minerals": 7,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -93,7 +148,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "101AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714133674000
+    "Timestamp": 1714133674000,
+    "Fauna": 8,
+    "Flora": 5,
+    "Minerals": 3,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -101,7 +161,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "101BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714135123000
+    "Timestamp": 1714135123000,
+    "Fauna": 5,
+    "Flora": 8,
+    "Minerals": 7,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -109,7 +174,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "101CA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714138154000
+    "Timestamp": 1714138154000,
+    "Fauna": 4,
+    "Flora": 4,
+    "Minerals": 7,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -117,7 +187,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "101DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714141631000
+    "Timestamp": 1714141631000,
+    "Fauna": 6,
+    "Flora": 5,
+    "Minerals": 6,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -125,7 +200,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "101EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714147551000
+    "Timestamp": 1714147551000,
+    "Fauna": 7,
+    "Flora": 12,
+    "Minerals": 10,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -133,7 +213,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "101FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714149284000
+    "Timestamp": 1714149284000,
+    "Fauna": 9,
+    "Flora": 11,
+    "Minerals": 8,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -141,7 +226,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1020A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714150653000
+    "Timestamp": 1714150653000,
+    "Fauna": 6,
+    "Flora": 9,
+    "Minerals": 7,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -149,7 +239,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1023A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714214071000
+    "Timestamp": 1714214071000,
+    "Fauna": 2,
+    "Flora": 7,
+    "Minerals": 11,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -157,7 +252,12 @@
     "Discoverer": "thejackattack07",
     "Glyphs": "1026A21127FF",
     "Platform": "PS",
-    "Timestamp": 1696780875000
+    "Timestamp": 1696780875000,
+    "Fauna": 6,
+    "Flora": 8,
+    "Minerals": 2,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -165,7 +265,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1027A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714216263000
+    "Timestamp": 1714216263000,
+    "Fauna": 4,
+    "Flora": 6,
+    "Minerals": 9,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -173,7 +278,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1029A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714232771000
+    "Timestamp": 1714232771000,
+    "Fauna": 7,
+    "Flora": 7,
+    "Minerals": 9,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -181,7 +291,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "102AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714234491000
+    "Timestamp": 1714234491000,
+    "Fauna": 7,
+    "Flora": 14,
+    "Minerals": 14,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -189,7 +304,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "102DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714287079000
+    "Timestamp": 1714287079000,
+    "Fauna": 5,
+    "Flora": 5,
+    "Minerals": 7,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -197,7 +317,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "102EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714420289000
+    "Timestamp": 1714420289000,
+    "Fauna": 3,
+    "Flora": 9,
+    "Minerals": 7,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -205,7 +330,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "1033A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712120202000
+    "Timestamp": 1712120202000,
+    "Fauna": 5,
+    "Flora": 2,
+    "Minerals": 2,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -213,7 +343,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1036A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714501137000
+    "Timestamp": 1714501137000,
+    "Fauna": 4,
+    "Flora": 7,
+    "Minerals": 6,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -221,7 +356,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "1039A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713053955000
+    "Timestamp": 1713053955000,
+    "Fauna": 4,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -229,7 +369,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "103BA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712088496000
+    "Timestamp": 1712088496000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -237,7 +382,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "103DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1715421989000
+    "Timestamp": 1715421989000,
+    "Fauna": 6,
+    "Flora": 9,
+    "Minerals": 3,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -245,7 +395,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1041A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716024287000
+    "Timestamp": 1716024287000,
+    "Fauna": 8,
+    "Flora": 15,
+    "Minerals": 11,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -253,7 +408,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1042A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716027952000
+    "Timestamp": 1716027952000,
+    "Fauna": 7,
+    "Flora": 16,
+    "Minerals": 10,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -261,7 +421,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1044A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716034218000
+    "Timestamp": 1716034218000,
+    "Fauna": 9,
+    "Flora": 9,
+    "Minerals": 14,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -269,7 +434,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "1045A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949149000
+    "Timestamp": 1712949149000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -277,7 +447,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "104BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1716219392000
+    "Timestamp": 1716219392000,
+    "Fauna": 7,
+    "Flora": 8,
+    "Minerals": 9,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -285,7 +460,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "104DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1716220815000
+    "Timestamp": 1716220815000,
+    "Fauna": 7,
+    "Flora": 16,
+    "Minerals": 8,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -293,7 +473,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "104EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1716223673000
+    "Timestamp": 1716223673000,
+    "Fauna": 7,
+    "Flora": 7,
+    "Minerals": 7,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -301,7 +486,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1054A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716627298000
+    "Timestamp": 1716627298000,
+    "Fauna": 8,
+    "Flora": 14,
+    "Minerals": 10,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -309,7 +499,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1055A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716657622000
+    "Timestamp": 1716657622000,
+    "Fauna": 1,
+    "Flora": 1,
+    "Minerals": 7,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -317,7 +512,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1059A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716659317000
+    "Timestamp": 1716659317000,
+    "Fauna": 10,
+    "Flora": 16,
+    "Minerals": 13,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -325,7 +525,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "105AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1716846739000
+    "Timestamp": 1716846739000,
+    "Fauna": 8,
+    "Flora": 9,
+    "Minerals": 6,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -333,7 +538,12 @@
     "Discoverer": "enrasilver1108",
     "Glyphs": "105CA21127FF",
     "Platform": "PS",
-    "Timestamp": 1696077834000
+    "Timestamp": 1696077834000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -341,7 +551,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "105FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1718421887000
+    "Timestamp": 1718421887000,
+    "Fauna": 12,
+    "Flora": 9,
+    "Minerals": 18,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -349,7 +564,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1060A21127FF",
     "Platform": "ST",
-    "Timestamp": 1718455636000
+    "Timestamp": 1718455636000,
+    "Fauna": 9,
+    "Flora": 11,
+    "Minerals": 16,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -357,7 +577,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1061A21127FF",
     "Platform": "ST",
-    "Timestamp": 1718746817000
+    "Timestamp": 1718746817000,
+    "Fauna": 1,
+    "Flora": 2,
+    "Minerals": 13,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -365,7 +590,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1062A21127FF",
     "Platform": "ST",
-    "Timestamp": 1718832109000
+    "Timestamp": 1718832109000,
+    "Fauna": 7,
+    "Flora": 12,
+    "Minerals": 5,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -373,7 +603,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "1063A21127FF",
     "Platform": "ST",
-    "Timestamp": 1718834351000
+    "Timestamp": 1718834351000,
+    "Fauna": 11,
+    "Flora": 22,
+    "Minerals": 13,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -381,7 +616,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "106DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1718914425000
+    "Timestamp": 1718914425000,
+    "Fauna": 6,
+    "Flora": 11,
+    "Minerals": 10,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -389,7 +629,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "106FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1718916686000
+    "Timestamp": 1718916686000,
+    "Fauna": 10,
+    "Flora": 11,
+    "Minerals": 11,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -397,7 +642,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "1073A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949279000
+    "Timestamp": 1712949279000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -405,7 +655,12 @@
     "Discoverer": "Greens",
     "Glyphs": "1079A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705429728000
+    "Timestamp": 1705429728000,
+    "Fauna": 6,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -413,7 +668,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "1092A21127FF",
     "Platform": "ST",
-    "Timestamp": 1717259844000
+    "Timestamp": 1717259844000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -421,7 +681,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "10A7A21127FF",
     "Platform": "ST",
-    "Timestamp": 1717260038000
+    "Timestamp": 1717260038000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -429,7 +694,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "10AAA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712904047000
+    "Timestamp": 1712904047000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -437,7 +707,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "10AEA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712904275000
+    "Timestamp": 1712904275000,
+    "Fauna": 1,
+    "Flora": 2,
+    "Minerals": 13,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -445,7 +720,12 @@
     "Discoverer": "Mimikyu1312",
     "Glyphs": "10CDA21127FF",
     "Platform": "ST",
-    "Timestamp": 1695780490000
+    "Timestamp": 1695780490000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -453,7 +733,12 @@
     "Discoverer": "Greens",
     "Glyphs": "10D2A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705422479000
+    "Timestamp": 1705422479000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -461,7 +746,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "10D5A21127FF",
     "Platform": "ST",
-    "Timestamp": 1715074659000
+    "Timestamp": 1715074659000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -469,7 +759,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "10D6A21127FF",
     "Platform": "ST",
-    "Timestamp": 1715074874000
+    "Timestamp": 1715074874000,
+    "Fauna": 2,
+    "Flora": 2,
+    "Minerals": 2,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -477,7 +772,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "10DCA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712903819000
+    "Timestamp": 1712903819000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -485,7 +785,12 @@
     "Discoverer": "Greens",
     "Glyphs": "10E7A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705426074000
+    "Timestamp": 1705426074000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -493,7 +798,12 @@
     "Discoverer": "Greens",
     "Glyphs": "10F1A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705411045000
+    "Timestamp": 1705411045000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -501,7 +811,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "10FCA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712217638000
+    "Timestamp": 1712217638000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -509,7 +824,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "10FDA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712288870000
+    "Timestamp": 1712288870000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -517,7 +837,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "1114A21127FF",
     "Platform": "ST",
-    "Timestamp": 1708541069000
+    "Timestamp": 1708541069000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -525,7 +850,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "1115A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770100000
+    "Timestamp": 1713770100000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -533,7 +863,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "1116A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712286499000
+    "Timestamp": 1712286499000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -541,7 +876,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "1119A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713771298000
+    "Timestamp": 1713771298000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -549,7 +889,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "1128A21127FF",
     "Platform": "ST",
-    "Timestamp": 1717255381000
+    "Timestamp": 1717255381000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -557,7 +902,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "113AA21127FF",
     "Platform": "XB",
-    "Timestamp": 1713044298000
+    "Timestamp": 1713044298000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -565,7 +915,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "113CA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712903698000
+    "Timestamp": 1712903698000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -573,7 +928,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "1145A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712467686000
+    "Timestamp": 1712467686000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -581,7 +941,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "1151A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770447000
+    "Timestamp": 1713770447000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -589,7 +954,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "1157A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713771416000
+    "Timestamp": 1713771416000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -597,7 +967,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "115CA21127FF",
     "Platform": "XB",
-    "Timestamp": 1709597264000
+    "Timestamp": 1709597264000,
+    "Fauna": 4,
+    "Flora": 6,
+    "Minerals": 5,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -605,7 +980,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "116FA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712269696000
+    "Timestamp": 1712269696000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -613,7 +993,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "117FA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949489000
+    "Timestamp": 1712949489000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -621,7 +1006,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "1189A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712879385000
+    "Timestamp": 1712879385000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -629,7 +1019,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "118FA21127FF",
     "Platform": "XB",
-    "Timestamp": 1709609213000
+    "Timestamp": 1709609213000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -637,7 +1032,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "1191A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712878188000
+    "Timestamp": 1712878188000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -645,7 +1045,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "1192A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712090772000
+    "Timestamp": 1712090772000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -653,7 +1058,12 @@
     "Discoverer": "Yonahoy",
     "Glyphs": "1198A21127FF",
     "Platform": "PS",
-    "Timestamp": 1708113857000
+    "Timestamp": 1708113857000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -661,7 +1071,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "1199A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712187595000
+    "Timestamp": 1712187595000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -669,7 +1084,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "11A8A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712205232000
+    "Timestamp": 1712205232000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -677,7 +1097,12 @@
     "Discoverer": "Greens",
     "Glyphs": "11A9A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705511881000
+    "Timestamp": 1705511881000,
+    "Fauna": 12,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -685,7 +1110,12 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "11B9A21127FF",
     "Platform": "PS",
-    "Timestamp": 1706850111000
+    "Timestamp": 1706850111000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -693,7 +1123,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "11BAA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949610000
+    "Timestamp": 1712949610000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -701,7 +1136,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "11C6A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770846000
+    "Timestamp": 1713770846000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -709,7 +1149,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "11D6A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712948945000
+    "Timestamp": 1712948945000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -717,7 +1162,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "11D9A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712353901000
+    "Timestamp": 1712353901000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -725,7 +1175,12 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "11E3A21127FF",
     "Platform": "PS",
-    "Timestamp": 1706756780000
+    "Timestamp": 1706756780000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -733,7 +1188,12 @@
     "Discoverer": "Greens",
     "Glyphs": "11F1A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705525835000
+    "Timestamp": 1705525835000,
+    "Fauna": 14,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -741,7 +1201,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "11F3A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712354435000
+    "Timestamp": 1712354435000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -749,7 +1214,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "11F9A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712948085000
+    "Timestamp": 1712948085000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -757,7 +1227,12 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "1202A21127FF",
     "Platform": "PS",
-    "Timestamp": 1706761403000
+    "Timestamp": 1706761403000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -765,7 +1240,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2005A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713644902000
+    "Timestamp": 1713644902000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -773,7 +1253,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2006A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713692124000
+    "Timestamp": 1713692124000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -781,7 +1266,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2007A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713694285000
+    "Timestamp": 1713694285000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -789,7 +1279,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "200BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713699733000
+    "Timestamp": 1713699733000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -797,7 +1292,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "200EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713700720000
+    "Timestamp": 1713700720000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -805,7 +1305,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "200FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713707108000
+    "Timestamp": 1713707108000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -813,7 +1318,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2011A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714023376000
+    "Timestamp": 1714023376000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -821,7 +1331,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2012A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714024587000
+    "Timestamp": 1714024587000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -829,7 +1344,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2017A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714116691000
+    "Timestamp": 1714116691000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -837,7 +1357,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2018A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714120270000
+    "Timestamp": 1714120270000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -845,7 +1370,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2019A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714128911000
+    "Timestamp": 1714128911000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -853,7 +1383,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "201AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714133689000
+    "Timestamp": 1714133689000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -861,7 +1396,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "201BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714135133000
+    "Timestamp": 1714135133000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -869,7 +1409,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "201CA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714138133000
+    "Timestamp": 1714138133000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -877,7 +1422,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "201DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714141659000
+    "Timestamp": 1714141659000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -885,7 +1435,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "201EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714147559000
+    "Timestamp": 1714147559000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -893,7 +1448,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "201FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714149275000
+    "Timestamp": 1714149275000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -901,7 +1461,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2020A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714150663000
+    "Timestamp": 1714150663000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -909,7 +1474,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2023A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714211911000
+    "Timestamp": 1714211911000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -917,7 +1487,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2027A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714216249000
+    "Timestamp": 1714216249000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -925,7 +1500,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2029A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714232757000
+    "Timestamp": 1714232757000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -933,7 +1513,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "202AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714234501000
+    "Timestamp": 1714234501000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -941,7 +1526,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "202DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714287056000
+    "Timestamp": 1714287056000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -949,7 +1539,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "202EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714420267000
+    "Timestamp": 1714420267000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -957,7 +1552,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2036A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714501147000
+    "Timestamp": 1714501147000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -965,7 +1565,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "203DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1715421974000
+    "Timestamp": 1715421974000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -973,7 +1578,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2041A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716024276000
+    "Timestamp": 1716024276000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -981,7 +1591,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2042A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716027943000
+    "Timestamp": 1716027943000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -989,7 +1604,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2044A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716034205000
+    "Timestamp": 1716034205000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -997,7 +1617,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "2045A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949155000
+    "Timestamp": 1712949155000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1005,7 +1630,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "204BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1716219401000
+    "Timestamp": 1716219401000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1013,7 +1643,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "204DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1716220825000
+    "Timestamp": 1716220825000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1021,7 +1656,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "204EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1716223681000
+    "Timestamp": 1716223681000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1029,7 +1669,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2054A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716627305000
+    "Timestamp": 1716627305000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1037,7 +1682,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2055A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716657635000
+    "Timestamp": 1716657635000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1045,7 +1695,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2059A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716659303000
+    "Timestamp": 1716659303000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1053,7 +1708,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "205AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1716846739000
+    "Timestamp": 1716846739000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1061,7 +1721,12 @@
     "Discoverer": "enrasilver1108",
     "Glyphs": "205CA21127FF",
     "Platform": "PS",
-    "Timestamp": 1696077843000
+    "Timestamp": 1696077843000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1069,7 +1734,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "205FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1718421897000
+    "Timestamp": 1718421897000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1077,7 +1747,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2060A21127FF",
     "Platform": "ST",
-    "Timestamp": 1718455623000
+    "Timestamp": 1718455623000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1085,7 +1760,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2061A21127FF",
     "Platform": "ST",
-    "Timestamp": 1718746808000
+    "Timestamp": 1718746808000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1093,7 +1773,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2062A21127FF",
     "Platform": "ST",
-    "Timestamp": 1718832094000
+    "Timestamp": 1718832094000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1101,7 +1786,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "2063A21127FF",
     "Platform": "ST",
-    "Timestamp": 1718834345000
+    "Timestamp": 1718834345000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1109,7 +1799,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "206DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1718914406000
+    "Timestamp": 1718914406000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1117,7 +1812,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "206FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1718916696000
+    "Timestamp": 1718916696000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1125,7 +1825,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "2073A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949287000
+    "Timestamp": 1712949287000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1133,7 +1838,12 @@
     "Discoverer": "Greens",
     "Glyphs": "2079A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705430459000
+    "Timestamp": 1705430459000,
+    "Fauna": 7,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1141,7 +1851,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "2092A21127FF",
     "Platform": "ST",
-    "Timestamp": 1717259851000
+    "Timestamp": 1717259851000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1149,7 +1864,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "2097A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712125521000
+    "Timestamp": 1712125521000,
+    "Fauna": 7,
+    "Flora": 5,
+    "Minerals": 1,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1157,7 +1877,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "20A7A21127FF",
     "Platform": "ST",
-    "Timestamp": 1717260030000
+    "Timestamp": 1717260030000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1165,7 +1890,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "20AAA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712904057000
+    "Timestamp": 1712904057000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1173,7 +1903,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "20AEA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712904282000
+    "Timestamp": 1712904282000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1181,7 +1916,12 @@
     "Discoverer": "Mimikyu1312",
     "Glyphs": "20CDA21127FF",
     "Platform": "ST",
-    "Timestamp": 1695780498000
+    "Timestamp": 1695780498000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1189,7 +1929,12 @@
     "Discoverer": "Greens",
     "Glyphs": "20D2A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705422473000
+    "Timestamp": 1705422473000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1197,7 +1942,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "20D5A21127FF",
     "Platform": "ST",
-    "Timestamp": 1715074652000
+    "Timestamp": 1715074652000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1205,7 +1955,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "20D6A21127FF",
     "Platform": "ST",
-    "Timestamp": 1715074890000
+    "Timestamp": 1715074890000,
+    "Fauna": 5,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1213,7 +1968,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "20DCA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712903824000
+    "Timestamp": 1712903824000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1221,7 +1981,12 @@
     "Discoverer": "Greens",
     "Glyphs": "20E7A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705426041000
+    "Timestamp": 1705426041000,
+    "Fauna": 8,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1229,7 +1994,12 @@
     "Discoverer": "Greens",
     "Glyphs": "20F1A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705413797000
+    "Timestamp": 1705413797000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1237,7 +2007,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "20FCA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712217647000
+    "Timestamp": 1712217647000,
+    "Fauna": 6,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1245,7 +2020,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "20FDA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712288861000
+    "Timestamp": 1712288861000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1253,7 +2033,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "2114A21127FF",
     "Platform": "ST",
-    "Timestamp": 1708541060000
+    "Timestamp": 1708541060000,
+    "Fauna": 0,
+    "Flora": 1,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1261,7 +2046,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "2115A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770108000
+    "Timestamp": 1713770108000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1269,7 +2059,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "2116A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712286518000
+    "Timestamp": 1712286518000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1277,7 +2072,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "2119A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713771306000
+    "Timestamp": 1713771306000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1285,7 +2085,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "2128A21127FF",
     "Platform": "ST",
-    "Timestamp": 1717255390000
+    "Timestamp": 1717255390000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1293,7 +2098,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "213AA21127FF",
     "Platform": "XB",
-    "Timestamp": 1713044305000
+    "Timestamp": 1713044305000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1301,7 +2111,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "213CA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712903707000
+    "Timestamp": 1712903707000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1309,7 +2124,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "2151A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770456000
+    "Timestamp": 1713770456000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1317,7 +2137,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "2157A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713771424000
+    "Timestamp": 1713771424000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1325,7 +2150,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "216FA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712269691000
+    "Timestamp": 1712269691000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1333,7 +2163,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "217FA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949495000
+    "Timestamp": 1712949495000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1341,7 +2176,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "2189A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712879394000
+    "Timestamp": 1712879394000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1349,7 +2189,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "218FA21127FF",
     "Platform": "XB",
-    "Timestamp": 1709609205000
+    "Timestamp": 1709609205000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1357,7 +2202,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "2191A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712878194000
+    "Timestamp": 1712878194000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1365,7 +2215,12 @@
     "Discoverer": "Yonahoy",
     "Glyphs": "2198A21127FF",
     "Platform": "PS",
-    "Timestamp": 1708113863000
+    "Timestamp": 1708113863000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1373,7 +2228,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "2199A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712187603000
+    "Timestamp": 1712187603000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1381,7 +2241,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "21A8A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712205240000
+    "Timestamp": 1712205240000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1389,7 +2254,12 @@
     "Discoverer": "Greens",
     "Glyphs": "21A9A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705513288000
+    "Timestamp": 1705513288000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1397,7 +2267,12 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "21B9A21127FF",
     "Platform": "PS",
-    "Timestamp": 1706850119000
+    "Timestamp": 1706850119000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1405,7 +2280,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "21BAA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949618000
+    "Timestamp": 1712949618000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1413,7 +2293,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "21C6A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770855000
+    "Timestamp": 1713770855000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1421,7 +2306,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "21D6A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712948953000
+    "Timestamp": 1712948953000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1429,7 +2319,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "21D9A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712353907000
+    "Timestamp": 1712353907000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1437,7 +2332,12 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "21E3A21127FF",
     "Platform": "PS",
-    "Timestamp": 1706756764000
+    "Timestamp": 1706756764000,
+    "Fauna": 4,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1445,7 +2345,12 @@
     "Discoverer": "Greens",
     "Glyphs": "21F1A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705526465000
+    "Timestamp": 1705526465000,
+    "Fauna": 9,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1453,7 +2358,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "21F9A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712948093000
+    "Timestamp": 1712948093000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1461,7 +2371,12 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "2202A21127FF",
     "Platform": "PS",
-    "Timestamp": 1706761410000
+    "Timestamp": 1706761410000,
+    "Fauna": 3,
+    "Flora": 0,
+    "Minerals": 1,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1469,7 +2384,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3005A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713644943000
+    "Timestamp": 1713644943000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1477,7 +2397,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3006A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713692130000
+    "Timestamp": 1713692130000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1485,7 +2410,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3007A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713694275000
+    "Timestamp": 1713694275000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1493,7 +2423,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "300BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713699719000
+    "Timestamp": 1713699719000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1501,7 +2436,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "300EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713700745000
+    "Timestamp": 1713700745000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1509,7 +2449,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "300FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713707115000
+    "Timestamp": 1713707115000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1517,7 +2462,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3011A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714023396000
+    "Timestamp": 1714023396000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1525,7 +2475,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3012A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714024479000
+    "Timestamp": 1714024479000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1533,7 +2488,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3017A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714116725000
+    "Timestamp": 1714116725000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1541,7 +2501,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3018A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714120278000
+    "Timestamp": 1714120278000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1549,7 +2514,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3019A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714128925000
+    "Timestamp": 1714128925000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1557,7 +2527,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "301AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714133669000
+    "Timestamp": 1714133669000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1565,7 +2540,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "301BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714135115000
+    "Timestamp": 1714135115000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1573,7 +2553,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "301CA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714138162000
+    "Timestamp": 1714138162000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1581,7 +2566,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "301DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714141664000
+    "Timestamp": 1714141664000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1589,7 +2579,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "301EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714147572000
+    "Timestamp": 1714147572000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1597,7 +2592,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "301FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714149290000
+    "Timestamp": 1714149290000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1605,7 +2605,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3020A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714150648000
+    "Timestamp": 1714150648000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1613,7 +2618,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3023A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714214058000
+    "Timestamp": 1714214058000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1621,7 +2631,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3027A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714216227000
+    "Timestamp": 1714216227000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1629,7 +2644,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3029A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714232766000
+    "Timestamp": 1714232766000,
+    "Fauna": 6,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1637,7 +2657,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "302AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714234496000
+    "Timestamp": 1714234496000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1645,7 +2670,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "302DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714287050000
+    "Timestamp": 1714287050000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1653,7 +2683,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "302EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714420272000
+    "Timestamp": 1714420272000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1661,7 +2696,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3036A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714501132000
+    "Timestamp": 1714501132000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1669,7 +2709,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "303DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1715421984000
+    "Timestamp": 1715421984000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1677,7 +2722,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3041A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716024259000
+    "Timestamp": 1716024259000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1685,7 +2735,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3042A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716027977000
+    "Timestamp": 1716027977000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1693,7 +2748,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3044A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716034212000
+    "Timestamp": 1716034212000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1701,7 +2761,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "3045A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949163000
+    "Timestamp": 1712949163000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1709,7 +2774,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "304BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1716219418000
+    "Timestamp": 1716219418000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1717,7 +2787,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "304DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1716220861000
+    "Timestamp": 1716220861000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1725,7 +2800,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "304EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1716223662000
+    "Timestamp": 1716223662000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1733,7 +2813,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3054A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716627280000
+    "Timestamp": 1716627280000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1741,7 +2826,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3055A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716657651000
+    "Timestamp": 1716657651000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1749,7 +2839,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3059A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716659312000
+    "Timestamp": 1716659312000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1757,7 +2852,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "305AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1716846723000
+    "Timestamp": 1716846723000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1765,7 +2865,12 @@
     "Discoverer": "enrasilver1108",
     "Glyphs": "305CA21127FF",
     "Platform": "PS",
-    "Timestamp": 1696077824000
+    "Timestamp": 1696077824000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1773,7 +2878,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "305FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1718421906000
+    "Timestamp": 1718421906000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1781,7 +2891,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3060A21127FF",
     "Platform": "ST",
-    "Timestamp": 1718455672000
+    "Timestamp": 1718455672000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1789,7 +2904,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3061A21127FF",
     "Platform": "ST",
-    "Timestamp": 1718746788000
+    "Timestamp": 1718746788000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1797,7 +2917,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3062A21127FF",
     "Platform": "ST",
-    "Timestamp": 1718832086000
+    "Timestamp": 1718832086000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1805,7 +2930,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "3063A21127FF",
     "Platform": "ST",
-    "Timestamp": 1718834358000
+    "Timestamp": 1718834358000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1813,7 +2943,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "306DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1718914415000
+    "Timestamp": 1718914415000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1821,7 +2956,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "306FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1718916702000
+    "Timestamp": 1718916702000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1829,7 +2969,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "3073A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949293000
+    "Timestamp": 1712949293000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1837,7 +2982,12 @@
     "Discoverer": "Greens",
     "Glyphs": "3079A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705436321000
+    "Timestamp": 1705436321000,
+    "Fauna": 8,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1845,7 +2995,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "3092A21127FF",
     "Platform": "ST",
-    "Timestamp": 1717259860000
+    "Timestamp": 1717259860000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1853,7 +3008,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "30A7A21127FF",
     "Platform": "ST",
-    "Timestamp": 1717260021000
+    "Timestamp": 1717260021000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1861,7 +3021,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "30AAA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712904064000
+    "Timestamp": 1712904064000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1869,7 +3034,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "30AEA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712904292000
+    "Timestamp": 1712904292000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1877,7 +3047,12 @@
     "Discoverer": "Mimikyu1312",
     "Glyphs": "30CDA21127FF",
     "Platform": "ST",
-    "Timestamp": 1695780480000
+    "Timestamp": 1695780480000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1885,7 +3060,12 @@
     "Discoverer": "Greens",
     "Glyphs": "30D2A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705422445000
+    "Timestamp": 1705422445000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1893,7 +3073,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "30D6A21127FF",
     "Platform": "ST",
-    "Timestamp": 1715074859000
+    "Timestamp": 1715074859000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1901,7 +3086,12 @@
     "Discoverer": "Greens",
     "Glyphs": "30E7A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705427188000
+    "Timestamp": 1705427188000,
+    "Fauna": 5,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1909,7 +3099,12 @@
     "Discoverer": "Greens",
     "Glyphs": "30F1A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705420533000
+    "Timestamp": 1705420533000,
+    "Fauna": 9,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1917,7 +3112,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "30FDA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712288846000
+    "Timestamp": 1712288846000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1925,7 +3125,12 @@
     "Discoverer": "Yonahoy",
     "Glyphs": "3109A21127FF",
     "Platform": "PS",
-    "Timestamp": 1708113849000
+    "Timestamp": 1708113849000,
+    "Fauna": 6,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1933,7 +3138,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "3114A21127FF",
     "Platform": "ST",
-    "Timestamp": 1708541051000
+    "Timestamp": 1708541051000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1941,7 +3151,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "3115A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770115000
+    "Timestamp": 1713770115000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1949,7 +3164,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "3116A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712286512000
+    "Timestamp": 1712286512000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1957,7 +3177,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "3119A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713771314000
+    "Timestamp": 1713771314000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1965,7 +3190,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "3128A21127FF",
     "Platform": "ST",
-    "Timestamp": 1717255400000
+    "Timestamp": 1717255400000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1973,7 +3203,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "313AA21127FF",
     "Platform": "XB",
-    "Timestamp": 1713044312000
+    "Timestamp": 1713044312000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1981,7 +3216,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "313CA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712903715000
+    "Timestamp": 1712903715000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1989,7 +3229,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "3151A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770463000
+    "Timestamp": 1713770463000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -1997,7 +3242,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "3157A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713771429000
+    "Timestamp": 1713771429000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2005,7 +3255,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "317FA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949503000
+    "Timestamp": 1712949503000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2013,7 +3268,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "3189A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712879400000
+    "Timestamp": 1712879400000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2021,7 +3281,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "3191A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712878702000
+    "Timestamp": 1712878702000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2029,7 +3294,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "3192A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712091275000
+    "Timestamp": 1712091275000,
+    "Fauna": 0,
+    "Flora": 2,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2037,7 +3307,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "3199A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712187609000
+    "Timestamp": 1712187609000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2045,7 +3320,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "31A8A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712205246000
+    "Timestamp": 1712205246000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2053,7 +3333,12 @@
     "Discoverer": "Greens",
     "Glyphs": "31A9A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705513137000
+    "Timestamp": 1705513137000,
+    "Fauna": 8,
+    "Flora": 4,
+    "Minerals": 3,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2061,7 +3346,12 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "31B9A21127FF",
     "Platform": "PS",
-    "Timestamp": 1706850106000
+    "Timestamp": 1706850106000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2069,7 +3359,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "31BAA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949623000
+    "Timestamp": 1712949623000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2077,7 +3372,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "31C6A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770863000
+    "Timestamp": 1713770863000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2085,7 +3385,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "31D6A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712948962000
+    "Timestamp": 1712948962000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2093,7 +3398,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "31D9A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712353892000
+    "Timestamp": 1712353892000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2101,7 +3411,12 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "31E3A21127FF",
     "Platform": "PS",
-    "Timestamp": 1706756771000
+    "Timestamp": 1706756771000,
+    "Fauna": 5,
+    "Flora": 4,
+    "Minerals": 3,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2109,7 +3424,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "31F9A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712948100000
+    "Timestamp": 1712948100000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2117,7 +3437,12 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "3202A21127FF",
     "Platform": "PS",
-    "Timestamp": 1706761430000
+    "Timestamp": 1706761430000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2125,7 +3450,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4005A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713644920000
+    "Timestamp": 1713644920000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2133,7 +3463,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4006A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713692139000
+    "Timestamp": 1713692139000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2141,7 +3476,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4007A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713694270000
+    "Timestamp": 1713694270000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2149,7 +3489,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "400BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713699726000
+    "Timestamp": 1713699726000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2157,7 +3502,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "400EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713700762000
+    "Timestamp": 1713700762000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2165,7 +3515,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "400FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713707123000
+    "Timestamp": 1713707123000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2173,7 +3528,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4011A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714023404000
+    "Timestamp": 1714023404000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2181,7 +3541,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4012A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714024469000
+    "Timestamp": 1714024469000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2189,7 +3554,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4017A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714116570000
+    "Timestamp": 1714116570000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2197,7 +3567,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4018A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714120290000
+    "Timestamp": 1714120290000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2205,7 +3580,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4019A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714128898000
+    "Timestamp": 1714128898000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2213,7 +3593,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "401AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714133683000
+    "Timestamp": 1714133683000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2221,7 +3606,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "401BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714135142000
+    "Timestamp": 1714135142000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2229,7 +3619,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "401CA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714138169000
+    "Timestamp": 1714138169000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2237,7 +3632,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "401DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714141637000
+    "Timestamp": 1714141637000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2245,7 +3645,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "401EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714147579000
+    "Timestamp": 1714147579000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2253,7 +3658,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "401FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714149322000
+    "Timestamp": 1714149322000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2261,7 +3671,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4020A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714150634000
+    "Timestamp": 1714150634000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2269,7 +3684,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4023A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714214089000
+    "Timestamp": 1714214089000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2277,7 +3697,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4027A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714216257000
+    "Timestamp": 1714216257000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2285,7 +3710,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4029A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714232792000
+    "Timestamp": 1714232792000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2293,7 +3723,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "402AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714234526000
+    "Timestamp": 1714234526000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2301,7 +3736,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "402DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714287065000
+    "Timestamp": 1714287065000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2309,7 +3749,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "402EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714420281000
+    "Timestamp": 1714420281000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2317,7 +3762,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4036A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714501125000
+    "Timestamp": 1714501125000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2325,7 +3775,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "403DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1715422009000
+    "Timestamp": 1715422009000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2333,7 +3788,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4041A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716024313000
+    "Timestamp": 1716024313000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2341,7 +3801,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4042A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716027985000
+    "Timestamp": 1716027985000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2349,7 +3814,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4044A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716034226000
+    "Timestamp": 1716034226000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2357,7 +3827,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "4045A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949173000
+    "Timestamp": 1712949173000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2365,7 +3840,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "404BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1716219410000
+    "Timestamp": 1716219410000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2373,7 +3853,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "404DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1716220835000
+    "Timestamp": 1716220835000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2381,7 +3866,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "404EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1716223668000
+    "Timestamp": 1716223668000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2389,7 +3879,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4054A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716627288000
+    "Timestamp": 1716627288000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2397,7 +3892,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4055A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716657665000
+    "Timestamp": 1716657665000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2405,7 +3905,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4059A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716659335000
+    "Timestamp": 1716659335000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2413,7 +3918,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "405AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1716846748000
+    "Timestamp": 1716846748000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2421,7 +3931,12 @@
     "Discoverer": "enrasilver1108",
     "Glyphs": "405CA21127FF",
     "Platform": "PS",
-    "Timestamp": 1696077813000
+    "Timestamp": 1696077813000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2429,7 +3944,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "405FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1718421915000
+    "Timestamp": 1718421915000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2437,7 +3957,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4060A21127FF",
     "Platform": "ST",
-    "Timestamp": 1718455653000
+    "Timestamp": 1718455653000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2445,7 +3970,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4061A21127FF",
     "Platform": "ST",
-    "Timestamp": 1718746797000
+    "Timestamp": 1718746797000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2453,7 +3983,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4062A21127FF",
     "Platform": "ST",
-    "Timestamp": 1718832116000
+    "Timestamp": 1718832116000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2461,7 +3996,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "4063A21127FF",
     "Platform": "ST",
-    "Timestamp": 1718834367000
+    "Timestamp": 1718834367000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2469,7 +4009,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "406DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1718914441000
+    "Timestamp": 1718914441000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2477,7 +4022,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "406FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1718916680000
+    "Timestamp": 1718916680000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2485,7 +4035,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "4073A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949301000
+    "Timestamp": 1712949301000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2493,7 +4048,12 @@
     "Discoverer": "Greens",
     "Glyphs": "4079A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705432240000
+    "Timestamp": 1705432240000,
+    "Fauna": 9,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2501,7 +4061,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "4092A21127FF",
     "Platform": "ST",
-    "Timestamp": 1717259835000
+    "Timestamp": 1717259835000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2509,7 +4074,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "40A7A21127FF",
     "Platform": "ST",
-    "Timestamp": 1717260015000
+    "Timestamp": 1717260015000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2517,7 +4087,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "40AAA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712904074000
+    "Timestamp": 1712904074000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2525,7 +4100,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "40AEA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712904300000
+    "Timestamp": 1712904300000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 3,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2533,7 +4113,12 @@
     "Discoverer": "Mimikyu1312",
     "Glyphs": "40CDA21127FF",
     "Platform": "ST",
-    "Timestamp": 1695780506000
+    "Timestamp": 1695780506000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2541,7 +4126,12 @@
     "Discoverer": "Greens",
     "Glyphs": "40D2A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705422450000
+    "Timestamp": 1705422450000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2549,7 +4139,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "40D6A21127FF",
     "Platform": "ST",
-    "Timestamp": 1715074867000
+    "Timestamp": 1715074867000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2557,7 +4152,12 @@
     "Discoverer": "Greens",
     "Glyphs": "40E7A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705427267000
+    "Timestamp": 1705427267000,
+    "Fauna": 14,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2565,7 +4165,12 @@
     "Discoverer": "Greens",
     "Glyphs": "40F1A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705420539000
+    "Timestamp": 1705420539000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2573,7 +4178,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "40FDA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712288878000
+    "Timestamp": 1712288878000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2581,7 +4191,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "4115A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770120000
+    "Timestamp": 1713770120000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2589,7 +4204,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "4116A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712286490000
+    "Timestamp": 1712286490000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2597,7 +4217,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "4119A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713771320000
+    "Timestamp": 1713771320000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2605,7 +4230,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "4128A21127FF",
     "Platform": "ST",
-    "Timestamp": 1717255405000
+    "Timestamp": 1717255405000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2613,7 +4243,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "413AA21127FF",
     "Platform": "XB",
-    "Timestamp": 1713044318000
+    "Timestamp": 1713044318000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2621,7 +4256,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "4151A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770473000
+    "Timestamp": 1713770473000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2629,7 +4269,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "4157A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713771437000
+    "Timestamp": 1713771437000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2637,7 +4282,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "417FA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949512000
+    "Timestamp": 1712949512000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2645,7 +4295,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "4189A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712879408000
+    "Timestamp": 1712879408000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2653,7 +4308,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "418FA21127FF",
     "Platform": "XB",
-    "Timestamp": 1709604611000
+    "Timestamp": 1709604611000,
+    "Fauna": 9,
+    "Flora": 9,
+    "Minerals": 4,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2661,7 +4321,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "4191A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712878710000
+    "Timestamp": 1712878710000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2669,7 +4334,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "4199A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712187615000
+    "Timestamp": 1712187615000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2677,7 +4347,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "41A8A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712205254000
+    "Timestamp": 1712205254000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2685,7 +4360,12 @@
     "Discoverer": "Greens",
     "Glyphs": "41A9A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705516154000
+    "Timestamp": 1705516154000,
+    "Fauna": 8,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2693,7 +4373,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "41BAA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949629000
+    "Timestamp": 1712949629000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2701,7 +4386,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "41C6A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770869000
+    "Timestamp": 1713770869000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2709,7 +4399,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "41D6A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712948969000
+    "Timestamp": 1712948969000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2717,7 +4412,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "41D9A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712353916000
+    "Timestamp": 1712353916000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2725,7 +4425,12 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "41E3A21127FF",
     "Platform": "PS",
-    "Timestamp": 1706756756000
+    "Timestamp": 1706756756000,
+    "Fauna": 6,
+    "Flora": 2,
+    "Minerals": 3,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2733,7 +4438,12 @@
     "Discoverer": "Greens",
     "Glyphs": "41F1A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705523642000
+    "Timestamp": 1705523642000,
+    "Fauna": 6,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2741,7 +4451,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "41F9A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712948107000
+    "Timestamp": 1712948107000,
+    "Fauna": 1,
+    "Flora": 4,
+    "Minerals": 11,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2749,7 +4464,12 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "4202A21127FF",
     "Platform": "PS",
-    "Timestamp": 1706761415000
+    "Timestamp": 1706761415000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2757,7 +4477,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "5005A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713644930000
+    "Timestamp": 1713644930000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2765,7 +4490,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "5006A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713692153000
+    "Timestamp": 1713692153000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2773,7 +4503,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "5007A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713694301000
+    "Timestamp": 1713694301000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2781,7 +4516,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "500BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713699779000
+    "Timestamp": 1713699779000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2789,7 +4529,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "500EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713700755000
+    "Timestamp": 1713700755000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2797,7 +4542,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "5011A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714023413000
+    "Timestamp": 1714023413000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2805,7 +4555,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "5017A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714116770000
+    "Timestamp": 1714116770000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2813,7 +4568,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "5019A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714128935000
+    "Timestamp": 1714128935000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2821,7 +4581,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "501AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714133720000
+    "Timestamp": 1714133720000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2829,7 +4594,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "501CA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714138183000
+    "Timestamp": 1714138183000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2837,7 +4607,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "501DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714141672000
+    "Timestamp": 1714141672000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2845,7 +4620,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "501FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714149303000
+    "Timestamp": 1714149303000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2853,7 +4633,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "5023A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714214084000
+    "Timestamp": 1714214084000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2861,7 +4646,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "5027A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714216269000
+    "Timestamp": 1714216269000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2869,7 +4659,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "5029A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714232779000
+    "Timestamp": 1714232779000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2877,7 +4672,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "502AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714234537000
+    "Timestamp": 1714234537000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2885,7 +4685,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "502DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714287101000
+    "Timestamp": 1714287101000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2893,7 +4698,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "502EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714420298000
+    "Timestamp": 1714420298000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2901,7 +4711,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "5036A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714501153000
+    "Timestamp": 1714501153000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2909,7 +4724,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "503DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1715422027000
+    "Timestamp": 1715422027000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2917,7 +4737,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "5041A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716024302000
+    "Timestamp": 1716024302000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2925,7 +4750,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "5042A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716028003000
+    "Timestamp": 1716028003000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2933,7 +4763,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "5045A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949180000
+    "Timestamp": 1712949180000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2941,7 +4776,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "504DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1716220869000
+    "Timestamp": 1716220869000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2949,7 +4789,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "504EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1716223687000
+    "Timestamp": 1716223687000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2957,7 +4802,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "5054A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716627271000
+    "Timestamp": 1716627271000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2965,7 +4815,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "5055A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716657657000
+    "Timestamp": 1716657657000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2973,7 +4828,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "5059A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716659327000
+    "Timestamp": 1716659327000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2981,7 +4841,12 @@
     "Discoverer": "enrasilver1108",
     "Glyphs": "505CA21127FF",
     "Platform": "PS",
-    "Timestamp": 1696077643000
+    "Timestamp": 1696077643000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2989,7 +4854,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "5060A21127FF",
     "Platform": "ST",
-    "Timestamp": 1718455663000
+    "Timestamp": 1718455663000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -2997,7 +4867,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "5061A21127FF",
     "Platform": "ST",
-    "Timestamp": 1718746823000
+    "Timestamp": 1718746823000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3005,7 +4880,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "5063A21127FF",
     "Platform": "ST",
-    "Timestamp": 1718834400000
+    "Timestamp": 1718834400000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3013,7 +4893,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "506DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1718914431000
+    "Timestamp": 1718914431000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3021,7 +4906,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "506FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1718916715000
+    "Timestamp": 1718916715000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3029,7 +4919,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "5073A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949311000
+    "Timestamp": 1712949311000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3037,7 +4932,12 @@
     "Discoverer": "Greens",
     "Glyphs": "5079A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705438863000
+    "Timestamp": 1705438863000,
+    "Fauna": 9,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3045,7 +4945,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "50A7A21127FF",
     "Platform": "ST",
-    "Timestamp": 1717260008000
+    "Timestamp": 1717260008000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3053,7 +4958,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "50AAA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712904083000
+    "Timestamp": 1712904083000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3061,7 +4971,12 @@
     "Discoverer": "Mimikyu1312",
     "Glyphs": "50CDA21127FF",
     "Platform": "ST",
-    "Timestamp": 1695780513000
+    "Timestamp": 1695780513000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3069,7 +4984,12 @@
     "Discoverer": "Greens",
     "Glyphs": "50D2A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705422459000
+    "Timestamp": 1705422459000,
+    "Fauna": 9,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3077,7 +4997,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "50D6A21127FF",
     "Platform": "ST",
-    "Timestamp": 1715074853000
+    "Timestamp": 1715074853000,
+    "Fauna": 6,
+    "Flora": 1,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3085,7 +5010,12 @@
     "Discoverer": "Greens",
     "Glyphs": "50E7A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705427259000
+    "Timestamp": 1705427259000,
+    "Fauna": 7,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3093,7 +5023,12 @@
     "Discoverer": "Greens",
     "Glyphs": "50F1A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705413805000
+    "Timestamp": 1705413805000,
+    "Fauna": 3,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3101,7 +5036,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "50FDA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712288883000
+    "Timestamp": 1712288883000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3109,7 +5049,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "5115A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770129000
+    "Timestamp": 1713770129000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3117,7 +5062,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "5116A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712286507000
+    "Timestamp": 1712286507000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3125,7 +5075,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "5128A21127FF",
     "Platform": "ST",
-    "Timestamp": 1717255414000
+    "Timestamp": 1717255414000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3133,7 +5088,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "513AA21127FF",
     "Platform": "XB",
-    "Timestamp": 1713044324000
+    "Timestamp": 1713044324000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3141,7 +5101,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "5151A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770481000
+    "Timestamp": 1713770481000,
+    "Fauna": 2,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3149,7 +5114,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "5157A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713771447000
+    "Timestamp": 1713771447000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3157,7 +5127,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "517FA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949521000
+    "Timestamp": 1712949521000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3165,7 +5140,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "5189A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712879413000
+    "Timestamp": 1712879413000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3173,7 +5153,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "5191A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712878719000
+    "Timestamp": 1712878719000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3181,7 +5166,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "5199A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712187624000
+    "Timestamp": 1712187624000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3189,7 +5179,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "51A8A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712205264000
+    "Timestamp": 1712205264000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3197,7 +5192,12 @@
     "Discoverer": "Greens",
     "Glyphs": "51A9A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705514938000
+    "Timestamp": 1705514938000,
+    "Fauna": 14,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3205,7 +5205,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "51BAA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949636000
+    "Timestamp": 1712949636000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3213,7 +5218,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "51C6A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770879000
+    "Timestamp": 1713770879000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3221,7 +5231,12 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "51E3A21127FF",
     "Platform": "PS",
-    "Timestamp": 1706756788000
+    "Timestamp": 1706756788000,
+    "Fauna": 3,
+    "Flora": 1,
+    "Minerals": 3,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3229,7 +5244,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "51F9A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712948117000
+    "Timestamp": 1712948117000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3237,7 +5257,12 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "5202A21127FF",
     "Platform": "PS",
-    "Timestamp": 1706761438000
+    "Timestamp": 1706761438000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3245,7 +5270,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "6005A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713644936000
+    "Timestamp": 1713644936000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3253,7 +5283,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "6007A21127FF",
     "Platform": "ST",
-    "Timestamp": 1713694293000
+    "Timestamp": 1713694293000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3261,7 +5296,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "600BA21127FF",
     "Platform": "ST",
-    "Timestamp": 1713699768000
+    "Timestamp": 1713699768000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3269,7 +5309,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "6017A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714116745000
+    "Timestamp": 1714116745000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3277,7 +5322,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "601AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714133737000
+    "Timestamp": 1714133737000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3285,7 +5335,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "601CA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714138175000
+    "Timestamp": 1714138175000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3293,7 +5348,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "601DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714141695000
+    "Timestamp": 1714141695000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3301,7 +5361,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "601FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714149330000
+    "Timestamp": 1714149330000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3309,7 +5374,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "6027A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714216301000
+    "Timestamp": 1714216301000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3317,7 +5387,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "602AA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714234511000
+    "Timestamp": 1714234511000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3325,7 +5400,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "602DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714287092000
+    "Timestamp": 1714287092000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3333,7 +5413,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "602EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1714420304000
+    "Timestamp": 1714420304000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3341,7 +5426,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "6036A21127FF",
     "Platform": "ST",
-    "Timestamp": 1714501158000
+    "Timestamp": 1714501158000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3349,7 +5439,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "603DA21127FF",
     "Platform": "ST",
-    "Timestamp": 1715422017000
+    "Timestamp": 1715422017000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3357,7 +5452,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "6042A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716027994000
+    "Timestamp": 1716027994000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3365,7 +5465,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "604EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1716223693000
+    "Timestamp": 1716223693000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3373,7 +5478,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "6054A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716627311000
+    "Timestamp": 1716627311000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3381,7 +5491,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "6055A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716657673000
+    "Timestamp": 1716657673000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3389,7 +5504,12 @@
     "Discoverer": "enrasilver1108",
     "Glyphs": "605CA21127FF",
     "Platform": "PS",
-    "Timestamp": 1696077854000
+    "Timestamp": 1696077854000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3397,7 +5517,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "6061A21127FF",
     "Platform": "ST",
-    "Timestamp": 1718746829000
+    "Timestamp": 1718746829000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3405,7 +5530,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "6063A21127FF",
     "Platform": "ST",
-    "Timestamp": 1718834388000
+    "Timestamp": 1718834388000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3413,7 +5543,12 @@
     "Discoverer": "YucaFrita",
     "Glyphs": "606FA21127FF",
     "Platform": "ST",
-    "Timestamp": 1718916707000
+    "Timestamp": 1718916707000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3421,7 +5556,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "6073A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949320000
+    "Timestamp": 1712949320000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3429,7 +5569,12 @@
     "Discoverer": "Greens",
     "Glyphs": "6079A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705435214000
+    "Timestamp": 1705435214000,
+    "Fauna": 9,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3437,7 +5582,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "60AAA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712904090000
+    "Timestamp": 1712904090000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3445,7 +5595,12 @@
     "Discoverer": "Mimikyu1312",
     "Glyphs": "60CDA21127FF",
     "Platform": "ST",
-    "Timestamp": 1695780518000
+    "Timestamp": 1695780518000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3453,7 +5608,12 @@
     "Discoverer": "Greens",
     "Glyphs": "60D2A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705422465000
+    "Timestamp": 1705422465000,
+    "Fauna": 1,
+    "Flora": 1,
+    "Minerals": 1,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3461,7 +5621,12 @@
     "Discoverer": "Lenni",
     "Glyphs": "60D6A21127FF",
     "Platform": "ST",
-    "Timestamp": 1715074881000
+    "Timestamp": 1715074881000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3469,7 +5634,12 @@
     "Discoverer": "Greens",
     "Glyphs": "60E7A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705427251000
+    "Timestamp": 1705427251000,
+    "Fauna": 9,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3477,7 +5647,12 @@
     "Discoverer": "Greens",
     "Glyphs": "60F1A21127FF",
     "Platform": "ST",
-    "Timestamp": 1705416156000
+    "Timestamp": 1705416156000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3485,7 +5660,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "60FDA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712288854000
+    "Timestamp": 1712288854000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3493,7 +5673,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "6115A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770137000
+    "Timestamp": 1713770137000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3501,7 +5686,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "6116A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712286484000
+    "Timestamp": 1712286484000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3509,7 +5699,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "613AA21127FF",
     "Platform": "XB",
-    "Timestamp": 1713044334000
+    "Timestamp": 1713044334000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3517,7 +5712,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "6157A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713771453000
+    "Timestamp": 1713771453000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3525,7 +5725,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "617FA21127FF",
     "Platform": "XB",
-    "Timestamp": 1712949531000
+    "Timestamp": 1712949531000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3533,7 +5738,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "6189A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712879421000
+    "Timestamp": 1712879421000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3541,7 +5751,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "6191A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712878725000
+    "Timestamp": 1712878725000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3549,7 +5764,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "6199A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712187636000
+    "Timestamp": 1712187636000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3557,7 +5777,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "61C6A21127FF",
     "Platform": "XB",
-    "Timestamp": 1713770886000
+    "Timestamp": 1713770886000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3565,7 +5790,12 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "61E3A21127FF",
     "Platform": "PS",
-    "Timestamp": 1706756794000
+    "Timestamp": 1706756794000,
+    "Fauna": 4,
+    "Flora": 3,
+    "Minerals": 4,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3573,7 +5803,12 @@
     "Discoverer": "LordDraCool241",
     "Glyphs": "61F9A21127FF",
     "Platform": "XB",
-    "Timestamp": 1712948125000
+    "Timestamp": 1712948125000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -3581,6 +5816,11 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "6202A21127FF",
     "Platform": "PS",
-    "Timestamp": 1706761424000
+    "Timestamp": 1706761424000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
   }
 ]
