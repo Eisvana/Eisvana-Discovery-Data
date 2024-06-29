@@ -1,6 +1,9 @@
 import type { Platform } from './platform';
 
+type DiscoveryCategories = 'Base' | 'Animal' | 'Flora' | 'Mineral' | 'Planet' | 'Settlement' | 'SolarSystem';
+
 export interface DiscoveryData {
+  Category: DiscoveryCategories;
   Name: string;
   Glyphs: string;
   Discoverer: string;
