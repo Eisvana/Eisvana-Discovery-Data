@@ -14,7 +14,7 @@ const dataContainsSystems = computed(() => categories.value.includes('system'));
 
 const textInputs = [
   {
-    label: 'System Name',
+    label: 'Name',
     id: 'name',
   },
   {
