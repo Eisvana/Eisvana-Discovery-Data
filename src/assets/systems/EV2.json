@@ -1,3810 +1,4762 @@
 [
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1 Yessyal",
     "Discoverer": "YucaFrita",
     "Glyphs": "0001A11117FF",
     "Platform": "ST",
     "Timestamp": 1695771199000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-2 Odedos",
     "Discoverer": "YucaFrita",
     "Glyphs": "0002A11117FF",
     "Platform": "ST",
     "Timestamp": 1713639607000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-3 Afonovsk VI",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0003A11117FF",
     "Platform": "XB",
     "Timestamp": 1712471332000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-4 Plimovi XV",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0004A11117FF",
     "Platform": "XB",
     "Timestamp": 1713069157000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-5 Bolkhorya",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0005A11117FF",
     "Platform": "XB",
     "Timestamp": 1713069101000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-6 Sentam",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0006A11117FF",
     "Platform": "XB",
     "Timestamp": 1713065691000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-7 Eobkhovs",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0007A11117FF",
     "Platform": "XB",
     "Timestamp": 1713067508000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-8 Datyronyau",
     "Discoverer": "Binder198",
     "Glyphs": "0008A11117FF",
     "Platform": "ST",
     "Timestamp": 1696200762000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-9 Olexig-Omc",
     "Discoverer": "Binder198",
     "Glyphs": "0009A11117FF",
     "Platform": "ST",
     "Timestamp": 1696200412000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-A Eterepov III",
     "Discoverer": "BestLegend134",
     "Glyphs": "000AA11117FF",
     "Platform": "ST",
     "Timestamp": 1697418871000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-B Ruffian",
     "Discoverer": "Lunivore",
     "Glyphs": "000BA11117FF",
     "Platform": "ST",
     "Timestamp": 1697359029000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-C Hotinsk",
     "Discoverer": "YucaFrita",
     "Glyphs": "000CA11117FF",
     "Platform": "ST",
     "Timestamp": 1713640573000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-D Smanovo",
     "Discoverer": "Binder198",
     "Glyphs": "000DA11117FF",
     "Platform": "ST",
     "Timestamp": 1712058469000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-E Kizeli XI",
     "Discoverer": "Binder198",
     "Glyphs": "000EA11117FF",
     "Platform": "ST",
     "Timestamp": 1712166126000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-F Ufalekt",
     "Discoverer": "BestLegend134",
     "Glyphs": "000FA11117FF",
     "Platform": "ST",
     "Timestamp": 1697494212000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-10 Ektropa XIV",
     "Discoverer": "Binder198",
     "Glyphs": "0010A11117FF",
     "Platform": "ST",
     "Timestamp": 1711973520000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-11 Ovuran-Mei XVII",
     "Discoverer": "Binder198",
     "Glyphs": "0011A11117FF",
     "Platform": "ST",
     "Timestamp": 1696203652000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-12 Gukovo",
     "Discoverer": "BestLegend134",
     "Glyphs": "0012A11117FF",
     "Platform": "ST",
     "Timestamp": 1697242573000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-13 Rukako-Resh",
     "Discoverer": "BestLegend134",
     "Glyphs": "0013A11117FF",
     "Platform": "ST",
     "Timestamp": 1699570514000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-14 Ishele-Lips",
     "Discoverer": "Binder198",
     "Glyphs": "0014A11117FF",
     "Platform": "ST",
     "Timestamp": 1712668813000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-15 Tukalta",
     "Discoverer": "Binder198",
     "Glyphs": "0015A11117FF",
     "Platform": "ST",
     "Timestamp": 1712668913000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-16 Lokevinovs",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0016A11117FF",
     "Platform": "XB",
     "Timestamp": 1712607254000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "ev2-17 Vestvov-Luyk",
     "Discoverer": "Binder198",
     "Glyphs": "0017A11117FF",
     "Platform": "ST",
     "Timestamp": 1712578458000,
-    "Correctly Prefixed": false
+    "Correctly Prefixed": false,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-18 Tubino",
     "Discoverer": "Binder198",
     "Glyphs": "0018A11117FF",
     "Platform": "ST",
     "Timestamp": 1712791785000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-19 Higulma",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0019A11117FF",
     "Platform": "XB",
     "Timestamp": 1712374422000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1A Votkin-Natron",
     "Discoverer": "LordDraCool241",
     "Glyphs": "001AA11117FF",
     "Platform": "XB",
     "Timestamp": 1712350175000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 1
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1B Izovsk",
     "Discoverer": "LordDraCool241",
     "Glyphs": "001BA11117FF",
     "Platform": "XB",
     "Timestamp": 1712348476000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1C Zorilsky",
     "Discoverer": "LordDraCool241",
     "Glyphs": "001CA11117FF",
     "Platform": "XB",
     "Timestamp": 1709413367000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1D Lotsoflove",
     "Discoverer": "YucaFrita",
     "Glyphs": "001DA11117FF",
     "Platform": "ST",
     "Timestamp": 1715346518000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1E Barabli-Idne II",
     "Discoverer": "LordDraCool241",
     "Glyphs": "001EA11117FF",
     "Platform": "XB",
     "Timestamp": 1712304583000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 1
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1F Neskyuvi XIX",
     "Discoverer": "Binder198",
     "Glyphs": "001FA11117FF",
     "Platform": "ST",
     "Timestamp": 1712490414000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-20 Utnikin-Gelag",
     "Discoverer": "YucaFrita",
     "Glyphs": "0020A11117FF",
     "Platform": "ST",
     "Timestamp": 1715348366000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-21 Imitrosh",
     "Discoverer": "Binder198",
     "Glyphs": "0021A11117FF",
     "Platform": "ST",
     "Timestamp": 1712256225000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-22 Yuchard-Ninu",
     "Discoverer": "Binder198",
     "Glyphs": "0022A11117FF",
     "Platform": "ST",
     "Timestamp": 1712354151000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-23 Lazomerc",
     "Discoverer": "Binder198",
     "Glyphs": "0023A11117FF",
     "Platform": "ST",
     "Timestamp": 1712355498000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "",
     "Discoverer": "Binder198",
     "Glyphs": "0024A11117FF",
     "Platform": "ST",
     "Timestamp": 1700094466000,
-    "Correctly Prefixed": false
+    "Correctly Prefixed": false,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-25 Nashimb-Stav",
     "Discoverer": "Binder198",
     "Glyphs": "0025A11117FF",
     "Platform": "ST",
     "Timestamp": 1696202272000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-26 Dinimit V",
     "Discoverer": "Binder198",
     "Glyphs": "0026A11117FF",
     "Platform": "ST",
     "Timestamp": 1696201200000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-27 Ondrea-Lebarr",
     "Discoverer": "BestLegend134",
     "Glyphs": "0027A11117FF",
     "Platform": "ST",
     "Timestamp": 1697250284000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-28 Bigovo-Yive",
     "Discoverer": "Binder198",
     "Glyphs": "0028A11117FF",
     "Platform": "ST",
     "Timestamp": 1712431077000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-29 Zedushik XVI",
     "Discoverer": "Binder198",
     "Glyphs": "0029A11117FF",
     "Platform": "ST",
     "Timestamp": 1696618290000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-2A Osilyu",
     "Discoverer": "YucaFrita",
     "Glyphs": "002AA11117FF",
     "Platform": "ST",
     "Timestamp": 1715360536000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-2B Avdinog-Cianp IV",
     "Discoverer": "LordDraCool241",
     "Glyphs": "002BA11117FF",
     "Platform": "XB",
     "Timestamp": 1712274480000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-2C Rinozav XIII",
     "Discoverer": "Binder198",
     "Glyphs": "002CA11117FF",
     "Platform": "ST",
     "Timestamp": 1695825512000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-2D Dayonno",
     "Discoverer": "Binder198",
     "Glyphs": "002DA11117FF",
     "Platform": "ST",
     "Timestamp": 1696619222000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-2E Takzhe-Iev",
     "Discoverer": "Binder198",
     "Glyphs": "002EA11117FF",
     "Platform": "ST",
     "Timestamp": 1695839971000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-2F Gepano",
     "Discoverer": "Binder198",
     "Glyphs": "002FA11117FF",
     "Platform": "ST",
     "Timestamp": 1709937913000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-30 Okinog XV",
     "Discoverer": "BestLegend134",
     "Glyphs": "0030A11117FF",
     "Platform": "ST",
     "Timestamp": 1697509213000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-31 Alnega-Kisov",
     "Discoverer": "BestLegend134",
     "Glyphs": "0031A11117FF",
     "Platform": "ST",
     "Timestamp": 1697331751000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 1
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-32 Puteshkal VII",
     "Discoverer": "BestLegend134",
     "Glyphs": "0032A11117FF",
     "Platform": "ST",
     "Timestamp": 1697333850000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-33 Chorye",
     "Discoverer": "BestLegend134",
     "Glyphs": "0033A11117FF",
     "Platform": "ST",
     "Timestamp": 1697327753000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-34 Siyskiye",
     "Discoverer": "BestLegend134",
     "Glyphs": "0034A11117FF",
     "Platform": "ST",
     "Timestamp": 1697315019000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-35 Esialne",
     "Discoverer": "BestLegend134",
     "Glyphs": "0035A11117FF",
     "Platform": "ST",
     "Timestamp": 1697488749000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-36 Ubtsov X",
     "Discoverer": "Binder198",
     "Glyphs": "0036A11117FF",
     "Platform": "ST",
     "Timestamp": 1696202400000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-37 Horabul",
     "Discoverer": "BestLegend134",
     "Glyphs": "0037A11117FF",
     "Platform": "ST",
     "Timestamp": 1697503373000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-38 Eyugachk XI",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0038A11117FF",
     "Platform": "XB",
     "Timestamp": 1713065935000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-39 Renikh",
     "Discoverer": "YucaFrita",
     "Glyphs": "0039A11117FF",
     "Platform": "ST",
     "Timestamp": 1715374132000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-3A Iazykalu",
     "Discoverer": "LordDraCool241",
     "Glyphs": "003AA11117FF",
     "Platform": "XB",
     "Timestamp": 1712470105000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 1
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-3B [Sosurgu]",
     "Discoverer": "BestLegend134",
     "Glyphs": "003BA11117FF",
     "Platform": "ST",
     "Timestamp": 1697074091000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-3C Kasovsko",
     "Discoverer": "BestLegend134",
     "Glyphs": "003CA11117FF",
     "Platform": "ST",
     "Timestamp": 1697416353000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-3D Umikha-Alent II",
     "Discoverer": "Binder198",
     "Glyphs": "003DA11117FF",
     "Platform": "ST",
     "Timestamp": 1712577582000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-3E Menikiye",
     "Discoverer": "YucaFrita",
     "Glyphs": "003EA11117FF",
     "Platform": "ST",
     "Timestamp": 1715514346000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-3F Yeksaye-Kuhya",
     "Discoverer": "BestLegend134",
     "Glyphs": "003FA11117FF",
     "Platform": "ST",
     "Timestamp": 1697384073000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-40 Razmanen XI",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0040A11117FF",
     "Platform": "XB",
     "Timestamp": 1713069041000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "Desnour-Nuohe XVII",
     "Discoverer": "Binder198",
     "Glyphs": "0041A11117FF",
     "Platform": "ST",
     "Timestamp": 1709561189000,
-    "Correctly Prefixed": false
+    "Correctly Prefixed": false,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-42 Radiant XIV",
     "Discoverer": "BestLegend134",
     "Glyphs": "0042A11117FF",
     "Platform": "ST",
     "Timestamp": 1697336242000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-43 Evarost",
     "Discoverer": "Lunivore",
     "Glyphs": "0043A11117FF",
     "Platform": "ST",
     "Timestamp": 1703251282000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-44 Uiutsk-Iab",
     "Discoverer": "Binder198",
     "Glyphs": "0044A11117FF",
     "Platform": "ST",
     "Timestamp": 1696200326000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-45 Hunyakh",
     "Discoverer": "Binder198",
     "Glyphs": "0045A11117FF",
     "Platform": "ST",
     "Timestamp": 1695840249000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-46 Yechyor",
     "Discoverer": "BestLegend134",
     "Glyphs": "0046A11117FF",
     "Platform": "ST",
     "Timestamp": 1697318210000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-47 Kommot",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0047A11117FF",
     "Platform": "XB",
     "Timestamp": 1712606783000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-48 Ikinsar",
     "Discoverer": "YucaFrita",
     "Glyphs": "0048A11117FF",
     "Platform": "ST",
     "Timestamp": 1715417376000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-49 Suvors-Ozaw",
     "Discoverer": "Binder198",
     "Glyphs": "0049A11117FF",
     "Platform": "ST",
     "Timestamp": 1696542511000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-4A Kiyshika",
     "Discoverer": "BestLegend134",
     "Glyphs": "004AA11117FF",
     "Platform": "ST",
     "Timestamp": 1697247378000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-4B Urskoi XVII",
     "Discoverer": "BestLegend134",
     "Glyphs": "004BA11117FF",
     "Platform": "ST",
     "Timestamp": 1697320756000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-4C Muzhan-Opnaf I",
     "Discoverer": "Binder198",
     "Glyphs": "004CA11117FF",
     "Platform": "ST",
     "Timestamp": 1711716788000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-4D Yovozy II",
     "Discoverer": "LordDraCool241",
     "Glyphs": "004DA11117FF",
     "Platform": "XB",
     "Timestamp": 1712597530000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-4E Oluchashes",
     "Discoverer": "YucaFrita",
     "Glyphs": "004EA11117FF",
     "Platform": "ST",
     "Timestamp": 1715420002000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-4F Ankovo V",
     "Discoverer": "Binder198",
     "Glyphs": "004FA11117FF",
     "Platform": "ST",
     "Timestamp": 1696202510000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-50 Kateli-Joy",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0050A11117FF",
     "Platform": "XB",
     "Timestamp": 1712467163000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-51 Tuvovat",
     "Discoverer": "Binder198",
     "Glyphs": "0051A11117FF",
     "Platform": "ST",
     "Timestamp": 1712355372000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-52 Loyginins",
     "Discoverer": "Lunivore",
     "Glyphs": "0052A11117FF",
     "Platform": "ST",
     "Timestamp": 1698829017000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-53 Veskoidaci",
     "Discoverer": "Binder198",
     "Glyphs": "0053A11117FF",
     "Platform": "ST",
     "Timestamp": 1696200565000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-54 S-Ahara",
     "Discoverer": "YucaFrita",
     "Glyphs": "0054A11117FF",
     "Platform": "ST",
     "Timestamp": 1700317269000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-57 Belore-Kimo",
     "Discoverer": "Binder198",
     "Glyphs": "0057A11117FF",
     "Platform": "ST",
     "Timestamp": 1709561380000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-59 Metyukho XVIII",
     "Discoverer": "Binder198",
     "Glyphs": "0059A11117FF",
     "Platform": "ST",
     "Timestamp": 1709938180000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-5A Buduto-Ipl VII",
     "Discoverer": "Binder198",
     "Glyphs": "005AA11117FF",
     "Platform": "ST",
     "Timestamp": 1709511740000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-5B Oemurasu",
     "Discoverer": "Binder198",
     "Glyphs": "005BA11117FF",
     "Platform": "ST",
     "Timestamp": 1709512384000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-5C Erezna",
     "Discoverer": "BestLegend134",
     "Glyphs": "005CA11117FF",
     "Platform": "ST",
     "Timestamp": 1697408250000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-5D Poronyev",
     "Discoverer": "LordDraCool241",
     "Glyphs": "005DA11117FF",
     "Platform": "XB",
     "Timestamp": 1712348701000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-5E Hiyevo-Hagio",
     "Discoverer": "Binder198",
     "Glyphs": "005EA11117FF",
     "Platform": "ST",
     "Timestamp": 1712791993000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-60 Avyuch",
     "Discoverer": "BestLegend134",
     "Glyphs": "0060A11117FF",
     "Platform": "ST",
     "Timestamp": 1697406249000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-61 Niyevk-Heg IX",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0061A11117FF",
     "Platform": "XB",
     "Timestamp": 1712380105000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-62 Eboksa",
     "Discoverer": "Lunivore",
     "Glyphs": "0062A11117FF",
     "Platform": "ST",
     "Timestamp": 1696851880000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-63 Otkovo",
     "Discoverer": "BestLegend134",
     "Glyphs": "0063A11117FF",
     "Platform": "ST",
     "Timestamp": 1697500516000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-64 Glastv-Futt",
     "Discoverer": "BestLegend134",
     "Glyphs": "0064A11117FF",
     "Platform": "ST",
     "Timestamp": 1697233341000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-65 Romayk",
     "Discoverer": "Binder198",
     "Glyphs": "0065A11117FF",
     "Platform": "ST",
     "Timestamp": 1696253496000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2- 66 Ingriv",
     "Discoverer": "Binder198",
     "Glyphs": "0066A11117FF",
     "Platform": "ST",
     "Timestamp": 1695902251000,
-    "Correctly Prefixed": false
+    "Correctly Prefixed": false,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-68 Ryokhal-Insh",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0068A11117FF",
     "Platform": "XB",
     "Timestamp": 1712200550000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-69 Eltsov-Molin",
     "Discoverer": "Binder198",
     "Glyphs": "0069A11117FF",
     "Platform": "ST",
     "Timestamp": 1696202165000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-6A Tenoyan",
     "Discoverer": "Binder198",
     "Glyphs": "006AA11117FF",
     "Platform": "ST",
     "Timestamp": 1696201288000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-6B Hagona",
     "Discoverer": "BestLegend134",
     "Glyphs": "006BA11117FF",
     "Platform": "ST",
     "Timestamp": 1697341086000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-6C Vilyubaks",
     "Discoverer": "Binder198",
     "Glyphs": "006CA11117FF",
     "Platform": "ST",
     "Timestamp": 1696619309000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-6E Zohdurech",
     "Discoverer": "BestLegend134",
     "Glyphs": "006EA11117FF",
     "Platform": "ST",
     "Timestamp": 1699578087000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-6F Lomskyvi XVI",
     "Discoverer": "Binder198",
     "Glyphs": "006FA11117FF",
     "Platform": "ST",
     "Timestamp": 1712579670000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-70 Styushny XI",
     "Discoverer": "Binder198",
     "Glyphs": "0070A11117FF",
     "Platform": "ST",
     "Timestamp": 1696202601000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-71 Fiksov",
     "Discoverer": "Binder198",
     "Glyphs": "0071A11117FF",
     "Platform": "ST",
     "Timestamp": 1712236648000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-72 Uppulum",
     "Discoverer": "YucaFrita",
     "Glyphs": "0072A11117FF",
     "Platform": "ST",
     "Timestamp": 1711056537000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-73 Igarim-Tosy",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0073A11117FF",
     "Platform": "XB",
     "Timestamp": 1712371471000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-74 Yindaln-Endo V",
     "Discoverer": "Binder198",
     "Glyphs": "0074A11117FF",
     "Platform": "ST",
     "Timestamp": 1712255665000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-75 Kulebe-Anma",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0075A11117FF",
     "Platform": "XB",
     "Timestamp": 1713067617000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-76 Ameshe-Tesyn",
     "Discoverer": "Binder198",
     "Glyphs": "0076A11117FF",
     "Platform": "ST",
     "Timestamp": 1712791880000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "",
     "Discoverer": "SpicySpaceSnake",
     "Glyphs": "0079A11117FF",
     "Platform": "ST",
     "Timestamp": 1702451486000,
-    "Correctly Prefixed": false
+    "Correctly Prefixed": false,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-7A Nidrovi-Nari IX",
     "Discoverer": "LordDraCool241",
     "Glyphs": "007AA11117FF",
     "Platform": "XB",
     "Timestamp": 1709341280000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-7B Yuyskiy-Keb",
     "Discoverer": "Binder198",
     "Glyphs": "007BA11117FF",
     "Platform": "ST",
     "Timestamp": 1697462635000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-7C Opastr-Yubirs VI",
     "Discoverer": "Binder198",
     "Glyphs": "007CA11117FF",
     "Platform": "ST",
     "Timestamp": 1697462546000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-7D Arusto",
     "Discoverer": "Binder198",
     "Glyphs": "007DA11117FF",
     "Platform": "ST",
     "Timestamp": 1696198977000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-7E Rigoffmei",
     "Discoverer": "Binder198",
     "Glyphs": "007EA11117FF",
     "Platform": "ST",
     "Timestamp": 1696199386000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-7F Doster",
     "Discoverer": "Binder198",
     "Glyphs": "007FA11117FF",
     "Platform": "ST",
     "Timestamp": 1695837696000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-80 Aylovsky XV",
     "Discoverer": "Binder198",
     "Glyphs": "0080A11117FF",
     "Platform": "ST",
     "Timestamp": 1696199080000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-81 Noarks",
     "Discoverer": "Binder198",
     "Glyphs": "0081A11117FF",
     "Platform": "ST",
     "Timestamp": 1696543460000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-82 Ednekot II",
     "Discoverer": "Binder198",
     "Glyphs": "0082A11117FF",
     "Platform": "ST",
     "Timestamp": 1695824506000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-83 Otskyv XIX",
     "Discoverer": "Binder198",
     "Glyphs": "0083A11117FF",
     "Platform": "ST",
     "Timestamp": 1696616715000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-84 Gograys",
     "Discoverer": "Binder198",
     "Glyphs": "0084A11117FF",
     "Platform": "ST",
     "Timestamp": 1696543381000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-85 Rovokub",
     "Discoverer": "Binder198",
     "Glyphs": "0085A11117FF",
     "Platform": "ST",
     "Timestamp": 1697030375000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-87 Teromo-Apara",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0087A11117FF",
     "Platform": "XB",
     "Timestamp": 1712381075000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-8A Torode XI",
     "Discoverer": "Binder198",
     "Glyphs": "008AA11117FF",
     "Platform": "ST",
     "Timestamp": 1696618836000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-8B Hasavilo",
     "Discoverer": "LordDraCool241",
     "Glyphs": "008BA11117FF",
     "Platform": "XB",
     "Timestamp": 1712527112000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "",
     "Discoverer": "Binder198",
     "Glyphs": "0090A11117FF",
     "Platform": "ST",
     "Timestamp": 1700006253000,
-    "Correctly Prefixed": false
+    "Correctly Prefixed": false,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-91 Fonovs-Wind I",
     "Discoverer": "Binder198",
     "Glyphs": "0091A11117FF",
     "Platform": "ST",
     "Timestamp": 1696770219000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-92 Urlovko-Oneza XI",
     "Discoverer": "Binder198",
     "Glyphs": "0092A11117FF",
     "Platform": "ST",
     "Timestamp": 1696619121000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-93 Iiskog-Delhe",
     "Discoverer": "Binder198",
     "Glyphs": "0093A11117FF",
     "Platform": "ST",
     "Timestamp": 1695836197000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-94 Yomovsk-Zimiu",
     "Discoverer": "Binder198",
     "Glyphs": "0094A11117FF",
     "Platform": "ST",
     "Timestamp": 1695836313000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-95 Kuvshivka",
     "Discoverer": "Binder198",
     "Glyphs": "0095A11117FF",
     "Platform": "ST",
     "Timestamp": 1695837105000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-96 Androvs VII",
     "Discoverer": "Binder198",
     "Glyphs": "0096A11117FF",
     "Platform": "ST",
     "Timestamp": 1696445155000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-97 Munariin",
     "Discoverer": "Binder198",
     "Glyphs": "0097A11117FF",
     "Platform": "ST",
     "Timestamp": 1696616796000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-99 Uzensk-Gad",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0099A11117FF",
     "Platform": "XB",
     "Timestamp": 1712381368000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-9C Opyorm-Embo",
     "Discoverer": "Binder198",
     "Glyphs": "009CA11117FF",
     "Platform": "ST",
     "Timestamp": 1696618922000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-9D Asimlyaz",
     "Discoverer": "Binder198",
     "Glyphs": "009DA11117FF",
     "Platform": "ST",
     "Timestamp": 1712431808000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-9F Drezhye",
     "Discoverer": "LordDraCool241",
     "Glyphs": "009FA11117FF",
     "Platform": "XB",
     "Timestamp": 1713070101000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "Menskoye",
     "Discoverer": "Binder198",
     "Glyphs": "00A0A11117FF",
     "Platform": "ST",
     "Timestamp": 1697462810000,
-    "Correctly Prefixed": false
+    "Correctly Prefixed": false,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-A1 Yebnoyan",
     "Discoverer": "LordDraCool241",
     "Glyphs": "00A1A11117FF",
     "Platform": "XB",
     "Timestamp": 1712970719000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-A2 Odporog V",
     "Discoverer": "Binder198",
     "Glyphs": "00A2A11117FF",
     "Platform": "ST",
     "Timestamp": 1695837388000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-A3 Aibols-Mian",
     "Discoverer": "Binder198",
     "Glyphs": "00A3A11117FF",
     "Platform": "ST",
     "Timestamp": 1696770114000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-A4 Poluni",
     "Discoverer": "Binder198",
     "Glyphs": "00A4A11117FF",
     "Platform": "ST",
     "Timestamp": 1696199181000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-A5 [Bryazn-Ribet X]",
     "Discoverer": "Binder198",
     "Glyphs": "00A5A11117FF",
     "Platform": "ST",
     "Timestamp": 1695757625000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-A6 Shardo-Lasenh",
     "Discoverer": "Binder198",
     "Glyphs": "00A6A11117FF",
     "Platform": "ST",
     "Timestamp": 1697462455000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-A7 Erafim-Umu",
     "Discoverer": "Binder198",
     "Glyphs": "00A7A11117FF",
     "Platform": "ST",
     "Timestamp": 1695817630000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-A8 Delidov XIII",
     "Discoverer": "Binder198",
     "Glyphs": "00A8A11117FF",
     "Platform": "ST",
     "Timestamp": 1697463078000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-A9 Olonerc",
     "Discoverer": "Binder198",
     "Glyphs": "00A9A11117FF",
     "Platform": "ST",
     "Timestamp": 1696199290000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-AA Etyuli",
     "Discoverer": "Binder198",
     "Glyphs": "00AAA11117FF",
     "Platform": "ST",
     "Timestamp": 1696445074000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-AB Ratsky-Taa",
     "Discoverer": "Binder198",
     "Glyphs": "00ABA11117FF",
     "Platform": "ST",
     "Timestamp": 1696444999000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-AC Hukovour",
     "Discoverer": "Binder198",
     "Glyphs": "00ACA11117FF",
     "Platform": "ST",
     "Timestamp": 1696543163000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-AD Sogleb-Adsi",
     "Discoverer": "Binder198",
     "Glyphs": "00ADA11117FF",
     "Platform": "ST",
     "Timestamp": 1696542703000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-AE Kodiatio",
     "Discoverer": "Autan219",
     "Glyphs": "00AEA11117FF",
     "Platform": "ST",
     "Timestamp": 1695788280000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-AF Uguryi IV",
     "Discoverer": "Binder198",
     "Glyphs": "00AFA11117FF",
     "Platform": "ST",
     "Timestamp": 1696617002000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-B1 Ozlovorzy",
     "Discoverer": "Autan219",
     "Glyphs": "00B1A11117FF",
     "Platform": "ST",
     "Timestamp": 1695777560000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-B3 Ryazomenu",
     "Discoverer": "Binder198",
     "Glyphs": "00B3A11117FF",
     "Platform": "ST",
     "Timestamp": 1696618739000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-B4 Ispolya-Dori",
     "Discoverer": "LordDraCool241",
     "Glyphs": "00B4A11117FF",
     "Platform": "XB",
     "Timestamp": 1712529577000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-B6 Lulovse-Lafor",
     "Discoverer": "Binder198",
     "Glyphs": "00B6A11117FF",
     "Platform": "ST",
     "Timestamp": 1697462909000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-B7 Vidnoy-Inbur",
     "Discoverer": "LordDraCool241",
     "Glyphs": "00B7A11117FF",
     "Platform": "XB",
     "Timestamp": 1712361965000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-B9 Histropo",
     "Discoverer": "Lenni",
     "Glyphs": "00B9A11117FF",
     "Platform": "ST",
     "Timestamp": 1697884220000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-BA [Varonye-Mapanc]",
     "Discoverer": "Binder198",
     "Glyphs": "00BAA11117FF",
     "Platform": "ST",
     "Timestamp": 1695756255000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-BB Kameyssk",
     "Discoverer": "Binder198",
     "Glyphs": "00BBA11117FF",
     "Platform": "ST",
     "Timestamp": 1697030292000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-BC Zuvandy XVII",
     "Discoverer": "Binder198",
     "Glyphs": "00BCA11117FF",
     "Platform": "ST",
     "Timestamp": 1696769907000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-BD Luzhichi",
     "Discoverer": "Binder198",
     "Glyphs": "00BDA11117FF",
     "Platform": "ST",
     "Timestamp": 1697374391000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-BE Bodulin IV",
     "Discoverer": "Binder198",
     "Glyphs": "00BEA11117FF",
     "Platform": "ST",
     "Timestamp": 1695835772000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-BF Netsoyno VII",
     "Discoverer": "Binder198",
     "Glyphs": "00BFA11117FF",
     "Platform": "ST",
     "Timestamp": 1696444408000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-C0 [Helyel-Painc]",
     "Discoverer": "Binder198",
     "Glyphs": "00C0A11117FF",
     "Platform": "ST",
     "Timestamp": 1695761281000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-C1 Satkovdo",
     "Discoverer": "Binder198",
     "Glyphs": "00C1A11117FF",
     "Platform": "ST",
     "Timestamp": 1696855683000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-C2 Iyevsk XII",
     "Discoverer": "Binder198",
     "Glyphs": "00C2A11117FF",
     "Platform": "ST",
     "Timestamp": 1696543565000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-C3 Trovsky",
     "Discoverer": "Binder198",
     "Glyphs": "00C3A11117FF",
     "Platform": "ST",
     "Timestamp": 1696855788000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-C4 Lousto-Stav",
     "Discoverer": "Binder198",
     "Glyphs": "00C4A11117FF",
     "Platform": "ST",
     "Timestamp": 1697030489000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-C5 Vodylu",
     "Discoverer": "Binder198",
     "Glyphs": "00C5A11117FF",
     "Platform": "ST",
     "Timestamp": 1696542820000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-C6 Noturins",
     "Discoverer": "Autan219",
     "Glyphs": "00C6A11117FF",
     "Platform": "ST",
     "Timestamp": 1695785939000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-C7 Zulovsk-Goy V",
     "Discoverer": "Binder198",
     "Glyphs": "00C7A11117FF",
     "Platform": "ST",
     "Timestamp": 1696618615000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-C8 Xandal XIV",
     "Discoverer": "Binder198",
     "Glyphs": "00C8A11117FF",
     "Platform": "ST",
     "Timestamp": 1696618412000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-C9 Kahrusty XIXX",
     "Discoverer": "Autan219",
     "Glyphs": "00C9A11117FF",
     "Platform": "ST",
     "Timestamp": 1695775063000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-CA Adnyau-Uybyos",
     "Discoverer": "Binder198",
     "Glyphs": "00CAA11117FF",
     "Platform": "ST",
     "Timestamp": 1696619014000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-CB Mamoin-Igu",
     "Discoverer": "LordDraCool241",
     "Glyphs": "00CBA11117FF",
     "Platform": "XB",
     "Timestamp": 1712530166000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 1
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-CC Blinooz XVI",
     "Discoverer": "Binder198",
     "Glyphs": "00CCA11117FF",
     "Platform": "ST",
     "Timestamp": 1697462981000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-CD Oblagadz",
     "Discoverer": "Lunivore",
     "Glyphs": "00CDA11117FF",
     "Platform": "ST",
     "Timestamp": 1697286726000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-CE Enegors III",
     "Discoverer": "Binder198",
     "Glyphs": "00CEA11117FF",
     "Platform": "ST",
     "Timestamp": 1695838857000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-CF Peverenes",
     "Discoverer": "Binder198",
     "Glyphs": "00CFA11117FF",
     "Platform": "ST",
     "Timestamp": 1696770005000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-D0 Zapolniae VII",
     "Discoverer": "Binder198",
     "Glyphs": "00D0A11117FF",
     "Platform": "ST",
     "Timestamp": 1695838770000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-D1 Likinoo-Usi VII",
     "Discoverer": "Binder198",
     "Glyphs": "00D1A11117FF",
     "Platform": "ST",
     "Timestamp": 1695838099000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-D2 Atezhe",
     "Discoverer": "Binder198",
     "Glyphs": "00D2A11117FF",
     "Platform": "ST",
     "Timestamp": 1695834711000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-D3 Niformont I",
     "Discoverer": "Binder198",
     "Glyphs": "00D3A11117FF",
     "Platform": "ST",
     "Timestamp": 1695826615000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-D4 Durene",
     "Discoverer": "Binder198",
     "Glyphs": "00D4A11117FF",
     "Platform": "ST",
     "Timestamp": 1696444289000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-D5 Oroslov",
     "Discoverer": "Binder198",
     "Glyphs": "00D5A11117FF",
     "Platform": "ST",
     "Timestamp": 1695827240000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "Gagari",
     "Discoverer": "Binder198",
     "Glyphs": "00D6A11117FF",
     "Platform": "ST",
     "Timestamp": 1696855405000,
-    "Correctly Prefixed": false
+    "Correctly Prefixed": false,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-D7 Rakutsk",
     "Discoverer": "Binder198",
     "Glyphs": "00D7A11117FF",
     "Platform": "ST",
     "Timestamp": 1696170238000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-D8 Ovatezh XIV",
     "Discoverer": "Autan219",
     "Glyphs": "00D8A11117FF",
     "Platform": "ST",
     "Timestamp": 1696490445000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-DB Egkoun",
     "Discoverer": "Binder198",
     "Glyphs": "00DBA11117FF",
     "Platform": "ST",
     "Timestamp": 1696171190000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-DC Tikhil",
     "Discoverer": "Binder198",
     "Glyphs": "00DCA11117FF",
     "Platform": "ST",
     "Timestamp": 1712403223000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-DD Gradit-Udi",
     "Discoverer": "Autan219",
     "Glyphs": "00DDA11117FF",
     "Platform": "ST",
     "Timestamp": 1695791943000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 1
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-DE Vartyo-Org",
     "Discoverer": "Autan219",
     "Glyphs": "00DEA11117FF",
     "Platform": "ST",
     "Timestamp": 1695783229000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-DF Ireyan-Mutano",
     "Discoverer": "LordDraCool241",
     "Glyphs": "00DFA11117FF",
     "Platform": "XB",
     "Timestamp": 1712524973000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-E0 Ridoneg XII",
     "Discoverer": "LordDraCool241",
     "Glyphs": "00E0A11117FF",
     "Platform": "XB",
     "Timestamp": 1712361874000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-E1 Dikamc-Omur",
     "Discoverer": "LordDraCool241",
     "Glyphs": "00E1A11117FF",
     "Platform": "XB",
     "Timestamp": 1712362145000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-E2 Spatiiak",
     "Discoverer": "Binder198",
     "Glyphs": "00E2A11117FF",
     "Platform": "ST",
     "Timestamp": 1695837575000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-E3 [Evron]y",
     "Discoverer": "Binder198",
     "Glyphs": "00E3A11117FF",
     "Platform": "ST",
     "Timestamp": 1695756665000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-E4 Ulantsyn",
     "Discoverer": "Binder198",
     "Glyphs": "00E4A11117FF",
     "Platform": "ST",
     "Timestamp": 1695826114000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-E5 Hyegod I",
     "Discoverer": "Binder198",
     "Glyphs": "00E5A11117FF",
     "Platform": "ST",
     "Timestamp": 1697375563000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-E6 Yermeysk",
     "Discoverer": "Binder198",
     "Glyphs": "00E6A11117FF",
     "Platform": "ST",
     "Timestamp": 1695835098000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-E7 [KOVSKO IV]]",
     "Discoverer": "Binder198",
     "Glyphs": "00E7A11117FF",
     "Platform": "ST",
     "Timestamp": 1695755790000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV1-E8",
     "Discoverer": "Binder198",
     "Glyphs": "00E8A11117FF",
     "Platform": "ST",
     "Timestamp": 1695754313000,
-    "Correctly Prefixed": false
+    "Correctly Prefixed": false,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-EA Lagiley-Ochi",
     "Discoverer": "Binder198",
     "Glyphs": "00EAA11117FF",
     "Platform": "ST",
     "Timestamp": 1696855524000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-EB Usinnitsy",
     "Discoverer": "Binder198",
     "Glyphs": "00EBA11117FF",
     "Platform": "ST",
     "Timestamp": 1696168487000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-EC Nachini",
     "Discoverer": "Lunivore",
     "Glyphs": "00ECA11117FF",
     "Platform": "ST",
     "Timestamp": 1696754272000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-ED Yuskayvium VI",
     "Discoverer": "Binder198",
     "Glyphs": "00EDA11117FF",
     "Platform": "ST",
     "Timestamp": 1696444527000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-EE Omlyan",
     "Discoverer": "Binder198",
     "Glyphs": "00EEA11117FF",
     "Platform": "ST",
     "Timestamp": 1696856628000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-EF Anzhens-Bil XIII",
     "Discoverer": "Binder198",
     "Glyphs": "00EFA11117FF",
     "Platform": "ST",
     "Timestamp": 1696542604000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-F0 Kesspo XIII",
     "Discoverer": "Autan219",
     "Glyphs": "00F0A11117FF",
     "Platform": "ST",
     "Timestamp": 1696488931000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-F1 Tayumeru I",
     "Discoverer": "Autan219",
     "Glyphs": "00F1A11117FF",
     "Platform": "ST",
     "Timestamp": 1695971058000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-F2 Lozamak-Lub",
     "Discoverer": "Binder198",
     "Glyphs": "00F2A11117FF",
     "Platform": "ST",
     "Timestamp": 1696856703000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-F3 Veyazans VII",
     "Discoverer": "Autan219",
     "Glyphs": "00F3A11117FF",
     "Platform": "ST",
     "Timestamp": 1695974856000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-F4 Neytval-Reuna",
     "Discoverer": "Autan219",
     "Glyphs": "00F4A11117FF",
     "Platform": "ST",
     "Timestamp": 1695971981000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-F5 Aberts-Iwein",
     "Discoverer": "Binder198",
     "Glyphs": "00F5A11117FF",
     "Platform": "ST",
     "Timestamp": 1712403105000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-F6 Partaur",
     "Discoverer": "Autan219",
     "Glyphs": "00F6A11117FF",
     "Platform": "ST",
     "Timestamp": 1695982910000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-F9 Mikhad-Kolepi",
     "Discoverer": "Binder198",
     "Glyphs": "00F9A11117FF",
     "Platform": "ST",
     "Timestamp": 1696541836000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-FA Buynak",
     "Discoverer": "Binder198",
     "Glyphs": "00FAA11117FF",
     "Platform": "ST",
     "Timestamp": 1696541485000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-FB Ogdano-Maqu",
     "Discoverer": "Binder198",
     "Glyphs": "00FBA11117FF",
     "Platform": "ST",
     "Timestamp": 1697030206000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-FC Ernusinno",
     "Discoverer": "Binder198",
     "Glyphs": "00FCA11117FF",
     "Platform": "ST",
     "Timestamp": 1696770892000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-FD Prioze",
     "Discoverer": "Binder198",
     "Glyphs": "00FDA11117FF",
     "Platform": "ST",
     "Timestamp": 1696541388000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-FE Halovok-Ulhor",
     "Discoverer": "Binder198",
     "Glyphs": "00FEA11117FF",
     "Platform": "ST",
     "Timestamp": 1696541297000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-FF Shvalda",
     "Discoverer": "Binder198",
     "Glyphs": "00FFA11117FF",
     "Platform": "ST",
     "Timestamp": 1696542411000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-100 Hantir-Vova",
     "Discoverer": "Binder198",
     "Glyphs": "0100A11117FF",
     "Platform": "ST",
     "Timestamp": 1695840054000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-101 Ryoking-Vorny",
     "Discoverer": "Binder198",
     "Glyphs": "0101A11117FF",
     "Platform": "ST",
     "Timestamp": 1695839801000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2- 102 [Itogor-Arden]",
     "Discoverer": "Binder198",
     "Glyphs": "0102A11117FF",
     "Platform": "ST",
     "Timestamp": 1695757081000,
-    "Correctly Prefixed": false
+    "Correctly Prefixed": false,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-103 Tolozha-Yetung",
     "Discoverer": "Binder198",
     "Glyphs": "0103A11117FF",
     "Platform": "ST",
     "Timestamp": 1695827013000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-104 Lunoste IX",
     "Discoverer": "Binder198",
     "Glyphs": "0104A11117FF",
     "Platform": "ST",
     "Timestamp": 1695826016000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-105 Vitins",
     "Discoverer": "Binder198",
     "Glyphs": "0105A11117FF",
     "Platform": "ST",
     "Timestamp": 1696620025000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-106 Nukursko",
     "Discoverer": "Binder198",
     "Glyphs": "0106A11117FF",
     "Platform": "ST",
     "Timestamp": 1696115913000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-107 Zehinsk",
     "Discoverer": "Binder198",
     "Glyphs": "0107A11117FF",
     "Platform": "ST",
     "Timestamp": 1696169691000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-108 Vukotylu XIII",
     "Discoverer": "Binder198",
     "Glyphs": "0108A11117FF",
     "Platform": "ST",
     "Timestamp": 1696169335000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-109 Kazany",
     "Discoverer": "Binder198",
     "Glyphs": "0109A11117FF",
     "Platform": "ST",
     "Timestamp": 1696116794000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-10B Loysaya",
     "Discoverer": "Binder198",
     "Glyphs": "010BA11117FF",
     "Platform": "ST",
     "Timestamp": 1697374296000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-10C Bezhantam XIV",
     "Discoverer": "Binder198",
     "Glyphs": "010CA11117FF",
     "Platform": "ST",
     "Timestamp": 1696444839000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "",
     "Discoverer": "Traevis",
     "Glyphs": "010DA11117FF",
     "Platform": "ST",
     "Timestamp": 1696103608000,
-    "Correctly Prefixed": false
+    "Correctly Prefixed": false,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-10E Emanov XV",
     "Discoverer": "LordDraCool241",
     "Glyphs": "010EA11117FF",
     "Platform": "XB",
     "Timestamp": 1709414475000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-10F Pallashi VII",
     "Discoverer": "LordDraCool241",
     "Glyphs": "010FA11117FF",
     "Platform": "XB",
     "Timestamp": 1713069998000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-111 Letsia-Rosa XV",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0111A11117FF",
     "Platform": "XB",
     "Timestamp": 1713769045000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-112 Asavyana",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0112A11117FF",
     "Platform": "XB",
     "Timestamp": 1712380609000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-114 Dozohsky V",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0114A11117FF",
     "Platform": "XB",
     "Timestamp": 1712359867000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-115 Opkinso-Ail",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0115A11117FF",
     "Platform": "XB",
     "Timestamp": 1712360047000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 1
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-116 Floteln-Hawell",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0116A11117FF",
     "Platform": "XB",
     "Timestamp": 1712361328000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-117 Rikhin VI",
     "Discoverer": "Binder198",
     "Glyphs": "0117A11117FF",
     "Platform": "ST",
     "Timestamp": 1696770382000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-118 Otorabu-Auras",
     "Discoverer": "Binder198",
     "Glyphs": "0118A11117FF",
     "Platform": "ST",
     "Timestamp": 1696856890000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-119 Ayevozmod",
     "Discoverer": "Binder198",
     "Glyphs": "0119A11117FF",
     "Platform": "ST",
     "Timestamp": 1696859021000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-11A Roslang-Kao",
     "Discoverer": "Binder198",
     "Glyphs": "011AA11117FF",
     "Platform": "ST",
     "Timestamp": 1695838943000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-11C Telnic-Zele XVI",
     "Discoverer": "Binder198",
     "Glyphs": "011CA11117FF",
     "Platform": "ST",
     "Timestamp": 1696199774000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-11D Gobuzh VIII",
     "Discoverer": "Binder198",
     "Glyphs": "011DA11117FF",
     "Platform": "ST",
     "Timestamp": 1695840159000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-11E Uyskiy",
     "Discoverer": "Binder198",
     "Glyphs": "011EA11117FF",
     "Platform": "ST",
     "Timestamp": 1696253362000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-11F Innino",
     "Discoverer": "Binder198",
     "Glyphs": "011FA11117FF",
     "Platform": "ST",
     "Timestamp": 1696253293000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-120 Rantir-Ruspri",
     "Discoverer": "Binder198",
     "Glyphs": "0120A11117FF",
     "Platform": "ST",
     "Timestamp": 1708178505000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-121 Dadermey XVI",
     "Discoverer": "Binder198",
     "Glyphs": "0121A11117FF",
     "Platform": "ST",
     "Timestamp": 1695839873000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-122 Snozna",
     "Discoverer": "Binder198",
     "Glyphs": "0122A11117FF",
     "Platform": "ST",
     "Timestamp": 1695836439000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-123 Etross VII",
     "Discoverer": "Binder198",
     "Glyphs": "0123A11117FF",
     "Platform": "ST",
     "Timestamp": 1695827340000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-124 Uginogo XII",
     "Discoverer": "Binder198",
     "Glyphs": "0124A11117FF",
     "Platform": "ST",
     "Timestamp": 1696117335000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-125 Huchyegod",
     "Discoverer": "Binder198",
     "Glyphs": "0125A11117FF",
     "Platform": "ST",
     "Timestamp": 1696116142000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-126 Yazepet XVIII",
     "Discoverer": "Binder198",
     "Glyphs": "0126A11117FF",
     "Platform": "ST",
     "Timestamp": 1696116290000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-127 Kolyuberd",
     "Discoverer": "Autan219",
     "Glyphs": "0127A11117FF",
     "Platform": "ST",
     "Timestamp": 1695968900000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-12A Kurtau",
     "Discoverer": "Binder198",
     "Glyphs": "012AA11117FF",
     "Platform": "ST",
     "Timestamp": 1712402904000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-12B Heartoak",
     "Discoverer": "Lunivore",
     "Glyphs": "012BA11117FF",
     "Platform": "ST",
     "Timestamp": 1696770958000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-12D Yunskyvin",
     "Discoverer": "LordDraCool241",
     "Glyphs": "012DA11117FF",
     "Platform": "XB",
     "Timestamp": 1712380385000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-12E Olkovr-Viger XI",
     "Discoverer": "LordDraCool241",
     "Glyphs": "012EA11117FF",
     "Platform": "XB",
     "Timestamp": 1712351792000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 1
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-12F Amurazr",
     "Discoverer": "LordDraCool241",
     "Glyphs": "012FA11117FF",
     "Platform": "XB",
     "Timestamp": 1712978199000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-130 Kaiutska XI",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0130A11117FF",
     "Platform": "XB",
     "Timestamp": 1712367543000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-131 Turomor",
     "Discoverer": "Binder198",
     "Glyphs": "0131A11117FF",
     "Platform": "ST",
     "Timestamp": 1696770469000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-132 Lunitsy",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0132A11117FF",
     "Platform": "XB",
     "Timestamp": 1712298538000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-134 Nateyug",
     "Discoverer": "Binder198",
     "Glyphs": "0134A11117FF",
     "Platform": "ST",
     "Timestamp": 1696199497000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-135 5Zubtso",
     "Discoverer": "Binder198",
     "Glyphs": "0135A11117FF",
     "Platform": "ST",
     "Timestamp": 1696115600000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 1
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-136 Ozdush XIV",
     "Discoverer": "Binder198",
     "Glyphs": "0136A11117FF",
     "Platform": "ST",
     "Timestamp": 1696678757000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-137 Baymaz-Diglat",
     "Discoverer": "Binder198",
     "Glyphs": "0137A11117FF",
     "Platform": "ST",
     "Timestamp": 1695836710000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-138 Agnitsy",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0138A11117FF",
     "Platform": "XB",
     "Timestamp": 1709414071000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-139 Megise",
     "Discoverer": "Binder198",
     "Glyphs": "0139A11117FF",
     "Platform": "ST",
     "Timestamp": 1696198818000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-13A Boyara-Ooaf II",
     "Discoverer": "Binder198",
     "Glyphs": "013AA11117FF",
     "Platform": "ST",
     "Timestamp": 1696198305000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-13D Poetog V",
     "Discoverer": "Binder198",
     "Glyphs": "013DA11117FF",
     "Platform": "ST",
     "Timestamp": 1712355027000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-13E Himashar V",
     "Discoverer": "LordDraCool241",
     "Glyphs": "013EA11117FF",
     "Platform": "XB",
     "Timestamp": 1709413765000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-140 Maiuts",
     "Discoverer": "Binder198",
     "Glyphs": "0140A11117FF",
     "Platform": "ST",
     "Timestamp": 1712432501000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-141 Viytegr",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0141A11117FF",
     "Platform": "XB",
     "Timestamp": 1712204216000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-142 Obayevkar",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0142A11117FF",
     "Platform": "XB",
     "Timestamp": 1709343869000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 1
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-143 Adanin-Sono",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0143A11117FF",
     "Platform": "XB",
     "Timestamp": 1712380876000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-144 Perezh-Nibay",
     "Discoverer": "Binder198",
     "Glyphs": "0144A11117FF",
     "Platform": "ST",
     "Timestamp": 1695839690000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-145 Bukovyluk",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0145A11117FF",
     "Platform": "XB",
     "Timestamp": 1712379126000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-146 Sanovn-Remedl",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0146A11117FF",
     "Platform": "XB",
     "Timestamp": 1709344278000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-147 Emyacha-Hav",
     "Discoverer": "Binder198",
     "Glyphs": "0147A11117FF",
     "Platform": "ST",
     "Timestamp": 1696541569000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-148 Chinskyv",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0148A11117FF",
     "Platform": "XB",
     "Timestamp": 1712379859000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-149 Oikhvi-Urayo",
     "Discoverer": "Binder198",
     "Glyphs": "0149A11117FF",
     "Platform": "ST",
     "Timestamp": 1695839100000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-14A Erzhachi",
     "Discoverer": "Binder198",
     "Glyphs": "014AA11117FF",
     "Platform": "ST",
     "Timestamp": 1696770796000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-14B Puganr-Axt IV",
     "Discoverer": "Binder198",
     "Glyphs": "014BA11117FF",
     "Platform": "ST",
     "Timestamp": 1709561305000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-14C Holunit-Taken XIII",
     "Discoverer": "Binder198",
     "Glyphs": "014CA11117FF",
     "Platform": "ST",
     "Timestamp": 1708178368000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-14D Sinogo V",
     "Discoverer": "Binder198",
     "Glyphs": "014DA11117FF",
     "Platform": "ST",
     "Timestamp": 1696678676000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-14E Kehmanna XIV",
     "Discoverer": "BestLegend134",
     "Glyphs": "014EA11117FF",
     "Platform": "ST",
     "Timestamp": 1697425541000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-14F Ubkins",
     "Discoverer": "Lunivore",
     "Glyphs": "014FA11117FF",
     "Platform": "ST",
     "Timestamp": 1696181380000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-150 Egdanov-Anis",
     "Discoverer": "randomsguy9454",
     "Glyphs": "0150A11117FF",
     "Platform": "XB",
     "Timestamp": 1704853971000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-151 Chinnamunda",
     "Discoverer": "Lunivore",
     "Glyphs": "0151A11117FF",
     "Platform": "ST",
     "Timestamp": 1695752183000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-152 Govosk-Toust",
     "Discoverer": "Lunivore",
     "Glyphs": "0152A11117FF",
     "Platform": "ST",
     "Timestamp": 1708772137000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-153 Rashovom V",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0153A11117FF",
     "Platform": "XB",
     "Timestamp": 1713058745000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-154 Ipetus",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0154A11117FF",
     "Platform": "XB",
     "Timestamp": 1712281356000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-155 Tiemei-Oar",
     "Discoverer": "Binder198",
     "Glyphs": "0155A11117FF",
     "Platform": "ST",
     "Timestamp": 1712669298000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-156 Licherdo I",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0156A11117FF",
     "Platform": "XB",
     "Timestamp": 1712374992000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-157 Vaiuts-Nubeil",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0157A11117FF",
     "Platform": "XB",
     "Timestamp": 1712375136000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-158 Tradim-Vuyz",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0158A11117FF",
     "Platform": "XB",
     "Timestamp": 1712375450000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-159 Hebezhg-Otm",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0159A11117FF",
     "Platform": "XB",
     "Timestamp": 1709343740000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-15A Voanni",
     "Discoverer": "LordDraCool241",
     "Glyphs": "015AA11117FF",
     "Platform": "XB",
     "Timestamp": 1712352318000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 1
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-15C Zokimors VIII",
     "Discoverer": "LordDraCool241",
     "Glyphs": "015CA11117FF",
     "Platform": "XB",
     "Timestamp": 1712377736000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-15D Lorech-Oso",
     "Discoverer": "Binder198",
     "Glyphs": "015DA11117FF",
     "Platform": "ST",
     "Timestamp": 1697030132000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-15E Azhevsk",
     "Discoverer": "Binder198",
     "Glyphs": "015EA11117FF",
     "Platform": "ST",
     "Timestamp": 1696542330000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-15F Noozyoryo",
     "Discoverer": "Binder198",
     "Glyphs": "015FA11117FF",
     "Platform": "ST",
     "Timestamp": 1695839446000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-160 Urzhachyo",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0160A11117FF",
     "Platform": "XB",
     "Timestamp": 1713868970000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-161 Ilangor-Kihb",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0161A11117FF",
     "Platform": "XB",
     "Timestamp": 1713064921000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-162 Yisayev XIX",
     "Discoverer": "Binder198",
     "Glyphs": "0162A11117FF",
     "Platform": "ST",
     "Timestamp": 1708178645000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-163 Labulaks",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0163A11117FF",
     "Platform": "XB",
     "Timestamp": 1713067333000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-164 Ansiys-Issap",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0164A11117FF",
     "Platform": "XB",
     "Timestamp": 1709414289000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "[EV2-165] Mytiiak",
     "Discoverer": "BestLegend134",
     "Glyphs": "0165A11117FF",
     "Platform": "ST",
     "Timestamp": 1697072640000,
-    "Correctly Prefixed": false
+    "Correctly Prefixed": false,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-166 Dagotor",
     "Discoverer": "Binder198",
     "Glyphs": "0166A11117FF",
     "Platform": "ST",
     "Timestamp": 1711997302000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-167 Olzoves IX",
     "Discoverer": "Binder198",
     "Glyphs": "0167A11117FF",
     "Platform": "ST",
     "Timestamp": 1712258379000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-168 Nevichus",
     "Discoverer": "Binder198",
     "Glyphs": "0168A11117FF",
     "Platform": "ST",
     "Timestamp": 1712236359000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-169 Zamays-Sab",
     "Discoverer": "Lenni",
     "Glyphs": "0169A11117FF",
     "Platform": "ST",
     "Timestamp": 1708884564000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-16A Orlovsk",
     "Discoverer": "LordDraCool241",
     "Glyphs": "016AA11117FF",
     "Platform": "XB",
     "Timestamp": 1713062941000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-16B Asukht",
     "Discoverer": "Binder198",
     "Glyphs": "016BA11117FF",
     "Platform": "ST",
     "Timestamp": 1712492957000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-16C Rakesspo",
     "Discoverer": "Binder198",
     "Glyphs": "016CA11117FF",
     "Platform": "ST",
     "Timestamp": 1712495677000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-16D Dudino III",
     "Discoverer": "LordDraCool241",
     "Glyphs": "016DA11117FF",
     "Platform": "XB",
     "Timestamp": 1712347732000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-16E Suvetsi-Hadr",
     "Discoverer": "LordDraCool241",
     "Glyphs": "016EA11117FF",
     "Platform": "XB",
     "Timestamp": 1712377366000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-16F Gachny-Hav XIX",
     "Discoverer": "LordDraCool241",
     "Glyphs": "016FA11117FF",
     "Platform": "XB",
     "Timestamp": 1712367382000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-170 Oevush-Level XV",
     "Discoverer": "Binder198",
     "Glyphs": "0170A11117FF",
     "Platform": "ST",
     "Timestamp": 1696541655000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-171 Akoida-Krett",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0171A11117FF",
     "Platform": "XB",
     "Timestamp": 1712378940000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-172 Pozzhets",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0172A11117FF",
     "Platform": "XB",
     "Timestamp": 1712297681000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-173 Burgac-Atle",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0173A11117FF",
     "Platform": "XB",
     "Timestamp": 1712280588000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-174 Shnyevoz",
     "Discoverer": "Binder198",
     "Glyphs": "0174A11117FF",
     "Platform": "ST",
     "Timestamp": 1696199589000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-175 Erkadn-Fatruk",
     "Discoverer": "Binder198",
     "Glyphs": "0175A11117FF",
     "Platform": "ST",
     "Timestamp": 1696770688000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-176 Tayndalma IX",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0176A11117FF",
     "Platform": "XB",
     "Timestamp": 1712296189000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-177 Hakovsk-Airtz",
     "Discoverer": "Binder198",
     "Glyphs": "0177A11117FF",
     "Platform": "ST",
     "Timestamp": 1696678852000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-178 Evinsk XV",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0178A11117FF",
     "Platform": "XB",
     "Timestamp": 1712306083000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 1
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-179 Richash-Sayks",
     "Discoverer": "Binder198",
     "Glyphs": "0179A11117FF",
     "Platform": "ST",
     "Timestamp": 1696771028000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-17A Huyarse-Euan",
     "Discoverer": "Binder198",
     "Glyphs": "017AA11117FF",
     "Platform": "ST",
     "Timestamp": 1711717679000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-17B Sotskyviu",
     "Discoverer": "LordDraCool241",
     "Glyphs": "017BA11117FF",
     "Platform": "XB",
     "Timestamp": 1713068899000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-17C Korabul XII",
     "Discoverer": "Binder198",
     "Glyphs": "017CA11117FF",
     "Platform": "ST",
     "Timestamp": 1696773256000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-17D Ukrasavy",
     "Discoverer": "Binder198",
     "Glyphs": "017DA11117FF",
     "Platform": "ST",
     "Timestamp": 1712085920000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-17F Yekalymos",
     "Discoverer": "LordDraCool241",
     "Glyphs": "017FA11117FF",
     "Platform": "XB",
     "Timestamp": 1713062793000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-180 Usmotr-Ichid",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0180A11117FF",
     "Platform": "XB",
     "Timestamp": 1712199806000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-181 Ilokho",
     "Discoverer": "Binder198",
     "Glyphs": "0181A11117FF",
     "Platform": "ST",
     "Timestamp": 1712492744000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-182 Yatalic",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0182A11117FF",
     "Platform": "XB",
     "Timestamp": 1709412314000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-183 Langoy",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0183A11117FF",
     "Platform": "XB",
     "Timestamp": 1712374645000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 1
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-185 Naibol II",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0185A11117FF",
     "Platform": "XB",
     "Timestamp": 1712345960000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-187 Omplimo-Hel",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0187A11117FF",
     "Platform": "XB",
     "Timestamp": 1712347976000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-188 Nagisep-Derta VIII",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0188A11117FF",
     "Platform": "XB",
     "Timestamp": 1712297226000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-189 Zayevs",
     "Discoverer": "Binder198",
     "Glyphs": "0189A11117FF",
     "Platform": "ST",
     "Timestamp": 1696541741000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-18A Oryanya",
     "Discoverer": "Binder198",
     "Glyphs": "018AA11117FF",
     "Platform": "ST",
     "Timestamp": 1696542242000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-18B Atnika",
     "Discoverer": "YucaFrita",
     "Glyphs": "018BA11117FF",
     "Platform": "ST",
     "Timestamp": 1711741877000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-18C Relovokh",
     "Discoverer": "LordDraCool241",
     "Glyphs": "018CA11117FF",
     "Platform": "XB",
     "Timestamp": 1712304401000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-18D Divezdarri",
     "Discoverer": "LordDraCool241",
     "Glyphs": "018DA11117FF",
     "Platform": "XB",
     "Timestamp": 1713066323000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-18F Mobang VII",
     "Discoverer": "BestLegend134",
     "Glyphs": "018FA11117FF",
     "Platform": "ST",
     "Timestamp": 1699580548000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-190Ogoche XIV",
     "Discoverer": "Binder198",
     "Glyphs": "0190A11117FF",
     "Platform": "ST",
     "Timestamp": 1696199892000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-192 Pishera-Iaueh IX",
     "Discoverer": "Binder198",
     "Glyphs": "0192A11117FF",
     "Platform": "ST",
     "Timestamp": 1696678945000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-193 Beyeshlom III",
     "Discoverer": "Binder198",
     "Glyphs": "0193A11117FF",
     "Platform": "ST",
     "Timestamp": 1696199669000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-194 Sibaye-Arn",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0194A11117FF",
     "Platform": "XB",
     "Timestamp": 1713065155000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-195 Ertolye-Lun",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0195A11117FF",
     "Platform": "XB",
     "Timestamp": 1713065283000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-196 Ubchen-Hibu",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0196A11117FF",
     "Platform": "XB",
     "Timestamp": 1712465695000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-0197 Honosok",
     "Discoverer": "Gennie",
     "Glyphs": "0197A11117FF",
     "Platform": "ST",
     "Timestamp": 1708358493000,
-    "Correctly Prefixed": false
+    "Correctly Prefixed": false,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-198 Exandayk",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0198A11117FF",
     "Platform": "XB",
     "Timestamp": 1713068963000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-199 Reapole-Nogia",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0199A11117FF",
     "Platform": "XB",
     "Timestamp": 1713069341000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-19A Iaiutsi II",
     "Discoverer": "LordDraCool241",
     "Glyphs": "019AA11117FF",
     "Platform": "XB",
     "Timestamp": 1712213994000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-19B Sretsk",
     "Discoverer": "Binder198",
     "Glyphs": "019BA11117FF",
     "Platform": "ST",
     "Timestamp": 1712270975000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-19C Kremia-Idpor XVII",
     "Discoverer": "LordDraCool241",
     "Glyphs": "019CA11117FF",
     "Platform": "XB",
     "Timestamp": 1713061840000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 1
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-19D Ulmato",
     "Discoverer": "LordDraCool241",
     "Glyphs": "019DA11117FF",
     "Platform": "XB",
     "Timestamp": 1713069256000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-19E Mirnya",
     "Discoverer": "LordDraCool241",
     "Glyphs": "019EA11117FF",
     "Platform": "XB",
     "Timestamp": 1712607043000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-19F Yeyskiye",
     "Discoverer": "LordDraCool241",
     "Glyphs": "019FA11117FF",
     "Platform": "XB",
     "Timestamp": 1709426288000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1A0 Hochegutay XVI",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01A0A11117FF",
     "Platform": "XB",
     "Timestamp": 1712204667000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1A1 Safono",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01A1A11117FF",
     "Platform": "XB",
     "Timestamp": 1712970982000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1A2 Iutskayan",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01A2A11117FF",
     "Platform": "XB",
     "Timestamp": 1712359006000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 1
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1A3 Tovnyomi",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01A3A11117FF",
     "Platform": "XB",
     "Timestamp": 1712359256000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1A4 Logdanko",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01A4A11117FF",
     "Platform": "XB",
     "Timestamp": 1712296871000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1A5 Vulovost",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01A5A11117FF",
     "Platform": "XB",
     "Timestamp": 1709412425000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1A6 Nogrivo-Niw",
     "Discoverer": "Binder198",
     "Glyphs": "01A6A11117FF",
     "Platform": "ST",
     "Timestamp": 1696200233000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1A7 Zilyuy-Budi XIX",
     "Discoverer": "Binder198",
     "Glyphs": "01A7A11117FF",
     "Platform": "ST",
     "Timestamp": 1711972375000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1A8 Vuyksaye",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01A8A11117FF",
     "Platform": "XB",
     "Timestamp": 1712208623000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1AA Abugach-Okin",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01AAA11117FF",
     "Platform": "XB",
     "Timestamp": 1713063155000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1AB Lezovov",
     "Discoverer": "Lunivore",
     "Glyphs": "01ABA11117FF",
     "Platform": "ST",
     "Timestamp": 1696155895000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1AC Birskyv-Gezuoh",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01ACA11117FF",
     "Platform": "XB",
     "Timestamp": 1713058352000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1AD Oaltiy-Etpla",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01ADA11117FF",
     "Platform": "XB",
     "Timestamp": 1713061723000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1A Emryuc-Zaisa",
     "Discoverer": "Binder198",
     "Glyphs": "01AEA11117FF",
     "Platform": "ST",
     "Timestamp": 1712492582000,
-    "Correctly Prefixed": false
+    "Correctly Prefixed": false,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1B0 Zainsk-Nengan",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01B0A11117FF",
     "Platform": "XB",
     "Timestamp": 1712373585000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1B1 Lugo",
     "Discoverer": "BestLegend134",
     "Glyphs": "01B1A11117FF",
     "Platform": "ST",
     "Timestamp": 1697251621000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1B2 Asovet-Sesi",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01B2A11117FF",
     "Platform": "XB",
     "Timestamp": 1712359612000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1B4 Deskompl",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01B4A11117FF",
     "Platform": "XB",
     "Timestamp": 1712297935000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1B7 Ritsua-Afany",
     "Discoverer": "Binder198",
     "Glyphs": "01B7A11117FF",
     "Platform": "ST",
     "Timestamp": 1696200131000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1B8 Ougleb-Utsi",
     "Discoverer": "BestLegend134",
     "Glyphs": "01B8A11117FF",
     "Platform": "ST",
     "Timestamp": 1697410835000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1B9 Ayvorz VI",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01B9A11117FF",
     "Platform": "XB",
     "Timestamp": 1713066251000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1BA Rapinov-Fond",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01BAA11117FF",
     "Platform": "XB",
     "Timestamp": 1712199909000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1BB Edyans",
     "Discoverer": "Binder198",
     "Glyphs": "01BBA11117FF",
     "Platform": "ST",
     "Timestamp": 1708263748000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1BD Gopotkin",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01BDA11117FF",
     "Platform": "XB",
     "Timestamp": 1713068740000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1BE Uzlovsh",
     "Discoverer": "BestLegend134",
     "Glyphs": "01BEA11117FF",
     "Platform": "ST",
     "Timestamp": 1697421514000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1BF Ionovos",
     "Discoverer": "Binder198",
     "Glyphs": "01BFA11117FF",
     "Platform": "ST",
     "Timestamp": 1712353500000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1C0 Avkazhs-Buy",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01C0A11117FF",
     "Platform": "XB",
     "Timestamp": 1713058682000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1C1 Nilovo-Affh",
     "Discoverer": "Binder198",
     "Glyphs": "01C1A11117FF",
     "Platform": "ST",
     "Timestamp": 1712168500000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1C2 Deyzhets",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01C2A11117FF",
     "Platform": "XB",
     "Timestamp": 1713061420000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1C3 Osokolpas X",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01C3A11117FF",
     "Platform": "XB",
     "Timestamp": 1712371922000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 1
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1C4 Gidetel-Riyth XIII",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01C4A11117FF",
     "Platform": "XB",
     "Timestamp": 1712374218000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1C5 Robayevs",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01C5A11117FF",
     "Platform": "XB",
     "Timestamp": 1712345862000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1C6 Imorov-Cai",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01C6A11117FF",
     "Platform": "XB",
     "Timestamp": 1712352794000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1C7 Tarach",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01C7A11117FF",
     "Platform": "XB",
     "Timestamp": 1712444169000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1C8 Ruslav",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01C8A11117FF",
     "Platform": "XB",
     "Timestamp": 1712357811000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1C9 Elburgan",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01C9A11117FF",
     "Platform": "XB",
     "Timestamp": 1712275243000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1CA Tilastr-Eginl",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01CAA11117FF",
     "Platform": "XB",
     "Timestamp": 1712349751000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1CB Gutayga-Abs",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01CBA11117FF",
     "Platform": "XB",
     "Timestamp": 1712297047000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1CC Vainglorious",
     "Discoverer": "Lunivore",
     "Glyphs": "01CCA11117FF",
     "Platform": "ST",
     "Timestamp": 1696877091000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1CD Islobni",
     "Discoverer": "Binder198",
     "Glyphs": "01CDA11117FF",
     "Platform": "ST",
     "Timestamp": 1696200672000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1CE Zensky-Jinne VI",
     "Discoverer": "Binder198",
     "Glyphs": "01CEA11117FF",
     "Platform": "ST",
     "Timestamp": 1696200036000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1CF Lokuleb",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01CFA11117FF",
     "Platform": "XB",
     "Timestamp": 1712977873000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1D0 Steiare",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01D0A11117FF",
     "Platform": "XB",
     "Timestamp": 1713065512000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1D1 Ezoves",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01D1A11117FF",
     "Platform": "XB",
     "Timestamp": 1713069486000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1D2 Unguru-Fun",
     "Discoverer": "BestLegend134",
     "Glyphs": "01D2A11117FF",
     "Platform": "ST",
     "Timestamp": 1697245611000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01D3A11117FF",
     "Platform": "XB",
     "Timestamp": 1713064720000,
-    "Correctly Prefixed": false
+    "Correctly Prefixed": false,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1D4 Yulking",
     "Discoverer": "Binder198",
     "Glyphs": "01D4A11117FF",
     "Platform": "ST",
     "Timestamp": 1709512240000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1D5 Kotoruzan XIV",
     "Discoverer": "BestLegend134",
     "Glyphs": "01D5A11117FF",
     "Platform": "ST",
     "Timestamp": 1697346902000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1D6 Alugac",
     "Discoverer": "BestLegend134",
     "Glyphs": "01D6A11117FF",
     "Platform": "ST",
     "Timestamp": 1697074163000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1D7 Mogutaye",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01D7A11117FF",
     "Platform": "XB",
     "Timestamp": 1709341738000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1D9 Uvarty",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01D9A11117FF",
     "Platform": "XB",
     "Timestamp": 1709414186000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1DA Nayantuk",
     "Discoverer": "BestLegend134",
     "Glyphs": "01DAA11117FF",
     "Platform": "ST",
     "Timestamp": 1697242604000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1DB Yukhny-Upr",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01DBA11117FF",
     "Platform": "XB",
     "Timestamp": 1713063083000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1DC Onovosha",
     "Discoverer": "Binder198",
     "Glyphs": "01DCA11117FF",
     "Platform": "ST",
     "Timestamp": 1712151611000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1DD Arminitwix",
     "Discoverer": "Lunivore",
     "Glyphs": "01DDA11117FF",
     "Platform": "ST",
     "Timestamp": 1696344039000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1E0 Matoust",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01E0A11117FF",
     "Platform": "XB",
     "Timestamp": 1712347547000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1E1 Yachyory",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01E1A11117FF",
     "Platform": "XB",
     "Timestamp": 1712374022000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1E2 Obrashc-Nutaka",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01E2A11117FF",
     "Platform": "XB",
     "Timestamp": 1712357334000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1E4 Pionov-Tro X",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01E4A11117FF",
     "Platform": "XB",
     "Timestamp": 1712196857000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1E6 Subeslaw",
     "Discoverer": "Lunivore",
     "Glyphs": "01E6A11117FF",
     "Platform": "ST",
     "Timestamp": 1697011536000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1E7 Enneykhp VI",
     "Discoverer": "BestLegend134",
     "Glyphs": "01E7A11117FF",
     "Platform": "ST",
     "Timestamp": 1697342284000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1E8 Chulya-Rans",
     "Discoverer": "randomsguy9454",
     "Glyphs": "01E8A11117FF",
     "Platform": "XB",
     "Timestamp": 1704853963000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1E9 Okromen-Hoton",
     "Discoverer": "BestLegend134",
     "Glyphs": "01E9A11117FF",
     "Platform": "ST",
     "Timestamp": 1697074221000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1EB Peyashlov",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01EBA11117FF",
     "Platform": "XB",
     "Timestamp": 1713063340000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1EC Hovseg-Awshe",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01ECA11117FF",
     "Platform": "XB",
     "Timestamp": 1713063263000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1ED Skogoc",
     "Discoverer": "Binder198",
     "Glyphs": "01EDA11117FF",
     "Platform": "ST",
     "Timestamp": 1712352689000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1EE Kehyannu",
     "Discoverer": "Binder198",
     "Glyphs": "01EEA11117FF",
     "Platform": "ST",
     "Timestamp": 1712402745000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1EF Udinskyvi",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01EFA11117FF",
     "Platform": "XB",
     "Timestamp": 1713059259000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1F0 Egutay",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01F0A11117FF",
     "Platform": "XB",
     "Timestamp": 1709344402000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1F1 Oviati VI",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01F1A11117FF",
     "Platform": "XB",
     "Timestamp": 1709413456000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1F2 Grudny",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01F2A11117FF",
     "Platform": "XB",
     "Timestamp": 1712373370000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1F3 Ritovoshch",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01F3A11117FF",
     "Platform": "XB",
     "Timestamp": 1709412575000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1F4 Irnoem-Urbat",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01F4A11117FF",
     "Platform": "XB",
     "Timestamp": 1712296642000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1F5 Tiruiut",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01F5A11117FF",
     "Platform": "XB",
     "Timestamp": 1712356934000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1F6 Lipkin",
     "Discoverer": "Binder198",
     "Glyphs": "01F6A11117FF",
     "Platform": "ST",
     "Timestamp": 1696679035000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1F7 Vayevka",
     "Discoverer": "BestLegend134",
     "Glyphs": "01F7A11117FF",
     "Platform": "ST",
     "Timestamp": 1697309084000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1F8 Tisimlyazh",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01F8A11117FF",
     "Platform": "XB",
     "Timestamp": 1713066037000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1FA Vokumsky",
     "Discoverer": "BestLegend134",
     "Glyphs": "01FAA11117FF",
     "Platform": "ST",
     "Timestamp": 1697389969000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1FB Izberbe",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01FBA11117FF",
     "Platform": "XB",
     "Timestamp": 1713065845000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1FC Zunachis",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01FCA11117FF",
     "Platform": "XB",
     "Timestamp": 1713068818000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-FD Exotic Prime",
     "Discoverer": "Lunivore",
     "Glyphs": "01FDA11117FF",
     "Platform": "ST",
     "Timestamp": 1696754612000,
-    "Correctly Prefixed": false
+    "Correctly Prefixed": false,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1FE Azrest-Rager X",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01FEA11117FF",
     "Platform": "XB",
     "Timestamp": 1713063631000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-1FF Noyeth-Rop",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01FFA11117FF",
     "Platform": "XB",
     "Timestamp": 1713058880000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-200 Uzlovs-Golyc",
     "Discoverer": "Binder198",
     "Glyphs": "0200A11117FF",
     "Platform": "ST",
     "Timestamp": 1712494022000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-201 Ionezh",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0201A11117FF",
     "Platform": "XB",
     "Timestamp": 1709413617000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-202 Zadonsk-Amlin",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0202A11117FF",
     "Platform": "XB",
     "Timestamp": 1712358186000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-203 Logarii-Ugb",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0203A11117FF",
     "Platform": "XB",
     "Timestamp": 1712358413000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-205 Neryusino VII",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0205A11117FF",
     "Platform": "XB",
     "Timestamp": 1712358591000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-206 Diskovsk",
     "Discoverer": "randomsguy9454",
     "Glyphs": "0206A11117FF",
     "Platform": "XB",
     "Timestamp": 1704853955000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-207 Oretsial XI",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0207A11117FF",
     "Platform": "XB",
     "Timestamp": 1712298201000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-208 Nogdanovo",
     "Discoverer": "BestLegend134",
     "Glyphs": "0208A11117FF",
     "Platform": "ST",
     "Timestamp": 1697338714000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-209 Zohyego XV",
     "Discoverer": "BestLegend134",
     "Glyphs": "0209A11117FF",
     "Platform": "ST",
     "Timestamp": 1697327833000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-20A Oufimo",
     "Discoverer": "BestLegend134",
     "Glyphs": "020AA11117FF",
     "Platform": "ST",
     "Timestamp": 1697339572000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-20B Ayvorkh-Nuni",
     "Discoverer": "BestLegend134",
     "Glyphs": "020BA11117FF",
     "Platform": "ST",
     "Timestamp": 1697254559000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-20C Ropinsk",
     "Discoverer": "LordDraCool241",
     "Glyphs": "020CA11117FF",
     "Platform": "XB",
     "Timestamp": 1712300886000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 1
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-20D Edvezhn-Yano XV",
     "Discoverer": "LordDraCool241",
     "Glyphs": "020DA11117FF",
     "Platform": "XB",
     "Timestamp": 1712978014000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-20E Teyevs-Bos",
     "Discoverer": "LordDraCool241",
     "Glyphs": "020EA11117FF",
     "Platform": "XB",
     "Timestamp": 1712597896000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-20F Gopredn",
     "Discoverer": "BestLegend134",
     "Glyphs": "020FA11117FF",
     "Platform": "ST",
     "Timestamp": 1697344732000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "",
     "Discoverer": "Binder198",
     "Glyphs": "0210A11117FF",
     "Platform": "ST",
     "Timestamp": 1708178305000,
-    "Correctly Prefixed": false
+    "Correctly Prefixed": false,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-211 Ankang-Dun",
     "Discoverer": "BestLegend134",
     "Glyphs": "0211A11117FF",
     "Platform": "ST",
     "Timestamp": 1697506693000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-212 Razhdur",
     "Discoverer": "Angel of the wired",
     "Glyphs": "0212A11117FF",
     "Platform": "ST",
     "Timestamp": 1697071770000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-213 Desnot",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0213A11117FF",
     "Platform": "XB",
     "Timestamp": 1713063472000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-214 Somont-Asoes",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0214A11117FF",
     "Platform": "XB",
     "Timestamp": 1713063557000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-215 Eutoka",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0215A11117FF",
     "Platform": "XB",
     "Timestamp": 1712607158000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-216 Uiutsivil I",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0216A11117FF",
     "Platform": "XB",
     "Timestamp": 1712562177000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
+    "Category": "SolarSystem",
     "Name": "EV2-217 Hunyara Shadow",
     "Discoverer": "YucaFrita",
     "Glyphs": "0217A11117FF",
     "Platform": "ST",
     "Timestamp": 1696059288000,
-    "Correctly Prefixed": true
+    "Correctly Prefixed": true,
+    "Planets": 0
   }
 ]

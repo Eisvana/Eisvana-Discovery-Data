@@ -1,23 +1,26 @@
 [
   {
+    "Category": "Base",
+    "Name": "Homely Wolfe Acres",
+    "Discoverer": "RoanonWolfe",
+    "Glyphs": "1115A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1715434846000,
+    "Parts": 1583,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Ouro Sangre",
     "Discoverer": "WraithRaptor",
     "Glyphs": "1171A21117FE",
     "Platform": "GX",
-    "Timestamp": 1713586378000,
-    "Parts": 1825,
+    "Timestamp": 1717817991000,
+    "Parts": 1829,
     "Gamemode": "Normal"
   },
   {
-    "Name": "Happy Cactus Mining Town(Coming Soon)",
-    "Discoverer": "Flowers2see",
-    "Glyphs": "1171A21117FE",
-    "Platform": "XB",
-    "Timestamp": 1712901502000,
-    "Parts": 1071,
-    "Gamemode": "Normal"
-  },
-  {
+    "Category": "Base",
     "Name": "ChooChoo2ElectricBoogallo",
     "Discoverer": "Lianeras",
     "Glyphs": "1171A21117FE",
@@ -27,6 +30,7 @@
     "Gamemode": "Normal"
   },
   {
+    "Category": "Base",
     "Name": "Woodstock Intergalatic Spaceport",
     "Discoverer": "RoananWolfe",
     "Glyphs": "3012A21117FE",
@@ -36,6 +40,7 @@
     "Gamemode": "Normal"
   },
   {
+    "Category": "Base",
     "Name": "Clear Oasis Canteen",
     "Discoverer": "RoananWolfe",
     "Glyphs": "3078A21117FE",
@@ -45,6 +50,17 @@
     "Gamemode": "Normal"
   },
   {
+    "Category": "Base",
+    "Name": "The Fortress of Solitude",
+    "Discoverer": "admiraldeannadark",
+    "Glyphs": "31C2A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1716404616000,
+    "Parts": 146,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Naupa Base",
     "Discoverer": "Bahann",
     "Glyphs": "5009A21117FE",

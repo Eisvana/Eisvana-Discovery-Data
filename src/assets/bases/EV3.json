@@ -1,5 +1,6 @@
 [
   {
+    "Category": "Base",
     "Name": "Ebon Hawk WIP",
     "Discoverer": "Lianeras",
     "Glyphs": "20D5A11127FF",
@@ -9,6 +10,7 @@
     "Gamemode": "Normal"
   },
   {
+    "Category": "Base",
     "Name": "Clubbase",
     "Discoverer": "randomsguy9454",
     "Glyphs": "215CA11127FF",
@@ -18,6 +20,17 @@
     "Gamemode": "Normal"
   },
   {
+    "Category": "Base",
+    "Name": "Bethelwood Ln",
+    "Discoverer": "freddie",
+    "Glyphs": "308BA11127FF",
+    "Platform": "NI",
+    "Timestamp": 1716931527000,
+    "Parts": 742,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "E-729 NUCLEUS",
     "Discoverer": "WhiteRose8328",
     "Glyphs": "309EA11127FF",
@@ -27,6 +40,7 @@
     "Gamemode": "Normal"
   },
   {
+    "Category": "Base",
     "Name": "Bubble's Ship and Salvage",
     "Discoverer": "parsnipphoenix",
     "Glyphs": "3159A11127FF",
@@ -36,6 +50,17 @@
     "Gamemode": "Normal"
   },
   {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Nufiel",
+    "Discoverer": "Spinova",
+    "Glyphs": "405AA11127FF",
+    "Platform": "NI",
+    "Timestamp": 1719085363000,
+    "Parts": 253,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "E-729 Tutamen",
     "Discoverer": "WhiteRose8328",
     "Glyphs": "409EA11127FF",
@@ -45,6 +70,7 @@
     "Gamemode": "Normal"
   },
   {
+    "Category": "Base",
     "Name": "Red Rock Retreat",
     "Discoverer": "Lunivore",
     "Glyphs": "4159A11127FF",
@@ -54,6 +80,27 @@
     "Gamemode": "Normal"
   },
   {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Naraka",
+    "Discoverer": "Spinova",
+    "Glyphs": "415AA11127FF",
+    "Platform": "NI",
+    "Timestamp": 1719082910000,
+    "Parts": 569,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Monestary - Arnem",
+    "Discoverer": "Spinova",
+    "Glyphs": "504AA11127FF",
+    "Platform": "NI",
+    "Timestamp": 1719084586000,
+    "Parts": 296,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "The Mertle Plantation",
     "Discoverer": "thejackattack07",
     "Glyphs": "6013A11127FF",

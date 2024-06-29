@@ -1,5 +1,6 @@
 [
   {
+    "Category": "Base",
     "Name": "Iridescent Archipelagos TBD",
     "Discoverer": "BrokenNocturne",
     "Glyphs": "1146A21117FF",
@@ -9,6 +10,17 @@
     "Gamemode": "Normal"
   },
   {
+    "Category": "Base",
+    "Name": "Loddone-Olis Outpost (Ag, Cu, Pf)",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "11AFA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1709489006000,
+    "Parts": 173,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Traders Rock",
     "Discoverer": "Mimikyu1312",
     "Glyphs": "2078A21117FF",
@@ -18,6 +30,7 @@
     "Gamemode": "Normal"
   },
   {
+    "Category": "Base",
     "Name": "H4z-L's",
     "Discoverer": "cassiddidy",
     "Glyphs": "207BA21117FF",
@@ -27,6 +40,7 @@
     "Gamemode": "Normal"
   },
   {
+    "Category": "Base",
     "Name": "Jukuhafield",
     "Discoverer": "carpibibble",
     "Glyphs": "207BA21117FF",
@@ -36,6 +50,7 @@
     "Gamemode": "Normal"
   },
   {
+    "Category": "Base",
     "Name": "TBC brothel",
     "Discoverer": "Lianeras",
     "Glyphs": "207BA21117FF",
@@ -45,6 +60,7 @@
     "Gamemode": "Normal"
   },
   {
+    "Category": "Base",
     "Name": "Chasmhold",
     "Discoverer": "Greens",
     "Glyphs": "212FA21117FF",
@@ -54,6 +70,17 @@
     "Gamemode": "Normal"
   },
   {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Wausau",
+    "Discoverer": "Spinova",
+    "Glyphs": "2143A21117FF",
+    "Platform": "NI",
+    "Timestamp": 1719187658000,
+    "Parts": 286,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Sea Air Bar'N'Grill",
     "Discoverer": "AirosRhyner",
     "Glyphs": "300BA21117FF",
@@ -63,6 +90,17 @@
     "Gamemode": "Normal"
   },
   {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Hughbou",
+    "Discoverer": "Spinova",
+    "Glyphs": "30A7A21117FF",
+    "Platform": "NI",
+    "Timestamp": 1719167767000,
+    "Parts": 290,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Camp Valor",
     "Discoverer": "BrokenNocturne",
     "Glyphs": "30D1A21117FF",
@@ -72,6 +110,7 @@
     "Gamemode": "Normal"
   },
   {
+    "Category": "Base",
     "Name": "Maure-Ripal Base (Fe²O³‚ Fe++)",
     "Discoverer": "cassiddidy",
     "Glyphs": "312EA21117FF",
@@ -81,6 +120,17 @@
     "Gamemode": "Normal"
   },
   {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Jieda",
+    "Discoverer": "Spinova",
+    "Glyphs": "412FA21117FF",
+    "Platform": "NI",
+    "Timestamp": 1719179457000,
+    "Parts": 388,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Luloydo Colony",
     "Discoverer": "cassiddidy",
     "Glyphs": "607BA21117FF",
