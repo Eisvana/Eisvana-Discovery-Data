@@ -11,6 +11,7 @@ import type { Platform } from '@/types/platform';
 import { chartOptions } from '@/variables/chart';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
+import PieChartWrapper from '../../PieChartWrapper.vue';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
@@ -120,10 +121,10 @@ const barChartOptions = {
     :options="barChartOptions"
     class="chart"
   />
-  <div class="pie-chart q-mx-auto">
+  <PieChartWrapper>
     <Pie
       :data="pieChartData"
       :options="chartOptions"
     />
-  </div>
+  </PieChartWrapper>
 </template>

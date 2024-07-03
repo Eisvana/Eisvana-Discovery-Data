@@ -1,15 +1,16 @@
 <script setup lang="ts">
-import DiscovererChart from '@/components/stats/charts/DiscovererChart.vue';
-import PlatformChart from '@/components/stats/charts/PlatformChart.vue';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
+import ChartWrapper from '@/components/ChartWrapper.vue';
+import DiscovererChart from '@/components/stats/charts/DiscovererChart.vue';
+import PlatformChart from '@/components/stats/charts/PlatformChart.vue';
 import TagChart from '@/components/stats/charts/TagChart.vue';
 import DiscoveriesChart from '@/components/stats/charts/DiscoveriesChart.vue';
 import PlayerPlatformChart from '@/components/stats/charts/PlayerPlatformChart.vue';
 import ContributionChart from '@/components/stats/charts/ContributionChart.vue';
 import PlatformTimeChart from '@/components/stats/charts/PlatformTimeChart.vue';
 import PlayerTimeChart from '@/components/stats/charts/PlayerTimeChart.vue';
-import ChartWrapper from '@/components/ChartWrapper.vue';
+import DiscoveryTypes from '@/components/stats/charts/DiscoveryTypes.vue';
 
 const dataStore = useDataStore();
 const { dataLength } = storeToRefs(dataStore);
@@ -28,6 +29,13 @@ const group = 'chart';
       summary="Discoveries and prefixes per player"
     >
       <DiscovererChart />
+    </ChartWrapper>
+
+    <ChartWrapper
+      :group
+      summary="Discoveries per Category"
+    >
+      <DiscoveryTypes />
     </ChartWrapper>
 
     <ChartWrapper

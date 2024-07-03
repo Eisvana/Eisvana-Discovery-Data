@@ -32,3 +32,13 @@ export const categoryMapping: Record<DiscoveryCategories, string> = {
   Settlement: 'Settlement',
   Base: 'Base',
 };
+
+export const categoryColourMapping: Record<DiscoveryCategories, string> = {
+  SolarSystem: '#4287f5',
+  Animal: '#fcba03',
+  Mineral: '#759487',
+  Flora: '#32a852',
+  Planet: '#b8d16d',
+  Settlement: '#8d5eeb',
+  Base: '#eb4034',
+};
