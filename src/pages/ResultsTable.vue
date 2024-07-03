@@ -90,19 +90,19 @@ const columns: QTableColumn<DiscoveryData>[] = reactive([
     format: (val: number | undefined) => (val ? getFormattedUTCDateString(val) : ''),
   },
   {
+    name: 'planets',
+    label: 'Planets',
+    field: 'Planets',
+    align: 'left',
+    sortable: true,
+  },
+  {
     name: 'prefixed',
     label: 'Correctly Prefixed',
     field: 'Correctly Prefixed',
     align: 'left',
     sortable: true,
     format: (val: boolean | undefined) => (typeof val === 'boolean' ? capitalize(val.toString()) : ''), // doing a comparison because `false` is a falsy value (obviously) and would therefore lead to some systems not showing their tagging status
-  },
-  {
-    name: 'planets',
-    label: 'Planets',
-    field: 'Planets',
-    align: 'left',
-    sortable: true,
   },
   {
     name: 'fauna',
