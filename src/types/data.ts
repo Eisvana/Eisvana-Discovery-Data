@@ -20,11 +20,6 @@ export interface DiscoveryData {
   Gamemode?: string;
 }
 
-export interface TableHeadings {
-  normal?: string[];
-  sortable?: string[];
-}
-
 export interface DiscovererData {
   [key: string]: {
     discoveries: number;
