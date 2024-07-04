@@ -20,19 +20,15 @@ export interface DiscoveryData {
   Gamemode?: string;
 }
 
-export interface DiscovererData {
-  [key: string]: {
-    discoveries: number;
-    tags: number;
-    mistags: number;
-  };
-}
-
-export interface DiscovererDataArray {
+export interface DiscovererDataArray extends Partial<Record<DiscoveryCategories, number>> {
   name: string;
   discoveries: number;
   tags: number;
   mistags: number;
+}
+
+export interface DiscovererData {
+  [key: string]: Omit<DiscovererDataArray, 'name'>;
 }
 
 export type PlanetDetailItems = 'bases' | 'settlements' | 'animals' | 'flora' | 'minerals';

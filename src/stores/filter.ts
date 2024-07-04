@@ -3,8 +3,10 @@ import type { DateRangeObj, UnixTimestamp } from '@/types/date';
 import { regions as allEisvanaRegions } from '@/variables/regions';
 import { availableCategories } from '@/variables/categories';
 import { invertSwitches } from '@/helpers/filter';
-import { platformMapping } from '@/variables/mappings';
+import { categoryMapping, platformMapping } from '@/variables/mappings';
 import { is } from 'quasar';
+import type { DiscoveryCategories } from '@/types/data';
+import { isValidCategory } from '@/helpers/categories';
 
 interface TextSearch<T> {
   name: T;
@@ -15,7 +17,7 @@ interface TextSearch<T> {
 
 interface State {
   regions: string[];
-  categories: string[];
+  categories: DiscoveryCategories[];
   searchTerms: TextSearch<string>;
   intersections: TextSearch<'includes' | 'is' | '!includes' | '!is'>;
   caseSensitivity: TextSearch<boolean>;
@@ -27,7 +29,7 @@ interface State {
 
 const defaultFilterState: State = {
   regions: Object.values(allEisvanaRegions),
-  categories: ['system'],
+  categories: ['SolarSystem'],
   searchTerms: {
     name: '',
     glyphs: '',
@@ -73,7 +75,7 @@ export const useFilterStore = defineStore('filter', {
       }
     },
 
-    sortedCategories: (state) => Object.keys(availableCategories).filter((item) => state.categories.includes(item)),
+    sortedCategories: (state) => availableCategories.filter((item) => state.categories.includes(item)),
     sortedRegions: (state) => Object.values(allEisvanaRegions).filter((item) => state.regions.includes(item)),
   },
 
@@ -83,7 +85,7 @@ export const useFilterStore = defineStore('filter', {
     },
 
     invertCategorySwitches() {
-      this.categories = invertSwitches(this.categories, Object.keys(availableCategories));
+      this.categories = invertSwitches(this.categories, Object.keys(categoryMapping).filter(isValidCategory));
     },
 
     resetStore() {

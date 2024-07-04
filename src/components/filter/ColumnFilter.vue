@@ -10,7 +10,7 @@ import type { QSelectOption } from 'quasar';
 const filterStore = useFilterStore();
 const { searchTerms, intersections, caseSensitivity, date, tagged, procName, categories } = storeToRefs(filterStore);
 
-const dataContainsSystems = computed(() => categories.value.includes('system'));
+const dataContainsSystems = computed(() => categories.value.includes('SolarSystem'));
 
 const textInputs = [
   {

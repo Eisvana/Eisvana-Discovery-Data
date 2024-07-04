@@ -1,5 +1,5 @@
 import type { FilterStoreState } from '@/stores/filter';
-import type { DiscoveryData } from './data';
+import type { DiscoveryCategories, DiscoveryData } from './data';
 import type { UnixTimestamp } from './date';
 
 // Data loader worker
@@ -7,7 +7,7 @@ export type FilterConfig = Omit<FilterStoreState, 'date' | 'categories'> & { uni
 
 export interface LoaderWorkerMessage {
   regions: string[];
-  categories: string[];
+  categories: DiscoveryCategories[];
   filterConfig: FilterConfig;
 }
 

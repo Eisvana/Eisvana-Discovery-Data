@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { useFilterStore } from '@/stores/filter';
 import { storeToRefs } from 'pinia';
-import { availableCategories } from '@/variables/categories';
+import { categoryMapping } from '@/variables/mappings';
 
 const filterStore = useFilterStore();
 const { categories } = storeToRefs(filterStore);
@@ -21,7 +21,7 @@ const { categories } = storeToRefs(filterStore);
 
         <div class="stat-grid dynamic-cols">
           <QToggle
-            v-for="(displayName, categoryName) in availableCategories"
+            v-for="(displayName, categoryName) in categoryMapping"
             v-model="categories"
             :label="displayName"
             :val="categoryName"

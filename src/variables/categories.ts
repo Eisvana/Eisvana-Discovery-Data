@@ -1,9 +1,11 @@
-export const availableCategories = {
-  system: 'Systems',
-  planet: 'Planets',
-  base: 'Bases',
-  settlement: 'Settlements',
-  creature: 'Creatures',
-  flora: 'Flora',
-  mineral: 'Minerals',
-} as const;
+import type { DiscoveryCategories } from '@/types/data';
+
+export const availableCategories: DiscoveryCategories[] = [
+  'SolarSystem',
+  'Animal',
+  'Mineral',
+  'Flora',
+  'Planet',
+  'Settlement',
+  'Base',
+] as const;

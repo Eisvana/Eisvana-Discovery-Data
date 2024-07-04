@@ -1,5 +1,5 @@
 import { isDiscoveryData } from '@/helpers/typeGuards';
-import type { DiscoveryData } from '@/types/data';
+import type { DiscoveryCategories, DiscoveryData } from '@/types/data';
 import type { FilterConfig, LoaderWorkerMessage, LoaderWorkerResponse } from '@/types/worker';
 import { regions as allEisvanaRegions } from '@/variables/regions';
 import { dayInMs } from '@/variables/time';
@@ -29,14 +29,14 @@ async function loadData({ regions, categories, filterConfig }: LoaderWorkerMessa
     const settlementImports = import.meta.glob('../assets/settlements/*.json', { import: 'default' });
     const systemImports = import.meta.glob('../assets/systems/*.json', { import: 'default' });
 
-    const importMapping: Record<string, Record<string, () => Promise<unknown>>> = {
-      base: baseImports,
-      creature: animalImports,
-      flora: floraImports,
-      mineral: mineralImports,
-      planet: planetImports,
-      settlement: settlementImports,
-      system: systemImports,
+    const importMapping: Record<DiscoveryCategories, Record<string, () => Promise<unknown>>> = {
+      Base: baseImports,
+      Animal: animalImports,
+      Flora: floraImports,
+      Mineral: mineralImports,
+      Planet: planetImports,
+      Settlement: settlementImports,
+      SolarSystem: systemImports,
     };
 
     const regionMapping: string[] = Object.values(allEisvanaRegions);
