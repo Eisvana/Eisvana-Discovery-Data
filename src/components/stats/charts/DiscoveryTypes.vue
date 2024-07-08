@@ -52,6 +52,7 @@ const pieChartData = computed(() => ({
 </script>
 
 <template>
+  <!--Discoveries per Category-->
   <PieChartWrapper>
     <Pie
       :data="pieChartData"

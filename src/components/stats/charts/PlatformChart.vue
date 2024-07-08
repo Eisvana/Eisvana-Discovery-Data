@@ -116,6 +116,7 @@ const barChartOptions = {
 </script>
 
 <template>
+  <!--Discoveries and prefixes per platform-->
   <Bar
     :data="barChartData"
     :options="barChartOptions"

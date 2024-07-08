@@ -152,6 +152,7 @@ const options = {
 </script>
 
 <template>
+  <!--Platforms over time-->
   <Line
     :data="individualData"
     :options="options"

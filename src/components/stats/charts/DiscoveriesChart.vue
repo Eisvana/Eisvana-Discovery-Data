@@ -96,6 +96,7 @@ const options = {
 </script>
 
 <template>
+  <!--Discoveries over time-->
   <Line
     :data="data"
     :options="options"

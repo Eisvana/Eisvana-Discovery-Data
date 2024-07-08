@@ -75,6 +75,7 @@ const pieChartData = computed(() => {
 </script>
 
 <template>
+  <!--Players per platform-->
   <Bar
     v-if="false"
     :data="barChartData"

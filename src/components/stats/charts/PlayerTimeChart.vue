@@ -146,6 +146,7 @@ const options = {
 </script>
 
 <template>
+  <!--Players over time-->
   <PaginationControls
     v-model:current-page="currentPage"
     v-model:items-per-page="itemsPerPage"

@@ -89,6 +89,7 @@ const options = {
 </script>
 
 <template>
+  <!--Prefixes over time-->
   <Line
     :data="data"
     :options="options"

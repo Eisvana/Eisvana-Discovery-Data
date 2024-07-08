@@ -52,6 +52,7 @@ const chartData = computed(() => ({
 </script>
 
 <template>
+  <!--Average contributions-->
   <Bar
     :data="chartData"
     :options="chartOptions"
