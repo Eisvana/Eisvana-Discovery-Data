@@ -15,8 +15,9 @@ export function getDatesBetween(startDate: string | undefined, endDate: string |
   const dates = [];
   const currentDate = new Date(startDateObj);
   while (currentDate <= endDateObj) {
-    dates.push(new Date(currentDate));
+    const currentDateIsoString = new Date(currentDate).toISOString().split('T')[0];
+    dates.push(currentDateIsoString);
     currentDate.setUTCDate(currentDate.getUTCDate() + 1);
   }
-  return dates.map((date) => date.toISOString().split('T')[0]);
+  return dates;
 }

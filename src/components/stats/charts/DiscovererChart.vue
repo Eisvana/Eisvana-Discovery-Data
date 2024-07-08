@@ -1,10 +1,19 @@
 <script setup lang="ts">
 import { Bar } from 'vue-chartjs';
-import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale, ArcElement } from 'chart.js';
+import {
+  Chart as ChartJS,
+  Title,
+  Tooltip,
+  Legend,
+  BarElement,
+  CategoryScale,
+  LinearScale,
+  ArcElement,
+} from 'chart.js';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed, ref } from 'vue';
-import {  categoryMapping, chartColours } from '@/variables/mappings';
+import { categoryMapping, chartColours } from '@/variables/mappings';
 import type { DiscovererData, DiscovererDataArray } from '@/types/data';
 import { paginateData } from '@/helpers/paginate';
 import PaginationControls from '@/components/PaginationControls.vue';
@@ -12,6 +21,7 @@ import { chartOptions } from '@/variables/chart';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import { useFilterStore } from '@/stores/filter';
+import type { ChartData } from '@/types/chart';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
@@ -67,11 +77,7 @@ const paginatedData = computed(() => paginateData(discovererStats.value, itemsPe
 const barChartData = computed(() => {
   const playerNames: string[] = paginatedData.value.map((item) => item.name);
 
-  const datasets: {
-    label: string;
-    backgroundColor: string;
-    data: number[];
-  }[] = [];
+  const datasets: ChartData[] = [];
 
   if (sortedCategories.value[0] === 'SolarSystem' && sortedCategories.value.length === 1) {
     const playerTags: number[] = paginatedData.value.map((item) => item.tags);
