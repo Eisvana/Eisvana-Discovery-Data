@@ -48,5 +48,9 @@ const distanceRight = computed(() => width.value - right.value);
   flex-wrap: wrap;
   justify-content: space-between;
   margin-block-end: 0.75rem;
+
+  h2 {
+    font-size: 2.5rem;
+  }
 }
 </style>
