@@ -13,6 +13,7 @@ import { paginateData } from '@/helpers/paginate';
 import SkeletonTable from '@/components/SkeletonTable.vue';
 import FadeTransition from '@/components/FadeTransition.vue';
 import { categoryMapping } from '@/variables/mappings';
+import { unknownName } from '@/variables/table';
 
 const dataStore = useDataStore();
 const { filteredData, isLoading } = storeToRefs(dataStore);
@@ -52,7 +53,6 @@ const columns: QTableColumn<DiscoveryData>[] = reactive([
     label: 'Name',
     align: 'left',
     field: 'Name',
-    format: (name: string) => name || 'Unknown (procedural name)',
     classes: (row: DiscoveryData) => (row.Name ? '' : 'text-italic'),
   },
   {
@@ -189,9 +189,9 @@ function updateRequiredCols(newItems: DiscoveryData[]) {
               v-if="'Bases' in props.row || 'Correctly Prefixed' in props.row"
               :to="`/${'Bases' in props.row ? 'planet' : 'system'}/${props.row.Glyphs}`"
               class="link-colour"
-              >{{ props.row.Name || 'Unknown (procedural name)' }}</RouterLink
+              >{{ props.row.Name || unknownName }}</RouterLink
             >
-            <template v-else>{{ props.row.Name }}</template>
+            <template v-else>{{ props.row.Name || unknownName }}</template>
           </QTd>
         </template>
       </QTable>

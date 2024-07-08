@@ -2,6 +2,7 @@
 import { getFormattedUTCDateString } from '@/helpers/date';
 import { getPlatform } from '@/helpers/platform';
 import type { DiscoveryData } from '@/types/data';
+import { unknownName } from '@/variables/table';
 
 interface Props {
   itemType: string;
@@ -41,7 +42,7 @@ withDefaults(defineProps<Props>(), {
         </thead>
         <tbody>
           <tr v-for="item in planetDetails">
-            <td :class="{ 'text-italic': !item.Name }">{{ item.Name || 'unknown (procedural name)' }}</td>
+            <td :class="{ 'text-italic': !item.Name }">{{ item.Name || unknownName }}</td>
             <td>{{ item.Discoverer }}</td>
             <td>{{ getPlatform(item.Platform) }}</td>
             <td v-if="item.Gamemode">{{ item.Gamemode }}</td>
