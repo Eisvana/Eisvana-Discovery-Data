@@ -39,16 +39,16 @@ const statData: {
     counter: props.planetData.Minerals ?? 0,
   },
   {
-    src: settlementIcon,
-    alt: 'Settlement Icon',
-    title: 'Settlements',
-    counter: props.planetData.Settlements ?? 0,
-  },
-  {
     src: baseIcon,
     alt: 'Base Icon',
     title: 'Bases',
     counter: props.planetData.Bases ?? 0,
+  },
+  {
+    src: settlementIcon,
+    alt: 'Settlement Icon',
+    title: 'Settlements',
+    counter: props.planetData.Settlements ?? 0,
   },
 ]);
 </script>

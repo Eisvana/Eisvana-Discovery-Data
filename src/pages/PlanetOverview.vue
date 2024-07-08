@@ -54,11 +54,6 @@ onMounted(async () => {
 
   <div class="column q-gutter-y-sm">
     <PlanetDetailsTable
-      :headings="['Name', 'Builder', 'Platform', 'Mode', 'Parts', 'Timestamp']"
-      :planetDetails="planetDetails.bases"
-      itemType="Bases"
-    />
-    <PlanetDetailsTable
       :planetDetails="planetDetails.animals"
       itemType="Creatures"
     />
@@ -69,6 +64,11 @@ onMounted(async () => {
     <PlanetDetailsTable
       :planetDetails="planetDetails.minerals"
       itemType="Minerals"
+    />
+    <PlanetDetailsTable
+      :headings="['Name', 'Builder', 'Platform', 'Mode', 'Parts', 'Timestamp']"
+      :planetDetails="planetDetails.bases"
+      itemType="Bases"
     />
     <PlanetDetailsTable
       :headings="['Name', 'Overseer', 'Platform', 'Timestamp']"
