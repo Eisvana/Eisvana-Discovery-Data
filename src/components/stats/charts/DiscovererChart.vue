@@ -12,7 +12,6 @@ import { chartOptions } from '@/variables/chart';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import { useFilterStore } from '@/stores/filter';
-import type { ValueOf } from '@/types/utility';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
@@ -29,7 +28,7 @@ const currentPage = ref(1);
 const currentPageIndex = computed(() => currentPage.value - 1);
 
 const discovererStats = computed(() => {
-  const discovererData = new Map<string, ValueOf<DiscovererData>>();
+  const discovererData: DiscovererData = {};
 
   // prettier-ignore
   for (let i = 0; i < debouncedFilteredData.value.length; i++) {  // NoSonar this is for performance
@@ -37,15 +36,11 @@ const discovererStats = computed(() => {
     const discoverer = data.Discoverer;
     if (!discoverer) continue;
 
-    if (!discovererData.has(discoverer))
-      discovererData.set(discoverer, {
-        discoveries: 0,
-        tags: 0,
-        mistags: 0,
-      });
-
-    const discovererObject = discovererData.get(discoverer);
-    if (!discovererObject) continue;
+    const discovererObject = (discovererData[discoverer] ??= {
+      discoveries: 0,
+      tags: 0,
+      mistags: 0,
+    });
 
     discovererObject.discoveries++;
     const entryCategory = data.Category;
@@ -59,7 +54,7 @@ const discovererStats = computed(() => {
     }
   }
 
-  const discovererDataArray = Array.from(discovererData);
+  const discovererDataArray = Object.entries(discovererData);
 
   const sortedDiscovererDataArray = discovererDataArray.toSorted((a, b) => b[1].discoveries - a[1].discoveries);
 
@@ -96,7 +91,6 @@ const barChartData = computed(() => {
   } else {
     const mappedDatasets = sortedCategories.value.map((cat) => {
       const categoryDiscoveries = paginatedData.value.map((item) => item[cat] ?? 0);
-      console.log(categoryDiscoveries);
       return {
         label: categoryMapping[cat],
         backgroundColor: sortedCategories.value.length === 1 ? chartColours.blue : categoryColourMapping[cat],
