@@ -28,7 +28,7 @@ export interface DiscovererDataArray extends Partial<Record<DiscoveryCategories,
 }
 
 export interface DiscovererData {
-  [key: string]: Omit<DiscovererDataArray, 'name'>;
+  [name: string]: Omit<DiscovererDataArray, 'name'>;
 }
 
 export type PlanetDetailItems = 'bases' | 'settlements' | 'animals' | 'flora' | 'minerals';
