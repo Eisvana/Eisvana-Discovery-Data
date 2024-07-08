@@ -25,12 +25,12 @@ export const platformColours = {
 
 export const categoryMapping: Record<DiscoveryCategories, string> = {
   SolarSystem: 'System',
-  Animal: 'Creature',
-  Mineral: 'Mineral',
-  Flora: 'Flora',
   Planet: 'Planet',
-  Settlement: 'Settlement',
+  Animal: 'Creature',
+  Flora: 'Flora',
+  Mineral: 'Mineral',
   Base: 'Base',
+  Settlement: 'Settlement',
 };
 
 export const categoryColourMapping: Record<DiscoveryCategories, string> = {
