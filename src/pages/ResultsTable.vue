@@ -12,7 +12,6 @@ import { rowsPerPage } from '@/variables/pagination';
 import { paginateData } from '@/helpers/paginate';
 import SkeletonTable from '@/components/SkeletonTable.vue';
 import FadeTransition from '@/components/FadeTransition.vue';
-import { categoryMapping } from '@/variables/mappings';
 import { unknownName } from '@/variables/table';
 
 const dataStore = useDataStore();
@@ -66,7 +65,7 @@ const columns: QTableColumn<DiscoveryData>[] = reactive([
     name: 'category',
     label: 'Category',
     field: 'Category',
-    format: (cat: DiscoveryCategories) => categoryMapping[cat],
+    format: (cat: DiscoveryCategories) => getPlatform(cat) ?? '',
     align: 'left',
   },
   {

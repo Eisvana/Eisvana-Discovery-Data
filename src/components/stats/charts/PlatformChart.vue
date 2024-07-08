@@ -6,12 +6,12 @@ import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 import { chartColours, platformMapping } from '@/variables/mappings';
 import { setPlatformColours } from '@/helpers/colours';
-import type { ValueOf } from '@/types/utility';
 import type { Platform } from '@/types/platform';
 import { chartOptions } from '@/variables/chart';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import PieChartWrapper from '../../PieChartWrapper.vue';
+import type { PlatformLabels } from '@/types/data';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
@@ -27,7 +27,7 @@ interface PlatformData {
 
 const platformStats = computed(
   (): {
-    platforms: ValueOf<typeof platformMapping>[];
+    platforms: PlatformLabels[];
     tags: number[];
     incorrect: number[];
   } => {
@@ -58,7 +58,7 @@ const platformStats = computed(
     sortedPlatformDataArray.forEach(([key, val]) => platformData.set(key, val));
 
     return {
-      platforms: Array.from(platformData.keys()).map((item) => platformMapping[item]),
+      platforms: Array.from(platformData.keys()).map((item) => platformMapping[item].label),
       tags: Array.from(platformData.values()).map((item) => item.tags),
       incorrect: Array.from(platformData.values()).map((item) => item.discoveries - item.tags),
     };

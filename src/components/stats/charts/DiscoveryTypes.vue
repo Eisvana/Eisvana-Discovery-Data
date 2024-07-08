@@ -7,7 +7,7 @@ import { computed } from 'vue';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import { chartOptions } from '@/variables/chart';
-import { categoryColourMapping, categoryMapping } from '@/variables/mappings';
+import { categoryMapping } from '@/variables/mappings';
 import type { DiscoveryCategories, DiscoveryData } from '@/types/data';
 import PieChartWrapper from '../../PieChartWrapper.vue';
 
@@ -27,8 +27,8 @@ const categoryData = computed(() => {
   for (let i = 0; i < debouncedFilteredData.value.length; i++) {  // NoSonar this is for performance
     const item = debouncedFilteredData.value[i];
     const { Category } = item;
-    labels.add(categoryMapping[Category]);
-    colours.add(categoryColourMapping[Category]);
+    labels.add(categoryMapping[Category].label);
+    colours.add(categoryMapping[Category].colour);
     categoryCounters[Category] ??= 0;
     categoryCounters[Category]++;
   }

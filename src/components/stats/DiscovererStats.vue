@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { platformMapping } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed, reactive, ref, watch } from 'vue';
@@ -9,6 +8,7 @@ import type { PaginationObject } from '@/types/pagination';
 import { rowsPerPage } from '@/variables/pagination';
 import type { BaseDiscovererData, DiscovererDataObject } from '@/types/data';
 import { formatPercentage } from '@/helpers/formatting';
+import { getPlatform } from '@/helpers/platform';
 
 const dataStore = useDataStore();
 const { filteredData, dataLength, amountTagged } = storeToRefs(dataStore);
@@ -40,7 +40,7 @@ const discovererStats = computed(() => {
     });
     discovererObject.discoveries++;
     if (data['Correctly Prefixed']) discovererObject.tagged++;
-    discovererObject.platform = platformMapping[data.Platform];
+    discovererObject.platform = getPlatform(data.Platform);
     discovererObject.discPercent = getPercentage(discovererObject.discoveries, dataLength.value);
     discovererObject.taggedPercent = getPercentage(discovererObject.tagged, amountTagged.value);
     discovererObject.taggedPercentSelf = getPercentage(discovererObject.tagged, discovererObject.discoveries);

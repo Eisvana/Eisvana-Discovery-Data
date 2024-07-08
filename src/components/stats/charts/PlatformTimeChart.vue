@@ -57,7 +57,7 @@ const blankData = computed(() => {
   return timestampData;
 });
 
-const getPlatformColour = (platform: Platform) => setPlatformColours([platformMapping[platform]])[0];
+const getPlatformColour = (platform: Platform) => setPlatformColours([platformMapping[platform].label])[0];
 
 const transformedData = computed(() => {
   const discoveryAmount = structuredClone(blankData.value);
@@ -95,7 +95,7 @@ function individualDatasetObjectFactory(platform: Platform): ChartData {
   const data = Object.values(transformedData.value).map((item) => item[platform] || null);
 
   return {
-    label: platformMapping[platform],
+    label: platformMapping[platform].label,
     backgroundColor: colour,
     borderColor: colour + '70',
     data,
@@ -108,7 +108,7 @@ function combinedDatasetObjectFactory(platform: Platform): ChartData {
   const data = combineIndizes(platform);
 
   return {
-    label: platformMapping[platform],
+    label: platformMapping[platform].label,
     backgroundColor: colour,
     borderColor: colour + '70',
     data,

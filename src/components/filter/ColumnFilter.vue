@@ -27,9 +27,14 @@ const textInputs = [
   },
 ];
 
-const platformSwitch = {
+const simplePlatformMapping = Object.entries(platformMapping).map((item) => [item[0], item[1].label]);
+
+const platformSwitch: {
+  label: string;
+  switches: Record<keyof typeof platformMapping, string>;
+} = {
   label: 'Platforms',
-  switches: platformMapping,
+  switches: Object.fromEntries(simplePlatformMapping),
 };
 
 const selectInputs: {

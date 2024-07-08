@@ -45,7 +45,7 @@ const platformStats = computed(() => {
     const data = filteredData.value[i];
     if (!data.Platform) continue;
 
-    const platform = platformMapping[data.Platform];
+    const platform = platformMapping[data.Platform].label;
     const platformObject = (platformData[platform] ??= {
       players: 0,
       discoveries: 0,

@@ -1,6 +1,9 @@
+import type { categoryMapping, platformMapping } from '@/variables/mappings';
 import type { Platform } from './platform';
 
-export type DiscoveryCategories = 'Base' | 'Animal' | 'Flora' | 'Mineral' | 'Planet' | 'Settlement' | 'SolarSystem';
+export type DiscoveryCategories = keyof typeof categoryMapping;
+
+export type PlatformLabels = (typeof platformMapping)[keyof typeof platformMapping]['label'];
 
 export interface DiscoveryData {
   Category: DiscoveryCategories;

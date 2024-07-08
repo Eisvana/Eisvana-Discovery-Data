@@ -1,11 +1,9 @@
-import type { DiscoveryCategories } from '@/types/data';
-
 export const platformMapping = {
-  ST: 'Steam',
-  PS: 'PlayStation',
-  XB: 'Xbox',
-  GX: 'GOG',
-  NI: 'Nintendo Switch',
+  ST: { label: 'Steam', colour: '#003EFF' },
+  PS: { label: 'PlayStation', colour: '#0080FF' },
+  XB: { label: 'Xbox', colour: '#56FF56' },
+  GX: { label: 'GOG', colour: '#EBFF3A' },
+  NI: { label: 'Nintendo Switch', colour: '#FF3A3A' },
 } as const;
 
 export const chartColours = {
@@ -15,30 +13,12 @@ export const chartColours = {
   grey: '#888',
 } as const;
 
-export const platformColours = {
-  steam: '#003EFF',
-  ps: '#0080FF',
-  xb: '#56FF56',
-  gog: '#EBFF3A',
-  switch: '#FF3A3A',
+export const categoryMapping = {
+  SolarSystem: { label: 'System', colour: '#4287f5' },
+  Planet: { label: 'Planet', colour: '#b8d16d' },
+  Animal: { label: 'Creature', colour: '#fcba03' },
+  Flora: { label: 'Flora', colour: '#32a852' },
+  Mineral: { label: 'Mineral', colour: '#759487' },
+  Base: { label: 'Base', colour: '#eb4034' },
+  Settlement: { label: 'Settlement', colour: '#8d5eeb' },
 } as const;
-
-export const categoryMapping: Record<DiscoveryCategories, string> = {
-  SolarSystem: 'System',
-  Planet: 'Planet',
-  Animal: 'Creature',
-  Flora: 'Flora',
-  Mineral: 'Mineral',
-  Base: 'Base',
-  Settlement: 'Settlement',
-};
-
-export const categoryColourMapping: Record<DiscoveryCategories, string> = {
-  SolarSystem: '#4287f5',
-  Animal: '#fcba03',
-  Mineral: '#759487',
-  Flora: '#32a852',
-  Planet: '#b8d16d',
-  Settlement: '#8d5eeb',
-  Base: '#eb4034',
-};

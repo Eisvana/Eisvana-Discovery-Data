@@ -4,7 +4,7 @@ import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, Li
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed, ref } from 'vue';
-import { categoryColourMapping, categoryMapping, chartColours } from '@/variables/mappings';
+import {  categoryMapping, chartColours } from '@/variables/mappings';
 import type { DiscovererData, DiscovererDataArray } from '@/types/data';
 import { paginateData } from '@/helpers/paginate';
 import PaginationControls from '@/components/PaginationControls.vue';
@@ -92,8 +92,8 @@ const barChartData = computed(() => {
     const mappedDatasets = sortedCategories.value.map((cat) => {
       const categoryDiscoveries = paginatedData.value.map((item) => item[cat] ?? 0);
       return {
-        label: categoryMapping[cat],
-        backgroundColor: sortedCategories.value.length === 1 ? chartColours.blue : categoryColourMapping[cat],
+        label: categoryMapping[cat].label,
+        backgroundColor: sortedCategories.value.length === 1 ? chartColours.blue : categoryMapping[cat].colour,
         data: categoryDiscoveries,
       };
     });

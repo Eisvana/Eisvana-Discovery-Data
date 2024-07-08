@@ -21,9 +21,9 @@ const { categories } = storeToRefs(filterStore);
 
         <div class="stat-grid dynamic-cols">
           <QToggle
-            v-for="(displayName, categoryName) in categoryMapping"
+            v-for="({ label }, categoryName) in categoryMapping"
             v-model="categories"
-            :label="displayName"
+            :label
             :val="categoryName"
           />
         </div>
