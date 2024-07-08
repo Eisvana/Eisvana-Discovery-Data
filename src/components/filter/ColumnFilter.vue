@@ -120,7 +120,7 @@ const selectInputs: {
 
         <!--Tagging/Rename status selector-->
         <div class="column col-grow q-gutter-y-xl select-min-width">
-          <div v-for="select in selectInputs">
+          <template v-for="select in selectInputs">
             <QSelect
               v-if="select.condition ?? true"
               v-model="select.model"
@@ -129,7 +129,7 @@ const selectInputs: {
               emit-value
               map-options
             />
-          </div>
+          </template>
         </div>
       </QCardSection>
     </QExpansionItem>
