@@ -25,7 +25,7 @@ import { debounceDelay } from '@/variables/debounce';
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
 const dataStore = useDataStore();
-const { filteredData, dateRange } = storeToRefs(dataStore);
+const { filteredData, dateRange, isLoading } = storeToRefs(dataStore);
 
 const debouncedFilteredData = refDebounced(filteredData, debounceDelay);
 const debouncedDateRange = refDebounced(dateRange, debounceDelay);
@@ -153,14 +153,29 @@ const options = {
 
 <template>
   <!--Platforms over time-->
-  <Line
-    :data="individualData"
-    :options="options"
-    class="chart"
-  />
-  <Line
-    :data="combinedData"
-    :options="options"
-    class="chart"
-  />
+  <div class="relative-position">
+    <Line
+      :data="individualData"
+      :options="options"
+      class="chart"
+    />
+
+    <QInnerLoading
+      :showing="isLoading"
+      label="Loading Data..."
+    />
+  </div>
+
+  <div class="relative-position">
+    <Line
+      :data="combinedData"
+      :options="options"
+      class="chart"
+    />
+
+    <QInnerLoading
+      :showing="isLoading"
+      label="Loading Data..."
+    />
+  </div>
 </template>

@@ -1,10 +1,10 @@
 <script setup lang="ts">
-import { Bar, Pie } from 'vue-chartjs';
+import { Pie } from 'vue-chartjs';
 import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale, ArcElement } from 'chart.js';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
-import { chartColours, platformMapping } from '@/variables/mappings';
+import { platformMapping } from '@/variables/mappings';
 import type { Platform } from '@/types/platform';
 import { setPlatformColours } from '@/helpers/colours';
 import { chartOptions } from '@/variables/chart';
@@ -16,7 +16,7 @@ import type { PlatformLabels } from '@/types/data';
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
 const dataStore = useDataStore();
-const { filteredData } = storeToRefs(dataStore);
+const { filteredData, isLoading } = storeToRefs(dataStore);
 
 const debouncedFilteredData = refDebounced(filteredData, debounceDelay);
 
@@ -49,16 +49,6 @@ const platformStats = computed(
   }
 );
 
-const barChartData = computed(() => ({
-  labels: platformStats.value.platforms,
-  datasets: [
-    {
-      backgroundColor: chartColours.blue,
-      data: platformStats.value.players,
-    },
-  ],
-}));
-
 const pieChartData = computed(() => {
   const colours = setPlatformColours(platformStats.value.platforms);
 
@@ -76,15 +66,15 @@ const pieChartData = computed(() => {
 
 <template>
   <!--Players per platform-->
-  <Bar
-    v-if="false"
-    :data="barChartData"
-    :options="chartOptions"
-  />
   <PieChartWrapper>
     <Pie
       :data="pieChartData"
       :options="chartOptions"
     />
   </PieChartWrapper>
+
+  <QInnerLoading
+    :showing="isLoading"
+    label="Loading Data..."
+  />
 </template>

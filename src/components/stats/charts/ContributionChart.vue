@@ -11,7 +11,7 @@ import { refDebounced } from '@vueuse/core';
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
 
 const dataStore = useDataStore();
-const { filteredData } = storeToRefs(dataStore);
+const { filteredData, isLoading } = storeToRefs(dataStore);
 
 const debouncedFilteredData = refDebounced(filteredData, 1000);
 
@@ -57,5 +57,10 @@ const chartData = computed(() => ({
     :data="chartData"
     :options="chartOptions"
     class="chart"
+  />
+
+  <QInnerLoading
+    :showing="isLoading"
+    label="Loading Data..."
   />
 </template>

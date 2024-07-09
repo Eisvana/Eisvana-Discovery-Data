@@ -14,7 +14,7 @@ import PieChartWrapper from '../../PieChartWrapper.vue';
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
 const dataStore = useDataStore();
-const { filteredData } = storeToRefs(dataStore);
+const { filteredData, isLoading } = storeToRefs(dataStore);
 
 const debouncedFilteredData = refDebounced<DiscoveryData[]>(filteredData, debounceDelay);
 
@@ -59,4 +59,9 @@ const pieChartData = computed(() => ({
       :options="chartOptions"
     />
   </PieChartWrapper>
+
+  <QInnerLoading
+    :showing="isLoading"
+    label="Loading Data..."
+  />
 </template>
