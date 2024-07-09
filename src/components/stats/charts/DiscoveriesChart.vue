@@ -12,7 +12,7 @@ import {
   Legend,
 } from 'chart.js';
 import { storeToRefs } from 'pinia';
-import { computed } from 'vue';
+import { computed, ref, watch } from 'vue';
 import { Line } from 'vue-chartjs';
 import { getUTCDateString, getDatesBetween } from '@/helpers/date';
 import { refDebounced } from '@vueuse/core';
@@ -24,7 +24,7 @@ import { useFilterStore } from '@/stores/filter';
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
 const dataStore = useDataStore();
-const { filteredData, dateRange } = storeToRefs(dataStore);
+const { filteredData, dateRange, isLoading } = storeToRefs(dataStore);
 
 const filterStore = useFilterStore();
 const { sortedCategories } = storeToRefs(filterStore);
@@ -41,9 +41,11 @@ interface TimestampData {
   };
 }
 
-const transformedData = computed(() => {
-  const timestampData: TimestampData = {};
+const oldData = ref<TimestampData>({});
 
+const transformedData = computed(() => {
+  if (isLoading.value) return oldData.value;
+  const timestampData: TimestampData = {};
   const dates = getDatesBetween(...debouncedDateRange.value);
   // the getDatesBetween() function does not include the last day, so we are manually adding it here if it exists
   if (debouncedDateRange.value[1]) dates.push(debouncedDateRange.value[1]);
@@ -95,9 +97,16 @@ const transformedData = computed(() => {
       if (dayObj[category] !== undefined) dayObj[category]++;
     }
   }
-
   return timestampData;
 });
+
+watch(
+  isLoading,
+  (newLoadingState) => {
+    if (!newLoadingState) oldData.value = transformedData.value;
+  },
+  { immediate: true }
+);
 
 const data = computed(() => {
   const datasets: ChartData[] = [
@@ -157,5 +166,10 @@ const options = {
     :data="data"
     :options="options"
     class="chart"
+  />
+
+  <QInnerLoading
+    :showing="isLoading"
+    label="Loading Data..."
   />
 </template>

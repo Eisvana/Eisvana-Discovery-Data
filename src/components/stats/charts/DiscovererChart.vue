@@ -1,18 +1,9 @@
 <script setup lang="ts">
 import { Bar } from 'vue-chartjs';
-import {
-  Chart as ChartJS,
-  Title,
-  Tooltip,
-  Legend,
-  BarElement,
-  CategoryScale,
-  LinearScale,
-  ArcElement,
-} from 'chart.js';
+import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale, ArcElement } from 'chart.js';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
-import { computed, ref } from 'vue';
+import { computed, ref, watch } from 'vue';
 import { categoryMapping, chartColours } from '@/variables/mappings';
 import type { DiscovererData, DiscovererDataArray } from '@/types/data';
 import { paginateData } from '@/helpers/paginate';
@@ -26,18 +17,22 @@ import type { ChartData } from '@/types/chart';
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
 const dataStore = useDataStore();
-const { filteredData } = storeToRefs(dataStore);
+const { filteredData, isLoading } = storeToRefs(dataStore);
 
 const filterStore = useFilterStore();
 const { sortedCategories } = storeToRefs(filterStore);
 
 const debouncedFilteredData = refDebounced(filteredData, debounceDelay);
+const debouncedSortedCategories = refDebounced(sortedCategories, debounceDelay);
 
-const itemsPerPage = ref(50); // NoSonar this is one of the three possible itemsPerRow options
+const itemsPerPage = ref(50); // NoSonar this is one of the three possible rowsPerPage options
 const currentPage = ref(1);
 const currentPageIndex = computed(() => currentPage.value - 1);
 
+const oldData = ref<DiscovererDataArray[]>([]);
+
 const discovererStats = computed(() => {
+  if (isLoading.value) return oldData.value;
   const discovererData: DiscovererData = {};
 
   // prettier-ignore
@@ -54,7 +49,7 @@ const discovererStats = computed(() => {
 
     discovererObject.discoveries++;
     const entryCategory = data.Category;
-    sortedCategories.value.forEach((cat) => (discovererObject[cat] ??= 0));
+    debouncedSortedCategories.value.forEach((cat) => (discovererObject[cat] ??= 0));
     if (discovererObject[entryCategory] !== undefined) discovererObject[entryCategory]++;
 
     if (data['Correctly Prefixed']) {
@@ -72,6 +67,14 @@ const discovererStats = computed(() => {
   return joinedData;
 });
 
+watch(
+  isLoading,
+  (newLoadingState) => {
+    if (!newLoadingState) oldData.value = discovererStats.value;
+  },
+  { immediate: true }
+);
+
 const paginatedData = computed(() => paginateData(discovererStats.value, itemsPerPage.value, currentPageIndex.value));
 
 const barChartData = computed(() => {
@@ -79,7 +82,7 @@ const barChartData = computed(() => {
 
   const datasets: ChartData[] = [];
 
-  if (sortedCategories.value[0] === 'SolarSystem' && sortedCategories.value.length === 1) {
+  if (debouncedSortedCategories.value[0] === 'SolarSystem' && debouncedSortedCategories.value.length === 1) {
     const playerTags: number[] = paginatedData.value.map((item) => item.tags);
     const playerMistags: number[] = paginatedData.value.map((item) => item.mistags);
     datasets.push(
@@ -95,11 +98,11 @@ const barChartData = computed(() => {
       }
     );
   } else {
-    const mappedDatasets = sortedCategories.value.map((cat) => {
+    const mappedDatasets = debouncedSortedCategories.value.map((cat) => {
       const categoryDiscoveries = paginatedData.value.map((item) => item[cat] ?? 0);
       return {
         label: categoryMapping[cat].label,
-        backgroundColor: sortedCategories.value.length === 1 ? chartColours.blue : categoryMapping[cat].colour,
+        backgroundColor: debouncedSortedCategories.value.length === 1 ? chartColours.blue : categoryMapping[cat].colour,
         data: categoryDiscoveries,
       };
     });
@@ -137,5 +140,10 @@ const barChartOptions = {
     :data="barChartData"
     :options="barChartOptions"
     class="chart"
+  />
+
+  <QInnerLoading
+    :showing="isLoading"
+    label="Loading Data..."
   />
 </template>
