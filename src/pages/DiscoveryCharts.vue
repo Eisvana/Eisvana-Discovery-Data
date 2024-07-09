@@ -2,15 +2,15 @@
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import ChartWrapper from '@/components/ChartWrapper.vue';
-import DiscovererChart from '@/components/stats/charts/DiscovererChart.vue';
-import PlatformChart from '@/components/stats/charts/PlatformChart.vue';
-import TagChart from '@/components/stats/charts/TagChart.vue';
-import DiscoveriesChart from '@/components/stats/charts/DiscoveriesChart.vue';
-import PlayerPlatformChart from '@/components/stats/charts/PlayerPlatformChart.vue';
-import ContributionChart from '@/components/stats/charts/ContributionChart.vue';
-import PlatformTimeChart from '@/components/stats/charts/PlatformTimeChart.vue';
-import PlayerTimeChart from '@/components/stats/charts/PlayerTimeChart.vue';
-import DiscoveryTypes from '@/components/stats/charts/DiscoveryTypes.vue';
+import DiscovererChart from '@/components/charts/DiscovererChart.vue';
+import PlatformChart from '@/components/charts/PlatformChart.vue';
+import TagChart from '@/components/charts/TagChart.vue';
+import DiscoveriesChart from '@/components/charts/DiscoveriesChart.vue';
+import PlayerPlatformChart from '@/components/charts/PlayerPlatformChart.vue';
+import ContributionChart from '@/components/charts/ContributionChart.vue';
+import PlatformTimeChart from '@/components/charts/PlatformTimeChart.vue';
+import PlayerTimeChart from '@/components/charts/PlayerTimeChart.vue';
+import DiscoveryTypes from '@/components/charts/DiscoveryTypes.vue';
 
 const dataStore = useDataStore();
 const { dataLength } = storeToRefs(dataStore);

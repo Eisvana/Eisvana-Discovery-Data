@@ -9,7 +9,7 @@ import type { Platform } from '@/types/platform';
 import { chartOptions, barChartOptions } from '@/variables/chart';
 import { computedWithControl, refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
-import PieChartWrapper from '../../PieChartWrapper.vue';
+import PieChartWrapper from '../PieChartWrapper.vue';
 import type { PlatformDataArray } from '@/types/data';
 import type { ChartData } from '@/types/chart';
 import { useFilterStore } from '@/stores/filter';

@@ -10,7 +10,7 @@ import { setPlatformColours } from '@/helpers/colours';
 import { chartOptions } from '@/variables/chart';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
-import PieChartWrapper from '../../PieChartWrapper.vue';
+import PieChartWrapper from '../PieChartWrapper.vue';
 import type { PlatformLabels } from '@/types/data';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);

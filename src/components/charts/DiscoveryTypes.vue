@@ -9,7 +9,7 @@ import { debounceDelay } from '@/variables/debounce';
 import { chartOptions } from '@/variables/chart';
 import { categoryMapping } from '@/variables/mappings';
 import type { DiscoveryCategories, DiscoveryData } from '@/types/data';
-import PieChartWrapper from '../../PieChartWrapper.vue';
+import PieChartWrapper from '../PieChartWrapper.vue';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
