@@ -54,6 +54,7 @@ const columns: QTableColumn<DiscoveryData>[] = reactive([
     align: 'left',
     field: 'Name',
     classes: (row: DiscoveryData) => (row.Name ? '' : 'text-italic'),
+    sortable: true,
   },
   {
     name: 'glyphs',
@@ -61,6 +62,7 @@ const columns: QTableColumn<DiscoveryData>[] = reactive([
     field: 'Glyphs',
     align: 'left',
     classes: 'glyphs glyphs-cell',
+    sortable: true,
   },
   {
     name: 'category',
@@ -68,12 +70,14 @@ const columns: QTableColumn<DiscoveryData>[] = reactive([
     field: 'Category',
     format: (cat: DiscoveryCategories) => categoryMapping[cat].label,
     align: 'left',
+    sortable: true,
   },
   {
     name: 'discoverer',
     label: discovererColLabel,
     align: 'left',
     field: 'Discoverer',
+    sortable: true,
   },
   {
     name: 'platform',
@@ -81,6 +85,7 @@ const columns: QTableColumn<DiscoveryData>[] = reactive([
     align: 'left',
     field: 'Platform',
     format: (val: Platform) => getPlatform(val) ?? '',
+    sortable: true,
   },
   {
     name: 'date',
@@ -88,6 +93,7 @@ const columns: QTableColumn<DiscoveryData>[] = reactive([
     align: 'left',
     field: 'Timestamp',
     format: (val: number | undefined) => (val ? getFormattedUTCDateString(val) : ''),
+    sortable: true,
   },
   {
     name: 'planets',
@@ -180,6 +186,7 @@ function updateRequiredCols(newItems: DiscoveryData[]) {
         :rows="filteredData"
         :rows-per-page-options="rowsPerPage"
         :visible-columns="requiredCols"
+        column-sort-order="da"
         table-header-class="table-header"
         flat
       >
