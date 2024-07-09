@@ -22,7 +22,7 @@ const eisvanaRegionNames = Object.values(eisvanaRegions);
         />
 
         <div class="stat-grid dynamic-cols">
-          <QToggle
+          <QCheckbox
             v-for="(regionName, index) in eisvanaRegionNames"
             v-model="regions"
             :label="`${regionName} (EV${index + 1})`"

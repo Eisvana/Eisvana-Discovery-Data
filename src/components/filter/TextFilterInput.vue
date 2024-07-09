@@ -41,7 +41,7 @@ const intersectionOptions: QSelectOption[] = [
               map-options
               outlined
             />
-            <QToggle
+            <QCheckbox
               v-if="label !== 'Glyphs'"
               v-model="caseSensitivity"
               label="Case Sensitive"

@@ -20,7 +20,7 @@ const { platforms } = storeToRefs(filterStore);
 <template>
   <div class="column width-content">
     {{ label }}
-    <QToggle
+    <QCheckbox
       v-for="(value, key) in switches"
       v-model="platforms"
       :label="value"

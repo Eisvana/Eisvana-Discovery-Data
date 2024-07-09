@@ -10,6 +10,6 @@ import CategoryFilter from './CategoryFilter.vue';
     <CategoryFilter class="full-width shadow-1" />
     <ColumnFilter class="full-width shadow-1" />
     <RegionFilter class="full-width shadow-1" />
-    <ActionButtons class="full-width shadow-1" />
+    <ActionButtons class="full-width" />
   </QForm>
 </template>

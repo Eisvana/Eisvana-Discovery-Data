@@ -20,7 +20,7 @@ const { categories } = storeToRefs(filterStore);
         />
 
         <div class="stat-grid dynamic-cols">
-          <QToggle
+          <QCheckbox
             v-for="({ label }, categoryName) in categoryMapping"
             v-model="categories"
             :label
