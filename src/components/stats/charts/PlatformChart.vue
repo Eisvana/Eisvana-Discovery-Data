@@ -16,7 +16,7 @@ import type { PlatformLabels } from '@/types/data';
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
 const dataStore = useDataStore();
-const { filteredData } = storeToRefs(dataStore);
+const { filteredData, isLoading } = storeToRefs(dataStore);
 
 const debouncedFilteredData = refDebounced(filteredData, debounceDelay);
 
@@ -117,15 +117,30 @@ const barChartOptions = {
 
 <template>
   <!--Discoveries and prefixes per platform-->
-  <Bar
-    :data="barChartData"
-    :options="barChartOptions"
-    class="chart"
-  />
-  <PieChartWrapper>
-    <Pie
-      :data="pieChartData"
-      :options="chartOptions"
+  <div class="relative-position">
+    <Bar
+      :data="barChartData"
+      :options="barChartOptions"
+      class="chart"
     />
-  </PieChartWrapper>
+
+    <QInnerLoading
+      :showing="isLoading"
+      label="Loading Data..."
+    />
+  </div>
+
+  <div class="relative-position">
+    <PieChartWrapper>
+      <Pie
+        :data="pieChartData"
+        :options="chartOptions"
+      />
+    </PieChartWrapper>
+
+    <QInnerLoading
+      :showing="isLoading"
+      label="Loading Data..."
+    />
+  </div>
 </template>
