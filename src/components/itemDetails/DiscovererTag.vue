@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import type { Platform } from '@/types/platform';
 import { getPlatform } from '@/helpers/platform';
-import { platformIcons } from '@/variables/platforms';
 import GameIcon from '../GameIcon.vue';
+import { platformMapping } from '@/variables/mappings';
 
 defineProps<{
   name: string;
@@ -16,7 +16,7 @@ defineProps<{
     <GameIcon
       :alt="`${getPlatform(platform)} Icon`"
       :no-theming="platform === 'PS'"
-      :src="platformIcons[platform]"
+      :src="platformMapping[platform].icon"
       :title="getPlatform(platform)"
       class="platform-icon"
     />

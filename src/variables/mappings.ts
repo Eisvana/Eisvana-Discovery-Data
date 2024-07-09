@@ -1,9 +1,15 @@
+import gogIcon from '@/assets/images/platformGOG.png';
+import psIcon from '@/assets/images/platformPS.png';
+import steamIcon from '@/assets/images/platformSteam.png';
+import switchIcon from '@/assets/images/platformSwitch.png';
+import xbIcon from '@/assets/images/platformXB.png';
+
 export const platformMapping = {
-  ST: { label: 'Steam', colour: '#003EFF' },
-  PS: { label: 'PlayStation', colour: '#0080FF' },
-  XB: { label: 'Xbox', colour: '#56FF56' },
-  GX: { label: 'GOG', colour: '#EBFF3A' },
-  NI: { label: 'Nintendo Switch', colour: '#FF3A3A' },
+  ST: { label: 'Steam', colour: '#003EFF', icon: steamIcon },
+  PS: { label: 'PlayStation', colour: '#0080FF', icon: psIcon },
+  XB: { label: 'Xbox', colour: '#56FF56', icon: xbIcon },
+  GX: { label: 'GOG', colour: '#EBFF3A', icon: gogIcon },
+  NI: { label: 'Nintendo Switch', colour: '#FF3A3A', icon: switchIcon },
 } as const;
 
 export const chartColours = {
