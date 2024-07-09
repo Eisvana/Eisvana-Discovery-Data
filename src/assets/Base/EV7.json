@@ -1,0 +1,72 @@
+[
+  {
+    "Category": "Base",
+    "Name": "Homely Wolfe Acres",
+    "Discoverer": "RoanonWolfe",
+    "Glyphs": "1115A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1715434846000,
+    "Parts": 1583,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Ouro Sangre",
+    "Discoverer": "WraithRaptor",
+    "Glyphs": "1171A21117FE",
+    "Platform": "GX",
+    "Timestamp": 1717817991000,
+    "Parts": 1829,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "ChooChoo2ElectricBoogallo",
+    "Discoverer": "Lianeras",
+    "Glyphs": "1171A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1711740544000,
+    "Parts": 1359,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Woodstock Intergalatic Spaceport",
+    "Discoverer": "RoananWolfe",
+    "Glyphs": "3012A21117FE",
+    "Platform": "XB",
+    "Timestamp": 1709091334000,
+    "Parts": 158,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Clear Oasis Canteen",
+    "Discoverer": "RoananWolfe",
+    "Glyphs": "3078A21117FE",
+    "Platform": "XB",
+    "Timestamp": 1707841634000,
+    "Parts": 616,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "The Fortress of Solitude",
+    "Discoverer": "admiraldeannadark",
+    "Glyphs": "31C2A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1716404616000,
+    "Parts": 146,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Naupa Base",
+    "Discoverer": "Bahann",
+    "Glyphs": "5009A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1697768118000,
+    "Parts": 67,
+    "Gamemode": "Normal"
+  }
+]

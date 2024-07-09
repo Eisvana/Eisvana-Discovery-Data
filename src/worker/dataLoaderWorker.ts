@@ -24,10 +24,12 @@ async function loadData({ categories, filterConfig }: LoaderWorkerMessage) {
     // using standard dynamic import was weird, so we're using the glob import feature instead
     // standard dynamic import didn't have the `default` field in its type, so it couldn't be properly accessed
     // might also have had something to do with the limitation on dynamic import that you have to specify a more specific file pattern, but I'm not sure whether that only applies to imports from the current directory
-    const dataImports = import.meta.glob('../assets/*.json', { import: 'default' });
+
+    const dataImports = import.meta.glob('../assets/**/index.json', { import: 'default' });
+
     const imports = categories.flatMap((category) => {
       const entries = Object.entries(dataImports); // [[path/to/file.json, () => import(file.json)], [path/to/anotherfile.json, () => import(anotherfile.json)]]
-      return entries.filter((item) => item[0].endsWith(`${category}.json`)).map((item) => item[1]);
+      return entries.filter((item) => item[0].endsWith(`${category}/index.json`)).map((item) => item[1]);
     });
 
     const amountOfRequests = imports.length;

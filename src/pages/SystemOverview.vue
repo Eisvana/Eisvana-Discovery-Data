@@ -21,14 +21,14 @@ onMounted(async () => {
   const regionIndex = regionGlyphs.findIndex((item) => glyphs.endsWith(item));
   const regionNumber = regionIndex + 1;
   const glyphsWithoutPlanetIndex = glyphs.slice(1);
-  const data: { default: DiscoveryData[] } = await import(`../assets/planets/EV${regionNumber}.json`);
+  const data: { default: DiscoveryData[] } = await import(`../assets/Planet/EV${regionNumber}.json`);
   for (let i = 1; i <= planetsPerSystem; i++) {
     const planetGlyphs = `${i}${glyphsWithoutPlanetIndex}`;
     const planetObject = data.default.find((item) => item.Glyphs === planetGlyphs);
     if (planetObject) planetData.push(planetObject);
   }
 
-  const systemDataFile: { default: DiscoveryData[] } = await import(`../assets/systems/EV${regionNumber}.json`);
+  const systemDataFile: { default: DiscoveryData[] } = await import(`../assets/SolarSystem/EV${regionNumber}.json`);
   const systemDataObject = systemDataFile.default.find((item) => item.Glyphs.endsWith(glyphsWithoutPlanetIndex)); // ignoring the planet index
   systemData.value = systemDataObject;
 });

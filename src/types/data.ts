@@ -34,8 +34,7 @@ export interface DiscovererData {
   [name: string]: Omit<DiscovererDataArray, 'name'>;
 }
 
-export type PlanetDetailItems = 'bases' | 'settlements' | 'animals' | 'flora' | 'minerals';
-export type PlanetDetails = Partial<Record<PlanetDetailItems, DiscoveryData[]>>;
+export type PlanetDetails = Partial<Record<DiscoveryCategories, DiscoveryData[]>>;
 
 export interface BaseDiscovererData {
   platform?: string;
