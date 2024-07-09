@@ -33,7 +33,22 @@ watchEffect(() => {
   filteredData.value = newData;
 });
 
-onMounted(loadData);
+/*
+I hate this.
+This was done because we now have the `Apply Filter` button.
+Since I don't want to `emit()` all the way to the App component, the loading logic is here.
+Why not as a store action? Because that would be hard as well, given the watchers and stuff we have here (see watcher above).
+Custom DOM events would have worked, but I usually try to avoid them when using a framework.
+We want the data to load on pageload though. So we use `onMounted()`.
+This would also trigger on navigation from a view page though (like system and planet overview pages).
+But for these navigations, the `filteredData` array is not empty. On pageload, it is empty.
+But because of the watcher above and the fake loading on route change, it would result in the data being blanked on route navigation from a view page.
+So the `temporaryData` array must not be empty on these navigations. And we do that by copying the current `fileredData` array into it.
+*/
+onMounted(() => {
+  temporaryData.value = [filteredData.value];
+  if (!filteredData.value.length) loadData();
+});
 
 async function loadData() {
   return new Promise<void>((resolve, reject) => {
