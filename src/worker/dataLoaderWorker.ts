@@ -1,5 +1,5 @@
 import { isDiscoveryData } from '@/helpers/typeGuards';
-import type { DiscoveryCategories, DiscoveryData } from '@/types/data';
+import type { DiscoveryData } from '@/types/data';
 import type { FilterConfig, LoaderWorkerMessage, LoaderWorkerResponse } from '@/types/worker';
 import { regions as allEisvanaRegions } from '@/variables/regions';
 import { dayInMs } from '@/variables/time';
@@ -19,38 +19,15 @@ onmessage = async ({ data }: MessageEvent<LoaderWorkerMessage>) => {
   }
 };
 
-async function loadData({ regions, categories, filterConfig }: LoaderWorkerMessage) {
+async function loadData({ categories, filterConfig }: LoaderWorkerMessage) {
   try {
-    const animalImports = import.meta.glob('../assets/animals/*.json', { import: 'default' });
-    const baseImports = import.meta.glob('../assets/bases/*.json', { import: 'default' });
-    const floraImports = import.meta.glob('../assets/flora/*.json', { import: 'default' });
-    const mineralImports = import.meta.glob('../assets/minerals/*.json', { import: 'default' });
-    const planetImports = import.meta.glob('../assets/planets/*.json', { import: 'default' });
-    const settlementImports = import.meta.glob('../assets/settlements/*.json', { import: 'default' });
-    const systemImports = import.meta.glob('../assets/systems/*.json', { import: 'default' });
-
-    const importMapping: Record<DiscoveryCategories, Record<string, () => Promise<unknown>>> = {
-      Base: baseImports,
-      Animal: animalImports,
-      Flora: floraImports,
-      Mineral: mineralImports,
-      Planet: planetImports,
-      Settlement: settlementImports,
-      SolarSystem: systemImports,
-    };
-
-    const regionMapping: string[] = Object.values(allEisvanaRegions);
-
-    const activeRegionCodes = regions
-      .map((item) => regionMapping.indexOf(item) + 1)
-      .filter(Boolean)
-      .map((item) => `EV${item}`);
-
+    // using standard dynamic import was weird, so we're using the glob import feature instead
+    // standard dynamic import didn't have the `default` field in its type, so it couldn't be properly accessed
+    // might also have had something to do with the limitation on dynamic import that you have to specify a more specific file pattern, but I'm not sure whether that only applies to imports from the current directory
+    const dataImports = import.meta.glob('../assets/*.json', { import: 'default' });
     const imports = categories.flatMap((category) => {
-      const entries = Object.entries(importMapping[category]); // [[path/to/file.json, () => import(file.json)], [path/to/anotherfile.json, () => import(anotherfile.json)]]
-      return entries
-        .filter((item) => activeRegionCodes.some((regionCode) => item[0].endsWith(`${regionCode}.json`)))
-        .map((item) => item[1]);
+      const entries = Object.entries(dataImports); // [[path/to/file.json, () => import(file.json)], [path/to/anotherfile.json, () => import(anotherfile.json)]]
+      return entries.filter((item) => item[0].endsWith(`${category}.json`)).map((item) => item[1]);
     });
 
     const amountOfRequests = imports.length;

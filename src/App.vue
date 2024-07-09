@@ -85,7 +85,6 @@ async function loadData() {
 
     const workerMessage: LoaderWorkerMessage = {
       categories: toRaw(sortedCategories.value),
-      regions: filterConfig.regions,
       filterConfig,
     };
 

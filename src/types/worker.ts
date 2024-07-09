@@ -6,7 +6,6 @@ import type { UnixTimestamp } from './date';
 export type FilterConfig = Omit<FilterStoreState, 'date' | 'categories'> & { unixTimestamp: UnixTimestamp };
 
 export interface LoaderWorkerMessage {
-  regions: string[];
   categories: DiscoveryCategories[];
   filterConfig: FilterConfig;
 }
