@@ -3,7 +3,7 @@ import type { Platform } from '@/types/platform';
 import { platformCodes } from '@/variables/platforms';
 
 export const isPlatformCode = (code: unknown): code is Platform =>
-  typeof code === 'string' && platformCodes.includes(code);
+  typeof code === 'string' && platformCodes.findIndex((item) => item === code) !== -1;
 
 export const isObject = (item: unknown): item is object => Boolean(item) && typeof item === 'object';
 
