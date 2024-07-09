@@ -13,7 +13,7 @@ const router = createRouter({
         {
           path: '/',
           name: 'table',
-          component: ResultsTable,
+          component: ResultsTable, // no dynamic import since this is the initial page load view
         },
         {
           path: '/stats',
