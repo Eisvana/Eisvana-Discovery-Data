@@ -9,7 +9,7 @@ import type { DiscovererData, DiscovererDataArray } from '@/types/data';
 import { paginateData } from '@/helpers/paginate';
 import PaginationControls from '@/components/PaginationControls.vue';
 import { chartOptions } from '@/variables/chart';
-import { refDebounced } from '@vueuse/core';
+import { computedWithControl, refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import { useFilterStore } from '@/stores/filter';
 import type { ChartData } from '@/types/chart';
@@ -31,7 +31,7 @@ const currentPageIndex = computed(() => currentPage.value - 1);
 
 const oldData = ref<DiscovererDataArray[]>([]);
 
-const discovererStats = computed(() => {
+const discovererStats = computedWithControl(debouncedFilteredData, () => {
   if (isLoading.value) return oldData.value;
   const discovererData: DiscovererData = {};
 
@@ -77,7 +77,7 @@ watch(
 
 const paginatedData = computed(() => paginateData(discovererStats.value, itemsPerPage.value, currentPageIndex.value));
 
-const barChartData = computed(() => {
+const barChartData = computedWithControl(paginatedData, () => {
   const playerNames: string[] = paginatedData.value.map((item) => item.name);
 
   const datasets: ChartData[] = [];

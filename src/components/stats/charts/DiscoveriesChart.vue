@@ -15,7 +15,7 @@ import { storeToRefs } from 'pinia';
 import { computed, ref, watch } from 'vue';
 import { Line } from 'vue-chartjs';
 import { getUTCDateString, getDatesBetween } from '@/helpers/date';
-import { refDebounced } from '@vueuse/core';
+import { computedWithControl, refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import type { DiscoveryCategories } from '@/types/data';
 import type { ChartData } from '@/types/chart';
@@ -43,7 +43,7 @@ interface TimestampData {
 
 const oldData = ref<TimestampData>({});
 
-const transformedData = computed(() => {
+const transformedData = computedWithControl(debouncedFilteredData, () => {
   if (isLoading.value) return oldData.value;
   const timestampData: TimestampData = {};
   const dates = getDatesBetween(...debouncedDateRange.value);
