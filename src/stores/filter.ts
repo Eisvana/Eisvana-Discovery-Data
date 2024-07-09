@@ -7,6 +7,7 @@ import { categoryMapping, platformMapping } from '@/variables/mappings';
 import { is } from 'quasar';
 import type { DiscoveryCategories } from '@/types/data';
 import { isValidCategory } from '@/helpers/categories';
+import { platformCodes } from '@/variables/platforms';
 
 interface TextSearch<T> {
   name: T;
@@ -75,6 +76,7 @@ export const useFilterStore = defineStore('filter', {
       }
     },
 
+    sortedPlatforms: (state) => platformCodes.filter((item) => state.platforms.includes(item)),
     sortedCategories: (state) => availableCategories.filter((item) => state.categories.includes(item)),
     sortedRegions: (state) => Object.values(allEisvanaRegions).filter((item) => state.regions.includes(item)),
   },
