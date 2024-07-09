@@ -8,7 +8,7 @@ import { categoryMapping, chartColours } from '@/variables/mappings';
 import type { DiscovererData, DiscovererDataArray } from '@/types/data';
 import { paginateData } from '@/helpers/paginate';
 import PaginationControls from '@/components/PaginationControls.vue';
-import { chartOptions } from '@/variables/chart';
+import { barChartOptions } from '@/variables/chart';
 import { computedWithControl, refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import { useFilterStore } from '@/stores/filter';
@@ -114,18 +114,6 @@ const barChartData = computedWithControl(paginatedData, () => {
     datasets,
   };
 });
-
-const barChartOptions = {
-  ...chartOptions,
-  scales: {
-    x: {
-      stacked: true,
-    },
-    y: {
-      stacked: true,
-    },
-  },
-};
 </script>
 
 <template>

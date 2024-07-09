@@ -7,7 +7,7 @@ import { computed } from 'vue';
 import { chartColours, platformMapping } from '@/variables/mappings';
 import { setPlatformColours } from '@/helpers/colours';
 import type { Platform } from '@/types/platform';
-import { chartOptions } from '@/variables/chart';
+import { chartOptions, barChartOptions } from '@/variables/chart';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import PieChartWrapper from '../../PieChartWrapper.vue';
@@ -101,18 +101,6 @@ const pieChartData = computed(() => {
     ],
   };
 });
-
-const barChartOptions = {
-  ...chartOptions,
-  scales: {
-    x: {
-      stacked: true,
-    },
-    y: {
-      stacked: true,
-    },
-  },
-};
 </script>
 
 <template>
