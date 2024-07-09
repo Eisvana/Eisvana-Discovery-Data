@@ -34,6 +34,13 @@ export interface DiscovererData {
   [name: string]: Omit<DiscovererDataArray, 'name'>;
 }
 
+export interface PlatformDataArray extends Partial<Record<DiscoveryCategories, number>> {
+  platform: Platform;
+  discoveries: number;
+  tags: number;
+  mistags: number;
+}
+
 export type PlanetDetails = Partial<Record<DiscoveryCategories, DiscoveryData[]>>;
 
 export interface BaseDiscovererData {

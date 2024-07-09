@@ -3,96 +3,119 @@ import { Bar, Pie } from 'vue-chartjs';
 import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale, ArcElement } from 'chart.js';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
-import { computed } from 'vue';
-import { chartColours, platformMapping } from '@/variables/mappings';
-import { setPlatformColours } from '@/helpers/colours';
+import { computed, ref, watch } from 'vue';
+import { categoryMapping, chartColours, platformMapping } from '@/variables/mappings';
 import type { Platform } from '@/types/platform';
 import { chartOptions, barChartOptions } from '@/variables/chart';
-import { refDebounced } from '@vueuse/core';
+import { computedWithControl, refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import PieChartWrapper from '../../PieChartWrapper.vue';
-import type { PlatformLabels } from '@/types/data';
+import type { PlatformDataArray } from '@/types/data';
+import type { ChartData } from '@/types/chart';
+import { useFilterStore } from '@/stores/filter';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
 const dataStore = useDataStore();
 const { filteredData, isLoading } = storeToRefs(dataStore);
 
+const filterStore = useFilterStore();
+const { sortedPlatforms, sortedCategories } = storeToRefs(filterStore);
+
 const debouncedFilteredData = refDebounced(filteredData, debounceDelay);
+const debouncedSortedCategories = refDebounced(sortedCategories, debounceDelay);
+const debouncedSortedPlatforms = refDebounced(sortedPlatforms, debounceDelay);
 
-interface PlatformData {
-  discoveries: number;
-  tags: number;
-}
+const mappedLabels = computed(() => debouncedSortedPlatforms.value.map((platform) => platformMapping[platform].label));
 
-const platformStats = computed(
-  (): {
-    platforms: PlatformLabels[];
-    tags: number[];
-    incorrect: number[];
-  } => {
-    const platformData = new Map<Platform, PlatformData>();
+const oldData = ref<PlatformDataArray[]>([]);
 
-    // prettier-ignore
-    for (let i = 0; i < debouncedFilteredData.value.length; i++) {  // NoSonar this is for performance
+const platformStats = computedWithControl(debouncedFilteredData, () => {
+  if (isLoading.value) return oldData.value;
+  const platformData = new Map<Platform, Omit<PlatformDataArray, 'platform'>>();
+
+  // prettier-ignore
+  for (let i = 0; i < debouncedFilteredData.value.length; i++) {  // NoSonar this is for performance
     const data = debouncedFilteredData.value[i];
-      if (!platformData.has(data.Platform))
-        platformData.set(data.Platform, {
-          discoveries: 0,
-          tags: 0,
-        });
+    if (!platformData.has(data.Platform))
+      platformData.set(data.Platform, {
+        discoveries: 0,
+        tags: 0,
+        mistags: 0,
+      });
 
-      const platformObject = platformData.get(data.Platform);
-      if (!platformObject) continue;
+    const platformObject = platformData.get(data.Platform);
+    if (!platformObject) continue;
 
-      platformObject.discoveries++;
-      if (data['Correctly Prefixed']) platformObject.tags++;
+    platformObject.discoveries++;
+    debouncedSortedCategories.value.forEach((cat) => (platformObject[cat] ??= 0));
+    const category = data.Category;
+    if (platformObject[category] !== undefined) platformObject[category]++;
+    if (data['Correctly Prefixed']) {
+      platformObject.tags++;
+    } else {
+      platformObject.mistags++;
     }
-
-    const platformDataArray = Array.from(platformData);
-
-    const sortedPlatformDataArray = platformDataArray.toSorted((a, b) => b[1].discoveries - a[1].discoveries);
-
-    platformData.clear();
-
-    sortedPlatformDataArray.forEach(([key, val]) => platformData.set(key, val));
-
-    return {
-      platforms: Array.from(platformData.keys()).map((item) => platformMapping[item].label),
-      tags: Array.from(platformData.values()).map((item) => item.tags),
-      incorrect: Array.from(platformData.values()).map((item) => item.discoveries - item.tags),
-    };
   }
+
+  const platformDataArray = Array.from(platformData);
+
+  const sortedPlatformDataArray = platformDataArray.toSorted((a, b) => b[1].discoveries - a[1].discoveries);
+
+  const joinedData: PlatformDataArray[] = sortedPlatformDataArray.map(([platform, data]) => ({ platform, ...data }));
+  return joinedData;
+});
+
+watch(
+  isLoading,
+  (newLoadingState) => {
+    if (!newLoadingState) oldData.value = platformStats.value;
+  },
+  { immediate: true }
 );
 
-const barChartData = computed(() => ({
-  labels: platformStats.value.platforms,
-  datasets: [
-    {
-      label: 'Tagged',
-      backgroundColor: chartColours.blue,
-      data: platformStats.value.tags,
-    },
-    {
-      label: 'Not Tagged',
-      backgroundColor: chartColours.red,
-      data: platformStats.value.incorrect,
-    },
-  ],
-}));
+const barChartData = computedWithControl(platformStats, () => {
+  const datasets: ChartData[] = [];
 
-const pieChartData = computed(() => {
-  const discoveries: number[] = [];
-
-  const colours = setPlatformColours(platformStats.value.platforms);
-
-  for (let i = 0; i < platformStats.value.platforms.length; i++) {
-    const numOfDiscoveries = platformStats.value.tags[i] + platformStats.value.incorrect[i];
-    discoveries.push(numOfDiscoveries);
+  if (debouncedSortedCategories.value[0] === 'SolarSystem' && debouncedSortedCategories.value.length === 1) {
+    const tags = platformStats.value.map((item) => item.tags);
+    const mistags = platformStats.value.map((item) => item.mistags);
+    datasets.push(
+      {
+        label: 'Tagged',
+        backgroundColor: chartColours.blue,
+        data: tags,
+      },
+      {
+        label: 'Not Tagged',
+        backgroundColor: chartColours.red,
+        data: mistags,
+      }
+    );
+  } else {
+    const mappedDatasets = debouncedSortedCategories.value.map((cat) => {
+      const categoryDiscoveries = platformStats.value.map((item) => item[cat] ?? 0);
+      return {
+        label: categoryMapping[cat].label,
+        backgroundColor: debouncedSortedCategories.value.length === 1 ? chartColours.blue : categoryMapping[cat].colour,
+        data: categoryDiscoveries,
+      };
+    });
+    datasets.push(...mappedDatasets);
   }
 
   return {
-    labels: platformStats.value.platforms,
+    labels: mappedLabels.value,
+    datasets,
+  };
+});
+
+const pieChartData = computedWithControl(platformStats, () => {
+  const colours = debouncedSortedPlatforms.value.map((platform) => platformMapping[platform].colour);
+  const discoveries = platformStats.value.map((item) => item.discoveries);
+
+  return {
+    labels: mappedLabels.value,
     datasets: [
       {
         backgroundColor: colours,
