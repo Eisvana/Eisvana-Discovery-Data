@@ -100,7 +100,6 @@ const data = computed(() => {
     const colour = platformMapping[platform].colour;
     const label = platformMapping[platform].label;
     const data = Object.values(transformedData.value).map((day) => day.accumulated[platform] || null);
-    console.log(data)
     return { label, data, backgroundColor: colour, borderColor: colour + '70' };
   });
 
