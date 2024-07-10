@@ -50,10 +50,10 @@ const numberStats = computed(() => {
     if (item['Correctly Prefixed'] === false && item.Name) resultObj.systemsNotTagged++;
 
     // proc name system
-    if ('Correctly Prefixed' in item && !item.Name && item.Discoverer) resultObj.systemsProcName++;
+    if (item.Category === 'SolarSystem' && !item.Name && item.Discoverer) resultObj.systemsProcName++;
 
     // proc name other
-    if (!('Correctly Prefixed' in item) && !item.Name && item.Discoverer) resultObj.nonSystemsProcName++;
+    if (item.Category !== 'SolarSystem' && !item.Name && item.Discoverer) resultObj.nonSystemsProcName++;
 
     // undiscovered
     if (!item.Name && !item.Discoverer) resultObj.systemsUndiscovered++;

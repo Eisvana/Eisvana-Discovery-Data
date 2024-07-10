@@ -36,7 +36,7 @@ const currentItems = computed(() => {
 const requiredCols = computed(() => updateRequiredCols(currentItems.value));
 
 const discovererColLabel = computed(() => {
-  const isBase = (item: DiscoveryData) => 'Parts' in item;
+  const isBase = (item: DiscoveryData) => item.Category === 'Base';
 
   const noneHaveBuilder = !currentItems.value.some(isBase);
   if (noneHaveBuilder) return 'Discoverer';
@@ -191,10 +191,10 @@ function updateRequiredCols(newItems: DiscoveryData[]) {
         flat
       >
         <template v-slot:body-cell-name="props">
-          <QTd :props="props">
+          <QTd :props>
             <RouterLink
-              v-if="'Bases' in props.row || 'Correctly Prefixed' in props.row"
-              :to="`/${'Bases' in props.row ? 'planet' : 'system'}/${props.row.Glyphs}`"
+              v-if="props.row.Category === 'Planet' || props.row.Category === 'SolarSystem'"
+              :to="`/${props.row.Category === 'Planet' ? 'planet' : 'system'}/${props.row.Glyphs}`"
               class="link-colour"
               >{{ props.row.Name || unknownName }}</RouterLink
             >
