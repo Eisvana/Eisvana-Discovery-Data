@@ -12,7 +12,7 @@ import {
   Legend,
 } from 'chart.js';
 import { storeToRefs } from 'pinia';
-import { computed, ref, watch } from 'vue';
+import { computed, ref, watchEffect } from 'vue';
 import { Line } from 'vue-chartjs';
 import { getDatesBetween, getUTCDateString } from '@/helpers/date';
 import { refDebounced } from '@vueuse/core';
@@ -74,13 +74,9 @@ const transformedData = computed(() => {
   return newDateArray;
 });
 
-watch(
-  isLoading,
-  (newLoadingState) => {
-    if (!newLoadingState) oldData.value = transformedData.value;
-  },
-  { immediate: true }
-);
+watchEffect(() => {
+  if (!isLoading.value) oldData.value = transformedData.value;
+});
 
 const data = computed(() => {
   const datasets: ChartData[] = [

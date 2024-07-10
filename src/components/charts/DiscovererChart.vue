@@ -3,7 +3,7 @@ import { Bar } from 'vue-chartjs';
 import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale, ArcElement } from 'chart.js';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
-import { computed, ref, watch } from 'vue';
+import { computed, ref, watchEffect } from 'vue';
 import { categoryMapping, chartColours } from '@/variables/mappings';
 import type { DiscovererData, DiscovererDataArray } from '@/types/data';
 import { paginateData } from '@/helpers/paginate';
@@ -67,13 +67,9 @@ const discovererStats = computed(() => {
   return joinedData;
 });
 
-watch(
-  isLoading,
-  (newLoadingState) => {
-    if (!newLoadingState) oldData.value = discovererStats.value;
-  },
-  { immediate: true }
-);
+watchEffect(() => {
+  if (!isLoading.value) oldData.value = discovererStats.value;
+});
 
 const paginatedData = computed(() => paginateData(discovererStats.value, itemsPerPage.value, currentPageIndex.value));
 

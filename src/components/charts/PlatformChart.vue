@@ -3,7 +3,7 @@ import { Bar, Pie } from 'vue-chartjs';
 import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale, ArcElement } from 'chart.js';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
-import { computed, ref, watch } from 'vue';
+import { computed, ref, watchEffect } from 'vue';
 import { categoryMapping, chartColours, platformMapping } from '@/variables/mappings';
 import type { Platform } from '@/types/platform';
 import { chartOptions, barChartOptions } from '@/variables/chart';
@@ -65,13 +65,9 @@ const platformStats = computed(() => {
   return joinedData;
 });
 
-watch(
-  isLoading,
-  (newLoadingState) => {
-    if (!newLoadingState) oldData.value = platformStats.value;
-  },
-  { immediate: true }
-);
+watchEffect(() => {
+  if (!isLoading.value) oldData.value = platformStats.value;
+});
 
 const barChartData = computed(() => {
   const datasets: ChartData[] = [];

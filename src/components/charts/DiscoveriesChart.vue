@@ -12,7 +12,7 @@ import {
   Legend,
 } from 'chart.js';
 import { storeToRefs } from 'pinia';
-import { computed, ref, watch } from 'vue';
+import { computed, ref, watchEffect } from 'vue';
 import { Line } from 'vue-chartjs';
 import { getUTCDateString, getDatesBetween } from '@/helpers/date';
 import { refDebounced } from '@vueuse/core';
@@ -53,7 +53,7 @@ const transformedData = computed(() => {
     };
   }
 
-  const keys = Object.keys(timestampData);
+  const timestamps = Object.keys(timestampData);
 
   // prettier-ignore
   for (let i = 0; i < debouncedFilteredData.value.length; i++) {  // NoSonar this is for performance
@@ -75,14 +75,14 @@ const transformedData = computed(() => {
     A future re-render will re-run this computation with the proper values, so this is only a temporary error state.
     And that's the reason why we check for a bad index and then break the loop here...
     */
-    const index = keys.indexOf(utcDate);
+    const index = timestamps.indexOf(utcDate);
     if (index === -1) break;
     const isCorrect = dataObj['Correctly Prefixed'];
 
     const category = dataObj.Category;
 
-    for (let j = index; j < keys.length; j++) {
-      const key = keys[j];
+    for (let j = index; j < timestamps.length; j++) {
+      const key = timestamps[j];
       const dayObj = timestampData[key];
       dayObj.discoveries++;
       dayObj[isCorrect ? 'tags' : 'mistags']++;
@@ -93,13 +93,9 @@ const transformedData = computed(() => {
   return timestampData;
 });
 
-watch(
-  isLoading,
-  (newLoadingState) => {
-    if (!newLoadingState) oldData.value = transformedData.value;
-  },
-  { immediate: true }
-);
+watchEffect(() => {
+  if (!isLoading.value) oldData.value = transformedData.value;
+});
 
 const data = computed(() => {
   const datasets: ChartData[] = [
@@ -151,7 +147,7 @@ const data = computed(() => {
 <template>
   <!--Discoveries over Time-->
   <Line
-    :data="data"
+    :data
     :options="chartOptions"
     class="chart"
   />
