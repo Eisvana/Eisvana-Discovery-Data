@@ -56,6 +56,7 @@ async function loadData() {
     workers.length = 0;
 
     isLoading.value = true;
+    filterStore.applyFilter();
 
     const reactiveFilterData = {
       regions: sortedRegions,
