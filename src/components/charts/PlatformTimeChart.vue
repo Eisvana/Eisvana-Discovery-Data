@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import { platformMapping } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
-import type { Platform } from '@/types/platform';
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -13,156 +12,119 @@ import {
   Legend,
 } from 'chart.js';
 import { storeToRefs } from 'pinia';
-import { computed } from 'vue';
+import { computed, ref, watchEffect } from 'vue';
 import { Line } from 'vue-chartjs';
 import { getUTCDateString, getDatesBetween } from '@/helpers/date';
-import { setPlatformColours } from '@/helpers/colours';
-import { isPlatformCode } from '@/helpers/typeGuards';
 import type { ChartData } from '@/types/chart';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import { chartOptions } from '@/variables/chart';
 import LoadingOverlay from '../LoadingOverlay.vue';
+import type { TimestampPlatformData } from '@/types/data';
+import { useFilterStore } from '@/stores/filter';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
 const dataStore = useDataStore();
 const { filteredData, dateRange, isLoading } = storeToRefs(dataStore);
 
+const filterStore = useFilterStore();
+const { sortedPlatforms } = storeToRefs(filterStore);
+
 const debouncedFilteredData = refDebounced(filteredData, debounceDelay);
 const debouncedDateRange = refDebounced(dateRange, debounceDelay);
 
-interface TimestampData {
-  [key: string]: {
-    ST: number;
-    PS: number;
-    XB: number;
-    GX: number;
-    NI: number;
-  };
-}
+const oldData = ref<TimestampPlatformData>({});
 
-const blankData = computed(() => {
-  const timestampData: TimestampData = {};
+const transformedData = computed(() => {
+  if (isLoading.value) return oldData.value;
+  const timestampData: TimestampPlatformData = {};
 
   const dates = getDatesBetween(...debouncedDateRange.value);
   if (debouncedDateRange.value[1]) dates.push(debouncedDateRange.value[1]);
-  for (const date of dates) {
+
+  // prettier-ignore
+  for (let i = 0; i < dates.length; i++) {	// NoSonar this is for performance
+    const date = dates[i];
     timestampData[date] = {
-      ST: 0,
-      PS: 0,
-      XB: 0,
-      GX: 0,
-      NI: 0,
+      individual: {},
+      accumulated: {},
     };
   }
-  return timestampData;
-});
 
-const getPlatformColour = (platform: Platform) => setPlatformColours([platformMapping[platform].label])[0];
+  const timestamps = Object.keys(timestampData);
 
-const transformedData = computed(() => {
-  const discoveryAmount = structuredClone(blankData.value);
   // prettier-ignore
   for (let i = 0; i < debouncedFilteredData.value.length; i++) {  // NoSonar this is for performance
     const dataObj = debouncedFilteredData.value[i];
     if (!dataObj.Timestamp) continue;
 
     const utcDate = getUTCDateString(dataObj.Timestamp);
-    discoveryAmount[utcDate][dataObj.Platform]++;
+    const timestampObj = timestampData[utcDate];
+    if (!timestampObj) break;
+
+    // adding counters if they don't exist yet
+    sortedPlatforms.value.forEach((platform) => (timestampObj.individual[platform] ??= 0));
+
+    // incrementing counter for current day
+    const platform = dataObj.Platform;
+    if (timestampObj.individual[platform] !== undefined) timestampObj.individual[platform]++;
+
+    const index = timestamps.indexOf(utcDate);
+
+    // incrementing counter for future days
+    for (let j = index; j < timestamps.length; j++) {
+      const key = timestamps[j];
+      const dayObj = timestampData[key];
+      sortedPlatforms.value.forEach((platform) => (dayObj.accumulated[platform] ??= 0));
+      if (dayObj.accumulated[platform] !== undefined) dayObj.accumulated[platform]++;
+    }
   }
-  return discoveryAmount;
+  return timestampData;
 });
 
-function combineIndizes(platform: Platform): (number | null)[] {
-  const timestampData = structuredClone(transformedData.value);
-  const keys = Object.keys(timestampData);
+watchEffect(() => {
+  if (!isLoading.value) oldData.value = transformedData.value;
+});
 
-  Object.entries(timestampData).forEach(([_, platformValues], index) => {
-    Object.entries(platformValues).forEach(([platform, amount]) => {
-      const timestampDataObj = timestampData[keys[index + 1]];
-      if (index + 1 === keys.length) return;
+const dateLabels = computed(() => Object.keys(transformedData.value).map((ts) => new Date(ts).toLocaleDateString()));
 
-      if (!isPlatformCode(platform)) return;
-      timestampDataObj[platform] += amount;
-    });
+const data = computed(() => {
+  const individualDatasets: ChartData[] = sortedPlatforms.value.map((platform) => {
+    const label = platformMapping[platform].label;
+    const colour = platformMapping[platform].colour;
+    const data = Object.values(transformedData.value).map((day) => day.individual[platform] || null);
+    return { label, data, backgroundColor: colour, borderColor: colour + '70' };
+  });
+  const accumulatedDatasets: ChartData[] = sortedPlatforms.value.map((platform) => {
+    const colour = platformMapping[platform].colour;
+    const label = platformMapping[platform].label;
+    const data = Object.values(transformedData.value).map((day) => day.accumulated[platform] || null);
+    console.log(data)
+    return { label, data, backgroundColor: colour, borderColor: colour + '70' };
   });
 
-  return Object.values(timestampData).map((item) => item[platform] || null);
-}
-
-function individualDatasetObjectFactory(platform: Platform): ChartData {
-  const colour = getPlatformColour(platform);
-
-  const data = Object.values(transformedData.value).map((item) => item[platform] || null);
-
-  return {
-    label: platformMapping[platform].label,
-    backgroundColor: colour,
-    borderColor: colour + '70',
-    data,
-  };
-}
-
-function combinedDatasetObjectFactory(platform: Platform): ChartData {
-  const colour = getPlatformColour(platform);
-
-  const data = combineIndizes(platform);
-
-  return {
-    label: platformMapping[platform].label,
-    backgroundColor: colour,
-    borderColor: colour + '70',
-    data,
-  };
-}
-
-const individualDatasets = computed(() => {
-  const datasets = [];
-  for (const platform of Object.keys(platformMapping)) {
-    if (!isPlatformCode(platform)) continue;
-    const dataset = individualDatasetObjectFactory(platform);
-    datasets.push(dataset);
-  }
-  return datasets;
+  return [
+    {
+      labels: dateLabels.value,
+      datasets: individualDatasets,
+    },
+    {
+      labels: dateLabels.value,
+      datasets: accumulatedDatasets,
+    },
+  ];
 });
-
-const individualData = computed(() => ({
-  labels: Object.keys(blankData.value).map((ts) => new Date(ts).toLocaleDateString()),
-  datasets: individualDatasets.value,
-}));
-
-const combinedDatasets = computed(() => {
-  const datasets = [];
-  for (const platform of Object.keys(platformMapping)) {
-    if (!isPlatformCode(platform)) continue;
-    const dataset = combinedDatasetObjectFactory(platform);
-    datasets.push(dataset);
-  }
-  return datasets;
-});
-
-const combinedData = computed(() => ({
-  labels: Object.keys(blankData.value).map((ts) => new Date(ts).toLocaleDateString()),
-  datasets: combinedDatasets.value,
-}));
 </script>
 
 <template>
   <!--Platforms over Time-->
-  <div class="relative-position">
+  <div
+    v-for="chartData in data"
+    class="relative-position"
+  >
     <Line
-      :data="individualData"
-      :options="chartOptions"
-      class="chart"
-    />
-
-    <LoadingOverlay v-if="isLoading" />
-  </div>
-
-  <div class="relative-position">
-    <Line
-      :data="combinedData"
+      :data="chartData"
       :options="chartOptions"
       class="chart"
     />

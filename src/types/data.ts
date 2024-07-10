@@ -54,6 +54,15 @@ export interface TimestampData {
   [ts: string]: Omit<TimestampDataArray, 'ts'>;
 }
 
+export type PartialPlatformDiscoveryNumbers = Partial<Record<Platform, number>>;
+
+export type TimestampPlatformData = {
+  [ts: string]: {
+    individual: PartialPlatformDiscoveryNumbers;
+    accumulated: PartialPlatformDiscoveryNumbers;
+  };
+};
+
 export type PlanetDetails = Partial<Record<DiscoveryCategories, DiscoveryData[]>>;
 
 export interface BaseDiscovererData {
