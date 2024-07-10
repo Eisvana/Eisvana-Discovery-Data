@@ -20,8 +20,9 @@ import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import { chartOptions } from '@/variables/chart';
 import LoadingOverlay from '../LoadingOverlay.vue';
-import type { TimestampPlatformData } from '@/types/data';
+import type { TimestampPlatformData, TimeTrackingCategories } from '@/types/data';
 import { useFilterStore } from '@/stores/filter';
+import type { Platform } from '@/types/platform';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
@@ -89,19 +90,20 @@ watchEffect(() => {
 
 const dateLabels = computed(() => Object.keys(transformedData.value).map((ts) => new Date(ts).toLocaleDateString()));
 
+function buildChartData(platform: Platform, property: TimeTrackingCategories): ChartData {
+  const label = platformMapping[platform].label;
+  const colour = platformMapping[platform].colour;
+  const data = Object.values(transformedData.value).map((day) => day[property][platform] || null);
+  return { label, data, backgroundColor: colour, borderColor: colour + '70' };
+}
+
 const data = computed(() => {
-  const individualDatasets: ChartData[] = sortedPlatforms.value.map((platform) => {
-    const label = platformMapping[platform].label;
-    const colour = platformMapping[platform].colour;
-    const data = Object.values(transformedData.value).map((day) => day.individual[platform] || null);
-    return { label, data, backgroundColor: colour, borderColor: colour + '70' };
-  });
-  const accumulatedDatasets: ChartData[] = sortedPlatforms.value.map((platform) => {
-    const colour = platformMapping[platform].colour;
-    const label = platformMapping[platform].label;
-    const data = Object.values(transformedData.value).map((day) => day.accumulated[platform] || null);
-    return { label, data, backgroundColor: colour, borderColor: colour + '70' };
-  });
+  const individualDatasets: ChartData[] = sortedPlatforms.value.map((platform) =>
+    buildChartData(platform, 'individual')
+  );
+  const accumulatedDatasets: ChartData[] = sortedPlatforms.value.map((platform) =>
+    buildChartData(platform, 'accumulated')
+  );
 
   return [
     {
