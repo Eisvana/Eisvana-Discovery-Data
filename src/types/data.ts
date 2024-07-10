@@ -54,14 +54,25 @@ export interface TimestampData {
   [ts: string]: Omit<TimestampDataArray, 'ts'>;
 }
 
-export type PartialPlatformDiscoveryNumbers = Partial<Record<Platform, number>>;
+type PartialPlatformDiscoveryNumbers = Partial<Record<Platform, number>>;
+
+export type TimeTrackingCategories = 'individual' | 'accumulated';
 
 export type TimestampPlatformData = {
-  [ts: string]: {
-    individual: PartialPlatformDiscoveryNumbers;
-    accumulated: PartialPlatformDiscoveryNumbers;
-  };
+  [ts: string]: Record<TimeTrackingCategories, PartialPlatformDiscoveryNumbers>;
 };
+
+export interface PlayerPaginationData {
+  name: string;
+  colour: string;
+  discoveries: number;
+}
+
+export interface PlayerDiscoveryNumbers {
+  [ts: string]: {
+    [name: string]: Pick<PlayerPaginationData, 'colour'> & Record<TimeTrackingCategories, number>;
+  };
+}
 
 export type PlanetDetails = Partial<Record<DiscoveryCategories, DiscoveryData[]>>;
 

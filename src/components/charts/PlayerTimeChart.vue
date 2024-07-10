@@ -11,7 +11,7 @@ import {
   Legend,
 } from 'chart.js';
 import { storeToRefs } from 'pinia';
-import { computed, ref } from 'vue';
+import { computed, ref, watchEffect } from 'vue';
 import { Line } from 'vue-chartjs';
 import { getUTCDateString, getDatesBetween } from '@/helpers/date';
 import { paginateData } from '@/helpers/paginate';
@@ -22,6 +22,7 @@ import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import { chartOptions } from '@/variables/chart';
 import LoadingOverlay from '../LoadingOverlay.vue';
+import type { PlayerDiscoveryNumbers, PlayerPaginationData, TimeTrackingCategories } from '@/types/data';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
@@ -31,115 +32,125 @@ const { filteredData, dateRange, isLoading } = storeToRefs(dataStore);
 const debouncedFilteredData = refDebounced(filteredData, debounceDelay);
 const debouncedDateRange = refDebounced(dateRange, debounceDelay);
 
-interface TimestampData {
-  [key: string]: {
-    [key: string]: number;
-  };
-}
-
-interface PlayerData {
-  name: string;
-  colour: string;
-}
-
-const itemsPerPage = ref(10);
+const itemsPerPage = ref(10); // NoSonar this is one of the three possible rowsPerPage options
 const currentPage = ref(1);
 const currentPageIndex = computed(() => currentPage.value - 1);
 
-const players = computed((): PlayerData[] => {
-  const playerSet = new Set<string>();
-  debouncedFilteredData.value.forEach((item) => playerSet.add(item.Discoverer));
-  const playerObj = Array.from(playerSet).map((player) => ({ name: player, colour: getRandomColour() }));
+function getUniqueRandomColour(trackingArray: string[]) {
+  const colour = getRandomColour();
+  if (trackingArray.includes(colour)) return getUniqueRandomColour(trackingArray);
+  trackingArray.push(colour);
+  return colour;
+}
 
-  return playerObj;
+const oldPlayerData = ref<PlayerPaginationData[]>([]);
+const oldDateData = ref<PlayerDiscoveryNumbers>({});
+
+const playerData = computed(() => {
+  if (isLoading.value) return oldPlayerData.value;
+  const playerTracker: Record<string, { colour: string; discoveries: number }> = {};
+  const colourTracker: string[] = [];
+  debouncedFilteredData.value.forEach((item) => {
+    const discoverer = item.Discoverer;
+    const discovererObject = (playerTracker[discoverer] ??= {
+      colour: getUniqueRandomColour(colourTracker),
+      discoveries: 0,
+    });
+    discovererObject.discoveries++;
+  });
+
+  const playerObjects: PlayerPaginationData[] = Object.entries(playerTracker).map(([name, data]) => ({
+    name,
+    ...data,
+  }));
+  const sortedPlayerObjects = playerObjects.toSorted((a, b) => b.discoveries - a.discoveries);
+  return sortedPlayerObjects;
 });
 
-const blankData = computed(() => {
-  const timestampData: TimestampData = {};
+const paginatedPlayerData = computed(() => paginateData(playerData.value, itemsPerPage.value, currentPageIndex.value));
+
+const transformedData = computed(() => {
+  if (isLoading.value) return oldDateData.value;
+  const timestampData: PlayerDiscoveryNumbers = {};
 
   const dates = getDatesBetween(...debouncedDateRange.value);
   if (debouncedDateRange.value[1]) dates.push(debouncedDateRange.value[1]);
-  for (const date of dates) {
-    const timestampObj: { [key: string]: number } = (timestampData[date] = {});
-    for (const player of players.value) {
-      timestampObj[player.name] = 0;
-    }
-  }
-  return timestampData;
-});
 
-const transformedData = computed(() => {
-  const discoveryAmount = structuredClone(blankData.value);
+  // prettier-ignore
+  for (let i = 0; i < dates.length; i++) {  // NoSonar this is for performance
+    const date = dates[i];
+    timestampData[date] = {};
+    paginatedPlayerData.value.forEach((player) => {
+      const { name, colour } = player;
+      timestampData[date][name] = { colour, individual: 0, accumulated: 0 };
+    });
+  }
+
+  const timestamps = Object.keys(timestampData);
+
   // prettier-ignore
   for (let i = 0; i < debouncedFilteredData.value.length; i++) {  // NoSonar this is for performance
     const dataObj = debouncedFilteredData.value[i];
     if (!dataObj.Timestamp) continue;
 
     const utcDate = getUTCDateString(dataObj.Timestamp);
-    discoveryAmount[utcDate][dataObj.Discoverer]++;
-  }
-  return discoveryAmount;
-});
+    const timestampObj = timestampData[utcDate];
+    if (!timestampObj) break;
 
-const paginatedData = computed(() => paginateData(players.value, itemsPerPage.value, currentPageIndex.value));
+    const discoverer = dataObj.Discoverer;
+    const discovererObj = timestampObj[discoverer];
+    if (!discovererObj) continue;
 
-const individualDatasets = computed(() => paginatedData.value.map(individualDatasetObjectFactory));
+    discovererObj.individual++;
 
-const individualData = computed(() => ({
-  labels: Object.keys(blankData.value).map((ts) => new Date(ts).toLocaleDateString()),
-  datasets: individualDatasets.value,
-}));
+    const index = timestamps.indexOf(utcDate);
 
-const combinedDatasets = computed(() => paginatedData.value.map(combinedDatasetObjectFactory));
-
-const combinedData = computed(() => ({
-  labels: Object.keys(blankData.value).map((ts) => new Date(ts).toLocaleDateString()),
-  datasets: combinedDatasets.value,
-}));
-
-function combinedDatasetObjectFactory(playerObj: PlayerData): ChartData {
-  const colour = playerObj.colour;
-
-  const data = combineIndizes(playerObj.name);
-
-  return {
-    label: playerObj.name,
-    backgroundColor: colour,
-    borderColor: colour + '70',
-    data,
-  };
-}
-
-function individualDatasetObjectFactory(playerObj: PlayerData): ChartData {
-  const colour = playerObj.colour;
-
-  const data = Object.values(transformedData.value).map((item) => item[playerObj.name] || null);
-
-  return {
-    label: playerObj.name,
-    backgroundColor: colour,
-    borderColor: colour + '70',
-    data,
-  };
-}
-
-function combineIndizes(player: string): (number | null)[] {
-  const timestampData = structuredClone(transformedData.value);
-  const keys = Object.keys(timestampData);
-
-  for (const [ts, players] of Object.entries(timestampData)) {
-    const index = keys.indexOf(ts);
-
-    for (const [player, amount] of Object.entries(players)) {
-      const timestampDataObj = timestampData[keys[index + 1]];
-      if (index + 1 === keys.length) continue;
-
-      timestampDataObj[player] += amount;
+    // incrementing counter for future days
+    for (let j = index; j < timestamps.length; j++) {
+      const key = timestamps[j];
+      const dayObj = timestampData[key];
+      const discovererDayObj = dayObj[discoverer];
+      discovererDayObj.accumulated++;
     }
   }
+  return timestampData;
+});
 
-  return Object.values(timestampData).map((item) => item[player] || null);
+watchEffect(() => {
+  if (!isLoading.value) {
+    oldPlayerData.value = playerData.value;
+    oldDateData.value = transformedData.value;
+  }
+});
+
+const dateLabels = computed(() => Object.keys(transformedData.value).map((ts) => new Date(ts).toLocaleDateString()));
+
+function buildChartData(playerObj: PlayerPaginationData, property: TimeTrackingCategories): ChartData {
+  const { name, colour } = playerObj;
+  const playerDataArray = Object.values(transformedData.value).map((item) => item[name][property] || null);
+
+  return { label: name, backgroundColor: colour, borderColor: colour + '70', data: playerDataArray };
 }
+
+const data = computed(() => {
+  const individualDatasets: ChartData[] = paginatedPlayerData.value.map((player) =>
+    buildChartData(player, 'individual')
+  );
+  const accumulatedDatasets: ChartData[] = paginatedPlayerData.value.map((player) =>
+    buildChartData(player, 'accumulated')
+  );
+
+  return [
+    {
+      labels: dateLabels.value,
+      datasets: individualDatasets,
+    },
+    {
+      labels: dateLabels.value,
+      datasets: accumulatedDatasets,
+    },
+  ];
+});
 </script>
 
 <template>
@@ -147,21 +158,14 @@ function combineIndizes(player: string): (number | null)[] {
   <PaginationControls
     v-model:current-page="currentPage"
     v-model:items-per-page="itemsPerPage"
-    :data="players"
+    :data="playerData"
   />
-  <div class="relative-position">
+  <div
+    v-for="chartData in data"
+    class="relative-position"
+  >
     <Line
-      :data="individualData"
-      :options="chartOptions"
-      class="chart"
-    />
-
-    <LoadingOverlay v-if="isLoading" />
-  </div>
-
-  <div class="relative-position">
-    <Line
-      :data="combinedData"
+      :data="chartData"
       :options="chartOptions"
       class="chart"
     />
