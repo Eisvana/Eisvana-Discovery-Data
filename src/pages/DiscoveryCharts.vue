@@ -68,7 +68,7 @@ const group = 'chart';
 
     <ChartWrapper
       :group
-      summary="Average contributions"
+      summary="Average Contributions"
     >
       <ContributionChart />
     </ChartWrapper>
