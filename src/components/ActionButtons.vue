@@ -115,6 +115,7 @@ function resetFilter() {
 <template>
   <div class="button-wrapper q-mt-sm">
     <QBtn
+      :loading="isLoading"
       class="col-grow"
       color="primary"
       label="Apply Filter"
