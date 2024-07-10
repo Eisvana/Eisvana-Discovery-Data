@@ -8,11 +8,13 @@ import DiscoveryNote from '@/components/itemDetails/DiscoveryNote.vue';
 import UndiscoveredNote from '@/components/itemDetails/UndiscoveredNote.vue';
 import OverviewHeader from '@/components/itemDetails/OverviewHeader.vue';
 import { availableCategories } from '@/variables/categories';
+import LoadingOverlay from '@/components/LoadingOverlay.vue';
 
 const route = useRoute();
 
 const planetDetails: PlanetDetails = reactive({});
 const planetData = ref<DiscoveryData>();
+const isLoading = ref(true);
 
 function getRegionFromGlyphs(glyphs: string) {
   const regionCoords = glyphs.slice(4);
@@ -27,7 +29,7 @@ onMounted(async () => {
   const regionNumber = regionIndex + 1;
 
   // forEach doesn't support `await`, so the import statements are fired almost at the same time instead of waiting for the previous one
-  availableCategories.forEach(async (cat) => {
+  const promises = availableCategories.map(async (cat) => {
     const data: { default: DiscoveryData[] } = await import(`../assets/${cat}/EV${regionNumber}.json`);
     const itemsOnPlanet = data.default.filter((item) => item.Glyphs === glyphs);
     planetDetails[cat] = itemsOnPlanet;
@@ -36,19 +38,23 @@ onMounted(async () => {
   const data: { default: DiscoveryData[] } = await import(`../assets/Planet/EV${regionNumber}.json`);
   const planetObject = data.default.find((item) => item.Glyphs === glyphs);
   planetData.value = planetObject;
+  await Promise.all(promises);
+  isLoading.value = false;
 });
 </script>
 
 <template>
-  <OverviewHeader
-    v-if="planetData"
-    :item-data="planetData"
-  />
+  <template v-if="!isLoading">
+    <OverviewHeader
+      v-if="planetData"
+      :item-data="planetData"
+    />
 
-  <UndiscoveredNote
-    v-else
-    type="planet"
-  />
+    <UndiscoveredNote
+      v-else
+      type="planet"
+    />
+  </template>
 
   <DiscoveryNote />
 
@@ -76,4 +82,6 @@ onMounted(async () => {
       itemType="Settlements"
     />
   </div>
+
+  <LoadingOverlay v-if="isLoading" />
 </template>

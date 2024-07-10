@@ -12,6 +12,7 @@ import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import PieChartWrapper from '../PieChartWrapper.vue';
 import type { PlatformLabels } from '@/types/data';
+import LoadingOverlay from '../LoadingOverlay.vue';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
@@ -73,8 +74,5 @@ const pieChartData = computed(() => {
     />
   </PieChartWrapper>
 
-  <QInnerLoading
-    :showing="isLoading"
-    label="Loading Data..."
-  />
+  <LoadingOverlay v-if="isLoading" />
 </template>

@@ -21,6 +21,7 @@ import type { TimestampData } from '@/types/data';
 import type { ChartData } from '@/types/chart';
 import { useFilterStore } from '@/stores/filter';
 import { chartOptions } from '@/variables/chart';
+import LoadingOverlay from '../LoadingOverlay.vue';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
@@ -155,8 +156,5 @@ const data = computed(() => {
     class="chart"
   />
 
-  <QInnerLoading
-    :showing="isLoading"
-    label="Loading Data..."
-  />
+  <LoadingOverlay v-if="isLoading" />
 </template>

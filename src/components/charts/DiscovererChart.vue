@@ -13,6 +13,7 @@ import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import { useFilterStore } from '@/stores/filter';
 import type { ChartData } from '@/types/chart';
+import LoadingOverlay from '../LoadingOverlay.vue';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
@@ -129,8 +130,5 @@ const barChartData = computed(() => {
     class="chart"
   />
 
-  <QInnerLoading
-    :showing="isLoading"
-    label="Loading Data..."
-  />
+  <LoadingOverlay v-if="isLoading" />
 </template>

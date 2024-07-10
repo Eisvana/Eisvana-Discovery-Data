@@ -7,6 +7,7 @@ import { chartColours } from '@/variables/mappings';
 import { computed } from 'vue';
 import { chartOptions } from '@/variables/chart';
 import { refDebounced } from '@vueuse/core';
+import LoadingOverlay from '../LoadingOverlay.vue';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
 
@@ -43,7 +44,7 @@ const chartData = computed(() => ({
   labels: Object.keys(discovererStats.value),
   datasets: [
     {
-      label: 'Players with contribution',
+      label: 'Players with Discovery Amount',
       backgroundColor: chartColours.blue,
       data: Object.values(discovererStats.value),
     },
@@ -52,15 +53,12 @@ const chartData = computed(() => ({
 </script>
 
 <template>
-  <!--Average Contributions-->
+  <!--Average Discoveries-->
   <Bar
     :data="chartData"
     :options="chartOptions"
     class="chart"
   />
 
-  <QInnerLoading
-    :showing="isLoading"
-    label="Loading Data..."
-  />
+  <LoadingOverlay v-if="isLoading" />
 </template>

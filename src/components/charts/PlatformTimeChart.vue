@@ -22,6 +22,7 @@ import type { ChartData } from '@/types/chart';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import { chartOptions } from '@/variables/chart';
+import LoadingOverlay from '../LoadingOverlay.vue';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
@@ -156,10 +157,7 @@ const combinedData = computed(() => ({
       class="chart"
     />
 
-    <QInnerLoading
-      :showing="isLoading"
-      label="Loading Data..."
-    />
+    <LoadingOverlay v-if="isLoading" />
   </div>
 
   <div class="relative-position">
@@ -169,9 +167,6 @@ const combinedData = computed(() => ({
       class="chart"
     />
 
-    <QInnerLoading
-      :showing="isLoading"
-      label="Loading Data..."
-    />
+    <LoadingOverlay v-if="isLoading" />
   </div>
 </template>

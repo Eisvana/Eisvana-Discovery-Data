@@ -21,6 +21,7 @@ import PaginationControls from '@/components/PaginationControls.vue';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import { chartOptions } from '@/variables/chart';
+import LoadingOverlay from '../LoadingOverlay.vue';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
@@ -155,10 +156,7 @@ function combineIndizes(player: string): (number | null)[] {
       class="chart"
     />
 
-    <QInnerLoading
-      :showing="isLoading"
-      label="Loading Data..."
-    />
+    <LoadingOverlay v-if="isLoading" />
   </div>
 
   <div class="relative-position">
@@ -168,9 +166,6 @@ function combineIndizes(player: string): (number | null)[] {
       class="chart"
     />
 
-    <QInnerLoading
-      :showing="isLoading"
-      label="Loading Data..."
-    />
+    <LoadingOverlay v-if="isLoading" />
   </div>
 </template>

@@ -13,6 +13,7 @@ import PieChartWrapper from '../PieChartWrapper.vue';
 import type { PlatformDataArray } from '@/types/data';
 import type { ChartData } from '@/types/chart';
 import { useFilterStore } from '@/stores/filter';
+import LoadingOverlay from '../LoadingOverlay.vue';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
@@ -133,10 +134,7 @@ const pieChartData = computed(() => {
       class="chart"
     />
 
-    <QInnerLoading
-      :showing="isLoading"
-      label="Loading Data..."
-    />
+    <LoadingOverlay v-if="isLoading" />
   </div>
 
   <div class="relative-position">
@@ -147,9 +145,6 @@ const pieChartData = computed(() => {
       />
     </PieChartWrapper>
 
-    <QInnerLoading
-      :showing="isLoading"
-      label="Loading Data..."
-    />
+    <LoadingOverlay v-if="isLoading" />
   </div>
 </template>
