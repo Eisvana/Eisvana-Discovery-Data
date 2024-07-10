@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { chartColours } from '@/variables/mappings';
+import { categoryMapping, chartColours } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
 import {
   Chart as ChartJS,
@@ -12,35 +12,41 @@ import {
   Legend,
 } from 'chart.js';
 import { storeToRefs } from 'pinia';
-import { computed } from 'vue';
+import { computed, ref, watch } from 'vue';
 import { Line } from 'vue-chartjs';
 import { getDatesBetween, getUTCDateString } from '@/helpers/date';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import { chartOptions } from '@/variables/chart';
+import type { TimestampData, TimestampDataArray } from '@/types/data';
+import { useFilterStore } from '@/stores/filter';
+import type { ChartData } from '@/types/chart';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
 const dataStore = useDataStore();
 const { filteredData, dateRange, isLoading } = storeToRefs(dataStore);
 
+const filterStore = useFilterStore();
+const { sortedCategories } = storeToRefs(filterStore);
+
 const debouncedFilteredData = refDebounced(filteredData, debounceDelay);
 const debouncedDateRange = refDebounced(dateRange, debounceDelay);
 
-interface TimestampData {
-  [key: string]: {
-    correct: number;
-    incorrect: number;
-  };
-}
+const oldData = ref<TimestampDataArray[]>([]);
 
 const transformedData = computed(() => {
+  if (isLoading.value) return oldData.value;
   const timestampData: TimestampData = {};
 
   const dates = getDatesBetween(...debouncedDateRange.value);
   if (debouncedDateRange.value[1]) dates.push(debouncedDateRange.value[1]);
   for (const date of dates) {
-    timestampData[date] = { correct: 0, incorrect: 0 };
+    timestampData[date] = {
+      discoveries: 0,
+      tags: 0,
+      mistags: 0,
+    };
   }
 
   // prettier-ignore
@@ -49,39 +55,77 @@ const transformedData = computed(() => {
     if (!item.Timestamp) continue;
 
     const utcDate = getUTCDateString(item.Timestamp);
-    timestampData[utcDate][item['Correctly Prefixed'] ? 'correct' : 'incorrect']++;
+    const timestampObj = timestampData[utcDate];
+    if (!timestampObj) break;
+    timestampObj.discoveries++;
+    if (item['Correctly Prefixed']) {
+      timestampObj.tags++;
+    } else {
+      timestampObj.mistags++;
+    }
+    sortedCategories.value.forEach((cat) => (timestampObj[cat] ??= 0));
+    const category = item.Category;
+    if (timestampObj[category] !== undefined) timestampObj[category]++;
   }
 
-  const newDateArray: { ts: string; correct: number; incorrect: number }[] = Object.entries(timestampData).map(
-    ([ts, data]) => ({ ts, ...data })
-  );
+  const newDateArray: TimestampDataArray[] = Object.entries(timestampData).map(([ts, data]) => ({ ts, ...data }));
 
   return newDateArray;
 });
 
-const data = computed(() => ({
-  labels: transformedData.value.map((obj) => new Date(obj.ts).toLocaleDateString()),
-  datasets: [
+watch(
+  isLoading,
+  (newLoadingState) => {
+    if (!newLoadingState) oldData.value = transformedData.value;
+  },
+  { immediate: true }
+);
+
+const data = computed(() => {
+  const datasets: ChartData[] = [
     {
       label: 'Total Discoveries',
       backgroundColor: chartColours.green,
-      borderColor: chartColours.green + '70',
-      data: transformedData.value.map((obj) => obj.correct + obj.incorrect || null),
+      data: Object.values(transformedData.value).map((day) => day.discoveries || null),
     },
-    {
-      label: 'Correct Tags',
-      backgroundColor: chartColours.blue,
-      borderColor: chartColours.blue + '70',
-      data: transformedData.value.map((obj) => obj.correct || null),
-    },
-    {
-      label: 'Incorrect Tags',
-      backgroundColor: chartColours.red,
-      borderColor: chartColours.red + '70',
-      data: transformedData.value.map((obj) => obj.incorrect || null),
-    },
-  ],
-}));
+  ];
+
+  if (sortedCategories.value.length > 1) {
+    const mappedDatasets = sortedCategories.value.map((cat) => {
+      const categoryDiscoveries = Object.values(transformedData.value).map((day) => day[cat] || null);
+      const backgroundColor = categoryMapping[cat].colour;
+
+      return {
+        label: categoryMapping[cat].label,
+        data: categoryDiscoveries,
+        backgroundColor,
+      };
+    });
+    datasets.push(...mappedDatasets);
+  } else if (sortedCategories.value[0] === 'SolarSystem') {
+    const tags = Object.values(transformedData.value).map((day) => day.tags || null);
+    const mistags = Object.values(transformedData.value).map((day) => day.mistags || null);
+    datasets.push(
+      {
+        label: 'Correct Tags',
+        backgroundColor: chartColours.blue,
+        data: tags,
+      },
+      {
+        label: 'Incorrect Tags',
+        backgroundColor: chartColours.red,
+        data: mistags,
+      }
+    );
+  }
+  datasets.forEach((item) => (item.borderColor = item.backgroundColor + '70'));
+  const labels = transformedData.value.map(({ ts }) => new Date(ts).toLocaleDateString());
+
+  return {
+    labels,
+    datasets,
+  };
+});
 </script>
 
 <template>
