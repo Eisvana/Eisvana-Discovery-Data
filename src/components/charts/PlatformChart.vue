@@ -13,7 +13,7 @@ import PieChartWrapper from '../PieChartWrapper.vue';
 import type { PlatformDataArray } from '@/types/data';
 import type { ChartData } from '@/types/chart';
 import { useFilterStore } from '@/stores/filter';
-import LoadingOverlay from '../LoadingOverlay.vue';
+import ChartContainer from '../ChartContainer.vue';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
@@ -123,24 +123,20 @@ const pieChartData = computed(() => {
 
 <template>
   <!--Discoveries per Platform-->
-  <div class="relative-position">
+  <ChartContainer>
     <Bar
       :data="barChartData"
       :options="barChartOptions"
       class="chart"
     />
+  </ChartContainer>
 
-    <LoadingOverlay v-if="isLoading" />
-  </div>
-
-  <div class="relative-position">
+  <ChartContainer>
     <PieChartWrapper>
       <Pie
         :data="pieChartData"
         :options="chartOptions"
       />
     </PieChartWrapper>
-
-    <LoadingOverlay v-if="isLoading" />
-  </div>
+  </ChartContainer>
 </template>

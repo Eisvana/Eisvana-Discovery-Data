@@ -12,12 +12,12 @@ import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import PieChartWrapper from '../PieChartWrapper.vue';
 import type { PlatformLabels } from '@/types/data';
-import LoadingOverlay from '../LoadingOverlay.vue';
+import ChartContainer from '../ChartContainer.vue';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
 const dataStore = useDataStore();
-const { filteredData, isLoading } = storeToRefs(dataStore);
+const { filteredData } = storeToRefs(dataStore);
 
 const debouncedFilteredData = refDebounced(filteredData, debounceDelay);
 
@@ -67,12 +67,12 @@ const pieChartData = computed(() => {
 
 <template>
   <!--Players per Platform-->
-  <PieChartWrapper>
-    <Pie
-      :data="pieChartData"
-      :options="chartOptions"
-    />
-  </PieChartWrapper>
-
-  <LoadingOverlay v-if="isLoading" />
+  <ChartContainer>
+    <PieChartWrapper>
+      <Pie
+        :data="pieChartData"
+        :options="chartOptions"
+      />
+    </PieChartWrapper>
+  </ChartContainer>
 </template>

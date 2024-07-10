@@ -21,7 +21,7 @@ import { chartOptions } from '@/variables/chart';
 import type { TimestampData, TimestampDataArray } from '@/types/data';
 import { useFilterStore } from '@/stores/filter';
 import type { ChartData } from '@/types/chart';
-import LoadingOverlay from '../LoadingOverlay.vue';
+import ChartContainer from '../ChartContainer.vue';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
@@ -127,11 +127,11 @@ const data = computed(() => {
 
 <template>
   <!--Discoveries per Day-->
-  <Line
-    :data="data"
-    :options="chartOptions"
-    class="chart"
-  />
-
-  <LoadingOverlay v-if="isLoading" />
+  <ChartContainer>
+    <Line
+      :data="data"
+      :options="chartOptions"
+      class="chart"
+    />
+  </ChartContainer>
 </template>

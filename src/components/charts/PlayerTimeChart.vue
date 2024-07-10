@@ -21,8 +21,8 @@ import PaginationControls from '@/components/PaginationControls.vue';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import { chartOptions } from '@/variables/chart';
-import LoadingOverlay from '../LoadingOverlay.vue';
 import type { PlayerDiscoveryNumbers, PlayerPaginationData, TimeTrackingCategories } from '@/types/data';
+import ChartContainer from '../ChartContainer.vue';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
@@ -160,16 +160,11 @@ const data = computed(() => {
     v-model:items-per-page="itemsPerPage"
     :data="playerData"
   />
-  <div
-    v-for="chartData in data"
-    class="relative-position"
-  >
+  <ChartContainer v-for="chartData in data">
     <Line
       :data="chartData"
       :options="chartOptions"
       class="chart"
     />
-
-    <LoadingOverlay v-if="isLoading" />
-  </div>
+  </ChartContainer>
 </template>

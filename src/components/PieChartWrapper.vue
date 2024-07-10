@@ -19,6 +19,5 @@ onMounted(() => (isOpen.value = true));
 <style scoped lang="scss">
 .pie-chart {
   width: min(700px, 100%);
-  margin-block-start: 2rem;
 }
 </style>

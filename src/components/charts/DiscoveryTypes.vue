@@ -11,12 +11,12 @@ import { categoryMapping } from '@/variables/mappings';
 import type { DiscoveryData, PartialDiscoveryCategoryNumbers } from '@/types/data';
 import PieChartWrapper from '../PieChartWrapper.vue';
 import { useFilterStore } from '@/stores/filter';
-import LoadingOverlay from '../LoadingOverlay.vue';
+import ChartContainer from '../ChartContainer.vue';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
 const dataStore = useDataStore();
-const { filteredData, isLoading } = storeToRefs(dataStore);
+const { filteredData } = storeToRefs(dataStore);
 
 const filterStore = useFilterStore();
 const { sortedCategories } = storeToRefs(filterStore);
@@ -57,12 +57,12 @@ const pieChartData = computed(() => ({
 
 <template>
   <!--Discoveries per Category-->
-  <PieChartWrapper>
-    <Pie
-      :data="pieChartData"
-      :options="chartOptions"
-    />
-  </PieChartWrapper>
-
-  <LoadingOverlay v-if="isLoading" />
+  <ChartContainer>
+    <PieChartWrapper>
+      <Pie
+        :data="pieChartData"
+        :options="chartOptions"
+      />
+    </PieChartWrapper>
+  </ChartContainer>
 </template>

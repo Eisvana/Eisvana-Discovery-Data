@@ -13,7 +13,7 @@ import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import { useFilterStore } from '@/stores/filter';
 import type { ChartData } from '@/types/chart';
-import LoadingOverlay from '../LoadingOverlay.vue';
+import ChartContainer from '../ChartContainer.vue';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
@@ -120,11 +120,11 @@ const barChartData = computed(() => {
     :data="discovererStats"
   />
 
-  <Bar
-    :data="barChartData"
-    :options="barChartOptions"
-    class="chart"
-  />
-
-  <LoadingOverlay v-if="isLoading" />
+  <ChartContainer>
+    <Bar
+      :data="barChartData"
+      :options="barChartOptions"
+      class="chart"
+    />
+  </ChartContainer>
 </template>

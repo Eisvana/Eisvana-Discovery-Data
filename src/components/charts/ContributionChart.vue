@@ -7,12 +7,12 @@ import { chartColours } from '@/variables/mappings';
 import { computed } from 'vue';
 import { chartOptions } from '@/variables/chart';
 import { refDebounced } from '@vueuse/core';
-import LoadingOverlay from '../LoadingOverlay.vue';
+import ChartContainer from '../ChartContainer.vue';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
 
 const dataStore = useDataStore();
-const { filteredData, isLoading } = storeToRefs(dataStore);
+const { filteredData } = storeToRefs(dataStore);
 
 const debouncedFilteredData = refDebounced(filteredData, 1000);
 
@@ -54,11 +54,11 @@ const chartData = computed(() => ({
 
 <template>
   <!--Average Discoveries-->
-  <Bar
-    :data="chartData"
-    :options="chartOptions"
-    class="chart"
-  />
-
-  <LoadingOverlay v-if="isLoading" />
+  <ChartContainer>
+    <Bar
+      :data="chartData"
+      :options="chartOptions"
+      class="chart"
+    />
+  </ChartContainer>
 </template>

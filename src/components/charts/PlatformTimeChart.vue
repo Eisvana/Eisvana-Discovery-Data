@@ -19,10 +19,10 @@ import type { ChartData } from '@/types/chart';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import { chartOptions } from '@/variables/chart';
-import LoadingOverlay from '../LoadingOverlay.vue';
 import type { TimestampPlatformData, TimeTrackingCategories } from '@/types/data';
 import { useFilterStore } from '@/stores/filter';
 import type { Platform } from '@/types/platform';
+import ChartContainer from '../ChartContainer.vue';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
@@ -120,16 +120,11 @@ const data = computed(() => {
 
 <template>
   <!--Platforms over Time-->
-  <div
-    v-for="chartData in data"
-    class="relative-position"
-  >
+  <ChartContainer v-for="chartData in data">
     <Line
       :data="chartData"
       :options="chartOptions"
       class="chart"
     />
-
-    <LoadingOverlay v-if="isLoading" />
-  </div>
+  </ChartContainer>
 </template>
