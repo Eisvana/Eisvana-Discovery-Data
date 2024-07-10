@@ -97,7 +97,6 @@ export interface NumberStats {
   nonSystemsProcName: number;
   systemsUndiscovered: number;
   discovererNumber: number;
-  dataHasSystems: boolean;
   avgDiscoverersPerDay: string; // because .toFixed() converts to string
   systemsDuplicates: [string, number][];
 }

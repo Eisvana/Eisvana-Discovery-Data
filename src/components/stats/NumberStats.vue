@@ -5,11 +5,15 @@ import { storeToRefs } from 'pinia';
 import { computed, toRefs } from 'vue';
 import { getFormattedUTCDateString, getUTCDateString } from '@/helpers/date';
 import { dayInMs } from '@/variables/time';
-import { toReactive } from '@vueuse/core';
+import { reactiveComputed } from '@vueuse/core';
 import type { NumberStats } from '@/types/data';
+import { useFilterStore } from '@/stores/filter';
 
 const dataStore = useDataStore();
 const { filteredData, amountTagged, dataLength, dateRange } = storeToRefs(dataStore);
+
+const filterStore = useFilterStore();
+const { sortedCategories } = storeToRefs(filterStore);
 
 const differenceInDays = computed(() => {
   if (dateRange.value.some((date) => !date)) return 0;
@@ -25,14 +29,15 @@ const differenceInDays = computed(() => {
   return diffDays;
 });
 
-const numberStats = computed(() => {
+const dataHasSystems = computed(() => sortedCategories.value.includes('SolarSystem'));
+
+const numberStats = reactiveComputed(() => {
   const resultObj: NumberStats = {
     systemsNotTagged: 0,
     systemsProcName: 0,
     nonSystemsProcName: 0,
     systemsUndiscovered: 0,
     discovererNumber: 0,
-    dataHasSystems: false,
     avgDiscoverersPerDay: '0', // because .toFixed() converts to string
     systemsDuplicates: [],
   };
@@ -57,9 +62,6 @@ const numberStats = computed(() => {
 
     // undiscovered
     if (!item.Name && !item.Discoverer) resultObj.systemsUndiscovered++;
-
-    // data has systems
-    resultObj.dataHasSystems ||= !resultObj.dataHasSystems && item.Category === 'SolarSystem';
 
     // discoverers
     if (item.Discoverer) {
@@ -98,10 +100,9 @@ const {
   nonSystemsProcName,
   systemsUndiscovered,
   discovererNumber,
-  dataHasSystems,
   avgDiscoverersPerDay,
   systemsDuplicates,
-} = toRefs(toReactive(numberStats));
+} = toRefs(numberStats);
 
 // tagged
 const systemsTaggedPercent = computed(() => getPercentage(amountTagged.value, dataLength.value));
