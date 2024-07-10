@@ -10,7 +10,7 @@ onMounted(() => (isOpen.value = true));
 <template>
   <div
     v-if="isOpen"
-    class="pie-chart q-mx-auto"
+    class="pie-chart q-mx-auto q-mb-md"
   >
     <slot></slot>
   </div>

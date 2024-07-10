@@ -8,7 +8,7 @@ const { isLoading } = storeToRefs(dataStore);
 </script>
 
 <template>
-  <div class="relative-position chart-container">
+  <div class="relative-position chart-container q-mb-sm">
     <slot></slot>
 
     <LoadingOverlay v-if="isLoading" />
