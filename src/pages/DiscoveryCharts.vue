@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
-import ChartWrapper from '@/components/ChartWrapper.vue';
+import ChartDropdown from '@/components/ChartDropdown.vue';
 import DiscovererChart from '@/components/charts/DiscovererChart.vue';
 import PlatformChart from '@/components/charts/PlatformChart.vue';
 import TagChart from '@/components/charts/TagChart.vue';
@@ -24,67 +24,67 @@ const group = 'chart';
     v-if="dataLength"
     class="column"
   >
-    <ChartWrapper
+    <ChartDropdown
       :group
       summary="Discoveries per Player"
     >
       <DiscovererChart />
-    </ChartWrapper>
+    </ChartDropdown>
 
-    <ChartWrapper
+    <ChartDropdown
       :group
       summary="Discoveries per Category"
     >
       <DiscoveryTypes />
-    </ChartWrapper>
+    </ChartDropdown>
 
-    <ChartWrapper
+    <ChartDropdown
       :group
       summary="Discoveries per Platform"
     >
       <PlatformChart />
-    </ChartWrapper>
+    </ChartDropdown>
 
-    <ChartWrapper
+    <ChartDropdown
       :group
       summary="Discoveries per Day"
     >
       <TagChart />
-    </ChartWrapper>
+    </ChartDropdown>
 
-    <ChartWrapper
+    <ChartDropdown
       :group
       summary="Discoveries over Time"
     >
       <DiscoveriesChart />
-    </ChartWrapper>
+    </ChartDropdown>
 
-    <ChartWrapper
+    <ChartDropdown
       :group
       summary="Players per Platform"
     >
       <PlayerPlatformChart />
-    </ChartWrapper>
+    </ChartDropdown>
 
-    <ChartWrapper
+    <ChartDropdown
       :group
       summary="Average Discoveries"
     >
       <ContributionChart />
-    </ChartWrapper>
+    </ChartDropdown>
 
-    <ChartWrapper
+    <ChartDropdown
       :group
       summary="Platforms over Time"
     >
       <PlatformTimeChart />
-    </ChartWrapper>
+    </ChartDropdown>
 
-    <ChartWrapper
+    <ChartDropdown
       :group
       summary="Players over Time"
     >
       <PlayerTimeChart />
-    </ChartWrapper>
+    </ChartDropdown>
   </div>
 </template>
