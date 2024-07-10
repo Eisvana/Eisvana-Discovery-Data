@@ -12,10 +12,10 @@ import {
   Legend,
 } from 'chart.js';
 import { storeToRefs } from 'pinia';
-import { ref, watch } from 'vue';
+import { computed, ref, watch } from 'vue';
 import { Line } from 'vue-chartjs';
 import { getUTCDateString, getDatesBetween } from '@/helpers/date';
-import { computedWithControl, refDebounced } from '@vueuse/core';
+import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import type { DiscoveryCategories } from '@/types/data';
 import type { ChartData } from '@/types/chart';
@@ -32,7 +32,6 @@ const { sortedCategories } = storeToRefs(filterStore);
 
 const debouncedFilteredData = refDebounced(filteredData, debounceDelay);
 const debouncedDateRange = refDebounced(dateRange, debounceDelay);
-const debouncedSortedCategories = refDebounced(sortedCategories, debounceDelay);
 
 interface TimestampData {
   [key: string]: Partial<Record<DiscoveryCategories, number>> & {
@@ -44,7 +43,7 @@ interface TimestampData {
 
 const oldData = ref<TimestampData>({});
 
-const transformedData = computedWithControl(debouncedFilteredData, () => {
+const transformedData = computed(() => {
   if (isLoading.value) return oldData.value;
   const timestampData: TimestampData = {};
   const dates = getDatesBetween(...debouncedDateRange.value);
@@ -94,7 +93,7 @@ const transformedData = computedWithControl(debouncedFilteredData, () => {
       const dayObj = timestampData[key];
       dayObj.discoveries++;
       dayObj[isCorrect ? 'correct' : 'incorrect']++;
-      debouncedSortedCategories.value.forEach((cat) => (dayObj[cat] ??= 0));
+      sortedCategories.value.forEach((cat) => (dayObj[cat] ??= 0));
       if (dayObj[category] !== undefined) dayObj[category]++;
     }
   }
@@ -109,7 +108,7 @@ watch(
   { immediate: true }
 );
 
-const data = computedWithControl(transformedData, () => {
+const data = computed(() => {
   const datasets: ChartData[] = [
     {
       label: 'Total Discoveries',
@@ -119,7 +118,7 @@ const data = computedWithControl(transformedData, () => {
     },
   ];
 
-  if (debouncedSortedCategories.value[0] === 'SolarSystem' && debouncedSortedCategories.value.length === 1) {
+  if (sortedCategories.value[0] === 'SolarSystem' && sortedCategories.value.length === 1) {
     const tags = Object.values(transformedData.value).map((day) => day.correct || null);
     const mistags = Object.values(transformedData.value).map((day) => day.incorrect || null);
     datasets.push(
@@ -134,8 +133,8 @@ const data = computedWithControl(transformedData, () => {
         data: mistags,
       }
     );
-  } else if (debouncedSortedCategories.value.length > 1) {
-    const mappedDatasets = debouncedSortedCategories.value.map((cat) => {
+  } else if (sortedCategories.value.length > 1) {
+    const mappedDatasets = sortedCategories.value.map((cat) => {
       const categoryDiscoveries = Object.values(transformedData.value).map((day) => day[cat] || null);
       const backgroundColor = categoryMapping[cat].colour;
 

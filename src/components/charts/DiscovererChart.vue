@@ -9,7 +9,7 @@ import type { DiscovererData, DiscovererDataArray } from '@/types/data';
 import { paginateData } from '@/helpers/paginate';
 import PaginationControls from '@/components/PaginationControls.vue';
 import { barChartOptions } from '@/variables/chart';
-import { computedWithControl, refDebounced } from '@vueuse/core';
+import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import { useFilterStore } from '@/stores/filter';
 import type { ChartData } from '@/types/chart';
@@ -23,7 +23,6 @@ const filterStore = useFilterStore();
 const { sortedCategories } = storeToRefs(filterStore);
 
 const debouncedFilteredData = refDebounced(filteredData, debounceDelay);
-const debouncedSortedCategories = refDebounced(sortedCategories, debounceDelay);
 
 const itemsPerPage = ref(50); // NoSonar this is one of the three possible rowsPerPage options
 const currentPage = ref(1);
@@ -31,7 +30,7 @@ const currentPageIndex = computed(() => currentPage.value - 1);
 
 const oldData = ref<DiscovererDataArray[]>([]);
 
-const discovererStats = computedWithControl(debouncedFilteredData, () => {
+const discovererStats = computed(() => {
   if (isLoading.value) return oldData.value;
   const discovererData: DiscovererData = {};
 
@@ -49,7 +48,7 @@ const discovererStats = computedWithControl(debouncedFilteredData, () => {
 
     discovererObject.discoveries++;
     const entryCategory = data.Category;
-    debouncedSortedCategories.value.forEach((cat) => (discovererObject[cat] ??= 0));
+    sortedCategories.value.forEach((cat) => (discovererObject[cat] ??= 0));
     if (discovererObject[entryCategory] !== undefined) discovererObject[entryCategory]++;
 
     if (data['Correctly Prefixed']) {
@@ -77,12 +76,12 @@ watch(
 
 const paginatedData = computed(() => paginateData(discovererStats.value, itemsPerPage.value, currentPageIndex.value));
 
-const barChartData = computedWithControl(paginatedData, () => {
+const barChartData = computed(() => {
   const playerNames: string[] = paginatedData.value.map((item) => item.name);
 
   const datasets: ChartData[] = [];
 
-  if (debouncedSortedCategories.value[0] === 'SolarSystem' && debouncedSortedCategories.value.length === 1) {
+  if (sortedCategories.value[0] === 'SolarSystem' && sortedCategories.value.length === 1) {
     const playerTags: number[] = paginatedData.value.map((item) => item.tags);
     const playerMistags: number[] = paginatedData.value.map((item) => item.mistags);
     datasets.push(
@@ -98,11 +97,11 @@ const barChartData = computedWithControl(paginatedData, () => {
       }
     );
   } else {
-    const mappedDatasets = debouncedSortedCategories.value.map((cat) => {
+    const mappedDatasets = sortedCategories.value.map((cat) => {
       const categoryDiscoveries = paginatedData.value.map((item) => item[cat] ?? 0);
       return {
         label: categoryMapping[cat].label,
-        backgroundColor: debouncedSortedCategories.value.length === 1 ? chartColours.blue : categoryMapping[cat].colour,
+        backgroundColor: sortedCategories.value.length === 1 ? chartColours.blue : categoryMapping[cat].colour,
         data: categoryDiscoveries,
       };
     });

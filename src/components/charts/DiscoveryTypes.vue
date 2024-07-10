@@ -4,7 +4,7 @@ import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, Li
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
-import { computedWithControl, refDebounced } from '@vueuse/core';
+import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import { chartOptions } from '@/variables/chart';
 import { categoryMapping } from '@/variables/mappings';
@@ -22,7 +22,7 @@ const { sortedCategories } = storeToRefs(filterStore);
 
 const debouncedFilteredData = refDebounced<DiscoveryData[]>(filteredData, debounceDelay);
 
-const categoryData = computedWithControl(debouncedFilteredData, () => {
+const categoryData = computed(() => {
   const labels = sortedCategories.value;
   const colours = labels.map((cat) => categoryMapping[cat].colour);
 
