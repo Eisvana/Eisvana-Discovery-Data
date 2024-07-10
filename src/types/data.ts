@@ -23,22 +23,35 @@ export interface DiscoveryData {
   Gamemode?: string;
 }
 
-export interface DiscovererDataArray extends Partial<Record<DiscoveryCategories, number>> {
-  name: string;
+export type PartialDiscoveryCategoryNumbers = Partial<Record<DiscoveryCategories, number>>;
+
+interface BaseDiscoveryObject {
   discoveries: number;
   tags: number;
   mistags: number;
 }
+
+export type DiscovererDataArray = PartialDiscoveryCategoryNumbers &
+  BaseDiscoveryObject & {
+    name: string;
+  };
 
 export interface DiscovererData {
   [name: string]: Omit<DiscovererDataArray, 'name'>;
 }
 
-export interface PlatformDataArray extends Partial<Record<DiscoveryCategories, number>> {
-  platform: Platform;
-  discoveries: number;
-  tags: number;
-  mistags: number;
+export type PlatformDataArray = PartialDiscoveryCategoryNumbers &
+  BaseDiscoveryObject & {
+    platform: Platform;
+  };
+
+export type TimestampDataArray = PartialDiscoveryCategoryNumbers &
+  BaseDiscoveryObject & {
+    ts: string;
+  };
+
+export interface TimestampData {
+  [ts: string]: Omit<TimestampDataArray, 'ts'>;
 }
 
 export type PlanetDetails = Partial<Record<DiscoveryCategories, DiscoveryData[]>>;

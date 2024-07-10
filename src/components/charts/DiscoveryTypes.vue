@@ -8,7 +8,7 @@ import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import { chartOptions } from '@/variables/chart';
 import { categoryMapping } from '@/variables/mappings';
-import type { DiscoveryCategories, DiscoveryData } from '@/types/data';
+import type { DiscoveryData, PartialDiscoveryCategoryNumbers } from '@/types/data';
 import PieChartWrapper from '../PieChartWrapper.vue';
 import { useFilterStore } from '@/stores/filter';
 
@@ -26,7 +26,7 @@ const categoryData = computed(() => {
   const labels = sortedCategories.value;
   const colours = labels.map((cat) => categoryMapping[cat].colour);
 
-  const categoryCounters: Partial<Record<DiscoveryCategories, number>> = {};
+  const categoryCounters: PartialDiscoveryCategoryNumbers = {};
   labels.forEach((cat) => (categoryCounters[cat] = 0));
 
   // prettier-ignore

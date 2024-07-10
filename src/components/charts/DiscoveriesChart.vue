@@ -17,7 +17,7 @@ import { Line } from 'vue-chartjs';
 import { getUTCDateString, getDatesBetween } from '@/helpers/date';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
-import type { DiscoveryCategories } from '@/types/data';
+import type { TimestampData } from '@/types/data';
 import type { ChartData } from '@/types/chart';
 import { useFilterStore } from '@/stores/filter';
 import { chartOptions } from '@/variables/chart';
@@ -33,14 +33,6 @@ const { sortedCategories } = storeToRefs(filterStore);
 const debouncedFilteredData = refDebounced(filteredData, debounceDelay);
 const debouncedDateRange = refDebounced(dateRange, debounceDelay);
 
-interface TimestampData {
-  [key: string]: Partial<Record<DiscoveryCategories, number>> & {
-    correct: number;
-    incorrect: number;
-    discoveries: number;
-  };
-}
-
 const oldData = ref<TimestampData>({});
 
 const transformedData = computed(() => {
@@ -54,8 +46,8 @@ const transformedData = computed(() => {
   for (let i = 0; i < dates.length; i++) {	// NoSonar this is for performance
     const date = dates[i];
     timestampData[date] = {
-      correct: 0,
-      incorrect: 0,
+      tags: 0,
+      mistags: 0,
       discoveries: 0
     };
   }
@@ -92,7 +84,7 @@ const transformedData = computed(() => {
       const key = keys[j];
       const dayObj = timestampData[key];
       dayObj.discoveries++;
-      dayObj[isCorrect ? 'correct' : 'incorrect']++;
+      dayObj[isCorrect ? 'tags' : 'mistags']++;
       sortedCategories.value.forEach((cat) => (dayObj[cat] ??= 0));
       if (dayObj[category] !== undefined) dayObj[category]++;
     }
@@ -113,14 +105,25 @@ const data = computed(() => {
     {
       label: 'Total Discoveries',
       backgroundColor: chartColours.green,
-      borderColor: chartColours.green + '70',
       data: Object.values(transformedData.value).map((day) => day.discoveries || null),
     },
   ];
 
-  if (sortedCategories.value[0] === 'SolarSystem' && sortedCategories.value.length === 1) {
-    const tags = Object.values(transformedData.value).map((day) => day.correct || null);
-    const mistags = Object.values(transformedData.value).map((day) => day.incorrect || null);
+  if (sortedCategories.value.length > 1) {
+    const mappedDatasets = sortedCategories.value.map((cat) => {
+      const categoryDiscoveries = Object.values(transformedData.value).map((day) => day[cat] || null);
+      const backgroundColor = categoryMapping[cat].colour;
+
+      return {
+        label: categoryMapping[cat].label,
+        data: categoryDiscoveries,
+        backgroundColor,
+      };
+    });
+    datasets.push(...mappedDatasets);
+  } else if (sortedCategories.value[0] === 'SolarSystem') {
+    const tags = Object.values(transformedData.value).map((day) => day.tags || null);
+    const mistags = Object.values(transformedData.value).map((day) => day.mistags || null);
     datasets.push(
       {
         label: 'Correct Tags',
@@ -133,23 +136,12 @@ const data = computed(() => {
         data: mistags,
       }
     );
-  } else if (sortedCategories.value.length > 1) {
-    const mappedDatasets = sortedCategories.value.map((cat) => {
-      const categoryDiscoveries = Object.values(transformedData.value).map((day) => day[cat] || null);
-      const backgroundColor = categoryMapping[cat].colour;
-
-      return {
-        label: categoryMapping[cat].label,
-        data: categoryDiscoveries,
-        backgroundColor,
-      };
-    });
-    datasets.push(...mappedDatasets);
   }
   datasets.forEach((item) => (item.borderColor = item.backgroundColor + '70'));
+  const labels = Object.keys(transformedData.value).map((ts) => new Date(ts).toLocaleDateString());
 
   return {
-    labels: Object.keys(transformedData.value).map((ts) => new Date(ts).toLocaleDateString()),
+    labels,
     datasets,
   };
 });
