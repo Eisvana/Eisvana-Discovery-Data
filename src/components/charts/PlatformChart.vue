@@ -127,7 +127,7 @@ const pieChartData = computedWithControl(platformStats, () => {
 </script>
 
 <template>
-  <!--Discoveries and prefixes per platform-->
+  <!--Discoveries per Platform-->
   <div class="relative-position">
     <Bar
       :data="barChartData"

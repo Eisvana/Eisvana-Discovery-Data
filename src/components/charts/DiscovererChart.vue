@@ -117,7 +117,7 @@ const barChartData = computedWithControl(paginatedData, () => {
 </script>
 
 <template>
-  <!--Discoveries and prefixes per player-->
+  <!--Discoveries per Player-->
   <PaginationControls
     v-model:currentPage="currentPage"
     v-model:itemsPerPage="itemsPerPage"

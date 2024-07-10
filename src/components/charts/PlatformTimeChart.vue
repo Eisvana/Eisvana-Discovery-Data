@@ -152,7 +152,7 @@ const options = {
 </script>
 
 <template>
-  <!--Platforms over time-->
+  <!--Platforms over Time-->
   <div class="relative-position">
     <Line
       :data="individualData"

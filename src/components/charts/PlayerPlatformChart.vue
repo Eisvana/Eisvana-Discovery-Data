@@ -65,7 +65,7 @@ const pieChartData = computed(() => {
 </script>
 
 <template>
-  <!--Players per platform-->
+  <!--Players per Platform-->
   <PieChartWrapper>
     <Pie
       :data="pieChartData"

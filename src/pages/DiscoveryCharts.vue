@@ -26,7 +26,7 @@ const group = 'chart';
   >
     <ChartWrapper
       :group
-      summary="Discoveries and prefixes per player"
+      summary="Discoveries per Player"
     >
       <DiscovererChart />
     </ChartWrapper>
@@ -40,28 +40,28 @@ const group = 'chart';
 
     <ChartWrapper
       :group
-      summary="Discoveries and prefixes per platform"
+      summary="Discoveries per Platform"
     >
       <PlatformChart />
     </ChartWrapper>
 
     <ChartWrapper
       :group
-      summary="Prefixes over time"
+      summary="Discoveries per Day"
     >
       <TagChart />
     </ChartWrapper>
 
     <ChartWrapper
       :group
-      summary="Discoveries over time"
+      summary="Discoveries over Time"
     >
       <DiscoveriesChart />
     </ChartWrapper>
 
     <ChartWrapper
       :group
-      summary="Players per platform"
+      summary="Players per Platform"
     >
       <PlayerPlatformChart />
     </ChartWrapper>
@@ -75,14 +75,14 @@ const group = 'chart';
 
     <ChartWrapper
       :group
-      summary="Platforms over time"
+      summary="Platforms over Time"
     >
       <PlatformTimeChart />
     </ChartWrapper>
 
     <ChartWrapper
       :group
-      summary="Players over time"
+      summary="Players over Time"
     >
       <PlayerTimeChart />
     </ChartWrapper>
