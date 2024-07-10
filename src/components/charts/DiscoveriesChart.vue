@@ -12,7 +12,7 @@ import {
   Legend,
 } from 'chart.js';
 import { storeToRefs } from 'pinia';
-import { computed, ref, watch } from 'vue';
+import { ref, watch } from 'vue';
 import { Line } from 'vue-chartjs';
 import { getUTCDateString, getDatesBetween } from '@/helpers/date';
 import { computedWithControl, refDebounced } from '@vueuse/core';
@@ -20,6 +20,7 @@ import { debounceDelay } from '@/variables/debounce';
 import type { DiscoveryCategories } from '@/types/data';
 import type { ChartData } from '@/types/chart';
 import { useFilterStore } from '@/stores/filter';
+import { chartOptions } from '@/variables/chart';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
@@ -108,7 +109,7 @@ watch(
   { immediate: true }
 );
 
-const data = computed(() => {
+const data = computedWithControl(transformedData, () => {
   const datasets: ChartData[] = [
     {
       label: 'Total Discoveries',
@@ -153,18 +154,13 @@ const data = computed(() => {
     datasets,
   };
 });
-
-const options = {
-  responsive: true,
-  maintainAspectRatio: true,
-};
 </script>
 
 <template>
   <!--Discoveries over Time-->
   <Line
     :data="data"
-    :options="options"
+    :options="chartOptions"
     class="chart"
   />
 

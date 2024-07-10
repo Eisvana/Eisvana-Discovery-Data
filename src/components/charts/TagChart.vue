@@ -17,6 +17,7 @@ import { Line } from 'vue-chartjs';
 import { getDatesBetween, getUTCDateString } from '@/helpers/date';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
+import { chartOptions } from '@/variables/chart';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
@@ -81,18 +82,13 @@ const data = computed(() => ({
     },
   ],
 }));
-
-const options = {
-  responsive: true,
-  maintainAspectRatio: true,
-};
 </script>
 
 <template>
   <!--Discoveries per Day-->
   <Line
     :data="data"
-    :options="options"
+    :options="chartOptions"
     class="chart"
   />
 

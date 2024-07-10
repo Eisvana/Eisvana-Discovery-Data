@@ -21,6 +21,7 @@ import { isPlatformCode } from '@/helpers/typeGuards';
 import type { ChartData } from '@/types/chart';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
+import { chartOptions } from '@/variables/chart';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
@@ -144,11 +145,6 @@ const combinedData = computed(() => ({
   labels: Object.keys(blankData.value).map((ts) => new Date(ts).toLocaleDateString()),
   datasets: combinedDatasets.value,
 }));
-
-const options = {
-  responsive: true,
-  maintainAspectRatio: true,
-};
 </script>
 
 <template>
@@ -156,7 +152,7 @@ const options = {
   <div class="relative-position">
     <Line
       :data="individualData"
-      :options="options"
+      :options="chartOptions"
       class="chart"
     />
 
@@ -169,7 +165,7 @@ const options = {
   <div class="relative-position">
     <Line
       :data="combinedData"
-      :options="options"
+      :options="chartOptions"
       class="chart"
     />
 

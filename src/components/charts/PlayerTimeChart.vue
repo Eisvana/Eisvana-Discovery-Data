@@ -20,6 +20,7 @@ import type { ChartData } from '@/types/chart';
 import PaginationControls from '@/components/PaginationControls.vue';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
+import { chartOptions } from '@/variables/chart';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
@@ -138,11 +139,6 @@ function combineIndizes(player: string): (number | null)[] {
 
   return Object.values(timestampData).map((item) => item[player] || null);
 }
-
-const options = {
-  responsive: true,
-  maintainAspectRatio: false,
-};
 </script>
 
 <template>
@@ -155,7 +151,7 @@ const options = {
   <div class="relative-position">
     <Line
       :data="individualData"
-      :options="options"
+      :options="chartOptions"
       class="chart"
     />
 
@@ -168,7 +164,7 @@ const options = {
   <div class="relative-position">
     <Line
       :data="combinedData"
-      :options="options"
+      :options="chartOptions"
       class="chart"
     />
 
