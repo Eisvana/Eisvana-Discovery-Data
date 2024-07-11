@@ -45,7 +45,7 @@ const discovererStats = computed(() => {
 
 watchEffect(() => {
   if (!isLoading.value) oldData.value = discovererStats.value;
-})
+});
 
 const chartData = computed(() => ({
   labels: Object.keys(discovererStats.value),
