@@ -3,7 +3,7 @@ import { platformMapping } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
 import type { BaseDiscovererData, DiscovererDataObject } from '@/types/data';
 import { storeToRefs } from 'pinia';
-import { computed, reactive, ref, watch } from 'vue';
+import { computed, reactive, ref, watchEffect } from 'vue';
 import { getPercentage } from '@/helpers/maths';
 import type { QTable, QTableColumn } from 'quasar';
 import type { PaginationObject } from '@/types/pagination';
@@ -134,18 +134,15 @@ const columns: QTableColumn<BaseDiscovererData>[] = reactive([
   },
 ]);
 
-watch(
-  [() => pagination.value.sortBy, () => pagination.value.descending, () => platformTable.value?.filteredSortedRows],
-  ([newSortCol, newSortDir, newTable]) => {
-    if (!newSortCol) return;
-    if (newSortDir) {
-      sortedRows.value = newTable ? [...newTable] : [];
-    } else {
-      sortedRows.value = newTable ? [...newTable.toReversed()] : [];
-    }
-  },
-  { immediate: true }
-);
+watchEffect(() => {
+  if (!pagination.value.sortBy) return;
+  const newTable = platformTable.value?.filteredSortedRows;
+  if (pagination.value.descending) {
+    sortedRows.value = newTable ? [...newTable] : [];
+  } else {
+    sortedRows.value = newTable ? [...newTable.toReversed()] : [];
+  }
+});
 
 const dataHasSystems = computed(() => filteredData.value.some((item) => item.Category === 'SolarSystem'));
 

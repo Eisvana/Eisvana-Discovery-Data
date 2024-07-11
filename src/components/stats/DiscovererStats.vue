@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
-import { computed, reactive, ref, watch } from 'vue';
+import { computed, reactive, ref, watchEffect } from 'vue';
 import { getPercentage } from '@/helpers/maths';
 import type { QTable, QTableColumn } from 'quasar';
 import type { PaginationObject } from '@/types/pagination';
@@ -117,18 +117,15 @@ const columns: QTableColumn<BaseDiscovererData>[] = reactive([
   },
 ]);
 
-watch(
-  [() => pagination.value.sortBy, () => pagination.value.descending, () => discovererTable.value?.filteredSortedRows],
-  ([newSortCol, newSortDir, newTable]) => {
-    if (!newSortCol) return;
-    if (newSortDir) {
-      sortedRows.value = newTable ? [...newTable] : [];
-    } else {
-      sortedRows.value = newTable ? [...newTable.toReversed()] : [];
-    }
-  },
-  { immediate: true }
-);
+watchEffect(() => {
+  if (!pagination.value.sortBy) return;
+  const newTable = discovererTable.value?.filteredSortedRows;
+  if (pagination.value.descending) {
+    sortedRows.value = newTable ? [...newTable] : [];
+  } else {
+    sortedRows.value = newTable ? [...newTable.toReversed()] : [];
+  }
+});
 
 const dataHasSystems = computed(() => filteredData.value.some((item) => item.Category === 'SolarSystem'));
 
