@@ -3,7 +3,7 @@ import { Pie } from 'vue-chartjs';
 import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale, ArcElement } from 'chart.js';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
-import { computed } from 'vue';
+import { computed, ref, watchEffect } from 'vue';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import { chartOptions } from '@/variables/chart';
@@ -16,14 +16,23 @@ import ChartContainer from '../ChartContainer.vue';
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement);
 
 const dataStore = useDataStore();
-const { filteredData } = storeToRefs(dataStore);
+const { filteredData, isLoading } = storeToRefs(dataStore);
 
 const filterStore = useFilterStore();
 const { sortedCategories } = storeToRefs(filterStore);
 
 const debouncedFilteredData = refDebounced<DiscoveryData[]>(filteredData, debounceDelay);
 
-const categoryData = computed(() => {
+interface CategoryData {
+  colours: string[];
+  labels: string[];
+  data: number[];
+}
+
+const oldData = ref<CategoryData>({ colours: [], labels: [], data: [] });
+
+const categoryData = computed((): CategoryData => {
+  if (isLoading.value) return oldData.value;
   const labels = sortedCategories.value;
   const colours = labels.map((cat) => categoryMapping[cat].colour);
 
@@ -42,6 +51,10 @@ const categoryData = computed(() => {
     labels,
     data: Object.values(categoryCounters),
   };
+});
+
+watchEffect(() => {
+  if (!isLoading.value) oldData.value = categoryData.value;
 });
 
 const pieChartData = computed(() => ({

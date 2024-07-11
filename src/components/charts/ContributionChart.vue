@@ -4,7 +4,7 @@ import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, Li
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { chartColours } from '@/variables/mappings';
-import { computed } from 'vue';
+import { computed, ref, watchEffect } from 'vue';
 import { chartOptions } from '@/variables/chart';
 import { refDebounced } from '@vueuse/core';
 import ChartContainer from '../ChartContainer.vue';
@@ -12,11 +12,14 @@ import ChartContainer from '../ChartContainer.vue';
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
 
 const dataStore = useDataStore();
-const { filteredData } = storeToRefs(dataStore);
+const { filteredData, isLoading } = storeToRefs(dataStore);
 
 const debouncedFilteredData = refDebounced(filteredData, 1000);
 
+const oldData = ref<Record<number, number>>({});
+
 const discovererStats = computed(() => {
+  if (isLoading.value) return oldData.value;
   const discoveriesPerPlayer: Record<string, number> = {};
 
   // prettier-ignore
@@ -39,6 +42,10 @@ const discovererStats = computed(() => {
 
   return counts;
 });
+
+watchEffect(() => {
+  if (!isLoading.value) oldData.value = discovererStats.value;
+})
 
 const chartData = computed(() => ({
   labels: Object.keys(discovererStats.value),
