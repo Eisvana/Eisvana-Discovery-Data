@@ -103,7 +103,7 @@ const columns: QTableColumn<BaseDiscovererData>[] = reactive([
   },
   {
     name: 'taggedPercent',
-    label: 'Tagged %\nof total',
+    label: 'Tagged % of Total',
     align: 'left',
     field: 'taggedPercent',
     format: formatPercentage,
