@@ -90,14 +90,8 @@ const numberStats = reactiveComputed(() => {
   return resultObj;
 });
 
-const {
-  systemsNotTagged,
-  systemsProcName,
-  allProcName,
-  discovererNumber,
-  avgDiscoverersPerDay,
-  systemsDuplicates,
-} = toRefs(numberStats);
+const { systemsNotTagged, systemsProcName, allProcName, discovererNumber, avgDiscoverersPerDay, systemsDuplicates } =
+  toRefs(numberStats);
 
 // tagged
 const systemsTaggedPercent = computed(() => getPercentage(amountTagged.value, dataLength.value));
