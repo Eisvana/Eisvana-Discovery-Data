@@ -50,17 +50,19 @@ const platformStats = computed(() => {
       players: 0,
       discoveries: 0,
       discPercent: 0,
+      systems: 0,
       tagged: 0,
       taggedPercent: 0,
       taggedPercentSelf: 0,
     });
     platformObject.discoveries++;
+    if (data.Category === 'SolarSystem') platformObject.systems++;
     if (data['Correctly Prefixed']) platformObject.tagged++;
     playerData[platform].add(data.Discoverer);
     platformObject.players = playerData[platform].size;
     platformObject.discPercent = getPercentage(platformObject.discoveries, dataLength.value);
     platformObject.taggedPercent = getPercentage(platformObject.tagged, amountTagged.value);
-    platformObject.taggedPercentSelf = getPercentage(platformObject.tagged, platformObject.discoveries);
+    platformObject.taggedPercentSelf = getPercentage(platformObject.tagged, platformObject.systems);
   }
 
   const discovererDataArray: BaseDiscovererData[] = Object.entries(platformData).map(([platform, stats]) => ({

@@ -81,6 +81,7 @@ export interface BaseDiscovererData {
   players?: number;
   discoverer?: string;
   discoveries: number;
+  systems: number;
   discPercent: number;
   tagged: number;
   taggedPercent: number;

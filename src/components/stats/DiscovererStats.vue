@@ -33,17 +33,19 @@ const discovererStats = computed(() => {
     const discovererObject = (discovererData[data.Discoverer] ??= {
       platform: '',
       discoveries: 0,
+      systems: 0,
       discPercent: 0,
       tagged: 0,
       taggedPercent: 0,
       taggedPercentSelf: 0,
     });
     discovererObject.discoveries++;
+    if (data.Category === 'SolarSystem') discovererObject.systems++;
     if (data['Correctly Prefixed']) discovererObject.tagged++;
-    discovererObject.platform = getPlatform(data.Platform);
+    discovererObject.platform ||= getPlatform(data.Platform);
     discovererObject.discPercent = getPercentage(discovererObject.discoveries, dataLength.value);
     discovererObject.taggedPercent = getPercentage(discovererObject.tagged, amountTagged.value);
-    discovererObject.taggedPercentSelf = getPercentage(discovererObject.tagged, discovererObject.discoveries);
+    discovererObject.taggedPercentSelf = getPercentage(discovererObject.tagged, discovererObject.systems);
   }
 
   const discovererDataArray: BaseDiscovererData[] = Object.entries(discovererData).map(([discoverer, stats]) => ({
