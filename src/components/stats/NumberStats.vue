@@ -34,9 +34,8 @@ const dataHasSystems = computed(() => sortedCategories.value.includes('SolarSyst
 const numberStats = reactiveComputed(() => {
   const resultObj: NumberStats = {
     systemsNotTagged: 0,
+    allProcName: 0,
     systemsProcName: 0,
-    nonSystemsProcName: 0,
-    systemsUndiscovered: 0,
     discovererNumber: 0,
     avgDiscoverersPerDay: '0', // because .toFixed() converts to string
     systemsDuplicates: [],
@@ -58,10 +57,7 @@ const numberStats = reactiveComputed(() => {
     if (item.Category === 'SolarSystem' && !item.Name && item.Discoverer) resultObj.systemsProcName++;
 
     // proc name other
-    if (item.Category !== 'SolarSystem' && !item.Name && item.Discoverer) resultObj.nonSystemsProcName++;
-
-    // undiscovered
-    if (!item.Name && !item.Discoverer) resultObj.systemsUndiscovered++;
+    if (!item.Name && item.Discoverer) resultObj.allProcName++;
 
     // discoverers
     if (item.Discoverer) {
@@ -97,8 +93,7 @@ const numberStats = reactiveComputed(() => {
 const {
   systemsNotTagged,
   systemsProcName,
-  nonSystemsProcName,
-  systemsUndiscovered,
+  allProcName,
   discovererNumber,
   avgDiscoverersPerDay,
   systemsDuplicates,
@@ -113,11 +108,8 @@ const systemsNotTaggedPercent = computed(() => getPercentage(systemsNotTagged.va
 // proc name system
 const systemsProcNamePercent = computed(() => getPercentage(systemsProcName.value, dataLength.value));
 
-// proc name other
-const nonSystemsProcNamePercent = computed(() => getPercentage(nonSystemsProcName.value, dataLength.value));
-
-// undiscovered
-const systemsUndiscoveredPercent = computed(() => getPercentage(systemsUndiscovered.value, dataLength.value));
+// proc name all
+const allProcNamePercent = computed(() => getPercentage(allProcName.value, dataLength.value));
 
 // average discoveries per day
 const avgDiscoveriesPerDay = computed(
@@ -135,7 +127,7 @@ const avgIncorrectTagsPerDay = computed(
     differenceInDays.value ? ((systemsNotTagged.value + systemsProcName.value) / differenceInDays.value).toFixed(2) : 0 // NoSonar this generates two decimals
 );
 
-const headers = ['Name', 'Amount of duplicates'];
+const duplicateNamesHeaders = ['Name', 'Amount of duplicates'];
 
 const getDate = (dateString: string | undefined) => (dateString ? getFormattedUTCDateString(dateString) : '-');
 </script>
@@ -155,9 +147,7 @@ const getDate = (dateString: string | undefined) => (dateString ? getFormattedUT
         <div>{{ systemsProcName }} ({{ systemsProcNamePercent }}%)</div>
       </template>
       <div>Procedural name:</div>
-      <div>{{ nonSystemsProcName }} ({{ nonSystemsProcNamePercent }}%)</div>
-      <div v-if="systemsUndiscovered">Undiscovered:</div>
-      <div v-if="systemsUndiscovered">{{ systemsUndiscovered }} ({{ systemsUndiscoveredPercent }}%)</div>
+      <div>{{ allProcName }} ({{ allProcNamePercent }}%)</div>
       <div>Number of discoverers:</div>
       <div>{{ discovererNumber }}</div>
       <div>Average discoveries per day:</div>
@@ -182,7 +172,7 @@ const getDate = (dateString: string | undefined) => (dateString ? getFormattedUT
       <thead>
         <tr>
           <th
-            v-for="header in headers"
+            v-for="header in duplicateNamesHeaders"
             scope="col"
           >
             {{ header }}

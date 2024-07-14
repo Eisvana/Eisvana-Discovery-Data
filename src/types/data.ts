@@ -93,9 +93,8 @@ export interface DiscovererDataObject {
 
 export interface NumberStats {
   systemsNotTagged: number;
+  allProcName: number;
   systemsProcName: number;
-  nonSystemsProcName: number;
-  systemsUndiscovered: number;
   discovererNumber: number;
   avgDiscoverersPerDay: string; // because .toFixed() converts to string
   systemsDuplicates: [string, number][];
