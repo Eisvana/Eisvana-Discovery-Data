@@ -33,6 +33,14 @@
   },
   {
     "Category": "Settlement",
+    "Name": "Dharamshala",
+    "Discoverer": "Spinova_",
+    "Glyphs": "103FA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720366785000
+  },
+  {
+    "Category": "Settlement",
     "Name": "New Atlantid",
     "Discoverer": "Gennie",
     "Glyphs": "1142A21107FF",
@@ -49,19 +57,19 @@
   },
   {
     "Category": "Settlement",
-    "Name": "Arcadia Accordia",
-    "Discoverer": "Capn",
-    "Glyphs": "405EA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1712894211000
-  },
-  {
-    "Category": "Settlement",
     "Name": "Eisvana Relaxation Centre",
     "Discoverer": "Lenni",
     "Glyphs": "405EA21107FF",
     "Platform": "ST",
     "Timestamp": 1698960444000
+  },
+  {
+    "Category": "Settlement",
+    "Name": "Arcadia Accordia",
+    "Discoverer": "Capn",
+    "Glyphs": "405EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1712894211000
   },
   {
     "Category": "Settlement",

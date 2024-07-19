@@ -71,6 +71,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Yertlauri",
+    "Discoverer": "Spinova",
+    "Glyphs": "31ABA11117FF",
+    "Platform": "NI",
+    "Timestamp": 1719683439000,
+    "Parts": 165,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Crystorm Crag",
     "Discoverer": "Lunivore",
     "Glyphs": "40CDA11117FF",

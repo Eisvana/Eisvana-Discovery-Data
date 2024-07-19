@@ -111,12 +111,32 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Arbuda",
+    "Discoverer": "Spinova",
+    "Glyphs": "30FDA21117FF",
+    "Platform": "NI",
+    "Timestamp": 1719682328000,
+    "Parts": 114,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Sariputta",
+    "Discoverer": "Spinova",
+    "Glyphs": "311BA21117FF",
+    "Platform": "NI",
+    "Timestamp": 1719678532000,
+    "Parts": 142,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Maure-Ripal Base (Fe²O³‚ Fe++)",
     "Discoverer": "cassiddidy",
     "Glyphs": "312EA21117FF",
     "Platform": "PS",
-    "Timestamp": 1705946977000,
-    "Parts": 71,
+    "Timestamp": 1721367217000,
+    "Parts": 133,
     "Gamemode": "Normal"
   },
   {
@@ -127,6 +147,26 @@
     "Platform": "NI",
     "Timestamp": 1719179457000,
     "Parts": 388,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Lex Solis",
+    "Discoverer": "Spinova",
+    "Glyphs": "4159A21117FF",
+    "Platform": "NI",
+    "Timestamp": 1719619097000,
+    "Parts": 153,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Nuculloc Outpost",
+    "Discoverer": "Spinova",
+    "Glyphs": "501EA21117FF",
+    "Platform": "NI",
+    "Timestamp": 1719527673000,
+    "Parts": 437,
     "Gamemode": "Normal"
   },
   {

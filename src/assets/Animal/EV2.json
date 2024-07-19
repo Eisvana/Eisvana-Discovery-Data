@@ -1,6 +1,46 @@
 [
   {
     "Category": "Animal",
+    "Name": "A. chitinox venator",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1001A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721252103000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1001A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721259329000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1001A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721259335000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1001A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721259343000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1001A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721259348000
+  },
+  {
+    "Category": "Animal",
     "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "1002A11117FF",
@@ -834,6 +874,190 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521334000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521340000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521352000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521357000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521364000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521370000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521378000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521389000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521422000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521430000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521438000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521447000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719601785000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719601818000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719601852000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719602064000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719602071000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719602076000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719602086000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719602162000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719602183000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719602189000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719602197000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Binder198",
     "Glyphs": "1057A11117FF",
     "Platform": "ST",
@@ -866,6 +1090,70 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1058A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719865558000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1058A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719865565000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1058A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719865571000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1058A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867690000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1058A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867698000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1058A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867708000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1058A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867717000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1058A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867723000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Binder198",
     "Glyphs": "1059A11117FF",
     "Platform": "ST",
@@ -878,6 +1166,14 @@
     "Glyphs": "1059A11117FF",
     "Platform": "ST",
     "Timestamp": 1711797848000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105FA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867746000
   },
   {
     "Category": "Animal",
@@ -1066,6 +1362,62 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1067A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867803000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1067A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867811000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1067A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867821000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1067A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867827000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1067A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867836000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1067A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867842000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1067A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867982000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "106CA11117FF",
     "Platform": "ST",
@@ -1138,6 +1490,182 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867996000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868003000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868013000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868019000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868026000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868031000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868037000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868043000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1077A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719407360000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1077A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719407367000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1077A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719407375000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1077A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719407390000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1077A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719407570000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719951906000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719951907000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719951908000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719951916000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719951924000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719951931000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719951936000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719951944000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719951953000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Binder198",
     "Glyphs": "1082A11117FF",
     "Platform": "ST",
@@ -1146,10 +1674,634 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1086A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720036621000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1086A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720036627000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1086A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720036634000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1086A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720036639000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1086A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720036647000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1086A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720036741000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720116685000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720116723000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720116741000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720116755000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720116810000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720116850000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720116963000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117093000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117207000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117217000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117224000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117239000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117241000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117248000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1089A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720118837000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1089A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720118843000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1089A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720118853000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1089A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720118860000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1089A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720118869000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1089A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720118878000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1089A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720118887000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1089A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720118896000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1089A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720118902000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1089A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720118910000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1089A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720118924000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108CA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720272851000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720272919000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463095000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463101000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463107000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463113000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463119000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463131000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463138000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463147000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463155000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463162000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463173000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463181000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463443000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108FA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463452000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108FA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463459000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108FA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463464000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Binder198",
     "Glyphs": "1095A11117FF",
     "Platform": "ST",
     "Timestamp": 1700007120000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720472504000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720472509000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720472515000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720472525000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720472534000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720472544000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720472549000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720472555000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720472563000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720541289000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720541296000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720541304000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720541500000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720543949000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720543955000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720543963000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720543969000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720543975000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720543980000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720543989000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109BA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720647472000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109BA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720647478000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109BA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720647487000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109BA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720647496000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721271000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721306000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721312000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721444000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721456000
   },
   {
     "Category": "Animal",
@@ -1174,6 +2326,294 @@
     "Glyphs": "10A7A11117FF",
     "Platform": "ST",
     "Timestamp": 1700006355000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721516000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721523000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721528000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721536000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721545000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721551000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721743000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721752000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721762000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721770000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721777000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721783000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721789000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720729619000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720729628000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720729636000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720729642000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720729651000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720729662000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720729671000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720729676000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868153000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868155000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868166000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868177000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868385000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868393000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868403000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868411000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868418000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868424000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868432000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868442000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868450000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868658000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868672000
   },
   {
     "Category": "Animal",
@@ -1370,6 +2810,78 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10D9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720978130000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990447000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990454000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990462000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990467000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990474000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990483000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990505000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990538000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "10DFA11117FF",
     "Platform": "XB",
@@ -1422,6 +2934,54 @@
     "Glyphs": "10DFA11117FF",
     "Platform": "XB",
     "Timestamp": 1712526540000
+  },
+  {
+    "Category": "Animal",
+    "Name": "Lee (L. Leechemblii)",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10E9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721069959000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10E9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721069972000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10E9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721069979000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10E9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721069984000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10E9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721069991000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10E9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721070000000
   },
   {
     "Category": "Animal",
@@ -1478,6 +3038,94 @@
     "Glyphs": "10F1A11117FF",
     "Platform": "ST",
     "Timestamp": 1695970123000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F7A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721075353000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721078960000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721078966000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721078974000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721078982000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721078989000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721078995000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079002000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079009000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079014000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079024000
   },
   {
     "Category": "Animal",
@@ -1550,6 +3198,38 @@
     "Glyphs": "1108A11117FF",
     "Platform": "ST",
     "Timestamp": 1700090625000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "110AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721080339000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "110AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721080346000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "110AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721080354000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "110AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721080361000
   },
   {
     "Category": "Animal",
@@ -2362,6 +4042,46 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "11E2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719853990000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "11E2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719853999000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "11E2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719854004000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "11E2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719854013000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "11E2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719854022000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "11E4A11117FF",
     "Platform": "XB",
@@ -2542,86 +4262,6 @@
     "Glyphs": "11FDA11117FF",
     "Platform": "ST",
     "Timestamp": 1696755268000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Binder198",
-    "Glyphs": "1200A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712495735000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Binder198",
-    "Glyphs": "1200A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712495743000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Binder198",
-    "Glyphs": "1200A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712495753000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Binder198",
-    "Glyphs": "1200A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712495765000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Binder198",
-    "Glyphs": "1200A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712495775000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "LordDraCool241",
-    "Glyphs": "120CA11117FF",
-    "Platform": "XB",
-    "Timestamp": 1712301201000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "LordDraCool241",
-    "Glyphs": "120CA11117FF",
-    "Platform": "XB",
-    "Timestamp": 1712301631000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "LordDraCool241",
-    "Glyphs": "120CA11117FF",
-    "Platform": "XB",
-    "Timestamp": 1712301695000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "LordDraCool241",
-    "Glyphs": "120CA11117FF",
-    "Platform": "XB",
-    "Timestamp": 1712301763000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "LordDraCool241",
-    "Glyphs": "120CA11117FF",
-    "Platform": "XB",
-    "Timestamp": 1712301874000
   },
   {
     "Category": "Animal",
@@ -5707,14 +7347,6 @@
     "Category": "Animal",
     "Name": "",
     "Discoverer": "YucaFrita",
-    "Glyphs": "3201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712096959000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
     "Glyphs": "4001A11117FF",
     "Platform": "ST",
     "Timestamp": 1695773674000
@@ -6318,6 +7950,46 @@
     "Glyphs": "40D7A11117FF",
     "Platform": "ST",
     "Timestamp": 1700090909000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "40D7A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719852969000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "40D7A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719852994000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "40D7A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719853003000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "40D7A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719853018000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "40D7A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719853027000
   },
   {
     "Category": "Animal",
@@ -6963,102 +8635,6 @@
     "Category": "Animal",
     "Name": "",
     "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712095917000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712095925000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1713006308000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1713006316000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1713006321000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1713006330000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1713006338000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1713006346000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1713006353000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1713006359000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1713006368000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1713006375000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
     "Glyphs": "5001A11117FF",
     "Platform": "ST",
     "Timestamp": 1695773038000
@@ -7294,6 +8870,70 @@
     "Glyphs": "50BAA11117FF",
     "Platform": "ST",
     "Timestamp": 1700006063000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "50D7A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719852179000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "50D7A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719852187000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "50D7A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719852199000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "50D7A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719852207000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "50D7A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719852214000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "50D7A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719852222000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "50D7A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719852316000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "50D7A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719852322000
   },
   {
     "Category": "Animal",
@@ -7694,86 +9334,6 @@
     "Glyphs": "51FDA11117FF",
     "Platform": "ST",
     "Timestamp": 1696757150000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711976804000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711976810000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711976817000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711976826000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711976834000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711976842000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711976848000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711976853000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711976861000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711976867000
   },
   {
     "Category": "Animal",
@@ -8238,69 +9798,5 @@
     "Glyphs": "61FDA11117FF",
     "Platform": "ST",
     "Timestamp": 1696757781000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711981484000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711981492000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711981498000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711981505000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711981514000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711981523000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711981531000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711981538000
   }
 ]

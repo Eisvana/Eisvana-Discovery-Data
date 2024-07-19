@@ -1826,6 +1826,14 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1100A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1721245264000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "1106A21117FF",
     "Platform": "ST",
@@ -6987,6 +6995,30 @@
     "Category": "Flora",
     "Name": "",
     "Discoverer": "cassiddidy",
+    "Glyphs": "315AA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1720759042000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "315AA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1720759090000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "315AA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1720759125000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "cassiddidy",
     "Glyphs": "3170A21117FF",
     "Platform": "PS",
     "Timestamp": 1701533679000
@@ -7406,126 +7438,6 @@
     "Glyphs": "31F0A21117FF",
     "Platform": "XB",
     "Timestamp": 1705332050000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703526497000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703526502000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703526513000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703526521000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703526527000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703526533000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703526540000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703526547000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703526556000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703526560000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703526568000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703526575000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703526583000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703538918000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703538923000
   },
   {
     "Category": "Flora",
@@ -8666,6 +8578,14 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "Icereaper027",
+    "Glyphs": "4148A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1720486509000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Rufina",
     "Glyphs": "4149A21117FF",
     "Platform": "ST",
@@ -9442,6 +9362,14 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "Icereaper027",
+    "Glyphs": "506BA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1720235105000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "5075A21117FF",
     "Platform": "ST",
@@ -10038,102 +9966,6 @@
     "Glyphs": "5141A21117FF",
     "Platform": "PS",
     "Timestamp": 1712200752000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703544748000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703544757000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5207A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703548075000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5207A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703548080000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5207A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703548091000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5207A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703548096000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5207A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703548101000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5207A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703548111000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5207A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703548119000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5207A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703548126000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5207A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703548134000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5207A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703548141000
   },
   {
     "Category": "Flora",
@@ -11034,106 +10866,10 @@
   {
     "Category": "Flora",
     "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1001A11117FF",
     "Platform": "ST",
-    "Timestamp": 1703543356000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703543361000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703543370000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703543379000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703543386000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703543393000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703543403000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703543411000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703543416000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703543421000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703543429000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703544028000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703544031000
+    "Timestamp": 1721259312000
   },
   {
     "Category": "Flora",
@@ -12050,6 +11786,270 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521395000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521415000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521460000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521492000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521500000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521508000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521516000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521540000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521571000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521578000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521590000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521597000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521604000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521614000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521623000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719601905000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719601935000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719601951000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719601977000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719601987000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719602003000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719602009000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719602015000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719602025000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719602032000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719602038000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719602047000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719602055000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719602095000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719602104000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719602110000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719602151000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719602158000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Binder198",
     "Glyphs": "1057A11117FF",
     "Platform": "ST",
@@ -12102,6 +12102,14 @@
     "Glyphs": "1059A11117FF",
     "Platform": "ST",
     "Timestamp": 1711797892000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105FA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867754000
   },
   {
     "Category": "Flora",
@@ -12202,6 +12210,78 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1067A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867863000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1067A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867902000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1067A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867916000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1067A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867924000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1067A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867934000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1067A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867948000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1067A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867965000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1067A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867972000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1067A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719867990000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "106CA11117FF",
     "Platform": "ST",
@@ -12290,10 +12370,1402 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868061000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868069000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868075000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868126000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868132000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868138000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868148000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868156000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868185000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868195000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868217000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868232000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868248000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868254000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868271000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "106DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719868733000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1077A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719407578000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1077A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719407584000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1077A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719407594000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1077A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719407603000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1077A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719407611000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1077A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719407617000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1077A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719407626000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1077A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719407636000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1077A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719407703000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1077A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719407708000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719951961000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719951990000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719952004000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719952018000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719952023000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719952032000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719952039000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719952054000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719952059000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719952076000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719952086000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719952095000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719952103000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719952108000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719952120000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719952127000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719952133000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Binder198",
     "Glyphs": "1082A11117FF",
     "Platform": "ST",
     "Timestamp": 1700006436000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1086A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720036655000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1086A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720036661000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1086A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720036670000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1086A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720036684000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1086A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720036711000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1086A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720036719000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1086A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720036735000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1086A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720036754000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1086A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720036763000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1086A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720036769000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1086A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720036777000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1086A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720036794000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1086A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720036807000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720116899000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720116938000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720116954000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720116974000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720116982000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720116989000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117012000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117048000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117054000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117069000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117076000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117081000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117086000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117101000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117114000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117124000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117131000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117139000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117155000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117170000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117179000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117202000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720117232000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1089A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720118926000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1089A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720118937000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1089A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720118962000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1089A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720118978000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1089A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720118986000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1089A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720118992000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1089A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720119033000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1089A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720119041000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720272945000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720272960000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720272966000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720272971000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463190000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463208000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463215000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463240000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463264000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463271000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463277000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463290000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463317000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463325000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463342000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463366000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463385000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463393000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463400000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463406000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463428000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463433000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108FA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463521000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108FA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463534000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108FA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463551000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108FA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463576000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108FA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463591000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108FA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463597000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108FA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463606000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108FA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463639000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108FA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463646000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "108FA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720463655000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720541315000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720541324000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720541327000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720541336000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720541343000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720541350000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720541396000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720541414000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720541428000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720541437000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720541446000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720541466000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720541478000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720541486000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720541494000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720541512000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720541531000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720544004000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720544009000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720544020000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720544027000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720544035000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720544073000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720544087000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720544094000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720544104000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720544111000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109BA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720647511000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109BA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720647516000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109BA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720647548000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109BA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720647595000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109BA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720647603000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109BA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721163000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109BA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721174000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109BA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721189000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109BA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721198000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109BA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721212000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109BA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721254000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721285000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721326000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721337000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721347000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721355000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721369000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721385000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721395000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721399000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721417000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721430000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721435000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721461000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721469000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721478000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721487000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "109EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721507000
   },
   {
     "Category": "Flora",
@@ -12314,6 +13786,454 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721567000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721577000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721587000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721613000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721618000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721627000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721636000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721642000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721648000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721665000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721673000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721679000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721687000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721709000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721712000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721733000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721802000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721810000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721827000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721837000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721844000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721849000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721854000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721869000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721884000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720721893000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868182000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868189000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868197000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868206000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868248000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868264000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868305000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868322000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868349000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868365000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868371000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868475000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868489000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868504000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868517000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868521000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868537000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868543000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868573000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868580000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868585000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868591000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868603000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868610000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868615000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868623000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868632000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868641000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868646000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720868653000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "McJoxen",
     "Glyphs": "10C9A11117FF",
     "Platform": "PS",
@@ -12330,6 +14250,230 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10D9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720978155000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10D9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720978186000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990551000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990575000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990582000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990604000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990613000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990632000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990650000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990658000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990666000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990679000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990689000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990698000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990710000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990719000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990724000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720990732000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10E9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721070017000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10E9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721070025000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10E9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721070046000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10E9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721070054000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10E9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721070069000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10E9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721070074000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10E9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721070092000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10E9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721070100000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10E9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721070108000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10E9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721070119000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "10ECA11117FF",
     "Platform": "ST",
@@ -12342,6 +14486,190 @@
     "Glyphs": "10ECA11117FF",
     "Platform": "ST",
     "Timestamp": 1696859004000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F7A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721075386000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F7A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721075422000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F7A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721075447000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F7A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721075463000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079029000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079062000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079080000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079093000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079101000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079150000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079159000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079166000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079176000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079185000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079194000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079202000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079210000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079219000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079223000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079231000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079236000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079246000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "10F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079253000
   },
   {
     "Category": "Flora",
@@ -12382,6 +14710,62 @@
     "Glyphs": "1108A11117FF",
     "Platform": "ST",
     "Timestamp": 1700090609000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "110AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721080370000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "110AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721080378000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "110AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721080395000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "110AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721080424000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "110AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721080438000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "110AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721080445000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "110AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721080469000
   },
   {
     "Category": "Flora",
@@ -13478,38 +15862,6 @@
     "Glyphs": "11F3A11117FF",
     "Platform": "ST",
     "Timestamp": 1712418012000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "11FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696755671000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "parsnipphoenix",
-    "Glyphs": "11FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696766207000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "11FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1703247311000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Binder198",
-    "Glyphs": "1200A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712495759000
   },
   {
     "Category": "Flora",
@@ -14694,6 +17046,14 @@
     "Glyphs": "21B1A11117FF",
     "Platform": "ST",
     "Timestamp": 1711823556000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Icereaper027",
+    "Glyphs": "21C9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720486524000
   },
   {
     "Category": "Flora",
@@ -16034,118 +18394,6 @@
   {
     "Category": "Flora",
     "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756185000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756244000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756250000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756268000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756285000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756670000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756678000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756684000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756692000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756708000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756743000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1703102132000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712096940000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712096953000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "4001A11117FF",
     "Platform": "ST",
@@ -16754,6 +19002,30 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "40D7A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719852978000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "40D7A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719852986000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "40D7A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719853011000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Lianeras",
     "Glyphs": "40DDA11117FF",
     "Platform": "ST",
@@ -17214,182 +19486,6 @@
     "Glyphs": "41F1A11117FF",
     "Platform": "ST",
     "Timestamp": 1712785897000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "41FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696755676000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "41FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696755695000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "41FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696760099000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712095766000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712095773000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712095782000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712095787000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712095793000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712095800000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712095806000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712095814000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712095819000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712095828000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712095833000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712095841000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712095849000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712095854000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712095863000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712095870000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712095876000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712095941000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "4201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1713006388000
   },
   {
     "Category": "Flora",
@@ -18058,126 +20154,6 @@
   {
     "Category": "Flora",
     "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "51FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696757126000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "51FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696757135000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "51FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696757145000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "51FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696757768000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "51FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696757775000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "51FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1703247317000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711976965000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711976975000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711976983000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711976988000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711976997000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711977003000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711977009000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711977016000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711977022000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "6001A11117FF",
     "Platform": "ST",
@@ -18758,94 +20734,6 @@
     "Glyphs": "61CCA11117FF",
     "Platform": "ST",
     "Timestamp": 1696925559000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "61FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696760049000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "61FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696760056000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "61FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696760064000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711981602000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711981610000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711981618000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711981625000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711981633000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1711981642000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6201A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1713006296000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "LordDraCool241",
-    "Glyphs": "620EA11117FF",
-    "Platform": "XB",
-    "Timestamp": 1712601592000
   },
   {
     "Category": "Flora",
@@ -21890,6 +23778,254 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1090A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719394293000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1090A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719394300000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1090A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719394309000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1090A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719394317000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1090A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719394326000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1090A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719394334000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1090A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719394343000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1090A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719394349000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1090A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719394358000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1090A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719394472000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1090A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719394480000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1090A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719394487000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10B8A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719396323000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10B8A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719396330000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10B8A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719396336000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10B8A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719396342000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10B8A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719396348000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10B8A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719396359000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10B8A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719396367000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10B8A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719396372000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10B8A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719396379000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10B8A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719396645000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10D1A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719395397000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10D1A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719395402000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10D1A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719395411000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10D1A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719395415000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10D1A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719395425000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10D1A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719395466000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10D1A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719395473000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10D1A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719395479000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10D1A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719395489000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "10E3A11127FF",
     "Platform": "ST",
@@ -21942,6 +24078,46 @@
     "Glyphs": "10E3A11127FF",
     "Platform": "ST",
     "Timestamp": 1701295081000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10E7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719397727000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10E7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719397760000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10E7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719397962000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10E7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719397970000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10E7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719397980000
   },
   {
     "Category": "Flora",
@@ -23178,6 +25354,86 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1141A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720356093000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1141A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720356098000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1141A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720356106000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1141A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720356257000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1141A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720356265000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1141A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720356271000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1141A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720356279000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1141A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720356288000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1141A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720356298000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1141A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720356304000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "1153A11127FF",
     "Platform": "ST",
@@ -23638,6 +25894,70 @@
     "Glyphs": "1189A11127FF",
     "Platform": "PS",
     "Timestamp": 1706477123000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721039539000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721039544000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721039551000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721039558000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721039564000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721039569000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721039575000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721039584000
   },
   {
     "Category": "Flora",
@@ -24394,6 +26714,62 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "20C2A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719523262000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "20D3A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719405625000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "20D3A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719405633000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "20D3A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719405638000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "20D3A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719405646000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "20D3A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719405651000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "20D3A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719405659000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "20D5A11127FF",
     "Platform": "ST",
@@ -24502,6 +26878,78 @@
     "Glyphs": "20D5A11127FF",
     "Platform": "ST",
     "Timestamp": 1698602818000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "20E7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719398197000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "20E7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719398206000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "20E7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719398215000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "20E7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719398224000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "20E7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719398233000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "20E7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719398236000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "20E7A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1720495843000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "20E7A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1720540943000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "20E7A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1720540951000
   },
   {
     "Category": "Flora",
@@ -24670,6 +27118,126 @@
     "Glyphs": "210FA11127FF",
     "Platform": "ST",
     "Timestamp": 1698596145000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "212EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720359364000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "212EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720359376000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "212EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720359385000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "212EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720359391000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "212EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720359403000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "212EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720359410000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "212EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720359418000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "2141A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720354751000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "2141A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720354813000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "2141A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720354848000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "2141A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720354862000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "2141A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720354876000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "2141A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720354884000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "2141A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720355022000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "2141A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720355029000
   },
   {
     "Category": "Flora",
@@ -25078,6 +27646,38 @@
     "Glyphs": "2190A11127FF",
     "Platform": "ST",
     "Timestamp": 1698613351000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "2199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721038981000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "2199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721038989000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "2199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721038998000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "2199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721039004000
   },
   {
     "Category": "Flora",
@@ -25914,6 +28514,54 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "30B8A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719397121000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "30B8A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719397127000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "30B8A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719397133000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "30B8A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719397140000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "30B8A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719397149000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "30B8A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1719397154000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "3159A11127FF",
     "Platform": "ST",
@@ -26190,6 +28838,134 @@
     "Glyphs": "317DA11127FF",
     "Platform": "XB",
     "Timestamp": 1713852818000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "318DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721041835000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "318DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721041844000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "318DA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721041854000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "3199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721038169000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "3199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721038176000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "3199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721038185000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "3199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721038193000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "3199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721038201000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "3199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721038208000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "3199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721038217000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "3199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721038267000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "3199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721038286000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "3199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721038293000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "3199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721038299000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "3199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721038305000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "3199A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721038441000
   },
   {
     "Category": "Flora",
@@ -26726,6 +29502,54 @@
     "Glyphs": "40C7A11127FF",
     "Platform": "ST",
     "Timestamp": 1698592998000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "410EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720354200000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "410EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720354210000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "410EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720354220000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "410EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720354225000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "410EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720354233000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "410EA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1720354240000
   },
   {
     "Category": "Flora",
@@ -27398,30 +30222,6 @@
     "Glyphs": "41F8A11127FF",
     "Platform": "ST",
     "Timestamp": 1699997444000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "LordDraCool241",
-    "Glyphs": "4205A11127FF",
-    "Platform": "XB",
-    "Timestamp": 1712968439000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "LordDraCool241",
-    "Glyphs": "4205A11127FF",
-    "Platform": "XB",
-    "Timestamp": 1712968456000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "LordDraCool241",
-    "Glyphs": "4205A11127FF",
-    "Platform": "XB",
-    "Timestamp": 1712968469000
   },
   {
     "Category": "Flora",
@@ -30946,6 +33746,382 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1070A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721155002000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1070A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721155008000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1070A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721155016000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1070A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721155023000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1070A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721155045000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1070A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721155050000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721157478000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721157486000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721157501000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721157543000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721157552000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721157568000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721157634000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721157642000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721157651000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721157668000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721157676000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721157682000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721157691000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1074A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721157699000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1075A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721164841000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1075A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721164851000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1075A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721164859000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1075A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721164864000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1075A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721164874000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1075A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721164889000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1075A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721164897000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1075A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721164905000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1075A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721164919000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1075A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721164928000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1075A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721164934000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1075A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721165231000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1075A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721165246000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1075A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721165256000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1075A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721165266000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1075A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721165287000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1075A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721165302000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1076A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721332904000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1076A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721332931000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1076A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721333001000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1076A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721333028000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1076A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721333073000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1080A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721337285000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1080A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721337289000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1080A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721337305000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1080A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721337332000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1080A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721337342000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "10AEA21127FF",
     "Platform": "XB",
@@ -33194,6 +36370,46 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1052A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719349419000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1052A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719349438000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1052A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719349444000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1052A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719433244000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1052A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719433446000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "cassiddidy",
     "Glyphs": "1054A21107FF",
     "Platform": "PS",
@@ -33246,6 +36462,38 @@
     "Glyphs": "1054A21107FF",
     "Platform": "PS",
     "Timestamp": 1715317645000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1058A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719433339000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1058A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719433384000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1058A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719433390000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1058A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719433414000
   },
   {
     "Category": "Flora",
@@ -33634,6 +36882,134 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "105EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720526030000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "105EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720527173000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "105EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720528180000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "105EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720528337000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "105EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720528462000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105FA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719521164000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105FA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719521170000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105FA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719521222000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105FA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719521243000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105FA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719521249000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105FA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719521259000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105FA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719521265000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105FA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719521273000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105FA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719521290000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105FA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719521304000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105FA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719521327000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Yonahoy",
     "Glyphs": "1065A21107FF",
     "Platform": "PS",
@@ -33654,6 +37030,30 @@
     "Glyphs": "1065A21107FF",
     "Platform": "PS",
     "Timestamp": 1706431551000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "1065A21107FF",
+    "Platform": "XB",
+    "Timestamp": 1719845493000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "1065A21107FF",
+    "Platform": "XB",
+    "Timestamp": 1719845566000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "1065A21107FF",
+    "Platform": "XB",
+    "Timestamp": 1719845581000
   },
   {
     "Category": "Flora",
@@ -34586,6 +37986,14 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "1142A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719919072000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Crispycadaver",
     "Glyphs": "1143A21107FF",
     "Platform": "XB",
@@ -35074,6 +38482,54 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1178A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721385233000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1178A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721385243000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1178A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721385275000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1178A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721385295000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1178A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721385315000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1178A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721385350000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "cassiddidy",
     "Glyphs": "1179A21107FF",
     "Platform": "PS",
@@ -35526,6 +38982,14 @@
     "Glyphs": "119AA21107FF",
     "Platform": "PS",
     "Timestamp": 1718051818000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "119DA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719658817000
   },
   {
     "Category": "Flora",
@@ -36601,126 +40065,6 @@
   },
   {
     "Category": "Flora",
-    "Name": "Magma Cap",
-    "Discoverer": "Clumsy Lilac406",
-    "Glyphs": "11FDA21107FF",
-    "Platform": "XB",
-    "Timestamp": 1700231656000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "11FFA21107FF",
-    "Platform": "PS",
-    "Timestamp": 1707844170000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "1202A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700611611000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "1204A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700134055000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "1204A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700134073000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "1204A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700610649000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "1206A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700610881000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "1206A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700610906000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "1206A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700610916000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "1206A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700610953000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "1206A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700610967000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "1206A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700610994000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "1206A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700611008000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "1207A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700918386000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "1207A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700918395000
-  },
-  {
-    "Category": "Flora",
     "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "2001A21107FF",
@@ -37354,6 +40698,46 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "205EA21107FF",
+    "Platform": "XB",
+    "Timestamp": 1719845249000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "205EA21107FF",
+    "Platform": "XB",
+    "Timestamp": 1719845297000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "205EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720467602000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "2065A21107FF",
+    "Platform": "XB",
+    "Timestamp": 1719868472000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "2065A21107FF",
+    "Platform": "XB",
+    "Timestamp": 1719868480000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Ильмар",
     "Glyphs": "2079A21107FF",
     "Platform": "ST",
@@ -37650,6 +41034,22 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "212FA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720493870000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "212FA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720493875000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Ronin418",
     "Glyphs": "2135A21107FF",
     "Platform": "ST",
@@ -37858,6 +41258,62 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "Gerricky__C137",
+    "Glyphs": "215EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720644435000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Gerricky__C137",
+    "Glyphs": "215EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720644450000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Gerricky__C137",
+    "Glyphs": "215EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720644479000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Gerricky__C137",
+    "Glyphs": "215EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720644485000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Gerricky__C137",
+    "Glyphs": "215EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720644505000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Gerricky__C137",
+    "Glyphs": "215EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720644522000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Gerricky__C137",
+    "Glyphs": "215EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720644532000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Rufina",
     "Glyphs": "2168A21107FF",
     "Platform": "ST",
@@ -37942,6 +41398,14 @@
     "Glyphs": "2176A21107FF",
     "Platform": "PS",
     "Timestamp": 1701532169000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "2178A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721385540000
   },
   {
     "Category": "Flora",
@@ -38150,6 +41614,14 @@
     "Glyphs": "2198A21107FF",
     "Platform": "PS",
     "Timestamp": 1701642626000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "219DA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719658862000
   },
   {
     "Category": "Flora",
@@ -38594,6 +42066,22 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "21EDA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720656678000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "21EDA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720656690000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "cassiddidy",
     "Glyphs": "21EEA21107FF",
     "Platform": "PS",
@@ -38662,94 +42150,6 @@
     "Glyphs": "21EFA21107FF",
     "Platform": "PS",
     "Timestamp": 1700610747000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "2204A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700134108000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "2204A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700134114000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "2204A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700134124000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "2204A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700134155000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "2204A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700134163000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "2204A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700134170000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "2204A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700134177000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "2204A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700134183000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "2204A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700134193000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "2204A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700610619000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "2204A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700610628000
   },
   {
     "Category": "Flora",
@@ -39562,6 +42962,86 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "305EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720529098000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "305EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720529108000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "305EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720529158000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "305EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720529224000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "305EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720529230000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "305EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720529568000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "305EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720529959000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "305EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720529969000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "305EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720530342000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "305EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720534092000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "cassiddidy",
     "Glyphs": "3061A21107FF",
     "Platform": "PS",
@@ -39614,6 +43094,22 @@
     "Glyphs": "3061A21107FF",
     "Platform": "PS",
     "Timestamp": 1700918665000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "3065A21107FF",
+    "Platform": "XB",
+    "Timestamp": 1719845818000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "3065A21107FF",
+    "Platform": "XB",
+    "Timestamp": 1719845831000
   },
   {
     "Category": "Flora",
@@ -39862,6 +43358,22 @@
     "Glyphs": "30C5A21107FF",
     "Platform": "NI",
     "Timestamp": 1705424097000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "30CBA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719658974000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "30CBA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719658992000
   },
   {
     "Category": "Flora",
@@ -41058,6 +44570,62 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "4058A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719520771000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "4058A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719520977000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "4058A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719520983000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "4058A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719521002000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "4058A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719521017000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "4058A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719521073000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "4058A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719521087000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Mimikyu1312",
     "Glyphs": "4059A21107FF",
     "Platform": "ST",
@@ -41422,6 +44990,134 @@
     "Glyphs": "405EA21107FF",
     "Platform": "XB",
     "Timestamp": 1715434866000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "405EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720389462000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "405EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720390483000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "405EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721224480000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Scrapiron",
+    "Glyphs": "405EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721351717000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "4065A21107FF",
+    "Platform": "XB",
+    "Timestamp": 1719845313000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "4065A21107FF",
+    "Platform": "XB",
+    "Timestamp": 1719845330000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "4065A21107FF",
+    "Platform": "XB",
+    "Timestamp": 1719845338000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "4065A21107FF",
+    "Platform": "XB",
+    "Timestamp": 1719845356000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "4065A21107FF",
+    "Platform": "XB",
+    "Timestamp": 1719845366000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "4065A21107FF",
+    "Platform": "XB",
+    "Timestamp": 1719845372000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "4065A21107FF",
+    "Platform": "XB",
+    "Timestamp": 1719845378000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "4065A21107FF",
+    "Platform": "XB",
+    "Timestamp": 1719845403000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "4065A21107FF",
+    "Platform": "XB",
+    "Timestamp": 1719845434000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "4065A21107FF",
+    "Platform": "XB",
+    "Timestamp": 1719845442000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "4065A21107FF",
+    "Platform": "XB",
+    "Timestamp": 1719845451000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "4065A21107FF",
+    "Platform": "XB",
+    "Timestamp": 1719845458000
   },
   {
     "Category": "Flora",
@@ -42026,6 +45722,70 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "4178A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721385179000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "4178A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721385196000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "4180A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720649070000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "4180A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720649078000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "4180A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720649089000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "4180A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720649093000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "4180A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720649097000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "4180A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720801459000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "cassiddidy",
     "Glyphs": "418AA21107FF",
     "Platform": "PS",
@@ -42498,38 +46258,6 @@
   {
     "Category": "Flora",
     "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "4200A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700124469000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "4200A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700124477000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "4200A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700124486000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "4200A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700124499000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "5001A21107FF",
     "Platform": "ST",
@@ -42851,6 +46579,54 @@
     "Category": "Flora",
     "Name": "",
     "Discoverer": "YucaFrita",
+    "Glyphs": "5058A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719520816000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5058A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719520831000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5058A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719520838000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5058A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719520881000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5058A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719520887000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "5058A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1719520927000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
     "Glyphs": "505EA21107FF",
     "Platform": "ST",
     "Timestamp": 1697889538000
@@ -42966,6 +46742,78 @@
     "Glyphs": "505EA21107FF",
     "Platform": "ST",
     "Timestamp": 1713006028000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "505EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720541840000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "505EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720542093000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "505EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720542328000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "505EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720542340000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "505EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720543006000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "505EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720543732000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "505EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720543875000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "505EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720544631000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "505EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720556753000
   },
   {
     "Category": "Flora",
@@ -43498,6 +47346,46 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "5178A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721385403000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "5178A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721385411000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "5178A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721385446000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "5178A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721385466000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "5178A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721385481000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "BrokenNocturne",
     "Glyphs": "5184A21107FF",
     "Platform": "XB",
@@ -43698,10 +47586,10 @@
   {
     "Category": "Flora",
     "Name": "",
-    "Discoverer": "Ronin418",
-    "Glyphs": "5205A21107FF",
-    "Platform": "ST",
-    "Timestamp": 1699809324000
+    "Discoverer": "McJoxen",
+    "Glyphs": "51EAA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720655094000
   },
   {
     "Category": "Flora",
@@ -44054,6 +47942,86 @@
     "Glyphs": "605EA21107FF",
     "Platform": "PS",
     "Timestamp": 1716257894000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "605EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720537199000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "605EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720537205000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "605EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720538368000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "605EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720538667000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "605EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720539563000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "605EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720539799000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "605EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720540173000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "605EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720540173000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "605EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720540742000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Krentebol01",
+    "Glyphs": "605EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720540901000
   },
   {
     "Category": "Flora",
@@ -44630,14 +48598,6 @@
     "Glyphs": "61EFA21107FF",
     "Platform": "PS",
     "Timestamp": 1700610836000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "6200A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700124515000
   },
   {
     "Category": "Flora",
@@ -46827,6 +50787,86 @@
     "Category": "Flora",
     "Name": "",
     "Discoverer": "YucaFrita",
+    "Glyphs": "1059A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719343878000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1059A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719343901000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1059A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719343910000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1059A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719343914000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1059A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719343939000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1059A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719343954000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1059A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719343963000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1059A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719343991000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1059A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344044000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1059A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344071000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
     "Glyphs": "105BA21107FE",
     "Platform": "ST",
     "Timestamp": 1719263280000
@@ -46878,6 +50918,22 @@
     "Glyphs": "105BA21107FE",
     "Platform": "ST",
     "Timestamp": 1719263888000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105BA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344363000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "105BA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344419000
   },
   {
     "Category": "Flora",
@@ -46974,6 +51030,238 @@
     "Glyphs": "105EA21107FE",
     "Platform": "ST",
     "Timestamp": 1719264149000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1065A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344141000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1065A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344147000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1065A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344165000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1065A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344198000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1065A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344204000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1065A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344220000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1065A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344225000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1065A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344241000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1065A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344257000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1065A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344266000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1065A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344284000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1065A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344292000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1065A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344297000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1065A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344303000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1065A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344311000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1065A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344318000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1066A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344484000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1066A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344491000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1066A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344497000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1066A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344514000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1066A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344522000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1066A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344532000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1066A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344542000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1066A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344548000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1066A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344554000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1066A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344588000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1066A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344613000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1066A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344650000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1066A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1719344664000
   },
   {
     "Category": "Flora",
@@ -48098,6 +52386,30 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1163A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721331170000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1163A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721331250000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1163A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721331264000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "1173A21107FE",
     "Platform": "ST",
@@ -48770,6 +53082,14 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "11F0A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721266811000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "11F3A21107FE",
     "Platform": "ST",
@@ -48838,142 +53158,6 @@
     "Glyphs": "11F3A21107FE",
     "Platform": "ST",
     "Timestamp": 1717397133000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "-bZ- Tha Angry Salsa",
-    "Glyphs": "1206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1716047068000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "-bZ- Tha Angry Salsa",
-    "Glyphs": "1206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1716047076000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "-bZ- Tha Angry Salsa",
-    "Glyphs": "1206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1716047093000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "-bZ- Tha Angry Salsa",
-    "Glyphs": "1206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1716047158000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "-bZ- Tha Angry Salsa",
-    "Glyphs": "1206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1716047175000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "-bZ- Tha Angry Salsa",
-    "Glyphs": "1206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1716047191000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "-bZ- Tha Angry Salsa",
-    "Glyphs": "1206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1716047197000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "-bZ- Tha Angry Salsa",
-    "Glyphs": "1206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1716047213000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "-bZ- Tha Angry Salsa",
-    "Glyphs": "1206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1716047247000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "-bZ- Tha Angry Salsa",
-    "Glyphs": "1206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1716047252000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "-bZ- Tha Angry Salsa",
-    "Glyphs": "1206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1716047261000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "-bZ- Tha Angry Salsa",
-    "Glyphs": "1206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1716047269000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "-bZ- Tha Angry Salsa",
-    "Glyphs": "1206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1716047276000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "SchemingMonkey",
-    "Glyphs": "1206A21107FE",
-    "Platform": "PS",
-    "Timestamp": 1718683904000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "SchemingMonkey",
-    "Glyphs": "1206A21107FE",
-    "Platform": "PS",
-    "Timestamp": 1718683936000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "SchemingMonkey",
-    "Glyphs": "1206A21107FE",
-    "Platform": "PS",
-    "Timestamp": 1718683971000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "-bZ- Tha Angry Salsa",
-    "Glyphs": "1207A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1716047556000
   },
   {
     "Category": "Flora",
@@ -51082,30 +55266,6 @@
   {
     "Category": "Flora",
     "Name": "",
-    "Discoverer": "SchemingMonkey",
-    "Glyphs": "2206A21107FE",
-    "Platform": "PS",
-    "Timestamp": 1718775383000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "SchemingMonkey",
-    "Glyphs": "2206A21107FE",
-    "Platform": "PS",
-    "Timestamp": 1718775392000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "SchemingMonkey",
-    "Glyphs": "2206A21107FE",
-    "Platform": "PS",
-    "Timestamp": 1718862046000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
     "Discoverer": "Landulf",
     "Glyphs": "3014A21107FE",
     "Platform": "ST",
@@ -52034,6 +56194,14 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "313DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721259020000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "3143A21107FE",
     "Platform": "ST",
@@ -52278,6 +56446,22 @@
     "Glyphs": "3160A21107FE",
     "Platform": "ST",
     "Timestamp": 1716048065000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "3163A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721331289000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "3163A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721331303000
   },
   {
     "Category": "Flora",
@@ -52534,6 +56718,38 @@
     "Glyphs": "319BA21107FE",
     "Platform": "ST",
     "Timestamp": 1704538186000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Scrapiron",
+    "Glyphs": "319FA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1720238436000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Scrapiron",
+    "Glyphs": "319FA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1720238439000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Scrapiron",
+    "Glyphs": "319FA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1720661048000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Scrapiron",
+    "Glyphs": "319FA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1720661088000
   },
   {
     "Category": "Flora",
@@ -52850,66 +57066,10 @@
   {
     "Category": "Flora",
     "Name": "",
-    "Discoverer": "-bZ- Tha Angry Salsa",
-    "Glyphs": "3207A21107FE",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4024A21107FE",
     "Platform": "ST",
-    "Timestamp": 1716047603000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "-bZ- Tha Angry Salsa",
-    "Glyphs": "3207A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1716047612000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "-bZ- Tha Angry Salsa",
-    "Glyphs": "3207A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1716047620000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "-bZ- Tha Angry Salsa",
-    "Glyphs": "3207A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1716047629000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "-bZ- Tha Angry Salsa",
-    "Glyphs": "3207A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1716047649000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "-bZ- Tha Angry Salsa",
-    "Glyphs": "3207A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1716047663000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "-bZ- Tha Angry Salsa",
-    "Glyphs": "3207A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1716047673000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "-bZ- Tha Angry Salsa",
-    "Glyphs": "3207A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1716047682000
+    "Timestamp": 1721258976000
   },
   {
     "Category": "Flora",
@@ -53534,6 +57694,14 @@
     "Glyphs": "4150A21107FE",
     "Platform": "ST",
     "Timestamp": 1700858935000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "4163A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721331326000
   },
   {
     "Category": "Flora",
@@ -54254,14 +58422,6 @@
     "Glyphs": "41EAA21107FE",
     "Platform": "ST",
     "Timestamp": 1717978922000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "SchemingMonkey",
-    "Glyphs": "4206A21107FE",
-    "Platform": "PS",
-    "Timestamp": 1718775342000
   },
   {
     "Category": "Flora",
@@ -55467,86 +59627,6 @@
     "Category": "Flora",
     "Name": "",
     "Discoverer": "Lunivore",
-    "Glyphs": "5206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1697975311000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "5206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1697975317000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "5206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1697975359000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "5206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1697975389000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "5206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1697975394000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "5206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1697975399000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "5206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1697975428000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "5206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1697975432000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "5206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1697975440000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "5206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1697975449000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
     "Glyphs": "6025A21107FE",
     "Platform": "ST",
     "Timestamp": 1698393515000
@@ -56138,30 +60218,6 @@
   {
     "Category": "Flora",
     "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "6206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1697975476000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "6206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1697975515000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "6206A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1697975568000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "1049A21117FE",
     "Platform": "ST",
@@ -56494,6 +60550,78 @@
     "Glyphs": "10CFA21117FE",
     "Platform": "ST",
     "Timestamp": 1698174573000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "10D3A21117FE",
+    "Platform": "PS",
+    "Timestamp": 1720017714000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "10D3A21117FE",
+    "Platform": "PS",
+    "Timestamp": 1720017725000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "10D3A21117FE",
+    "Platform": "PS",
+    "Timestamp": 1720017736000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "10D3A21117FE",
+    "Platform": "PS",
+    "Timestamp": 1720017741000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "10D3A21117FE",
+    "Platform": "PS",
+    "Timestamp": 1720017757000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "10D3A21117FE",
+    "Platform": "PS",
+    "Timestamp": 1720017766000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "10D3A21117FE",
+    "Platform": "PS",
+    "Timestamp": 1720017788000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "10D3A21117FE",
+    "Platform": "PS",
+    "Timestamp": 1720017836000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "10D3A21117FE",
+    "Platform": "PS",
+    "Timestamp": 1720017872000
   },
   {
     "Category": "Flora",
@@ -57034,6 +61162,30 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "20D3A21117FE",
+    "Platform": "PS",
+    "Timestamp": 1720015907000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "20D3A21117FE",
+    "Platform": "PS",
+    "Timestamp": 1720016605000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "20D3A21117FE",
+    "Platform": "PS",
+    "Timestamp": 1720016623000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "20DCA21117FE",
     "Platform": "XB",
@@ -57354,6 +61506,14 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "218AA21117FE",
+    "Platform": "ST",
+    "Timestamp": 1721290957000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Landulf",
     "Glyphs": "21CDA21117FE",
     "Platform": "ST",
@@ -57390,6 +61550,70 @@
     "Glyphs": "21D7A21117FE",
     "Platform": "ST",
     "Timestamp": 1706964838000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "21E6A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1719341602000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "21E6A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1719341610000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "21E6A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1719341618000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "21E6A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1719341624000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "21E6A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1719341633000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "21E6A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1719341642000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "21E6A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1719341650000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "21E6A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1719341655000
   },
   {
     "Category": "Flora",
@@ -57446,6 +61670,46 @@
     "Glyphs": "3088A21117FE",
     "Platform": "ST",
     "Timestamp": 1697895589000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "30D3A21117FE",
+    "Platform": "PS",
+    "Timestamp": 1720017902000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "30D3A21117FE",
+    "Platform": "PS",
+    "Timestamp": 1720017925000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "30D3A21117FE",
+    "Platform": "PS",
+    "Timestamp": 1720017965000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "30D3A21117FE",
+    "Platform": "PS",
+    "Timestamp": 1720017971000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "30D3A21117FE",
+    "Platform": "PS",
+    "Timestamp": 1720017980000
   },
   {
     "Category": "Flora",
@@ -57606,6 +61870,86 @@
     "Glyphs": "3176A21117FE",
     "Platform": "ST",
     "Timestamp": 1697887477000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "31F8A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1719340336000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "31F8A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1719340344000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "31F8A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1719340352000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "31F8A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1719340358000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "31F8A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1719340365000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "31F8A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1719340371000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "31F8A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1719340378000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "31F8A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1719340388000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "31F8A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1719340395000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "31F8A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1719340411000
   },
   {
     "Category": "Flora",
@@ -57782,78 +62126,6 @@
     "Glyphs": "50F2A21117FE",
     "Platform": "ST",
     "Timestamp": 1698575343000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5208A21117FE",
-    "Platform": "ST",
-    "Timestamp": 1698356247000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5208A21117FE",
-    "Platform": "ST",
-    "Timestamp": 1698356253000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5208A21117FE",
-    "Platform": "ST",
-    "Timestamp": 1698356262000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5208A21117FE",
-    "Platform": "ST",
-    "Timestamp": 1698356271000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5208A21117FE",
-    "Platform": "ST",
-    "Timestamp": 1698356282000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5208A21117FE",
-    "Platform": "ST",
-    "Timestamp": 1698356291000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5208A21117FE",
-    "Platform": "ST",
-    "Timestamp": 1698356299000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5208A21117FE",
-    "Platform": "ST",
-    "Timestamp": 1698356308000
-  },
-  {
-    "Category": "Flora",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5208A21117FE",
-    "Platform": "ST",
-    "Timestamp": 1698356735000
   },
   {
     "Category": "Flora",

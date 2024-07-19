@@ -1,12 +1,42 @@
 [
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Ropal",
+    "Discoverer": "Spinova",
+    "Glyphs": "2065A11127FF",
+    "Platform": "NI",
+    "Timestamp": 1720115747000,
+    "Parts": 279,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Ebon Hawk WIP",
     "Discoverer": "Lianeras",
     "Glyphs": "20D5A11127FF",
     "Platform": "ST",
     "Timestamp": 1711192214000,
     "Parts": 1137,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Houlden Colony (WIP)",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "20E7A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1720805761000,
+    "Parts": 711,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "New Goole R&D Facility (WIP)",
+    "Discoverer": "Epsilon430",
+    "Glyphs": "20E7A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1720495606000,
+    "Parts": 106,
     "Gamemode": "Normal"
   },
   {
@@ -107,6 +137,16 @@
     "Platform": "PS",
     "Timestamp": 1696804577000,
     "Parts": 94,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Citta",
+    "Discoverer": "Spinova",
+    "Glyphs": "60CEA11127FF",
+    "Platform": "NI",
+    "Timestamp": 1719711129000,
+    "Parts": 216,
     "Gamemode": "Normal"
   }
 ]

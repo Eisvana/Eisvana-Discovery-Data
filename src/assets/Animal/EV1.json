@@ -3146,6 +3146,22 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "11AEA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1719919051000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "11AEA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1719919059000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "cassiddidy",
     "Glyphs": "11AFA21117FF",
     "Platform": "PS",
@@ -3718,46 +3734,6 @@
     "Glyphs": "11FDA21117FF",
     "Platform": "PS",
     "Timestamp": 1696726571000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "1209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705764667000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "1209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705764678000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "1209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705764686000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "1209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705764694000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "1209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705764700000
   },
   {
     "Category": "Animal",
@@ -6346,86 +6322,6 @@
   {
     "Category": "Animal",
     "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "2209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705765576000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "2209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705765586000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "2209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705765593000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "2209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705765600000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "2209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705765607000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "2209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705765617000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "2209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705765623000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "2209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705765632000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "2209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705765640000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "2209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705765648000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "3001A21117FF",
     "Platform": "ST",
@@ -8099,6 +7995,14 @@
     "Category": "Animal",
     "Name": "",
     "Discoverer": "cassiddidy",
+    "Glyphs": "315AA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1720759131000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
     "Glyphs": "3170A21117FF",
     "Platform": "PS",
     "Timestamp": 1701471603000
@@ -8606,158 +8510,6 @@
     "Glyphs": "31E9A21117FF",
     "Platform": "ST",
     "Timestamp": 1695799734000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703441733000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703441739000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703441747000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703441752000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703441760000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703441769000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703441775000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703441784000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703441794000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703441803000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "3206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703528508000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "3209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705770619000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "3209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705770628000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "3209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705770634000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "3209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705770642000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "3209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705770651000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "3209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705770659000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "3209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705770665000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "3209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705770675000
   },
   {
     "Category": "Animal",
@@ -9890,6 +9642,22 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Icereaper027",
+    "Glyphs": "4148A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1720486492000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Icereaper027",
+    "Glyphs": "4148A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1720486502000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Rufina",
     "Glyphs": "4149A21117FF",
     "Platform": "ST",
@@ -10594,54 +10362,6 @@
   {
     "Category": "Animal",
     "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "4209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705769353000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "4209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705769358000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "4209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705769365000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "4209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705769375000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "4209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705769382000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "4209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705769390000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "5008A21117FF",
     "Platform": "ST",
@@ -10974,6 +10694,22 @@
     "Glyphs": "505AA21117FF",
     "Platform": "ST",
     "Timestamp": 1705763265000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Icereaper027",
+    "Glyphs": "506BA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1720235088000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Icereaper027",
+    "Glyphs": "506BA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1720235095000
   },
   {
     "Category": "Animal",
@@ -11882,150 +11618,6 @@
   {
     "Category": "Animal",
     "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703544766000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5207A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703547961000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5207A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703547966000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5207A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703547975000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5207A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703547981000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5207A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703547986000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5207A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703547996000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5207A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703548002000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "5207A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703548009000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "5209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705771299000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "5209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705771306000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "5209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705771314000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "5209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705771321000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "5209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705771331000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "5209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705771338000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "5209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705771344000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "5209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705771351000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "5209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705771359000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "600AA21117FF",
     "Platform": "ST",
@@ -12890,6 +12482,14 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "612EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1721368325000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "612FA21117FF",
     "Platform": "ST",
@@ -13070,205 +12670,5 @@
     "Glyphs": "61C5A21117FF",
     "Platform": "PS",
     "Timestamp": 1701406038000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703543237000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703543245000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703543255000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703543264000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703543270000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703543280000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703543287000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703543294000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703543300000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703543305000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "6206A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1703543313000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "6209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705769231000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "6209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705769239000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "6209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705769245000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "6209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705769255000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "6209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705769265000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "6209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705769272000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "6209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705769281000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "6209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705769289000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "6209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705769295000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "6209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705769303000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "6209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705769311000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "6209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705769321000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "6209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705769329000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Greens",
-    "Glyphs": "6209A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1705769338000
   }
 ]

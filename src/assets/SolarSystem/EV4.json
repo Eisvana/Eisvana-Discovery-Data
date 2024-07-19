@@ -1111,6 +1111,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV4-70 Ennelses",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "0070A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721154004000,
+    "Correctly Prefixed": true,
+    "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV4-71 Rikinlas",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0071A21127FF",
@@ -1138,6 +1148,36 @@
     "Timestamp": 1712949254000,
     "Correctly Prefixed": true,
     "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-74 Isminniggie",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "0074A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721156245000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-75 Undgan",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "0075A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721162330000,
+    "Correctly Prefixed": true,
+    "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-76 Geshistim",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "0076A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721167385000,
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -1228,6 +1268,16 @@
     "Timestamp": 1696225919000,
     "Correctly Prefixed": true,
     "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-80 Pusesnin",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "0080A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721336471000,
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -3387,7 +3437,7 @@
     "Platform": "GX",
     "Timestamp": 1696016498000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -3527,7 +3577,7 @@
     "Platform": "PS",
     "Timestamp": 1706761487000,
     "Correctly Prefixed": true,
-    "Planets": 6
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",

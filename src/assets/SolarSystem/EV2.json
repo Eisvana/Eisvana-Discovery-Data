@@ -841,11 +841,41 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV2-55 Zuykett",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "0055A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719519172000,
+    "Correctly Prefixed": true,
+    "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-56 Ozovate",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "0056A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719521664000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV2-57 Belore-Kimo",
     "Discoverer": "Binder198",
     "Glyphs": "0057A11117FF",
     "Platform": "ST",
     "Timestamp": 1709561380000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-58 Akarya",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "0058A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719603311000,
     "Correctly Prefixed": true,
     "Planets": 6
   },
@@ -908,6 +938,16 @@
     "Timestamp": 1712791993000,
     "Correctly Prefixed": true,
     "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-5F Shkovdo",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "005FA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719605370000,
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -981,6 +1021,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV2-67 Tebezhou",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "0067A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719607185000,
+    "Correctly Prefixed": true,
+    "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV2-68 Ryokhal-Insh",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0068A11117FF",
@@ -1028,6 +1078,16 @@
     "Timestamp": 1696619309000,
     "Correctly Prefixed": true,
     "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-6D Itelika",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "006DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719864143000,
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -1118,6 +1178,26 @@
     "Timestamp": 1712791880000,
     "Correctly Prefixed": true,
     "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-77 Mozdok V",
+    "Discoverer": "Lenni",
+    "Glyphs": "0077A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719407098000,
+    "Correctly Prefixed": true,
+    "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-78 Lenni Dzhi",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "0078A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1719951494000,
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -1251,6 +1331,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV2-86 Intama",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "0086A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720035404000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV2-87 Teromo-Apara",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0087A11117FF",
@@ -1258,6 +1348,26 @@
     "Timestamp": 1712381075000,
     "Correctly Prefixed": true,
     "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-88 Ruzamaka",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "0088A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720037654000,
+    "Correctly Prefixed": true,
+    "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-89 Emikhatov",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "0089A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720128359000,
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -1278,6 +1388,46 @@
     "Timestamp": 1712527112000,
     "Correctly Prefixed": true,
     "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-8C Voladog",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "008CA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720119578000,
+    "Correctly Prefixed": true,
+    "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-8D Itvalas",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "008DA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720128376000,
+    "Correctly Prefixed": true,
+    "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-8E Zihokul",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "008EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720274602000,
+    "Correctly Prefixed": true,
+    "Planets": 3
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-8F Loboya",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "008FA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720462597000,
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -1361,6 +1511,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV2-98 Lexand",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "0098A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720469508000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV2-99 Uzensk-Gad",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0099A11117FF",
@@ -1368,6 +1528,26 @@
     "Timestamp": 1712381368000,
     "Correctly Prefixed": true,
     "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-9A Nelom-Zuo",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "009AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720542761000,
+    "Correctly Prefixed": true,
+    "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-9B Yizrantu",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "009BA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720548952000,
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -1388,6 +1568,16 @@
     "Timestamp": 1712431808000,
     "Correctly Prefixed": true,
     "Planets": 2
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-9E Rinogre",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "009EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720557669000,
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -1561,6 +1751,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV2-B0 Elikhin",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "00B0A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720643945000,
+    "Correctly Prefixed": true,
+    "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV2-B1 Ozlovorzy",
     "Discoverer": "Autan219",
     "Glyphs": "00B1A11117FF",
@@ -1568,6 +1768,16 @@
     "Timestamp": 1695777560000,
     "Correctly Prefixed": true,
     "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-B2 Hachary",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "00B2A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720645912000,
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
     "Category": "SolarSystem",
@@ -1591,6 +1801,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV2-B5 Talugansk",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "00B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720723235000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV2-B6 Lulovse-Lafor",
     "Discoverer": "Binder198",
     "Glyphs": "00B6A11117FF",
@@ -1608,6 +1828,16 @@
     "Timestamp": 1712361965000,
     "Correctly Prefixed": true,
     "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-B8 Tuymak-Paa",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "00B8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720727575000,
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
     "Category": "SolarSystem",
@@ -1931,6 +2161,26 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV2-D9 Azmann-Touc",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "00D9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720869100000,
+    "Correctly Prefixed": true,
+    "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-DA Rotantey",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "00DAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1720980850000,
+    "Correctly Prefixed": true,
+    "Planets": 3
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV2-DB Egkoun",
     "Discoverer": "Binder198",
     "Glyphs": "00DBA11117FF",
@@ -2071,6 +2321,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV2-E9 Syasno",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "00E9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721069366000,
+    "Correctly Prefixed": true,
+    "Planets": 3
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV2-EA Lagiley-Ochi",
     "Discoverer": "Binder198",
     "Glyphs": "00EAA11117FF",
@@ -2198,6 +2458,26 @@
     "Timestamp": 1695982910000,
     "Correctly Prefixed": true,
     "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-F7 Bikinsars",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "00F7A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721074505000,
+    "Correctly Prefixed": true,
+    "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-F8 Akutsim",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "00F8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721077113000,
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2368,6 +2648,16 @@
     "Timestamp": 1696116794000,
     "Correctly Prefixed": true,
     "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-10A Zazherd",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "010AA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721079887000,
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -3247,7 +3537,7 @@
     "Platform": "XB",
     "Timestamp": 1712347732000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -4277,7 +4567,7 @@
     "Platform": "XB",
     "Timestamp": 1712357334000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -4507,7 +4797,7 @@
     "Platform": "ST",
     "Timestamp": 1696754612000,
     "Correctly Prefixed": false,
-    "Planets": 6
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -4537,7 +4827,7 @@
     "Platform": "ST",
     "Timestamp": 1712494022000,
     "Correctly Prefixed": true,
-    "Planets": 5
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -4547,7 +4837,7 @@
     "Platform": "XB",
     "Timestamp": 1709413617000,
     "Correctly Prefixed": true,
-    "Planets": 6
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -4587,7 +4877,7 @@
     "Platform": "XB",
     "Timestamp": 1704853955000,
     "Correctly Prefixed": true,
-    "Planets": 3
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -4597,7 +4887,7 @@
     "Platform": "XB",
     "Timestamp": 1712298201000,
     "Correctly Prefixed": true,
-    "Planets": 6
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -4647,7 +4937,7 @@
     "Platform": "XB",
     "Timestamp": 1712300886000,
     "Correctly Prefixed": true,
-    "Planets": 1
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -4667,7 +4957,7 @@
     "Platform": "XB",
     "Timestamp": 1712597896000,
     "Correctly Prefixed": true,
-    "Planets": 3
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
