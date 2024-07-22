@@ -1,12 +1,42 @@
 [
   {
     "Category": "Base",
+    "Name": "Itwic XI -CO+O2 Eisvana EV4C1 Kumener",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721565476000,
+    "Parts": 102,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Frozen Fauna research Usuki 51/T3",
+    "Discoverer": "Onipuss",
+    "Glyphs": "111CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721554084000,
+    "Parts": 16,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Gummy Earth",
     "Discoverer": "WraithRaptor",
     "Glyphs": "1188A21127FF",
     "Platform": "GX",
     "Timestamp": 1707550381000,
     "Parts": 22,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Nibiiwaakzi Gibojeying",
+    "Discoverer": "Onipuss",
+    "Glyphs": "211CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721514003000,
+    "Parts": 427,
     "Gamemode": "Normal"
   }
 ]

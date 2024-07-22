@@ -101,6 +101,26 @@
   },
   {
     "Category": "Base",
+    "Name": "Activ. Indium Extraction Site",
+    "Discoverer": "Barderico",
+    "Glyphs": "20BAA21107FE",
+    "Platform": "NI",
+    "Timestamp": 1721574153000,
+    "Parts": 125,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Consciousness",
+    "Discoverer": "Spinova_",
+    "Glyphs": "2192A21107FE",
+    "Platform": "PS",
+    "Timestamp": 1721608072000,
+    "Parts": 1338,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Thuse-Umen Base",
     "Discoverer": "Bahamut-the-Grea",
     "Glyphs": "30B8A21107FE",
@@ -171,12 +191,12 @@
   },
   {
     "Category": "Base",
-    "Name": "Glacies Minora Outpost",
+    "Name": "Frosthaven Station",
     "Discoverer": "Barderico",
     "Glyphs": "40BAA21107FE",
     "Platform": "NI",
-    "Timestamp": 1705523897000,
-    "Parts": 175,
+    "Timestamp": 1721477114000,
+    "Parts": 385,
     "Gamemode": "Normal"
   },
   {

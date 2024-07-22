@@ -4930,6 +4930,22 @@
   {
     "Category": "Mineral",
     "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "203EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721513106000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "203EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721513113000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "2042A21107FF",
     "Platform": "ST",
@@ -5286,6 +5302,14 @@
     "Glyphs": "208CA21107FF",
     "Platform": "ST",
     "Timestamp": 1697297242000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "2098A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721576253000
   },
   {
     "Category": "Mineral",
@@ -10982,6 +11006,30 @@
     "Glyphs": "5156A21107FF",
     "Platform": "ST",
     "Timestamp": 1696700317000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "5161A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721514294000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "5161A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721514301000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "5161A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721514312000
   },
   {
     "Category": "Mineral",

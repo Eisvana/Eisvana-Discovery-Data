@@ -3642,102 +3642,6 @@
   {
     "Category": "Animal",
     "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "11FCA21117FF",
-    "Platform": "PS",
-    "Timestamp": 1697428811000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "11FCA21117FF",
-    "Platform": "PS",
-    "Timestamp": 1697428818000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "11FCA21117FF",
-    "Platform": "PS",
-    "Timestamp": 1697428826000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "11FCA21117FF",
-    "Platform": "PS",
-    "Timestamp": 1697428833000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "11FCA21117FF",
-    "Platform": "PS",
-    "Timestamp": 1697428840000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "11FCA21117FF",
-    "Platform": "PS",
-    "Timestamp": 1697428860000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "11FDA21117FF",
-    "Platform": "PS",
-    "Timestamp": 1696726285000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "11FDA21117FF",
-    "Platform": "PS",
-    "Timestamp": 1696726293000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "11FDA21117FF",
-    "Platform": "PS",
-    "Timestamp": 1696726301000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "11FDA21117FF",
-    "Platform": "PS",
-    "Timestamp": 1696726308000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "11FDA21117FF",
-    "Platform": "PS",
-    "Timestamp": 1696726317000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "11FDA21117FF",
-    "Platform": "PS",
-    "Timestamp": 1696726571000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "2002A21117FF",
     "Platform": "ST",
@@ -4646,6 +4550,54 @@
     "Glyphs": "20C1A21117FF",
     "Platform": "ST",
     "Timestamp": 1705779478000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "20C2A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1721581679000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "20C2A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1721586729000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "20C2A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1721613781000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "20C2A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1721613801000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "20C2A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1721613807000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "20C2A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1721613813000
   },
   {
     "Category": "Animal",
@@ -6302,22 +6254,6 @@
     "Glyphs": "21EDA21117FF",
     "Platform": "PS",
     "Timestamp": 1709305081000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "21FCA21117FF",
-    "Platform": "PS",
-    "Timestamp": 1706636701000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "21FCA21117FF",
-    "Platform": "PS",
-    "Timestamp": 1706636709000
   },
   {
     "Category": "Animal",
@@ -16930,14 +16866,6 @@
   {
     "Category": "Animal",
     "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "11FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696755268000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "2001A11117FF",
     "Platform": "ST",
@@ -18530,14 +18458,6 @@
   {
     "Category": "Animal",
     "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "21FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696755235000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
     "Discoverer": "Binder198",
     "Glyphs": "3021A11117FF",
     "Platform": "ST",
@@ -19954,70 +19874,6 @@
   {
     "Category": "Animal",
     "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756219000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756228000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756237000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756259000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756638000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756714000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756961000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756967000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "4001A11117FF",
     "Platform": "ST",
@@ -21290,22 +21146,6 @@
   {
     "Category": "Animal",
     "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "41FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696755686000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "41FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696755703000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "5001A11117FF",
     "Platform": "ST",
@@ -22002,14 +21842,6 @@
   {
     "Category": "Animal",
     "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "51FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696757150000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "6001A11117FF",
     "Platform": "ST",
@@ -22462,14 +22294,6 @@
     "Glyphs": "61CCA11117FF",
     "Platform": "ST",
     "Timestamp": 1696925536000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "61FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696757781000
   },
   {
     "Category": "Animal",
@@ -34434,6 +34258,14 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Elryn",
+    "Glyphs": "301AA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721508200000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Junebiologist",
     "Glyphs": "301BA11127FF",
     "Platform": "ST",
@@ -44658,6 +44490,14 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721587146000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Mimikyu1312",
     "Glyphs": "10CDA21127FF",
     "Platform": "ST",
@@ -44670,6 +44510,46 @@
     "Glyphs": "10D2A21127FF",
     "Platform": "ST",
     "Timestamp": 1717372029000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10D4A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721396115000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10D4A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721396123000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10D4A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721396150000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10D4A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721396175000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10D4A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721396219000
   },
   {
     "Category": "Animal",
@@ -44769,6 +44649,86 @@
   },
   {
     "Category": "Animal",
+    "Name": "A. Chrysocrystalus Aeshifensis",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10FEA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721412415000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10FEA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721413359000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10FEA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721413366000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10FEA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721413382000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10FEA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721413398000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721419963000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721419968000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721419973000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721419982000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721420003000
+  },
+  {
+    "Category": "Animal",
     "Name": "",
     "Discoverer": "WraithRaptor",
     "Glyphs": "1112A21127FF",
@@ -44790,6 +44750,54 @@
     "Glyphs": "1112A21127FF",
     "Platform": "GX",
     "Timestamp": 1696016921000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "111CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556961000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "111CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556979000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "111CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721557002000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "111CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721557006000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "111CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721557049000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "111CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721557063000
   },
   {
     "Category": "Animal",
@@ -44862,6 +44870,38 @@
     "Glyphs": "115CA21127FF",
     "Platform": "XB",
     "Timestamp": 1709598070000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1160A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556725000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1160A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556733000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1160A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556739000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1160A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556748000
   },
   {
     "Category": "Animal",
@@ -45458,6 +45498,22 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "20C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721625347000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "20C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721625743000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "20D2A21127FF",
     "Platform": "ST",
@@ -45646,6 +45702,94 @@
     "Glyphs": "20FCA21127FF",
     "Platform": "XB",
     "Timestamp": 1712262597000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "20FEA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721413445000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "2102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721420010000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "2102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721420023000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "2102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721420048000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "2102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721420054000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "211CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556650000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "211CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556661000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "211CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556670000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "211CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556678000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "211CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556693000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "211CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556811000
   },
   {
     "Category": "Animal",
@@ -46098,6 +46242,86 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721587282000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721587538000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721587767000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721587906000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721588127000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721588331000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721588468000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721624863000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721624877000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721624886000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "30E7A21127FF",
     "Platform": "ST",
@@ -46206,6 +46430,30 @@
     "Glyphs": "30F1A21127FF",
     "Platform": "ST",
     "Timestamp": 1705420527000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "3102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721420060000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "3102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721420075000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "3102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721420081000
   },
   {
     "Category": "Animal",
@@ -46422,38 +46670,6 @@
     "Glyphs": "31E3A21127FF",
     "Platform": "PS",
     "Timestamp": 1706762368000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "WraithRaptor",
-    "Glyphs": "31FBA21127FF",
-    "Platform": "GX",
-    "Timestamp": 1695964868000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "WraithRaptor",
-    "Glyphs": "31FBA21127FF",
-    "Platform": "GX",
-    "Timestamp": 1695964874000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "WraithRaptor",
-    "Glyphs": "31FBA21127FF",
-    "Platform": "GX",
-    "Timestamp": 1695964882000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "WraithRaptor",
-    "Glyphs": "31FBA21127FF",
-    "Platform": "GX",
-    "Timestamp": 1695964888000
   },
   {
     "Category": "Animal",
@@ -46754,6 +46970,22 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "40C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721591106000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "40C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721625027000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "WraithRaptor",
     "Glyphs": "40E6A21127FF",
     "Platform": "GX",
@@ -46966,6 +47198,30 @@
     "Glyphs": "40FEA21127FF",
     "Platform": "GX",
     "Timestamp": 1707085723000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "40FEA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721413406000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "4102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721420086000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "4102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721420104000
   },
   {
     "Category": "Animal",
@@ -47554,6 +47810,46 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "50C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721593607000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "50C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721593802000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "50C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721594104000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "50C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721595157000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "50C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721625329000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "50D2A21127FF",
     "Platform": "ST",
@@ -47778,6 +48074,38 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "511CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556887000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "511CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556902000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "511CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556910000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "511CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556922000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "5151A21127FF",
     "Platform": "XB",
@@ -47998,6 +48326,62 @@
     "Glyphs": "6079A21127FF",
     "Platform": "ST",
     "Timestamp": 1705435204000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721581792000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721581938000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721624129000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721624141000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721624173000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721624436000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721624494000
   },
   {
     "Category": "Animal",
@@ -48782,6 +49166,62 @@
     "Glyphs": "101CA21107FF",
     "Platform": "PS",
     "Timestamp": 1700062742000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "1020A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721496855000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "1020A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721496862000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "1020A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721496869000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "1020A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721496878000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "1020A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721496888000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "1020A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721496898000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "1020A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721496904000
   },
   {
     "Category": "Animal",
@@ -50754,6 +51194,30 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "10E7A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721476901000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "10E7A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721477232000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "10EFA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721572977000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "BrokenNocturne",
     "Glyphs": "10FBA21107FF",
     "Platform": "XB",
@@ -50806,6 +51270,30 @@
     "Glyphs": "10FEA21107FF",
     "Platform": "PS",
     "Timestamp": 1709807961000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "1100A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721533654000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "1100A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721533664000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "1100A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721533670000
   },
   {
     "Category": "Animal",
@@ -51574,6 +52062,46 @@
     "Glyphs": "1147A21107FF",
     "Platform": "PS",
     "Timestamp": 1700963748000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "1153A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721576295000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "1153A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721576357000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "1153A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721576418000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "1153A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721576599000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "1153A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721586693000
   },
   {
     "Category": "Animal",
@@ -53698,86 +54226,6 @@
   {
     "Category": "Animal",
     "Name": "",
-    "Discoverer": "Mr Introvert",
-    "Glyphs": "11FBA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1697894592000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Mr Introvert",
-    "Glyphs": "11FBA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1697894597000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Mr Introvert",
-    "Glyphs": "11FBA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1697894603000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Mr Introvert",
-    "Glyphs": "11FBA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1697894716000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Mr Introvert",
-    "Glyphs": "11FBA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1697902824000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Crispycadaver",
-    "Glyphs": "11FBA21107FF",
-    "Platform": "XB",
-    "Timestamp": 1706942082000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Crispycadaver",
-    "Glyphs": "11FBA21107FF",
-    "Platform": "XB",
-    "Timestamp": 1706942098000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Crispycadaver",
-    "Glyphs": "11FBA21107FF",
-    "Platform": "XB",
-    "Timestamp": 1706942112000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Crispycadaver",
-    "Glyphs": "11FBA21107FF",
-    "Platform": "XB",
-    "Timestamp": 1706942275000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Crispycadaver",
-    "Glyphs": "11FBA21107FF",
-    "Platform": "XB",
-    "Timestamp": 1706942286000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "2001A21107FF",
     "Platform": "ST",
@@ -54198,6 +54646,14 @@
     "Glyphs": "203EA21107FF",
     "Platform": "XB",
     "Timestamp": 1705331764000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "203EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721512861000
   },
   {
     "Category": "Animal",
@@ -54710,6 +55166,14 @@
     "Glyphs": "208CA21107FF",
     "Platform": "ST",
     "Timestamp": 1697297177000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "209CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721511918000
   },
   {
     "Category": "Animal",
@@ -56766,6 +57230,30 @@
     "Glyphs": "21EFA21107FF",
     "Platform": "PS",
     "Timestamp": 1700173007000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "21F5A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721634531000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "21F5A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721634537000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "21F5A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721634548000
   },
   {
     "Category": "Animal",
@@ -59370,70 +59858,6 @@
   {
     "Category": "Animal",
     "Name": "",
-    "Discoverer": "Mr Introvert",
-    "Glyphs": "31FBA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1697753620000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Mr Introvert",
-    "Glyphs": "31FBA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1697753657000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Mr Introvert",
-    "Glyphs": "31FBA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1697894427000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Mr Introvert",
-    "Glyphs": "31FBA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1697894444000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Mr Introvert",
-    "Glyphs": "31FBA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1697894453000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Mr Introvert",
-    "Glyphs": "31FBA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1697894460000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Mr Introvert",
-    "Glyphs": "31FBA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1697894492000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Mr Introvert",
-    "Glyphs": "31FBA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1697894511000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "4001A21107FF",
     "Platform": "ST",
@@ -60410,6 +60834,86 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721494377000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721494383000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721494390000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721494398000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721494405000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721494414000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721494422000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721494431000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721494441000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721494446000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "4071A21107FF",
     "Platform": "ST",
@@ -60462,6 +60966,14 @@
     "Glyphs": "4071A21107FF",
     "Platform": "ST",
     "Timestamp": 1697379837000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "4073A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721633719000
   },
   {
     "Category": "Animal",
@@ -60658,6 +61170,22 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "40FCA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721511963000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "40FCA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721511972000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "cassiddidy",
     "Glyphs": "4116A21107FF",
     "Platform": "PS",
@@ -60814,6 +61342,30 @@
     "Glyphs": "4118A21107FF",
     "Platform": "PS",
     "Timestamp": 1705471462000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "4118A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721451422000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "4118A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721452230000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "4118A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721457303000
   },
   {
     "Category": "Animal",
@@ -61794,14 +62346,6 @@
   {
     "Category": "Animal",
     "Name": "",
-    "Discoverer": "CosmickRover",
-    "Glyphs": "41FBA21107FF",
-    "Platform": "XB",
-    "Timestamp": 1705995207000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "5001A21107FF",
     "Platform": "ST",
@@ -61978,6 +62522,22 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "5030A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721533281000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "5030A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721533294000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "BrokenNocturne",
     "Glyphs": "5031A21107FF",
     "Platform": "XB",
@@ -62150,6 +62710,14 @@
     "Glyphs": "503FA21107FF",
     "Platform": "ST",
     "Timestamp": 1712013203000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "5047A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721455143000
   },
   {
     "Category": "Animal",
@@ -62578,10 +63146,98 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "5092A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721401320000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "5092A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721401326000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "5092A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721401334000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "BrokenNocturne",
     "Glyphs": "50CAA21107FF",
     "Platform": "XB",
     "Timestamp": 1703781240000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "50E3A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721512012000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "50E3A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721512020000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "50E3A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721512028000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "50E3A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721512038000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "50E3A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721512048000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "50E3A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721512058000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "50E3A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721512065000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "50E3A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721512074000
   },
   {
     "Category": "Animal",
@@ -62950,6 +63606,38 @@
     "Glyphs": "5156A21107FF",
     "Platform": "ST",
     "Timestamp": 1696700241000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "5161A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721514275000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "5161A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721514280000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "5161A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721514286000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "5161A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721514371000
   },
   {
     "Category": "Animal",
@@ -63886,6 +64574,38 @@
     "Glyphs": "602EA21107FF",
     "Platform": "ST",
     "Timestamp": 1718093446000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "6059A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721532072000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "6059A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721532666000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "6059A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721532675000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "6059A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721532681000
   },
   {
     "Category": "Animal",
@@ -65611,6 +66331,14 @@
     "Category": "Animal",
     "Name": "",
     "Discoverer": "iggdawg",
+    "Glyphs": "1029A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721400999000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
     "Glyphs": "102AA21107FE",
     "Platform": "ST",
     "Timestamp": 1721258913000
@@ -67066,6 +67794,78 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "106EA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479330000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "106EA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479338000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "106EA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479345000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "106EA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479351000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "106EA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479392000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1077A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721511740000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1077A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721511747000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1077A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721511756000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1077A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721511762000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Tarloch",
     "Glyphs": "1079A21107FE",
     "Platform": "ST",
@@ -67358,6 +68158,30 @@
     "Glyphs": "10D6A21107FE",
     "Platform": "ST",
     "Timestamp": 1697785666000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "10DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479788000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "10DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479798000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "10DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479820000
   },
   {
     "Category": "Animal",
@@ -67826,6 +68650,22 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1116A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721564139000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1116A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721564149000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "111CA21107FE",
     "Platform": "ST",
@@ -67878,6 +68718,14 @@
     "Glyphs": "112BA21107FE",
     "Platform": "PS",
     "Timestamp": 1717372220000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1130A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721584391000
   },
   {
     "Category": "Animal",
@@ -68246,6 +69094,38 @@
     "Glyphs": "1167A21107FE",
     "Platform": "ST",
     "Timestamp": 1721333674000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1172A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721513882000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1172A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721513889000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1172A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721513896000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1172A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721513904000
   },
   {
     "Category": "Animal",
@@ -69370,6 +70250,46 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "2069A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721400890000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "2069A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721400896000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "2069A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721400903000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "2069A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721400909000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "2069A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721400918000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "207AA21107FE",
     "Platform": "ST",
@@ -69382,6 +70302,46 @@
     "Glyphs": "207DA21107FE",
     "Platform": "XB",
     "Timestamp": 1713651883000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "207FA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721524957000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "207FA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721524963000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "207FA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721524973000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "207FA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721524985000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "207FA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721524995000
   },
   {
     "Category": "Animal",
@@ -69630,6 +70590,30 @@
     "Glyphs": "20D6A21107FE",
     "Platform": "ST",
     "Timestamp": 1697787078000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "20DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479861000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "20DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479878000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "20DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479884000
   },
   {
     "Category": "Animal",
@@ -69963,6 +70947,70 @@
     "Category": "Animal",
     "Name": "",
     "Discoverer": "Lunivore",
+    "Glyphs": "2100A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721411842000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2100A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721411906000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2100A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721411928000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2100A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721411934000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2100A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721411940000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2100A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721411955000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "2117A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721564049000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "2117A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721564059000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
     "Glyphs": "211BA21107FE",
     "Platform": "ST",
     "Timestamp": 1697740375000
@@ -70274,6 +71322,38 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "2158A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721561258000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "2158A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721561265000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "2158A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721561271000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "2158A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721561277000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "-bZ- Tha Angry Salsa",
     "Glyphs": "2160A21107FE",
     "Platform": "ST",
@@ -70402,6 +71482,30 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "218AA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721561398000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "218BA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721561516000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "218BA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721561526000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "218CA21107FE",
     "Platform": "ST",
@@ -70454,6 +71558,14 @@
     "Glyphs": "218CA21107FE",
     "Platform": "ST",
     "Timestamp": 1716751318000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "218DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721414380000
   },
   {
     "Category": "Animal",
@@ -70574,6 +71686,46 @@
     "Glyphs": "219BA21107FE",
     "Platform": "ST",
     "Timestamp": 1704537930000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "219DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721480653000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "219DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721480662000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "219DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721480668000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "219DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721480678000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "219DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721480687000
   },
   {
     "Category": "Animal",
@@ -70962,6 +72114,94 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "21E0A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721400976000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "21E0A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721400980000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "21E0A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721400985000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "21E0A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721400992000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "21E9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721512142000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "21E9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721512150000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "21E9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721512160000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "21E9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721512168000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "21E9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721512174000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "21E9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721513817000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "21E9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721513822000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Landulf",
     "Glyphs": "21EAA21107FE",
     "Platform": "ST",
@@ -71178,6 +72418,14 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "trlrprktrsh711",
+    "Glyphs": "3023A21107FE",
+    "Platform": "PS",
+    "Timestamp": 1721618152000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "3025A21107FE",
     "Platform": "ST",
@@ -71246,6 +72494,78 @@
     "Glyphs": "302AA21107FE",
     "Platform": "ST",
     "Timestamp": 1721258946000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "3047A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721401085000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "3047A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721401095000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "3047A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721401100000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "3047A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721401110000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "3047A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721401118000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "3047A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721401124000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "305AA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721401039000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "305AA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721401044000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "305AA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721401051000
   },
   {
     "Category": "Animal",
@@ -71366,6 +72686,54 @@
     "Glyphs": "3067A21107FE",
     "Platform": "ST",
     "Timestamp": 1698302124000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "306FA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721401182000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "306FA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721401185000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "306FA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721401193000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "3071A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479293000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "3071A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479301000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "3071A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479310000
   },
   {
     "Category": "Animal",
@@ -71566,6 +72934,54 @@
     "Glyphs": "30D6A21107FE",
     "Platform": "ST",
     "Timestamp": 1697785947000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "30DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479926000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "30DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479931000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "30DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479956000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "30DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479964000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "30DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479973000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "30DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479979000
   },
   {
     "Category": "Animal",
@@ -71822,6 +73238,14 @@
     "Glyphs": "3115A21107FE",
     "Platform": "XB",
     "Timestamp": 1713232929000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "3115A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721563983000
   },
   {
     "Category": "Animal",
@@ -72451,6 +73875,62 @@
     "Category": "Animal",
     "Name": "",
     "Discoverer": "Lunivore",
+    "Glyphs": "318DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462097000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "318DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462121000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "318DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462129000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "318DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462135000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "318DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462159000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "318DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462175000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "318DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462184000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
     "Glyphs": "3194A21107FE",
     "Platform": "ST",
     "Timestamp": 1704533368000
@@ -72810,6 +74290,86 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "31CAA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721513941000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "31CAA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721513948000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "31CAA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721513977000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "31CAA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721513988000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "31CAA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721524876000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "31CAA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721524883000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "31CAA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721524889000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "31CAA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721524897000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "31CAA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721524903000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "31CAA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721524910000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Landulf",
     "Glyphs": "31DAA21107FE",
     "Platform": "ST",
@@ -72942,6 +74502,86 @@
     "Glyphs": "31EFA21107FE",
     "Platform": "ST",
     "Timestamp": 1706956698000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4024A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721511768000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4024A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721511775000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4024A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721511785000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4024A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721511793000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4024A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721511805000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4024A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721511819000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4024A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721511824000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4024A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721511834000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4024A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721511865000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4024A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721511876000
   },
   {
     "Category": "Animal",
@@ -73114,6 +74754,30 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4075A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721404342000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4075A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721404351000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4075A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721404357000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "407AA21107FE",
     "Platform": "ST",
@@ -73258,10 +74922,98 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Barderico",
+    "Glyphs": "40BAA21107FE",
+    "Platform": "NI",
+    "Timestamp": 1721503654000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Barderico",
+    "Glyphs": "40BAA21107FE",
+    "Platform": "NI",
+    "Timestamp": 1721503662000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Barderico",
+    "Glyphs": "40BAA21107FE",
+    "Platform": "NI",
+    "Timestamp": 1721503667000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Barderico",
+    "Glyphs": "40BAA21107FE",
+    "Platform": "NI",
+    "Timestamp": 1721503676000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Barderico",
+    "Glyphs": "40BAA21107FE",
+    "Platform": "NI",
+    "Timestamp": 1721503683000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Barderico",
+    "Glyphs": "40BAA21107FE",
+    "Platform": "NI",
+    "Timestamp": 1721503690000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "40D5A21107FE",
     "Platform": "ST",
     "Timestamp": 1698344854000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "40DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479889000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "40DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479898000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "40DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479905000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "40DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479912000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "40DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479918000
   },
   {
     "Category": "Animal",
@@ -73382,6 +75134,70 @@
     "Glyphs": "40FFA21107FE",
     "Platform": "ST",
     "Timestamp": 1699085687000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4116A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721564161000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4116A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721564167000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4116A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721564173000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4116A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721584321000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4117A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721564067000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4117A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721564075000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4117A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721564083000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4117A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721564093000
   },
   {
     "Category": "Animal",
@@ -73518,6 +75334,62 @@
     "Glyphs": "4135A21107FE",
     "Platform": "ST",
     "Timestamp": 1698144385000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "413DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721404434000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "413DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721404445000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "413DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721404454000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "413DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721404464000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "413DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721404470000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "413DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721404479000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "413DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721404487000
   },
   {
     "Category": "Animal",
@@ -73826,6 +75698,70 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "418DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721459879000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "418DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721459899000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "418DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721459920000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "418DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721459955000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "418DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721459980000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "418DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721460500000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "418DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721460509000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "418DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721460517000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "418FA21107FE",
     "Platform": "XB",
@@ -74034,6 +75970,46 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "41A9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479612000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "41A9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479617000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "41A9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479624000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "41A9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479631000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "41A9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479641000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "41C7A21107FE",
     "Platform": "XB",
@@ -74114,10 +76090,34 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "41CDA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479533000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "41CDA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479544000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "41DEA21107FE",
     "Platform": "XB",
     "Timestamp": 1712942628000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "41E9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721513828000
   },
   {
     "Category": "Animal",
@@ -74826,6 +76826,38 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "50F8A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721401056000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "50F8A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721401061000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "50F8A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721401069000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "50F8A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721401076000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Salvatore-09-24",
     "Glyphs": "50F9A21107FE",
     "Platform": "PS",
@@ -74978,6 +77010,46 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "5158A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721561284000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "5158A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721561292000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "5158A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721561304000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "5158A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721561310000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "5158A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721561315000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "5174A21107FE",
     "Platform": "ST",
@@ -75083,6 +77155,46 @@
     "Category": "Animal",
     "Name": "",
     "Discoverer": "Lunivore",
+    "Glyphs": "518DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721414407000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "518DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721414415000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "518DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721414425000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "518DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721414549000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "518DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721414558000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
     "Glyphs": "51A8A21107FE",
     "Platform": "ST",
     "Timestamp": 1697565643000
@@ -75142,6 +77254,54 @@
     "Glyphs": "51A8A21107FE",
     "Platform": "ST",
     "Timestamp": 1697566065000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "51A9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479649000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "51A9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479655000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "51A9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479664000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "51A9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479672000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "51A9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479680000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "51A9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479686000
   },
   {
     "Category": "Animal",
@@ -75538,6 +77698,38 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "6048A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721401009000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "6048A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721401018000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "6048A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721401024000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "6048A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721401032000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "60D5A21107FE",
     "Platform": "ST",
@@ -75811,6 +78003,118 @@
     "Category": "Animal",
     "Name": "",
     "Discoverer": "iggdawg",
+    "Glyphs": "618BA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721561534000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "618BA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721561545000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "618BA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721561552000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "618BA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721561560000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "618BA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721561568000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "618BA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721561575000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "618DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462812000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "618DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462829000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "618DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462837000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "618DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462846000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "618DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462881000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "618DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462890000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "618DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462912000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "618DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721463662000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
     "Glyphs": "61A0A21107FE",
     "Platform": "ST",
     "Timestamp": 1709239408000
@@ -75878,6 +78182,62 @@
     "Glyphs": "61A8A21107FE",
     "Platform": "ST",
     "Timestamp": 1697567026000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "61A9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479694000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "61A9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479704000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "61A9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479714000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "61A9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479723000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "61A9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479730000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "61A9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479739000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "61A9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479744000
   },
   {
     "Category": "Animal",

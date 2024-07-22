@@ -1250,6 +1250,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "1114A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1721433636000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "cassiddidy",
     "Glyphs": "1115A21117FF",
     "Platform": "PS",
@@ -2165,8 +2178,8 @@
     "Platform": "ST",
     "Timestamp": 1695798088000,
     "Fauna": 7,
-    "Flora": 7,
-    "Minerals": 13,
+    "Flora": 15,
+    "Minerals": 16,
     "Settlements": 0,
     "Bases": 0
   },
@@ -2204,19 +2217,6 @@
     "Platform": "ST",
     "Timestamp": 1704281350000,
     "Fauna": 0,
-    "Flora": 0,
-    "Minerals": 0,
-    "Settlements": 0,
-    "Bases": 0
-  },
-  {
-    "Category": "Planet",
-    "Name": "",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "11FCA21117FF",
-    "Platform": "PS",
-    "Timestamp": 1696677709000,
-    "Fauna": 6,
     "Flora": 0,
     "Minerals": 0,
     "Settlements": 0,
@@ -2809,6 +2809,19 @@
   },
   {
     "Category": "Planet",
+    "Name": "Hamilton",
+    "Discoverer": "Spinova_",
+    "Glyphs": "207EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1721440679000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
     "Name": "Ritourge",
     "Discoverer": "YucaFrita",
     "Glyphs": "2080A21117FF",
@@ -3074,7 +3087,7 @@
     "Glyphs": "20C2A21117FF",
     "Platform": "ST",
     "Timestamp": 1704639850000,
-    "Fauna": 0,
+    "Fauna": 6,
     "Flora": 0,
     "Minerals": 0,
     "Settlements": 0,
@@ -4015,6 +4028,19 @@
     "Minerals": 0,
     "Settlements": 0,
     "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "Budai",
+    "Discoverer": "Spinova_",
+    "Glyphs": "219EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1721432485000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 1
   },
   {
     "Category": "Planet",
@@ -4962,6 +4988,19 @@
     "Fauna": 7,
     "Flora": 3,
     "Minerals": 6,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "Sanders",
+    "Discoverer": "Spinova_",
+    "Glyphs": "307EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1721440721000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
     "Settlements": 0,
     "Bases": 0
   },
@@ -7212,7 +7251,7 @@
     "Flora": 0,
     "Minerals": 0,
     "Settlements": 0,
-    "Bases": 0
+    "Bases": 1
   },
   {
     "Category": "Planet",

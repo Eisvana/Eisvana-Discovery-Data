@@ -11962,6 +11962,14 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Elryn",
+    "Glyphs": "301AA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721508200000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Junebiologist",
     "Glyphs": "301BA11127FF",
     "Platform": "ST",

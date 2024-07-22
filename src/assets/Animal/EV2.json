@@ -4258,14 +4258,6 @@
   {
     "Category": "Animal",
     "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "11FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696755268000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "2001A11117FF",
     "Platform": "ST",
@@ -5858,14 +5850,6 @@
   {
     "Category": "Animal",
     "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "21FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696755235000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
     "Discoverer": "Binder198",
     "Glyphs": "3021A11117FF",
     "Platform": "ST",
@@ -7282,70 +7266,6 @@
   {
     "Category": "Animal",
     "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756219000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756228000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756237000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756259000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756638000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756714000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756961000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "31FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696756967000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "4001A11117FF",
     "Platform": "ST",
@@ -8618,22 +8538,6 @@
   {
     "Category": "Animal",
     "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "41FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696755686000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "41FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696755703000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "5001A11117FF",
     "Platform": "ST",
@@ -9330,14 +9234,6 @@
   {
     "Category": "Animal",
     "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "51FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696757150000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "6001A11117FF",
     "Platform": "ST",
@@ -9790,13 +9686,5 @@
     "Glyphs": "61CCA11117FF",
     "Platform": "ST",
     "Timestamp": 1696925536000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "Lunivore",
-    "Glyphs": "61FDA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696757781000
   }
 ]

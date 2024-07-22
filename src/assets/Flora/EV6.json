@@ -2746,6 +2746,46 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "106EA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479322000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "106EA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479361000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "106EA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479367000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "106EA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479374000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "106EA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479382000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Tarloch",
     "Glyphs": "1079A21107FE",
     "Platform": "ST",
@@ -2990,6 +3030,30 @@
     "Glyphs": "10D6A21107FE",
     "Platform": "ST",
     "Timestamp": 1697789842000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "10DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479782000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "10DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479806000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "10DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479813000
   },
   {
     "Category": "Flora",
@@ -4818,6 +4882,14 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "2069A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721400880000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Lenni",
     "Glyphs": "208EA21107FE",
     "Platform": "ST",
@@ -5054,6 +5126,14 @@
     "Glyphs": "20D6A21107FE",
     "Platform": "ST",
     "Timestamp": 1697787154000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "20DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479870000
   },
   {
     "Category": "Flora",
@@ -5342,6 +5422,86 @@
     "Glyphs": "2100A21107FE",
     "Platform": "ST",
     "Timestamp": 1717398508000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2100A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721411846000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2100A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721411861000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2100A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721411867000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2100A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721411874000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2100A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721411893000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2100A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721411913000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2100A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721411920000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2100A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721411970000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2100A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721411985000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "2100A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721412004000
   },
   {
     "Category": "Flora",
@@ -5950,6 +6110,14 @@
     "Glyphs": "218CA21107FE",
     "Platform": "ST",
     "Timestamp": 1716751302000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "218DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721496675000
   },
   {
     "Category": "Flora",
@@ -7218,6 +7386,22 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "30DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479941000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "30DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479949000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Craigbert",
     "Glyphs": "30DFA21107FE",
     "Platform": "NI",
@@ -8067,6 +8251,54 @@
     "Category": "Flora",
     "Name": "",
     "Discoverer": "Lunivore",
+    "Glyphs": "318DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462070000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "318DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462079000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "318DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462105000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "318DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462114000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "318DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462144000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "318DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462153000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
     "Glyphs": "3194A21107FE",
     "Platform": "ST",
     "Timestamp": 1704533396000
@@ -8330,6 +8562,30 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "31CAA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721513956000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "31CAA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721513971000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "31CAA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721513973000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Landulf",
     "Glyphs": "31DAA21107FE",
     "Platform": "ST",
@@ -8470,6 +8726,30 @@
     "Glyphs": "4024A21107FE",
     "Platform": "ST",
     "Timestamp": 1721258976000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4024A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721511799000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4024A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721511813000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4024A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721511843000
   },
   {
     "Category": "Flora",
@@ -8802,6 +9082,70 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "Barderico",
+    "Glyphs": "40BAA21107FE",
+    "Platform": "NI",
+    "Timestamp": 1721557727000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Barderico",
+    "Glyphs": "40BAA21107FE",
+    "Platform": "NI",
+    "Timestamp": 1721557734000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Barderico",
+    "Glyphs": "40BAA21107FE",
+    "Platform": "NI",
+    "Timestamp": 1721557742000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Barderico",
+    "Glyphs": "40BAA21107FE",
+    "Platform": "NI",
+    "Timestamp": 1721590140000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Barderico",
+    "Glyphs": "40BAA21107FE",
+    "Platform": "NI",
+    "Timestamp": 1721590161000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Barderico",
+    "Glyphs": "40BAA21107FE",
+    "Platform": "NI",
+    "Timestamp": 1721590189000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Barderico",
+    "Glyphs": "40BAA21107FE",
+    "Platform": "NI",
+    "Timestamp": 1721590254000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Barderico",
+    "Glyphs": "40BAA21107FE",
+    "Platform": "NI",
+    "Timestamp": 1721590337000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "40D5A21107FE",
     "Platform": "ST",
@@ -8974,6 +9318,14 @@
     "Glyphs": "40FFA21107FE",
     "Platform": "ST",
     "Timestamp": 1699085677000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4116A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721564156000
   },
   {
     "Category": "Flora",
@@ -9315,6 +9667,86 @@
     "Category": "Flora",
     "Name": "",
     "Discoverer": "Lunivore",
+    "Glyphs": "418DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721459863000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "418DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721459884000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "418DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721459909000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "418DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721459914000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "418DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721459931000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "418DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721459964000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "418DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462015000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "418DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462024000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "418DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462036000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "418DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462043000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
     "Glyphs": "4194A21107FE",
     "Platform": "ST",
     "Timestamp": 1704535518000
@@ -9550,6 +9982,14 @@
     "Glyphs": "41A8A21107FE",
     "Platform": "ST",
     "Timestamp": 1697818920000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "41A8A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721412010000
   },
   {
     "Category": "Flora",
@@ -10482,6 +10922,14 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "5158A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721561320000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "5174A21107FE",
     "Platform": "ST",
@@ -10574,6 +11022,30 @@
     "Glyphs": "5174A21107FE",
     "Platform": "ST",
     "Timestamp": 1697650865000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "518DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721414527000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "518DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721414533000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "518DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721414565000
   },
   {
     "Category": "Flora",
@@ -11462,6 +11934,70 @@
     "Glyphs": "6183A21107FE",
     "Platform": "PS",
     "Timestamp": 1718167851000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "618DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462804000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "618DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462859000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "618DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462872000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "618DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462897000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "618DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721462904000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "618DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721463130000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "618DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721463507000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "618DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721463521000
   },
   {
     "Category": "Flora",

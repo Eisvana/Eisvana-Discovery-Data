@@ -81,6 +81,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Budai",
+    "Discoverer": "Spinova_",
+    "Glyphs": "219EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1721450102000,
+    "Parts": 150,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Sea Air Bar'N'Grill",
     "Discoverer": "AirosRhyner",
     "Glyphs": "300BA21117FF",
@@ -131,12 +141,22 @@
   },
   {
     "Category": "Base",
-    "Name": "Maure-Ripal Base (Fe²O³‚ Fe++)",
+    "Name": "Maure-Ripal Outpost (Fe²O³‚ Fe++, O)",
     "Discoverer": "cassiddidy",
     "Glyphs": "312EA21117FF",
     "Platform": "PS",
-    "Timestamp": 1721367217000,
-    "Parts": 133,
+    "Timestamp": 1721515744000,
+    "Parts": 190,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Roboron",
+    "Discoverer": "Spinova_",
+    "Glyphs": "40D1A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1721435941000,
+    "Parts": 67,
     "Gamemode": "Normal"
   },
   {
@@ -341,16 +361,6 @@
   },
   {
     "Category": "Base",
-    "Name": "Bethelwood Ln",
-    "Discoverer": "freddie",
-    "Glyphs": "308BA11127FF",
-    "Platform": "NI",
-    "Timestamp": 1716931527000,
-    "Parts": 742,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
     "Name": "E-729 NUCLEUS",
     "Discoverer": "WhiteRose8328",
     "Glyphs": "309EA11127FF",
@@ -441,12 +451,42 @@
   },
   {
     "Category": "Base",
+    "Name": "Itwic XI -CO+O2 Eisvana EV4C1 Kumener",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721565476000,
+    "Parts": 102,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Frozen Fauna research Usuki 51/T3",
+    "Discoverer": "Onipuss",
+    "Glyphs": "111CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721554084000,
+    "Parts": 16,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Gummy Earth",
     "Discoverer": "WraithRaptor",
     "Glyphs": "1188A21127FF",
     "Platform": "GX",
     "Timestamp": 1707550381000,
     "Parts": 22,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Nibiiwaakzi Gibojeying",
+    "Discoverer": "Onipuss",
+    "Glyphs": "211CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721514003000,
+    "Parts": 427,
     "Gamemode": "Normal"
   },
   {
@@ -561,11 +601,21 @@
   },
   {
     "Category": "Base",
+    "Name": "LMAO Eisvana",
+    "Discoverer": "APLMAO",
+    "Glyphs": "205EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721641299000,
+    "Parts": 278,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "<EXPED>Eissen Cabin",
     "Discoverer": "McJoxen",
     "Glyphs": "205EA21107FF",
     "Platform": "PS",
-    "Timestamp": 1721147751000,
+    "Timestamp": 1721418893000,
     "Parts": 107,
     "Gamemode": "Normal"
   },
@@ -631,12 +681,12 @@
   },
   {
     "Category": "Base",
-    "Name": "Monist Moon Temple - Luneyasm",
+    "Name": "Monist Moon Temple - Tariki",
     "Discoverer": "Spinova",
     "Glyphs": "212DA21107FF",
     "Platform": "NI",
-    "Timestamp": 1717980829000,
-    "Parts": 345,
+    "Timestamp": 1721505052000,
+    "Parts": 343,
     "Gamemode": "Normal"
   },
   {
@@ -707,6 +757,16 @@
     "Platform": "PS",
     "Timestamp": 1704776986000,
     "Parts": 126,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Eau Claire",
+    "Discoverer": "Spinova",
+    "Glyphs": "303EA21107FF",
+    "Platform": "NI",
+    "Timestamp": 1721491074000,
+    "Parts": 87,
     "Gamemode": "Normal"
   },
   {
@@ -801,6 +861,26 @@
   },
   {
     "Category": "Base",
+    "Name": "Plasma Base",
+    "Discoverer": "Capn",
+    "Glyphs": "405EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721610655000,
+    "Parts": 370,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Ambarya Farming Company",
+    "Discoverer": "MythHunter8885",
+    "Glyphs": "405EA21107FF",
+    "Platform": "XB",
+    "Timestamp": 1721485894000,
+    "Parts": 55,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Lilaccordia",
     "Discoverer": "Lilac",
     "Glyphs": "405EA21107FF",
@@ -827,16 +907,6 @@
     "Platform": "PS",
     "Timestamp": 1720470309000,
     "Parts": 2419,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
-    "Name": "Pillar of Accordia",
-    "Discoverer": "Capn",
-    "Glyphs": "405EA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1720401699000,
-    "Parts": 346,
     "Gamemode": "Normal"
   },
   {
@@ -1121,6 +1191,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Villain plateau",
+    "Discoverer": "Quan2Colddd",
+    "Glyphs": "505EA21107FF",
+    "Platform": "XB",
+    "Timestamp": 1721631304000,
+    "Parts": 131,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Swamp Heights",
     "Discoverer": "TP4AU",
     "Glyphs": "505EA21107FF",
@@ -1251,6 +1331,26 @@
   },
   {
     "Category": "Base",
+    "Name": "Activ. Indium Extraction Site",
+    "Discoverer": "Barderico",
+    "Glyphs": "20BAA21107FE",
+    "Platform": "NI",
+    "Timestamp": 1721574153000,
+    "Parts": 125,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Consciousness",
+    "Discoverer": "Spinova_",
+    "Glyphs": "2192A21107FE",
+    "Platform": "PS",
+    "Timestamp": 1721608072000,
+    "Parts": 1338,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Thuse-Umen Base",
     "Discoverer": "Bahamut-the-Grea",
     "Glyphs": "30B8A21107FE",
@@ -1321,12 +1421,12 @@
   },
   {
     "Category": "Base",
-    "Name": "Glacies Minora Outpost",
+    "Name": "Frosthaven Station",
     "Discoverer": "Barderico",
     "Glyphs": "40BAA21107FE",
     "Platform": "NI",
-    "Timestamp": 1705523897000,
-    "Parts": 175,
+    "Timestamp": 1721477114000,
+    "Parts": 385,
     "Gamemode": "Normal"
   },
   {
@@ -1431,12 +1531,12 @@
   },
   {
     "Category": "Base",
-    "Name": "Homely Wolfe Acres",
+    "Name": "Base Camp Alpha",
     "Discoverer": "RoanonWolfe",
-    "Glyphs": "1115A21117FE",
+    "Glyphs": "1012A21117FE",
     "Platform": "ST",
-    "Timestamp": 1715434846000,
-    "Parts": 1583,
+    "Timestamp": 1721458556000,
+    "Parts": 408,
     "Gamemode": "Normal"
   },
   {

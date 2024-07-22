@@ -3114,6 +3114,54 @@
   {
     "Category": "Mineral",
     "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721586940000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721586979000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721587022000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721587097000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10D4A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721396156000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10D4A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721396192000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
     "Discoverer": "Lenni",
     "Glyphs": "10D6A21127FF",
     "Platform": "ST",
@@ -3126,6 +3174,46 @@
     "Glyphs": "10D6A21127FF",
     "Platform": "ST",
     "Timestamp": 1717257068000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721419997000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "111CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556970000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "111CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556987000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "111CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721557014000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "111CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721557053000
   },
   {
     "Category": "Mineral",
@@ -3194,10 +3282,106 @@
   {
     "Category": "Mineral",
     "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "20FEA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721413437000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "2102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721420031000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "211CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556800000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "211CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556805000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "211CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556824000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "211CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556837000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "211CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556879000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
     "Discoverer": "WraithRaptor",
     "Glyphs": "3002A21127FF",
     "Platform": "GX",
     "Timestamp": 1696278084000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721624870000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30D4A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721413289000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30D4A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721413296000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30D4A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721413300000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "3102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721420068000
   },
   {
     "Category": "Mineral",
@@ -3270,6 +3454,62 @@
     "Glyphs": "40AEA21127FF",
     "Platform": "XB",
     "Timestamp": 1712906017000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "40C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721588654000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "40C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721589242000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "40C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721591886000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "40C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721592106000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "40C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721592358000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "40C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721593334000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "40C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721625002000
   },
   {
     "Category": "Mineral",
@@ -3418,6 +3658,62 @@
   {
     "Category": "Mineral",
     "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "50C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721594989000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "50C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721595113000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "50C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721595219000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "50C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721625324000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "511CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556897000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "511CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556928000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "511CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556944000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
     "Discoverer": "cassiddidy",
     "Glyphs": "51E3A21127FF",
     "Platform": "PS",
@@ -3438,6 +3734,78 @@
     "Glyphs": "51E3A21127FF",
     "Platform": "PS",
     "Timestamp": 1706762223000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721581580000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721581823000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721582738000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721585735000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721624095000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721624120000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721624152000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721624536000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721624635000
   },
   {
     "Category": "Mineral",

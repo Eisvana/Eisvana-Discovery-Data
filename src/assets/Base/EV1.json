@@ -81,6 +81,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Budai",
+    "Discoverer": "Spinova_",
+    "Glyphs": "219EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1721450102000,
+    "Parts": 150,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Sea Air Bar'N'Grill",
     "Discoverer": "AirosRhyner",
     "Glyphs": "300BA21117FF",
@@ -131,12 +141,22 @@
   },
   {
     "Category": "Base",
-    "Name": "Maure-Ripal Base (Fe²O³‚ Fe++)",
+    "Name": "Maure-Ripal Outpost (Fe²O³‚ Fe++, O)",
     "Discoverer": "cassiddidy",
     "Glyphs": "312EA21117FF",
     "Platform": "PS",
-    "Timestamp": 1721367217000,
-    "Parts": 133,
+    "Timestamp": 1721515744000,
+    "Parts": 190,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Roboron",
+    "Discoverer": "Spinova_",
+    "Glyphs": "40D1A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1721435941000,
+    "Parts": 67,
     "Gamemode": "Normal"
   },
   {

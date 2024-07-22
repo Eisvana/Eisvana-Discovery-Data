@@ -2682,6 +2682,14 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721587146000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Mimikyu1312",
     "Glyphs": "10CDA21127FF",
     "Platform": "ST",
@@ -2694,6 +2702,46 @@
     "Glyphs": "10D2A21127FF",
     "Platform": "ST",
     "Timestamp": 1717372029000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10D4A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721396115000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10D4A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721396123000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10D4A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721396150000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10D4A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721396175000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10D4A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721396219000
   },
   {
     "Category": "Animal",
@@ -2793,6 +2841,86 @@
   },
   {
     "Category": "Animal",
+    "Name": "A. Chrysocrystalus Aeshifensis",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10FEA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721412415000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10FEA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721413359000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10FEA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721413366000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10FEA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721413382000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "10FEA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721413398000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721419963000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721419968000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721419973000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721419982000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721420003000
+  },
+  {
+    "Category": "Animal",
     "Name": "",
     "Discoverer": "WraithRaptor",
     "Glyphs": "1112A21127FF",
@@ -2814,6 +2942,54 @@
     "Glyphs": "1112A21127FF",
     "Platform": "GX",
     "Timestamp": 1696016921000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "111CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556961000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "111CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556979000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "111CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721557002000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "111CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721557006000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "111CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721557049000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "111CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721557063000
   },
   {
     "Category": "Animal",
@@ -2886,6 +3062,38 @@
     "Glyphs": "115CA21127FF",
     "Platform": "XB",
     "Timestamp": 1709598070000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1160A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556725000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1160A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556733000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1160A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556739000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "1160A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556748000
   },
   {
     "Category": "Animal",
@@ -3482,6 +3690,22 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "20C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721625347000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "20C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721625743000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "20D2A21127FF",
     "Platform": "ST",
@@ -3670,6 +3894,94 @@
     "Glyphs": "20FCA21127FF",
     "Platform": "XB",
     "Timestamp": 1712262597000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "20FEA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721413445000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "2102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721420010000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "2102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721420023000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "2102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721420048000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "2102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721420054000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "211CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556650000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "211CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556661000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "211CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556670000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "211CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556678000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "211CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556693000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "211CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556811000
   },
   {
     "Category": "Animal",
@@ -4122,6 +4434,86 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721587282000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721587538000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721587767000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721587906000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721588127000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721588331000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721588468000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721624863000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721624877000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "30C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721624886000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "30E7A21127FF",
     "Platform": "ST",
@@ -4230,6 +4622,30 @@
     "Glyphs": "30F1A21127FF",
     "Platform": "ST",
     "Timestamp": 1705420527000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "3102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721420060000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "3102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721420075000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "3102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721420081000
   },
   {
     "Category": "Animal",
@@ -4446,38 +4862,6 @@
     "Glyphs": "31E3A21127FF",
     "Platform": "PS",
     "Timestamp": 1706762368000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "WraithRaptor",
-    "Glyphs": "31FBA21127FF",
-    "Platform": "GX",
-    "Timestamp": 1695964868000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "WraithRaptor",
-    "Glyphs": "31FBA21127FF",
-    "Platform": "GX",
-    "Timestamp": 1695964874000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "WraithRaptor",
-    "Glyphs": "31FBA21127FF",
-    "Platform": "GX",
-    "Timestamp": 1695964882000
-  },
-  {
-    "Category": "Animal",
-    "Name": "",
-    "Discoverer": "WraithRaptor",
-    "Glyphs": "31FBA21127FF",
-    "Platform": "GX",
-    "Timestamp": 1695964888000
   },
   {
     "Category": "Animal",
@@ -4778,6 +5162,22 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "40C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721591106000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "40C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721625027000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "WraithRaptor",
     "Glyphs": "40E6A21127FF",
     "Platform": "GX",
@@ -4990,6 +5390,30 @@
     "Glyphs": "40FEA21127FF",
     "Platform": "GX",
     "Timestamp": 1707085723000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "40FEA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721413406000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "4102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721420086000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "4102A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721420104000
   },
   {
     "Category": "Animal",
@@ -5578,6 +6002,46 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "50C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721593607000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "50C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721593802000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "50C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721594104000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "50C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721595157000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "50C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721625329000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "50D2A21127FF",
     "Platform": "ST",
@@ -5802,6 +6266,38 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "511CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556887000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "511CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556902000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "511CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556910000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "511CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721556922000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "5151A21127FF",
     "Platform": "XB",
@@ -6022,6 +6518,62 @@
     "Glyphs": "6079A21127FF",
     "Platform": "ST",
     "Timestamp": 1705435204000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721581792000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721581938000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721624129000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721624141000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721624173000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721624436000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "60C1A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721624494000
   },
   {
     "Category": "Animal",

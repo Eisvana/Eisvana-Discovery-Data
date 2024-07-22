@@ -127,7 +127,7 @@
     "Platform": "PS",
     "Timestamp": 1700156595000,
     "Correctly Prefixed": false,
-    "Planets": 1
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -227,7 +227,7 @@
     "Platform": "ST",
     "Timestamp": 1712082579000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -457,7 +457,7 @@
     "Platform": "ST",
     "Timestamp": 1710444815000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -467,7 +467,7 @@
     "Platform": "XB",
     "Timestamp": 1709419190000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -947,7 +947,7 @@
     "Platform": "ST",
     "Timestamp": 1710779302000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -1087,7 +1087,17 @@
     "Platform": "ST",
     "Timestamp": 1707937811000,
     "Correctly Prefixed": true,
-    "Planets": 1
+    "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-6F Gestof",
+    "Discoverer": "iggdawg",
+    "Glyphs": "006FA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721398188000,
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -1098,6 +1108,16 @@
     "Timestamp": 1704835702000,
     "Correctly Prefixed": false,
     "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-71 Tominit",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0071A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721406671000,
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -1117,7 +1137,7 @@
     "Platform": "ST",
     "Timestamp": 1710444610000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -1151,6 +1171,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-77 Woburn",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0077A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721480646000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-78 Yacoran",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0078A21107FE",
@@ -1181,13 +1211,23 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-7B Japopos",
+    "Discoverer": "iggdawg",
+    "Glyphs": "007BA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721584386000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-7C Eisenhower",
     "Discoverer": "Spinova_",
     "Glyphs": "007CA21107FE",
     "Platform": "PS",
     "Timestamp": 1721352491000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -1207,7 +1247,17 @@
     "Platform": "XB",
     "Timestamp": 1715434759000,
     "Correctly Prefixed": false,
-    "Planets": 1
+    "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-7F Nesallest",
+    "Discoverer": "iggdawg",
+    "Glyphs": "007FA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721513639000,
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -1227,7 +1277,7 @@
     "Platform": "XB",
     "Timestamp": 1712980081000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -1521,13 +1571,23 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "00A4A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721525010000,
+    "Correctly Prefixed": false,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-A5 Colulu-Rado VII",
     "Discoverer": "LordDraCool241",
     "Glyphs": "00A5A21107FE",
     "Platform": "XB",
     "Timestamp": 1712643619000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -1727,7 +1787,7 @@
     "Platform": "XB",
     "Timestamp": 1713157330000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -1741,6 +1801,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-BD Phoebe Suwo",
+    "Discoverer": "iggdawg",
+    "Glyphs": "00BDA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721563343000,
+    "Correctly Prefixed": true,
+    "Planets": 1
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-BE Kualai-Tobo",
     "Discoverer": "LordDraCool241",
     "Glyphs": "00BEA21107FE",
@@ -1748,6 +1818,16 @@
     "Timestamp": 1713228663000,
     "Correctly Prefixed": true,
     "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-BF Next Adobo",
+    "Discoverer": "iggdawg",
+    "Glyphs": "00BFA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721561722000,
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
     "Category": "SolarSystem",
@@ -1867,7 +1947,7 @@
     "Platform": "XB",
     "Timestamp": 1712979868000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -1997,7 +2077,7 @@
     "Platform": "ST",
     "Timestamp": 1697394774000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -2018,6 +2098,16 @@
     "Timestamp": 1712979772000,
     "Correctly Prefixed": true,
     "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-DC Huevos",
+    "Discoverer": "iggdawg",
+    "Glyphs": "00DCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721478678000,
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -2321,6 +2411,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "0104A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721628909000,
+    "Correctly Prefixed": false,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-106 Rafaeli",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0106A21107FE",
@@ -2481,6 +2581,26 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-116 Aging Deed",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0116A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721562659000,
+    "Correctly Prefixed": true,
+    "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-117 Morning Keg",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0117A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721562035000,
+    "Correctly Prefixed": true,
+    "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-118 Nenotr",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0118A21107FE",
@@ -2518,6 +2638,26 @@
     "Timestamp": 1704185075000,
     "Correctly Prefixed": true,
     "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "011EA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721628851000,
+    "Correctly Prefixed": false,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-11F Disotell",
+    "Discoverer": "Spinova_",
+    "Glyphs": "011FA21107FE",
+    "Platform": "PS",
+    "Timestamp": 1721501863000,
+    "Correctly Prefixed": true,
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -2661,6 +2801,36 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-12F Geo Comm",
+    "Discoverer": "iggdawg",
+    "Glyphs": "012FA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721563972000,
+    "Correctly Prefixed": true,
+    "Planets": 3
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-130 High One",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0130A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721563653000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-132 Dorian Nemo",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0132A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721584414000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-133 Ryport-Dup",
     "Discoverer": "Lianeras",
     "Glyphs": "0133A21107FE",
@@ -2681,13 +2851,23 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "0136A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721628722000,
+    "Correctly Prefixed": false,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-137 Xembrom-Inqun XVIII",
     "Discoverer": "DiceTronik",
     "Glyphs": "0137A21107FE",
     "Platform": "XB",
     "Timestamp": 1698760161000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -2737,7 +2917,7 @@
     "Platform": "ST",
     "Timestamp": 1703603354000,
     "Correctly Prefixed": true,
-    "Planets": 5
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2806,6 +2986,16 @@
     "Glyphs": "0144A21107FE",
     "Platform": "XB",
     "Timestamp": 1712559668000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-145 Mimikatz",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0145A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721587674000,
     "Correctly Prefixed": true,
     "Planets": 0
   },
@@ -2907,7 +3097,7 @@
     "Platform": "XB",
     "Timestamp": 1705207113000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -2958,6 +3148,36 @@
     "Timestamp": 1696115452000,
     "Correctly Prefixed": true,
     "Planets": 2
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-157 Reciprocity",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0157A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721525229000,
+    "Correctly Prefixed": true,
+    "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-158 Chutzpah",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0158A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721525936000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-159 Grass Tacks",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0159A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721526613000,
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -3127,7 +3347,7 @@
     "Platform": "PS",
     "Timestamp": 1721259058000,
     "Correctly Prefixed": true,
-    "Planets": 1
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -3158,6 +3378,16 @@
     "Timestamp": 1712980506000,
     "Correctly Prefixed": true,
     "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-172 Komodo Bear",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0172A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721512500000,
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -3208,6 +3438,16 @@
     "Timestamp": 1712562312000,
     "Correctly Prefixed": true,
     "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "017AA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721628685000,
+    "Correctly Prefixed": false,
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -3351,6 +3591,26 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-18A Subterfuge",
+    "Discoverer": "iggdawg",
+    "Glyphs": "018AA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721527082000,
+    "Correctly Prefixed": true,
+    "Planets": 3
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-18B Hyena Nine",
+    "Discoverer": "iggdawg",
+    "Glyphs": "018BA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721560967000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-18C Aoedeian",
     "Discoverer": "Lunivore",
     "Glyphs": "018CA21107FE",
@@ -3358,6 +3618,16 @@
     "Timestamp": 1716730137000,
     "Correctly Prefixed": true,
     "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-18D New Gideon",
+    "Discoverer": "Lunivore",
+    "Glyphs": "018DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721414151000,
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -3391,6 +3661,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-192 Dharmakaya",
+    "Discoverer": "Spinova_",
+    "Glyphs": "0192A21107FE",
+    "Platform": "PS",
+    "Timestamp": 1721497942000,
+    "Correctly Prefixed": true,
+    "Planets": 2
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "",
     "Discoverer": "randomsguy9454",
     "Glyphs": "0193A21107FE",
@@ -3418,6 +3698,16 @@
     "Timestamp": 1712207499000,
     "Correctly Prefixed": true,
     "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "0196A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721628651000,
+    "Correctly Prefixed": false,
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -3458,6 +3748,16 @@
     "Timestamp": 1704537131000,
     "Correctly Prefixed": false,
     "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-19D Ukeenpa",
+    "Discoverer": "iggdawg",
+    "Glyphs": "019DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479202000,
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -3561,6 +3861,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-1A9 Sesame Mage",
+    "Discoverer": "iggdawg",
+    "Glyphs": "01A9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721476126000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-1AA Daymaid",
     "Discoverer": "Spinova_",
     "Glyphs": "01AAA21107FE",
@@ -3651,6 +3961,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-1B3 Incognito",
+    "Discoverer": "iggdawg",
+    "Glyphs": "01B3A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721527374000,
+    "Correctly Prefixed": true,
+    "Planets": 3
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-1B4 Lumund",
     "Discoverer": "Tarloch",
     "Glyphs": "01B4A21107FE",
@@ -3658,6 +3978,16 @@
     "Timestamp": 1695844533000,
     "Correctly Prefixed": true,
     "Planets": 2
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "01B5A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721628985000,
+    "Correctly Prefixed": false,
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -3677,6 +4007,16 @@
     "Platform": "ST",
     "Timestamp": 1716048254000,
     "Correctly Prefixed": false,
+    "Planets": 3
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-1B8 Nylarthotep",
+    "Discoverer": "iggdawg",
+    "Glyphs": "01B8A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721479987000,
+    "Correctly Prefixed": true,
     "Planets": 3
   },
   {
@@ -3831,6 +4171,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-1CA Citrine",
+    "Discoverer": "iggdawg",
+    "Glyphs": "01CAA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721512795000,
+    "Correctly Prefixed": true,
+    "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-1CB Meiess",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01CBA21107FE",
@@ -3848,6 +4198,16 @@
     "Timestamp": 1713234243000,
     "Correctly Prefixed": true,
     "Planets": 2
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-1CD Saint Eiffel",
+    "Discoverer": "iggdawg",
+    "Glyphs": "01CDA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721410693000,
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -4017,7 +4377,7 @@
     "Platform": "ST",
     "Timestamp": 1721356066000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 2
   },
   {
     "Category": "SolarSystem",
@@ -4088,6 +4448,16 @@
     "Timestamp": 1711915123000,
     "Correctly Prefixed": false,
     "Planets": 1
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-1E9 Agate Fortress",
+    "Discoverer": "iggdawg",
+    "Glyphs": "01E9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721511732000,
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -4217,7 +4587,7 @@
     "Platform": "ST",
     "Timestamp": 1710546287000,
     "Correctly Prefixed": true,
-    "Planets": 4
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -4227,7 +4597,7 @@
     "Platform": "XB",
     "Timestamp": 1712903250000,
     "Correctly Prefixed": true,
-    "Planets": 4
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -4237,7 +4607,7 @@
     "Platform": "XB",
     "Timestamp": 1712945845000,
     "Correctly Prefixed": true,
-    "Planets": 3
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -4247,7 +4617,7 @@
     "Platform": "XB",
     "Timestamp": 1704835566000,
     "Correctly Prefixed": false,
-    "Planets": 2
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -4311,6 +4681,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-203 Frontenac",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0203A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721560025000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-204 Abnocea",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0204A21107FE",
@@ -4346,6 +4726,16 @@
     "Glyphs": "0207A21107FE",
     "Platform": "ST",
     "Timestamp": 1716047505000,
+    "Correctly Prefixed": false,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "0208A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721628780000,
     "Correctly Prefixed": false,
     "Planets": 0
   },
@@ -4417,6 +4807,26 @@
     "Platform": "ST",
     "Timestamp": 1696801307000,
     "Correctly Prefixed": false,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-210 Chevron",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0210A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721399222000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-211 Oxford Hall",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0211A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721402109000,
+    "Correctly Prefixed": true,
     "Planets": 0
   },
   {

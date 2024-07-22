@@ -4993,19 +4993,6 @@
   },
   {
     "Category": "Planet",
-    "Name": "Owmart",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "11F8A11127FF",
-    "Platform": "ST",
-    "Timestamp": 1699710433000,
-    "Fauna": 0,
-    "Flora": 0,
-    "Minerals": 0,
-    "Settlements": 0,
-    "Bases": 0
-  },
-  {
-    "Category": "Planet",
     "Name": "Naamaka",
     "Discoverer": "Junebiologist",
     "Glyphs": "2001A11127FF",
@@ -9959,19 +9946,6 @@
   },
   {
     "Category": "Planet",
-    "Name": "Igertourne Hokut",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "21F8A11127FF",
-    "Platform": "ST",
-    "Timestamp": 1699710466000,
-    "Fauna": 0,
-    "Flora": 0,
-    "Minerals": 0,
-    "Settlements": 0,
-    "Bases": 0
-  },
-  {
-    "Category": "Planet",
     "Name": "Gahdad Tau",
     "Discoverer": "Junebiologist",
     "Glyphs": "3001A11127FF",
@@ -10302,7 +10276,7 @@
     "Glyphs": "301AA11127FF",
     "Platform": "ST",
     "Timestamp": 1698348911000,
-    "Fauna": 7,
+    "Fauna": 8,
     "Flora": 0,
     "Minerals": 0,
     "Settlements": 0,
@@ -11463,7 +11437,7 @@
     "Flora": 26,
     "Minerals": 14,
     "Settlements": 0,
-    "Bases": 1
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -14501,19 +14475,6 @@
     "Glyphs": "31F6A11127FF",
     "Platform": "ST",
     "Timestamp": 1698578091000,
-    "Fauna": 0,
-    "Flora": 0,
-    "Minerals": 0,
-    "Settlements": 0,
-    "Bases": 0
-  },
-  {
-    "Category": "Planet",
-    "Name": "Gesharaje Ondai",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "31F8A11127FF",
-    "Platform": "ST",
-    "Timestamp": 1699710534000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -18430,19 +18391,6 @@
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
-    "Settlements": 0,
-    "Bases": 0
-  },
-  {
-    "Category": "Planet",
-    "Name": "Hinu",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "41F8A11127FF",
-    "Platform": "ST",
-    "Timestamp": 1699708433000,
-    "Fauna": 13,
-    "Flora": 22,
-    "Minerals": 14,
     "Settlements": 0,
     "Bases": 0
   },

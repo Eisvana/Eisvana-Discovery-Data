@@ -111,11 +111,21 @@
   },
   {
     "Category": "Base",
+    "Name": "LMAO Eisvana",
+    "Discoverer": "APLMAO",
+    "Glyphs": "205EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721641299000,
+    "Parts": 278,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "<EXPED>Eissen Cabin",
     "Discoverer": "McJoxen",
     "Glyphs": "205EA21107FF",
     "Platform": "PS",
-    "Timestamp": 1721147751000,
+    "Timestamp": 1721418893000,
     "Parts": 107,
     "Gamemode": "Normal"
   },
@@ -181,12 +191,12 @@
   },
   {
     "Category": "Base",
-    "Name": "Monist Moon Temple - Luneyasm",
+    "Name": "Monist Moon Temple - Tariki",
     "Discoverer": "Spinova",
     "Glyphs": "212DA21107FF",
     "Platform": "NI",
-    "Timestamp": 1717980829000,
-    "Parts": 345,
+    "Timestamp": 1721505052000,
+    "Parts": 343,
     "Gamemode": "Normal"
   },
   {
@@ -257,6 +267,16 @@
     "Platform": "PS",
     "Timestamp": 1704776986000,
     "Parts": 126,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Eau Claire",
+    "Discoverer": "Spinova",
+    "Glyphs": "303EA21107FF",
+    "Platform": "NI",
+    "Timestamp": 1721491074000,
+    "Parts": 87,
     "Gamemode": "Normal"
   },
   {
@@ -351,6 +371,26 @@
   },
   {
     "Category": "Base",
+    "Name": "Plasma Base",
+    "Discoverer": "Capn",
+    "Glyphs": "405EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721610655000,
+    "Parts": 370,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Ambarya Farming Company",
+    "Discoverer": "MythHunter8885",
+    "Glyphs": "405EA21107FF",
+    "Platform": "XB",
+    "Timestamp": 1721485894000,
+    "Parts": 55,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Lilaccordia",
     "Discoverer": "Lilac",
     "Glyphs": "405EA21107FF",
@@ -377,16 +417,6 @@
     "Platform": "PS",
     "Timestamp": 1720470309000,
     "Parts": 2419,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
-    "Name": "Pillar of Accordia",
-    "Discoverer": "Capn",
-    "Glyphs": "405EA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1720401699000,
-    "Parts": 346,
     "Gamemode": "Normal"
   },
   {
@@ -667,6 +697,16 @@
     "Platform": "NI",
     "Timestamp": 1719085585000,
     "Parts": 225,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Villain plateau",
+    "Discoverer": "Quan2Colddd",
+    "Glyphs": "505EA21107FF",
+    "Platform": "XB",
+    "Timestamp": 1721631304000,
+    "Parts": 131,
     "Gamemode": "Normal"
   },
   {
