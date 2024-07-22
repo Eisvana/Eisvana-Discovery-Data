@@ -7991,6 +7991,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV2-110 Yivkazome",
+    "Discoverer": "Lenni",
+    "Glyphs": "0110A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721652744000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV2-111 Letsia-Rosa XV",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0111A11117FF",
@@ -8006,6 +8016,16 @@
     "Glyphs": "0112A11117FF",
     "Platform": "XB",
     "Timestamp": 1712380609000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-113 Nechel-Uxemb",
+    "Discoverer": "Lenni",
+    "Glyphs": "0113A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721652818000,
     "Correctly Prefixed": true,
     "Planets": 0
   },
@@ -8078,6 +8098,16 @@
     "Timestamp": 1695838943000,
     "Correctly Prefixed": true,
     "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-11B Edelayev V",
+    "Discoverer": "Lenni",
+    "Glyphs": "011BA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721652887000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -8201,6 +8231,26 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV2-128 Gigryaz",
+    "Discoverer": "Lenni",
+    "Glyphs": "0128A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721655635000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-129 Sukhoy",
+    "Discoverer": "Lenni",
+    "Glyphs": "0129A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721652970000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV2-12A Kurtau",
     "Discoverer": "Binder198",
     "Glyphs": "012AA11117FF",
@@ -8218,6 +8268,16 @@
     "Timestamp": 1696770958000,
     "Correctly Prefixed": true,
     "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-12C Misomog",
+    "Discoverer": "Lenni",
+    "Glyphs": "012CA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721653217000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -8276,6 +8336,16 @@
     "Glyphs": "0132A11117FF",
     "Platform": "XB",
     "Timestamp": 1712298538000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-133 Voyeth V",
+    "Discoverer": "Lenni",
+    "Glyphs": "0133A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721653138000,
     "Correctly Prefixed": true,
     "Planets": 0
   },
@@ -8351,6 +8421,26 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV2-13B Odkase",
+    "Discoverer": "Lenni",
+    "Glyphs": "013BA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721655757000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-13C Epetukih",
+    "Discoverer": "Lenni",
+    "Glyphs": "013CA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721653310000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV2-13D Poetog V",
     "Discoverer": "Binder198",
     "Glyphs": "013DA11117FF",
@@ -8366,6 +8456,16 @@
     "Glyphs": "013EA11117FF",
     "Platform": "XB",
     "Timestamp": 1709413765000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-13F Sestov-Lebs XIX",
+    "Discoverer": "Lenni",
+    "Glyphs": "013FA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721653388000,
     "Correctly Prefixed": true,
     "Planets": 0
   },
@@ -8638,6 +8738,16 @@
     "Timestamp": 1712352318000,
     "Correctly Prefixed": true,
     "Planets": 1
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-15B Vilov-Lugii",
+    "Discoverer": "Lenni",
+    "Glyphs": "015BA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721653486000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -8981,6 +9091,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV2-17E Miashe-Biet XI",
+    "Discoverer": "Lenni",
+    "Glyphs": "017EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721653574000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV2-17F Yekalymos",
     "Discoverer": "LordDraCool241",
     "Glyphs": "017FA11117FF",
@@ -9031,11 +9151,31 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV2-184 Apolnitsi VII",
+    "Discoverer": "Lenni",
+    "Glyphs": "0184A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721653659000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV2-185 Naibol II",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0185A11117FF",
     "Platform": "XB",
     "Timestamp": 1712345960000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-186 Dishebed",
+    "Discoverer": "Lenni",
+    "Glyphs": "0186A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721653742000,
     "Correctly Prefixed": true,
     "Planets": 0
   },
@@ -9111,6 +9251,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV2-18E Sylaish III",
+    "Discoverer": "Lenni",
+    "Glyphs": "018EA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721653837000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV2-18F Mobang VII",
     "Discoverer": "BestLegend134",
     "Glyphs": "018FA11117FF",
@@ -9128,6 +9278,16 @@
     "Timestamp": 1696199892000,
     "Correctly Prefixed": false,
     "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-191 Aldatovo XVII",
+    "Discoverer": "Lenni",
+    "Glyphs": "0191A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721653932000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -9361,6 +9521,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV2-1A9 Kahgorskog XII",
+    "Discoverer": "Lenni",
+    "Glyphs": "01A9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721654014000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV2-1AA Abugach-Okin",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01AAA11117FF",
@@ -9411,6 +9581,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV2-1AF Payevo",
+    "Discoverer": "Lenni",
+    "Glyphs": "01AFA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721654113000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV2-1B0 Zainsk-Nengan",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01B0A11117FF",
@@ -9441,11 +9621,41 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV2-1B3 Nerepo IV",
+    "Discoverer": "Lenni",
+    "Glyphs": "01B3A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721654217000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV2-1B4 Deskompl",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01B4A11117FF",
     "Platform": "XB",
     "Timestamp": 1712297935000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-1B5 Orgiye",
+    "Discoverer": "Lenni",
+    "Glyphs": "01B5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721654294000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-1B6 Frolodar IV",
+    "Discoverer": "Lenni",
+    "Glyphs": "01B6A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721654494000,
     "Correctly Prefixed": true,
     "Planets": 0
   },
@@ -9498,6 +9708,16 @@
     "Timestamp": 1708263748000,
     "Correctly Prefixed": true,
     "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-1BC Tezhdu",
+    "Discoverer": "Lenni",
+    "Glyphs": "01BCA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721654596000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -9771,6 +9991,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV2-1D8 Ladomly",
+    "Discoverer": "Lenni",
+    "Glyphs": "01D8A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721654684000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV2-1D9 Uvarty",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01D9A11117FF",
@@ -9821,6 +10051,26 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV2-1DE Retsivo-Inck VIII",
+    "Discoverer": "Lenni",
+    "Glyphs": "01DEA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721654767000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-1DF Dobeshch XIV",
+    "Discoverer": "Lenni",
+    "Glyphs": "01DFA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721654855000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV2-1E0 Matoust",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01E0A11117FF",
@@ -9851,6 +10101,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV2-1E3 Adskom-Ane",
+    "Discoverer": "Lenni",
+    "Glyphs": "01E3A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721654936000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV2-1E4 Pionov-Tro X",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01E4A11117FF",
@@ -9858,6 +10118,16 @@
     "Timestamp": 1712196857000,
     "Correctly Prefixed": true,
     "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-1E5 Binoyer-Iig V",
+    "Discoverer": "Lenni",
+    "Glyphs": "01E5A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721655034000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -9896,6 +10166,16 @@
     "Glyphs": "01E9A11117FF",
     "Platform": "ST",
     "Timestamp": 1697074221000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-1EA Esozav-Yakh",
+    "Discoverer": "Lenni",
+    "Glyphs": "01EAA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721655134000,
     "Correctly Prefixed": true,
     "Planets": 0
   },
@@ -10041,6 +10321,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV2-1F9 Herenye",
+    "Discoverer": "Lenni",
+    "Glyphs": "01F9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721655221000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV2-1FA Vokumsky",
     "Discoverer": "BestLegend134",
     "Glyphs": "01FAA11117FF",
@@ -10136,6 +10426,16 @@
     "Glyphs": "0203A11117FF",
     "Platform": "XB",
     "Timestamp": 1712358413000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-204 Asovoso-Isoma XV",
+    "Discoverer": "Lenni",
+    "Glyphs": "0204A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1721655326000,
     "Correctly Prefixed": true,
     "Planets": 0
   },
@@ -22591,6 +22891,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV5-A5 Mechovi",
+    "Discoverer": "Lenni",
+    "Glyphs": "00A5A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721645410000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV5-A6 Ufimskyvi",
     "Discoverer": "LordDraCool241",
     "Glyphs": "00A6A21107FF",
@@ -22751,6 +23061,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV5-B6 Dovuras-Yams",
+    "Discoverer": "Lenni",
+    "Glyphs": "00B6A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721645521000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV5-B7 Riglastr",
     "Discoverer": "Onipuss",
     "Glyphs": "00B7A21107FF",
@@ -22758,6 +23078,16 @@
     "Timestamp": 1721321563000,
     "Correctly Prefixed": true,
     "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV5-B8 Roprud-Viog XV",
+    "Discoverer": "Lenni",
+    "Glyphs": "00B8A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721645596000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -22951,6 +23281,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV5-CC Kehlomay",
+    "Discoverer": "Lenni",
+    "Glyphs": "00CCA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721645662000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV5-CD Player",
     "Discoverer": "ZimmerJ",
     "Glyphs": "00CDA21107FF",
@@ -22958,6 +23298,16 @@
     "Timestamp": 1706468994000,
     "Correctly Prefixed": true,
     "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV5-CE Hodkasp",
+    "Discoverer": "Lenni",
+    "Glyphs": "00CEA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721645746000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -23261,6 +23611,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV5-ED Kisove-Arust",
+    "Discoverer": "Lenni",
+    "Glyphs": "00EDA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721645832000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV5-EE Riyevk-Gossko",
     "Discoverer": "LordDraCool241",
     "Glyphs": "00EEA21107FF",
@@ -23311,6 +23671,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV5-F3 Rasanogd",
+    "Discoverer": "Lenni",
+    "Glyphs": "00F3A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721645922000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV5-F4 Libiro",
     "Discoverer": "LordDraCool241",
     "Glyphs": "00F4A21107FF",
@@ -23328,6 +23698,26 @@
     "Timestamp": 1713138657000,
     "Correctly Prefixed": true,
     "Planets": 1
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV5-F6 Piatov",
+    "Discoverer": "Lenni",
+    "Glyphs": "00F6A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721646014000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV5-F7 Uzulun-Dab",
+    "Discoverer": "Lenni",
+    "Glyphs": "00F7A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721646106000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -23521,6 +23911,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV5-10B Popavl",
+    "Discoverer": "Lenni",
+    "Glyphs": "010BA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721646180000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV5-10C Kashyo",
     "Discoverer": "RedFalcons-317",
     "Glyphs": "010CA21107FF",
@@ -23588,6 +23988,16 @@
     "Timestamp": 1704835100000,
     "Correctly Prefixed": false,
     "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV5-113 Humikh",
+    "Discoverer": "Lenni",
+    "Glyphs": "0113A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721646268000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -23821,6 +24231,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV5-12B Artyorsk XV",
+    "Discoverer": "Lenni",
+    "Glyphs": "012BA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721646376000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "",
     "Discoverer": "Ronin418",
     "Glyphs": "012CA21107FF",
@@ -23898,6 +24318,16 @@
     "Timestamp": 1713135952000,
     "Correctly Prefixed": true,
     "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV5-134 Lemyon-Erna",
+    "Discoverer": "Lenni",
+    "Glyphs": "0134A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721646466000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -23998,6 +24428,16 @@
     "Timestamp": 1704835145000,
     "Correctly Prefixed": false,
     "Planets": 2
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV5-13F Nivaiu XVIII",
+    "Discoverer": "Lenni",
+    "Glyphs": "013FA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721646645000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -24146,6 +24586,16 @@
     "Glyphs": "014EA21107FF",
     "Platform": "XB",
     "Timestamp": 1712780727000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV5-14F Alchay",
+    "Discoverer": "Lenni",
+    "Glyphs": "014FA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721646765000,
     "Correctly Prefixed": true,
     "Planets": 0
   },
@@ -24361,6 +24811,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV5-165 Uromarkut",
+    "Discoverer": "Lenni",
+    "Glyphs": "0165A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721646832000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV5-166 Fremov-Sho",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0166A21107FF",
@@ -24428,6 +24888,16 @@
     "Timestamp": 1720885129000,
     "Correctly Prefixed": true,
     "Planets": 1
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV5-16D Neobkho-Jejal",
+    "Discoverer": "Lenni",
+    "Glyphs": "016DA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721646907000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -24568,6 +25038,16 @@
     "Timestamp": 1710442221000,
     "Correctly Prefixed": true,
     "Planets": 3
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV5-17C Haylovs-Pahlu XVI",
+    "Discoverer": "Lenni",
+    "Glyphs": "017CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721646998000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -24781,6 +25261,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV5-192 Viunymi-Judy",
+    "Discoverer": "Lenni",
+    "Glyphs": "0192A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721647076000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV5-193 Vochiuan",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0193A21107FF",
@@ -24838,6 +25328,16 @@
     "Timestamp": 1698169693000,
     "Correctly Prefixed": false,
     "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV5-199 Petuki-Gul",
+    "Discoverer": "Lenni",
+    "Glyphs": "0199A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721647157000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -25001,6 +25501,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV5-1AA Butural",
+    "Discoverer": "Lenni",
+    "Glyphs": "01AAA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721647218000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV5-1AB Predve-Kadan",
     "Discoverer": "Angel of the wired",
     "Glyphs": "01ABA21107FF",
@@ -25008,6 +25518,16 @@
     "Timestamp": 1697296197000,
     "Correctly Prefixed": true,
     "Planets": 1
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV5-1AC Kemenk-Gir",
+    "Discoverer": "Lenni",
+    "Glyphs": "01ACA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721647299000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -25081,6 +25601,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV5-1B4 Aktichu-Yat",
+    "Discoverer": "Lenni",
+    "Glyphs": "01B4A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721647389000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV5-1B5 Ogaetskyv XVIII",
     "Discoverer": "cassiddidy",
     "Glyphs": "01B5A21107FF",
@@ -25107,6 +25637,36 @@
     "Platform": "ST",
     "Timestamp": 1699809222000,
     "Correctly Prefixed": false,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV5-1B8 Naberd-Olpas",
+    "Discoverer": "Lenni",
+    "Glyphs": "01B8A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721647476000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV5-1B9 Anudet",
+    "Discoverer": "Lenni",
+    "Glyphs": "01B9A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721647547000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV5-1BA Ladimor-Rom",
+    "Discoverer": "Lenni",
+    "Glyphs": "01BAA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721647626000,
+    "Correctly Prefixed": true,
     "Planets": 0
   },
   {
@@ -25291,6 +25851,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV5-1CD Ruiutsial",
+    "Discoverer": "Lenni",
+    "Glyphs": "01CDA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721647706000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "",
     "Discoverer": "Neon-Fox555",
     "Glyphs": "01CEA21107FF",
@@ -25308,6 +25878,16 @@
     "Timestamp": 1701345120000,
     "Correctly Prefixed": true,
     "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV5-1D0 Plecha-Rag",
+    "Discoverer": "Lenni",
+    "Glyphs": "01D0A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721647782000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -25411,6 +25991,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV5-1DB Slyudi",
+    "Discoverer": "Lenni",
+    "Glyphs": "01DBA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721647858000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "",
     "Discoverer": "gswoosh19",
     "Glyphs": "01DCA21107FF",
@@ -25418,6 +26008,16 @@
     "Timestamp": 1699944542000,
     "Correctly Prefixed": false,
     "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV5-1DD Afimovs-Hoflee",
+    "Discoverer": "Lenni",
+    "Glyphs": "01DDA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721647933000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -25491,6 +26091,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV5-1E5 Malmats-Gid",
+    "Discoverer": "Lenni",
+    "Glyphs": "01E5A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721648021000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV5-1E6 Uboevu-Eapo",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01E6A21107FF",
@@ -25498,6 +26108,16 @@
     "Timestamp": 1713141646000,
     "Correctly Prefixed": true,
     "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV5-1E7 Kohoren",
+    "Discoverer": "Lenni",
+    "Glyphs": "01E7A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721648090000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -25651,6 +26271,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV5-1F7 Remyonk",
+    "Discoverer": "Lenni",
+    "Glyphs": "01F7A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721648168000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "",
     "Discoverer": "Crispycadaver",
     "Glyphs": "01F8A21107FF",
@@ -25666,6 +26296,16 @@
     "Glyphs": "01F9A21107FF",
     "Platform": "XB",
     "Timestamp": 1712780247000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV5-1FA Oshatsia",
+    "Discoverer": "Lenni",
+    "Glyphs": "01FAA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721648246000,
     "Correctly Prefixed": true,
     "Planets": 0
   },
@@ -25801,11 +26441,31 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV5-208 Topogo III",
+    "Discoverer": "Lenni",
+    "Glyphs": "0208A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721648323000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV5-209 Itsuohe",
     "Discoverer": "cassiddidy",
     "Glyphs": "0209A21107FF",
     "Platform": "PS",
     "Timestamp": 1697655180000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV5-20A Ryisheremo XIX",
+    "Discoverer": "Lenni",
+    "Glyphs": "020AA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721648429000,
     "Correctly Prefixed": true,
     "Planets": 0
   },
@@ -25827,6 +26487,16 @@
     "Platform": "XB",
     "Timestamp": 1698168799000,
     "Correctly Prefixed": false,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV5-20D Nunomys-Map XIV",
+    "Discoverer": "Lenni",
+    "Glyphs": "020DA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1721648530000,
+    "Correctly Prefixed": true,
     "Planets": 0
   },
   {
@@ -26961,6 +27631,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-6B Ceciti-Kac V",
+    "Discoverer": "Lenni",
+    "Glyphs": "006BA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721649365000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-6C Tefrandya XII",
     "Discoverer": "LordDraCool241",
     "Glyphs": "006CA21107FE",
@@ -27321,6 +28001,26 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-90 Gadiac",
+    "Discoverer": "Lenni",
+    "Glyphs": "0090A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721649457000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-91 Tommyg XIX",
+    "Discoverer": "Lenni",
+    "Glyphs": "0091A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721649539000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-92 Enusca-Idori",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0092A21107FE",
@@ -27351,6 +28051,26 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-95 Amaeli-Lomet",
+    "Discoverer": "Lenni",
+    "Glyphs": "0095A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721649619000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-96 Riusca XIII",
+    "Discoverer": "Lenni",
+    "Glyphs": "0096A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721649724000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "",
     "Discoverer": "Ronin418",
     "Glyphs": "0097A21107FE",
@@ -27366,6 +28086,16 @@
     "Glyphs": "0098A21107FE",
     "Platform": "ST",
     "Timestamp": 1697461364000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-99 Levirgo-Zuyor",
+    "Discoverer": "Lenni",
+    "Glyphs": "0099A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721649842000,
     "Correctly Prefixed": true,
     "Planets": 0
   },
@@ -27526,6 +28256,26 @@
     "Glyphs": "00A9A21107FE",
     "Platform": "XB",
     "Timestamp": 1712980000000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-AA Yesiaret",
+    "Discoverer": "Lenni",
+    "Glyphs": "00AAA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721649927000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-AB Miboragjy",
+    "Discoverer": "Lenni",
+    "Glyphs": "00ABA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721650005000,
     "Correctly Prefixed": true,
     "Planets": 0
   },
@@ -27971,6 +28721,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-D8 Diegor-Aot",
+    "Discoverer": "Lenni",
+    "Glyphs": "00D8A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721650100000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-D9 Raltim",
     "Discoverer": "Angel of the wired",
     "Glyphs": "00D9A21107FE",
@@ -28041,11 +28801,31 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-E0 Odleyow-Nadj VI",
+    "Discoverer": "Lenni",
+    "Glyphs": "00E0A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721650199000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-E1 Dersha-Oid",
     "Discoverer": "LordDraCool241",
     "Glyphs": "00E1A21107FE",
     "Platform": "XB",
     "Timestamp": 1713155058000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-E2 Menati XVII",
+    "Discoverer": "Lenni",
+    "Glyphs": "00E2A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721650282000,
     "Correctly Prefixed": true,
     "Planets": 0
   },
@@ -28081,11 +28861,51 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-E6 Qedarl",
+    "Discoverer": "Lenni",
+    "Glyphs": "00E6A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721650358000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-E7 Esleme",
+    "Discoverer": "Lenni",
+    "Glyphs": "00E7A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721650436000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-E8 Exleyb",
     "Discoverer": "LordDraCool241",
     "Glyphs": "00E8A21107FE",
     "Platform": "XB",
     "Timestamp": 1712980182000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-E9 Solatesso",
+    "Discoverer": "Lenni",
+    "Glyphs": "00E9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721650516000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-EA Doseyci XVIII",
+    "Discoverer": "Lenni",
+    "Glyphs": "00EAA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721650600000,
     "Correctly Prefixed": true,
     "Planets": 0
   },
@@ -28118,6 +28938,26 @@
     "Timestamp": 1710444360000,
     "Correctly Prefixed": true,
     "Planets": 1
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-EE Hutahim",
+    "Discoverer": "Lenni",
+    "Glyphs": "00EEA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721650682000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-EF Umeanande X",
+    "Discoverer": "Lenni",
+    "Glyphs": "00EFA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721650770000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -28311,6 +29151,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-103 Awsanjam",
+    "Discoverer": "Lenni",
+    "Glyphs": "0103A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721650844000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "",
     "Discoverer": "Onipuss",
     "Glyphs": "0104A21107FE",
@@ -28318,6 +29168,16 @@
     "Timestamp": 1721628909000,
     "Correctly Prefixed": false,
     "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-105 Hissan-Hagi",
+    "Discoverer": "Lenni",
+    "Glyphs": "0105A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721650929000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -28521,6 +29381,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-11A Lifton-Zuunk",
+    "Discoverer": "Lenni",
+    "Glyphs": "011AA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721651009000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-11B Ajevola",
     "Discoverer": "Lunivore",
     "Glyphs": "011BA21107FE",
@@ -28541,6 +29411,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-11D Gamiek-Holbei XIII",
+    "Discoverer": "Lenni",
+    "Glyphs": "011DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721651082000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "",
     "Discoverer": "Onipuss",
     "Glyphs": "011EA21107FE",
@@ -28558,6 +29438,16 @@
     "Timestamp": 1721501863000,
     "Correctly Prefixed": true,
     "Planets": 1
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-120 Aicary-Echi",
+    "Discoverer": "Lenni",
+    "Glyphs": "0120A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721651169000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -28721,6 +29611,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-131 Tretfor-Bushi IV",
+    "Discoverer": "Lenni",
+    "Glyphs": "0131A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721651245000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-132 Dorian Nemo",
     "Discoverer": "iggdawg",
     "Glyphs": "0132A21107FE",
@@ -28736,6 +29636,16 @@
     "Glyphs": "0133A21107FE",
     "Platform": "ST",
     "Timestamp": 1712083277000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-134 Longneck",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0134A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721653061000,
     "Correctly Prefixed": true,
     "Planets": 0
   },
@@ -28808,6 +29718,16 @@
     "Timestamp": 1696276678000,
     "Correctly Prefixed": true,
     "Planets": 3
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-13C Cupidsg",
+    "Discoverer": "Lenni",
+    "Glyphs": "013CA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721656502000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -28896,6 +29816,26 @@
     "Glyphs": "0145A21107FE",
     "Platform": "ST",
     "Timestamp": 1721587674000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-146 Uresot XVI",
+    "Discoverer": "Lenni",
+    "Glyphs": "0146A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721656592000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-147 Topeka Maru",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0147A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721652143000,
     "Correctly Prefixed": true,
     "Planets": 0
   },
@@ -29091,6 +30031,26 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-15B Encanto",
+    "Discoverer": "iggdawg",
+    "Glyphs": "015BA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721652449000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-15C Working Shop",
+    "Discoverer": "iggdawg",
+    "Glyphs": "015CA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721651612000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-15D Lekesgro",
     "Discoverer": "Lunivore",
     "Glyphs": "015DA21107FE",
@@ -29106,6 +30066,16 @@
     "Glyphs": "015EA21107FE",
     "Platform": "XB",
     "Timestamp": 1713159593000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-15F Piana-Posov",
+    "Discoverer": "Lenni",
+    "Glyphs": "015FA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721656913000,
     "Correctly Prefixed": true,
     "Planets": 0
   },
@@ -29188,6 +30158,16 @@
     "Timestamp": 1703307070000,
     "Correctly Prefixed": false,
     "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-168 Tutoxeterow",
+    "Discoverer": "Lenni",
+    "Glyphs": "0168A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721657016000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -29311,6 +30291,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-175 Equal Whisper",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0175A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721650623000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-176 Nowortha",
     "Discoverer": "Yonahoy",
     "Glyphs": "0176A21107FE",
@@ -29318,6 +30308,16 @@
     "Timestamp": 1709497506000,
     "Correctly Prefixed": true,
     "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-177 Daiadu",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0177A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721653395000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -29386,6 +30386,16 @@
     "Glyphs": "017EA21107FE",
     "Platform": "ST",
     "Timestamp": 1697405178000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-17F Shyast-Blads XV",
+    "Discoverer": "Lenni",
+    "Glyphs": "017FA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721657326000,
     "Correctly Prefixed": true,
     "Planets": 0
   },
@@ -29531,6 +30541,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-18E Yard Snow",
+    "Discoverer": "iggdawg",
+    "Glyphs": "018EA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721651962000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-18F Litartu",
     "Discoverer": "LordDraCool241",
     "Glyphs": "018FA21107FE",
@@ -29611,6 +30631,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-197 Dawnasau",
+    "Discoverer": "Lenni",
+    "Glyphs": "0197A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721657527000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "",
     "Discoverer": "xyz",
     "Glyphs": "0198A21107FE",
@@ -29651,6 +30681,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-19C Hostonia",
+    "Discoverer": "Lenni",
+    "Glyphs": "019CA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721657624000,
+    "Correctly Prefixed": true,
+    "Planets": 1
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-19D Ukeenpa",
     "Discoverer": "iggdawg",
     "Glyphs": "019DA21107FE",
@@ -29688,6 +30728,16 @@
     "Timestamp": 1707938689000,
     "Correctly Prefixed": true,
     "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-1A1 Dimase III",
+    "Discoverer": "Lenni",
+    "Glyphs": "01A1A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721657705000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -29948,6 +30998,26 @@
     "Timestamp": 1704835592000,
     "Correctly Prefixed": false,
     "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-1BC Ranolum-Yaman",
+    "Discoverer": "Lenni",
+    "Glyphs": "01BCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721657774000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-1BD Gidenex-Chye",
+    "Discoverer": "Lenni",
+    "Glyphs": "01BDA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721657862000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -30251,6 +31321,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-1DC Muskirt IX",
+    "Discoverer": "Barderico",
+    "Glyphs": "01DCA21107FE",
+    "Platform": "NI",
+    "Timestamp": 1721651045000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV7-1DD Beatos-Tag",
     "Discoverer": "Goose of the wired",
     "Glyphs": "01DDA21107FE",
@@ -30268,6 +31348,16 @@
     "Timestamp": 1712942324000,
     "Correctly Prefixed": true,
     "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-1DF Accria",
+    "Discoverer": "Lenni",
+    "Glyphs": "01DFA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721658029000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -30338,6 +31428,16 @@
     "Timestamp": 1696004879000,
     "Correctly Prefixed": true,
     "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-1E7 Kushawe",
+    "Discoverer": "Barderico",
+    "Glyphs": "01E7A21107FE",
+    "Platform": "NI",
+    "Timestamp": 1721650571000,
+    "Correctly Prefixed": true,
+    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -30481,6 +31581,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-1F6 Eiberi-Oftir",
+    "Discoverer": "Lenni",
+    "Glyphs": "01F6A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721658181000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-1F7 Ropaly-Essk XVIII",
     "Discoverer": "Lenni",
     "Glyphs": "01F7A21107FE",
@@ -30526,6 +31636,16 @@
     "Glyphs": "01FBA21107FE",
     "Platform": "XB",
     "Timestamp": 1713160244000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-1FC Wotterton",
+    "Discoverer": "Lenni",
+    "Glyphs": "01FCA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721658301000,
     "Correctly Prefixed": true,
     "Planets": 0
   },
@@ -30577,6 +31697,16 @@
     "Platform": "ST",
     "Timestamp": 1706693502000,
     "Correctly Prefixed": false,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-202 Riyadh",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0202A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721651417000,
+    "Correctly Prefixed": true,
     "Planets": 0
   },
   {
