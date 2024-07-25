@@ -151,6 +151,16 @@
   },
   {
     "Category": "Base",
+    "Name": "New beginning",
+    "Discoverer": "Caosgamer__hd",
+    "Glyphs": "3167A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1721820227000,
+    "Parts": 63,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Monist Moon Temple - Roboron",
     "Discoverer": "Spinova_",
     "Glyphs": "40D1A21117FF",
@@ -491,11 +501,21 @@
   },
   {
     "Category": "Base",
+    "Name": "EV4-177 Diusfloss",
+    "Discoverer": "Onipuss",
+    "Glyphs": "4177A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721665327000,
+    "Parts": 187,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Triurobori Temple",
     "Discoverer": "cassiddidy",
     "Glyphs": "101AA21107FF",
     "Platform": "PS",
-    "Timestamp": 1720373211000,
+    "Timestamp": 1721704195000,
     "Parts": 1176,
     "Gamemode": "Normal"
   },
@@ -601,22 +621,22 @@
   },
   {
     "Category": "Base",
+    "Name": "<EXPED>Eissen Cabin",
+    "Discoverer": "McJoxen",
+    "Glyphs": "205EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721789494000,
+    "Parts": 107,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "LMAO Eisvana",
     "Discoverer": "APLMAO",
     "Glyphs": "205EA21107FF",
     "Platform": "ST",
     "Timestamp": 1721641299000,
     "Parts": 278,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
-    "Name": "<EXPED>Eissen Cabin",
-    "Discoverer": "McJoxen",
-    "Glyphs": "205EA21107FF",
-    "Platform": "PS",
-    "Timestamp": 1721418893000,
-    "Parts": 107,
     "Gamemode": "Normal"
   },
   {
@@ -1171,6 +1191,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Kalpa",
+    "Discoverer": "Spinova",
+    "Glyphs": "4210A21107FF",
+    "Platform": "NI",
+    "Timestamp": 1721046792000,
+    "Parts": 275,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "X3 exoT EV5",
     "Discoverer": "ETOBOTETOT",
     "Glyphs": "5001A21107FF",
@@ -1231,6 +1261,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Owstockh Prime",
+    "Discoverer": "Spinova_",
+    "Glyphs": "5211A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720137252000,
+    "Parts": 164,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Poneyh Paradise",
     "Discoverer": "SupremUnicorn",
     "Glyphs": "1073A21107FE",
@@ -1277,6 +1317,16 @@
     "Platform": "PS",
     "Timestamp": 1716375128000,
     "Parts": 37,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "BeautifulBlue",
+    "Discoverer": "lorddieter11",
+    "Glyphs": "113BA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721885872000,
+    "Parts": 43,
     "Gamemode": "Normal"
   },
   {
@@ -1351,6 +1401,16 @@
   },
   {
     "Category": "Base",
+    "Name": "CHURCH CALADOR",
+    "Discoverer": "6Taylor4",
+    "Glyphs": "2216A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1710105002000,
+    "Parts": 145,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Thuse-Umen Base",
     "Discoverer": "Bahamut-the-Grea",
     "Glyphs": "30B8A21107FE",
@@ -1401,12 +1461,12 @@
   },
   {
     "Category": "Base",
-    "Name": "Galactic Military Observatory",
+    "Name": "Galactic Military Plaque",
     "Discoverer": "Darth Fox",
     "Glyphs": "31EBA21107FE",
     "Platform": "ST",
-    "Timestamp": 1720184555000,
-    "Parts": 63,
+    "Timestamp": 1721689786000,
+    "Parts": 81,
     "Gamemode": "Normal"
   },
   {
@@ -1527,6 +1587,36 @@
     "Platform": "ST",
     "Timestamp": 1703290548000,
     "Parts": 50,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Diego Base",
+    "Discoverer": "iggdawg",
+    "Glyphs": "61A9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721741769000,
+    "Parts": 13,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "DWT Grand Tour '24 Jumpgate - Waypoint 103",
+    "Discoverer": "distantworldtours",
+    "Glyphs": "6206A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1720404171000,
+    "Parts": 276,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Dragonsreach",
+    "Discoverer": "Lianeras",
+    "Glyphs": "6206A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1704545411000,
+    "Parts": 2999,
     "Gamemode": "Normal"
   },
   {

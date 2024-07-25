@@ -5,7 +5,7 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "101AA21107FF",
     "Platform": "PS",
-    "Timestamp": 1720373211000,
+    "Timestamp": 1721704195000,
     "Parts": 1176,
     "Gamemode": "Normal"
   },
@@ -111,22 +111,22 @@
   },
   {
     "Category": "Base",
+    "Name": "<EXPED>Eissen Cabin",
+    "Discoverer": "McJoxen",
+    "Glyphs": "205EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1721789494000,
+    "Parts": 107,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "LMAO Eisvana",
     "Discoverer": "APLMAO",
     "Glyphs": "205EA21107FF",
     "Platform": "ST",
     "Timestamp": 1721641299000,
     "Parts": 278,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
-    "Name": "<EXPED>Eissen Cabin",
-    "Discoverer": "McJoxen",
-    "Glyphs": "205EA21107FF",
-    "Platform": "PS",
-    "Timestamp": 1721418893000,
-    "Parts": 107,
     "Gamemode": "Normal"
   },
   {
@@ -681,6 +681,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Kalpa",
+    "Discoverer": "Spinova",
+    "Glyphs": "4210A21107FF",
+    "Platform": "NI",
+    "Timestamp": 1721046792000,
+    "Parts": 275,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "X3 exoT EV5",
     "Discoverer": "ETOBOTETOT",
     "Glyphs": "5001A21107FF",
@@ -737,6 +747,16 @@
     "Platform": "PS",
     "Timestamp": 1720397315000,
     "Parts": 355,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Owstockh Prime",
+    "Discoverer": "Spinova_",
+    "Glyphs": "5211A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1720137252000,
+    "Parts": 164,
     "Gamemode": "Normal"
   }
 ]

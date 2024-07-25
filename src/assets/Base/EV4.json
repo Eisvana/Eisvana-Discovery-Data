@@ -38,5 +38,15 @@
     "Timestamp": 1721514003000,
     "Parts": 427,
     "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "EV4-177 Diusfloss",
+    "Discoverer": "Onipuss",
+    "Glyphs": "4177A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721665327000,
+    "Parts": 187,
+    "Gamemode": "Normal"
   }
 ]

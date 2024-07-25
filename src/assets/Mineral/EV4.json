@@ -1947,6 +1947,22 @@
     "Category": "Mineral",
     "Name": "",
     "Discoverer": "YucaFrita",
+    "Glyphs": "1059A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721758354000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1059A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721758433000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "YucaFrita",
     "Glyphs": "105AA21127FF",
     "Platform": "ST",
     "Timestamp": 1716847868000
@@ -3010,6 +3026,30 @@
   {
     "Category": "Mineral",
     "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1080A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721869659000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1080A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721869733000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1080A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721870085000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "10AEA21127FF",
     "Platform": "XB",
@@ -3338,6 +3378,14 @@
   {
     "Category": "Mineral",
     "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "2202A21127FF",
+    "Platform": "PS",
+    "Timestamp": 1706762375000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
     "Discoverer": "WraithRaptor",
     "Glyphs": "3002A21127FF",
     "Platform": "GX",
@@ -3510,6 +3558,14 @@
     "Glyphs": "40C1A21127FF",
     "Platform": "ST",
     "Timestamp": 1721625002000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Onipuss",
+    "Glyphs": "4177A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1721690104000
   },
   {
     "Category": "Mineral",

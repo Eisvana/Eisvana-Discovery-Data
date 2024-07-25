@@ -3067,6 +3067,22 @@
     "Category": "Mineral",
     "Name": "",
     "Discoverer": "Lenni",
+    "Glyphs": "10B8A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721764892000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10B8A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721764902000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lenni",
     "Glyphs": "10D1A11127FF",
     "Platform": "ST",
     "Timestamp": 1719395430000
@@ -3118,6 +3134,38 @@
     "Glyphs": "10D1A11127FF",
     "Platform": "ST",
     "Timestamp": 1719395503000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10D3A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721764932000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10D3A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721764939000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10D3A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721764945000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "10D3A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721764951000
   },
   {
     "Category": "Mineral",
@@ -4410,6 +4458,158 @@
   {
     "Category": "Mineral",
     "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1142A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721765152000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1142A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721765187000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1142A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721765196000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1142A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721765224000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1142A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721765249000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1142A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721765258000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1142A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721765263000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1142A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721765272000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1142A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721765298000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "1142A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721765313000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1151A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721758130000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1151A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721758141000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1151A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721758142000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1151A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721758148000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1151A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721758162000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1151A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721758195000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1151A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721758221000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1151A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721758230000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "1151A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721758235000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "1153A11127FF",
     "Platform": "ST",
@@ -5267,6 +5467,22 @@
     "Category": "Mineral",
     "Name": "",
     "Discoverer": "Junebiologist",
+    "Glyphs": "1215A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697167992000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Junebiologist",
+    "Glyphs": "1215A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1697167997000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Junebiologist",
     "Glyphs": "2011A11127FF",
     "Platform": "ST",
     "Timestamp": 1696983867000
@@ -5294,6 +5510,54 @@
     "Glyphs": "2011A11127FF",
     "Platform": "ST",
     "Timestamp": 1696983894000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lilac",
+    "Glyphs": "2064A11127FF",
+    "Platform": "NI",
+    "Timestamp": 1721885977000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lilac",
+    "Glyphs": "2064A11127FF",
+    "Platform": "NI",
+    "Timestamp": 1721886309000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lilac",
+    "Glyphs": "2064A11127FF",
+    "Platform": "NI",
+    "Timestamp": 1721886310000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lilac",
+    "Glyphs": "2064A11127FF",
+    "Platform": "NI",
+    "Timestamp": 1721886328000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lilac",
+    "Glyphs": "2064A11127FF",
+    "Platform": "NI",
+    "Timestamp": 1721886572000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lilac",
+    "Glyphs": "2064A11127FF",
+    "Platform": "NI",
+    "Timestamp": 1721886607000
   },
   {
     "Category": "Mineral",
@@ -6050,6 +6314,22 @@
   {
     "Category": "Mineral",
     "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2151A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721758268000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2151A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1721758275000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "2159A11127FF",
     "Platform": "ST",
@@ -6654,6 +6934,62 @@
     "Glyphs": "21F0A11127FF",
     "Platform": "PS",
     "Timestamp": 1708903379000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2215A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1696151281000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2215A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1696151289000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2215A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1696151296000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2215A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1696152701000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2215A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1696152724000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2215A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1696152729000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "2215A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1696152735000
   },
   {
     "Category": "Mineral",
@@ -7993,6 +8329,54 @@
   },
   {
     "Category": "Mineral",
+    "Name": "Zovyatossite",
+    "Discoverer": "Lilac",
+    "Glyphs": "405FA11127FF",
+    "Platform": "NI",
+    "Timestamp": 1721874686000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lilac",
+    "Glyphs": "405FA11127FF",
+    "Platform": "NI",
+    "Timestamp": 1721874718000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lilac",
+    "Glyphs": "405FA11127FF",
+    "Platform": "NI",
+    "Timestamp": 1721874746000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lilac",
+    "Glyphs": "405FA11127FF",
+    "Platform": "NI",
+    "Timestamp": 1721874792000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lilac",
+    "Glyphs": "405FA11127FF",
+    "Platform": "NI",
+    "Timestamp": 1721875082000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Lilac",
+    "Glyphs": "405FA11127FF",
+    "Platform": "NI",
+    "Timestamp": 1721875176000
+  },
+  {
+    "Category": "Mineral",
     "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "40C7A11127FF",
@@ -8742,6 +9126,118 @@
     "Glyphs": "41F8A11127FF",
     "Platform": "ST",
     "Timestamp": 1699997282000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "4205A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712966429000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "4205A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712966437000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "4205A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712966446000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "4205A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712968397000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "4205A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712968403000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "4205A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712968412000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "4205A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712968418000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "4205A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712968425000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "4205A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712968431000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "4205A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712968448000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "4205A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712968462000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "4205A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712968478000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "4205A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1712968486000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "4215A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1696152879000
   },
   {
     "Category": "Mineral",

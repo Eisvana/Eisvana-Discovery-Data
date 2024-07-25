@@ -51,6 +51,16 @@
   },
   {
     "Category": "Base",
+    "Name": "BeautifulBlue",
+    "Discoverer": "lorddieter11",
+    "Glyphs": "113BA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721885872000,
+    "Parts": 43,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Club Cafe 42",
     "Discoverer": "elkrokis",
     "Glyphs": "113BA21107FE",
@@ -121,6 +131,16 @@
   },
   {
     "Category": "Base",
+    "Name": "CHURCH CALADOR",
+    "Discoverer": "6Taylor4",
+    "Glyphs": "2216A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1710105002000,
+    "Parts": 145,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Thuse-Umen Base",
     "Discoverer": "Bahamut-the-Grea",
     "Glyphs": "30B8A21107FE",
@@ -171,12 +191,12 @@
   },
   {
     "Category": "Base",
-    "Name": "Galactic Military Observatory",
+    "Name": "Galactic Military Plaque",
     "Discoverer": "Darth Fox",
     "Glyphs": "31EBA21107FE",
     "Platform": "ST",
-    "Timestamp": 1720184555000,
-    "Parts": 63,
+    "Timestamp": 1721689786000,
+    "Parts": 81,
     "Gamemode": "Normal"
   },
   {
@@ -297,6 +317,36 @@
     "Platform": "ST",
     "Timestamp": 1703290548000,
     "Parts": 50,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Diego Base",
+    "Discoverer": "iggdawg",
+    "Glyphs": "61A9A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1721741769000,
+    "Parts": 13,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "DWT Grand Tour '24 Jumpgate - Waypoint 103",
+    "Discoverer": "distantworldtours",
+    "Glyphs": "6206A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1720404171000,
+    "Parts": 276,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Dragonsreach",
+    "Discoverer": "Lianeras",
+    "Glyphs": "6206A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1704545411000,
+    "Parts": 2999,
     "Gamemode": "Normal"
   }
 ]

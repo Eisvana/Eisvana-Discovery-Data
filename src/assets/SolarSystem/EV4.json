@@ -881,12 +881,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV4-54 Sofloku",
+    "Name": "EV4-59 Sofloku",
     "Discoverer": "YucaFrita",
     "Glyphs": "0059A21127FF",
     "Platform": "ST",
-    "Timestamp": 1716659271000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1721680418000,
+    "Correctly Prefixed": true,
     "Planets": 5
   },
   {
@@ -3431,13 +3431,13 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV5-158 Alderber",
+    "Name": "EV4-158 Alderber",
     "Discoverer": "Lenni",
     "Glyphs": "0158A21127FF",
     "Platform": "ST",
-    "Timestamp": 1721551200000,
-    "Correctly Prefixed": false,
-    "Planets": 0
+    "Timestamp": 1721660159000,
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -3511,12 +3511,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV4- 160 Panafirl",
+    "Name": "EV4-160 Panafirl",
     "Discoverer": "Onipuss",
     "Glyphs": "0160A21127FF",
     "Platform": "ST",
-    "Timestamp": 1721454012000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1721677106000,
+    "Correctly Prefixed": true,
     "Planets": 3
   },
   {
@@ -5137,7 +5137,7 @@
     "Platform": "PS",
     "Timestamp": 1706761487000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
