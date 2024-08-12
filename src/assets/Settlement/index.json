@@ -25,6 +25,22 @@
   },
   {
     "Category": "Settlement",
+    "Name": "Gedingcmouth",
+    "Discoverer": "Yuva5239",
+    "Glyphs": "102AA11117FF",
+    "Platform": "PS",
+    "Timestamp": 1722683110000
+  },
+  {
+    "Category": "Settlement",
+    "Name": "Barnitown",
+    "Discoverer": "Mr.Barnicle",
+    "Glyphs": "5019A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1723358505000
+  },
+  {
+    "Category": "Settlement",
     "Name": "Little Jeppjar",
     "Discoverer": "mobposg",
     "Glyphs": "30B5A11127FF",

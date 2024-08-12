@@ -48,5 +48,25 @@
     "Timestamp": 1721665327000,
     "Parts": 187,
     "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Barbelo",
+    "Discoverer": "Spinova_",
+    "Glyphs": "5094A21127FF",
+    "Platform": "PS",
+    "Timestamp": 1723390446000,
+    "Parts": 324,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Tathata",
+    "Discoverer": "Spinova_",
+    "Glyphs": "60EEA21127FF",
+    "Platform": "PS",
+    "Timestamp": 1723411612000,
+    "Parts": 261,
+    "Gamemode": "Normal"
   }
 ]

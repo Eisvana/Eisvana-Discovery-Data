@@ -1,12 +1,12 @@
 [
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-1 Reginas",
     "Discoverer": "randomsguy9454",
     "Glyphs": "0001A21117FF",
     "Platform": "XB",
-    "Timestamp": 1695751920000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722061786000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -27,7 +27,7 @@
     "Platform": "ST",
     "Timestamp": 1695853469000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -47,7 +47,7 @@
     "Platform": "ST",
     "Timestamp": 1695853996000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -67,7 +67,7 @@
     "Platform": "ST",
     "Timestamp": 1695854758000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -87,7 +87,7 @@
     "Platform": "ST",
     "Timestamp": 1695882188000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -107,7 +107,7 @@
     "Platform": "ST",
     "Timestamp": 1699475982000,
     "Correctly Prefixed": true,
-    "Planets": 1
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -117,16 +117,16 @@
     "Platform": "XB",
     "Timestamp": 1709442714000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-D Naeaniagu",
     "Discoverer": "Damalvina",
     "Glyphs": "000DA21117FF",
     "Platform": "ST",
-    "Timestamp": 1704275396000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1721930508000,
+    "Correctly Prefixed": true,
     "Planets": 5
   },
   {
@@ -137,7 +137,7 @@
     "Platform": "XB",
     "Timestamp": 1709450520000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -167,7 +167,7 @@
     "Platform": "ST",
     "Timestamp": 1695886675000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -207,7 +207,7 @@
     "Platform": "XB",
     "Timestamp": 1709422640000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -217,7 +217,7 @@
     "Platform": "XB",
     "Timestamp": 1709496024000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -237,7 +237,7 @@
     "Platform": "XB",
     "Timestamp": 1709446031000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -257,7 +257,7 @@
     "Platform": "XB",
     "Timestamp": 1709443902000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -267,7 +267,7 @@
     "Platform": "XB",
     "Timestamp": 1709444006000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -287,7 +287,7 @@
     "Platform": "XB",
     "Timestamp": 1709426778000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -297,7 +297,7 @@
     "Platform": "XB",
     "Timestamp": 1709428621000,
     "Correctly Prefixed": true,
-    "Planets": 1
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -307,16 +307,16 @@
     "Platform": "XB",
     "Timestamp": 1709433303000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-20 Nikerno",
     "Discoverer": "randomsguy9454",
     "Glyphs": "0020A21117FF",
     "Platform": "XB",
-    "Timestamp": 1704847413000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722062920000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -327,7 +327,7 @@
     "Platform": "XB",
     "Timestamp": 1709424423000,
     "Correctly Prefixed": true,
-    "Planets": 1
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -337,7 +337,7 @@
     "Platform": "XB",
     "Timestamp": 1709436405000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -367,7 +367,7 @@
     "Platform": "XB",
     "Timestamp": 1709496929000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -377,7 +377,7 @@
     "Platform": "XB",
     "Timestamp": 1709496460000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -387,7 +387,7 @@
     "Platform": "XB",
     "Timestamp": 1709495789000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -397,7 +397,7 @@
     "Platform": "XB",
     "Timestamp": 1709448344000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -407,7 +407,7 @@
     "Platform": "XB",
     "Timestamp": 1709451147000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -417,7 +417,7 @@
     "Platform": "XB",
     "Timestamp": 1709451224000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -427,7 +427,7 @@
     "Platform": "XB",
     "Timestamp": 1709449916000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -437,7 +437,7 @@
     "Platform": "XB",
     "Timestamp": 1709450608000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -447,7 +447,7 @@
     "Platform": "XB",
     "Timestamp": 1709450430000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -457,16 +457,16 @@
     "Platform": "XB",
     "Timestamp": 1709450299000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-2F Tosfordal",
     "Discoverer": "Damalvina",
     "Glyphs": "002FA21117FF",
     "Platform": "ST",
-    "Timestamp": 1704277146000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1721931096000,
+    "Correctly Prefixed": true,
     "Planets": 5
   },
   {
@@ -477,7 +477,7 @@
     "Platform": "XB",
     "Timestamp": 1709437310000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -487,7 +487,7 @@
     "Platform": "XB",
     "Timestamp": 1709436800000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -507,7 +507,7 @@
     "Platform": "XB",
     "Timestamp": 1709496684000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -517,7 +517,7 @@
     "Platform": "XB",
     "Timestamp": 1709495943000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -527,7 +527,7 @@
     "Platform": "XB",
     "Timestamp": 1709495695000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -537,7 +537,7 @@
     "Platform": "XB",
     "Timestamp": 1709446526000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -547,7 +547,7 @@
     "Platform": "XB",
     "Timestamp": 1709444500000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -557,7 +557,7 @@
     "Platform": "XB",
     "Timestamp": 1709444107000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -567,7 +567,7 @@
     "Platform": "XB",
     "Timestamp": 1709440182000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -577,7 +577,7 @@
     "Platform": "XB",
     "Timestamp": 1709417754000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -597,7 +597,7 @@
     "Platform": "XB",
     "Timestamp": 1709516527000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -607,7 +607,7 @@
     "Platform": "XB",
     "Timestamp": 1709514403000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -621,12 +621,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-3F Neater",
     "Discoverer": "randomsguy9454",
     "Glyphs": "003FA21117FF",
     "Platform": "XB",
-    "Timestamp": 1704835867000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722061936000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -637,7 +637,7 @@
     "Platform": "XB",
     "Timestamp": 1709499794000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -647,7 +647,7 @@
     "Platform": "XB",
     "Timestamp": 1709498470000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -657,7 +657,7 @@
     "Platform": "XB",
     "Timestamp": 1709443002000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -671,12 +671,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-44 Nebavex-Yiche",
     "Discoverer": "randomsguy9454",
     "Glyphs": "0044A21117FF",
     "Platform": "XB",
-    "Timestamp": 1704845803000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722062784000,
+    "Correctly Prefixed": true,
     "Planets": 5
   },
   {
@@ -697,7 +697,7 @@
     "Platform": "XB",
     "Timestamp": 1709440831000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -717,7 +717,7 @@
     "Platform": "XB",
     "Timestamp": 1709438830000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -761,12 +761,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-4D Romseyc-Talas",
     "Discoverer": "randomsguy9454",
     "Glyphs": "004DA21117FF",
     "Platform": "XB",
-    "Timestamp": 1704845621000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722063114000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -777,7 +777,7 @@
     "Platform": "XB",
     "Timestamp": 1709444733000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -977,7 +977,7 @@
     "Platform": "XB",
     "Timestamp": 1709446623000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -987,7 +987,7 @@
     "Platform": "XB",
     "Timestamp": 1709436338000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -1047,7 +1047,7 @@
     "Platform": "ST",
     "Timestamp": 1708884314000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -1067,7 +1067,7 @@
     "Platform": "XB",
     "Timestamp": 1709440663000,
     "Correctly Prefixed": true,
-    "Planets": 2
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -1157,16 +1157,16 @@
     "Platform": "XB",
     "Timestamp": 1709444377000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-75 Efarbor-Ufi",
     "Discoverer": "Traevis",
     "Glyphs": "0075A21117FF",
     "Platform": "ST",
-    "Timestamp": 1696103631000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1721973205000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -1257,7 +1257,7 @@
     "Platform": "XB",
     "Timestamp": 1709436483000,
     "Correctly Prefixed": true,
-    "Planets": 3
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -1281,12 +1281,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-81 Hepshi-Redsor",
     "Discoverer": "randomsguy9454",
     "Glyphs": "0081A21117FF",
     "Platform": "XB",
-    "Timestamp": 1704845593000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722063097000,
+    "Correctly Prefixed": true,
     "Planets": 3
   },
   {
@@ -1341,12 +1341,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-87 Jacqueli",
     "Discoverer": "randomsguy9454",
     "Glyphs": "0087A21117FF",
     "Platform": "XB",
-    "Timestamp": 1704853628000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722070255000,
+    "Correctly Prefixed": true,
     "Planets": 3
   },
   {
@@ -1377,7 +1377,7 @@
     "Platform": "XB",
     "Timestamp": 1709499871000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 3
   },
   {
     "Category": "SolarSystem",
@@ -1387,7 +1387,7 @@
     "Platform": "XB",
     "Timestamp": 1709513120000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -1401,12 +1401,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-8D Diderika",
     "Discoverer": "randomsguy9454",
     "Glyphs": "008DA21117FF",
     "Platform": "XB",
-    "Timestamp": 1704835817000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722063242000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -1431,12 +1431,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-90 Leklepus",
     "Discoverer": "randomsguy9454",
     "Glyphs": "0090A21117FF",
     "Platform": "XB",
-    "Timestamp": 1704835785000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722063788000,
+    "Correctly Prefixed": true,
     "Planets": 3
   },
   {
@@ -1491,12 +1491,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-96 Xiggiell I",
     "Discoverer": "randomsguy9454",
     "Glyphs": "0096A21117FF",
     "Platform": "XB",
-    "Timestamp": 1704835956000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722063337000,
+    "Correctly Prefixed": true,
     "Planets": 3
   },
   {
@@ -1557,7 +1557,7 @@
     "Platform": "XB",
     "Timestamp": 1709500141000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -1721,12 +1721,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-AD Narric-Elon",
     "Discoverer": "randomsguy9454",
     "Glyphs": "00ADA21117FF",
     "Platform": "XB",
-    "Timestamp": 1704853658000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722063675000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -1847,7 +1847,7 @@
     "Platform": "XB",
     "Timestamp": 1709433393000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -1961,22 +1961,22 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-C5 Quayot-Heweyf",
     "Discoverer": "randomsguy9454",
     "Glyphs": "00C5A21117FF",
     "Platform": "XB",
-    "Timestamp": 1704845419000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722063677000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV1-68 Avokamae",
+    "Name": "EV1-C6 Avokamae",
     "Discoverer": "LordDraCool241",
     "Glyphs": "00C6A21117FF",
     "Platform": "XB",
-    "Timestamp": 1709497679000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722079745000,
+    "Correctly Prefixed": true,
     "Planets": 0
   },
   {
@@ -2021,12 +2021,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV1-C1 Benathiak",
+    "Name": "EV1-CB Benathiak",
     "Discoverer": "Damalvina",
     "Glyphs": "00CBA21117FF",
     "Platform": "ST",
-    "Timestamp": 1706964166000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722529880000,
+    "Correctly Prefixed": true,
     "Planets": 4
   },
   {
@@ -2057,7 +2057,7 @@
     "Platform": "XB",
     "Timestamp": 1709515811000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -2187,7 +2187,7 @@
     "Platform": "XB",
     "Timestamp": 1709499684000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2197,7 +2197,7 @@
     "Platform": "XB",
     "Timestamp": 1709512774000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2247,7 +2247,7 @@
     "Platform": "XB",
     "Timestamp": 1709516916000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2311,12 +2311,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-E8 Amdushed",
     "Discoverer": "randomsguy9454",
     "Glyphs": "00E8A21117FF",
     "Platform": "XB",
-    "Timestamp": 1704845518000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722063629000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -2331,12 +2331,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-EA Watensor",
     "Discoverer": "randomsguy9454",
     "Glyphs": "00EAA21117FF",
     "Platform": "XB",
-    "Timestamp": 1704835916000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722064716000,
+    "Correctly Prefixed": true,
     "Planets": 5
   },
   {
@@ -2357,7 +2357,7 @@
     "Platform": "XB",
     "Timestamp": 1709512570000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2367,7 +2367,7 @@
     "Platform": "XB",
     "Timestamp": 1709512846000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -2387,7 +2387,7 @@
     "Platform": "XB",
     "Timestamp": 1709513847000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2417,7 +2417,7 @@
     "Platform": "XB",
     "Timestamp": 1709513394000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -2437,7 +2437,7 @@
     "Platform": "XB",
     "Timestamp": 1709515706000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2507,7 +2507,7 @@
     "Platform": "XB",
     "Timestamp": 1709433789000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -2587,7 +2587,7 @@
     "Platform": "XB",
     "Timestamp": 1709512642000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2667,7 +2667,7 @@
     "Platform": "XB",
     "Timestamp": 1709509318000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2747,7 +2747,7 @@
     "Platform": "XB",
     "Timestamp": 1709426700000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -2757,7 +2757,7 @@
     "Platform": "XB",
     "Timestamp": 1709425518000,
     "Correctly Prefixed": true,
-    "Planets": 1
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2781,12 +2781,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-117 Grimsbyt",
     "Discoverer": "randomsguy9454",
     "Glyphs": "0117A21117FF",
     "Platform": "XB",
-    "Timestamp": 1704845775000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722063897000,
+    "Correctly Prefixed": true,
     "Planets": 3
   },
   {
@@ -2827,7 +2827,7 @@
     "Platform": "XB",
     "Timestamp": 1709436173000,
     "Correctly Prefixed": true,
-    "Planets": 2
+    "Planets": 3
   },
   {
     "Category": "SolarSystem",
@@ -2917,7 +2917,7 @@
     "Platform": "XB",
     "Timestamp": 1709512352000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2947,7 +2947,7 @@
     "Platform": "XB",
     "Timestamp": 1709513276000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2967,7 +2967,7 @@
     "Platform": "XB",
     "Timestamp": 1709421261000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -3007,7 +3007,7 @@
     "Platform": "XB",
     "Timestamp": 1709426619000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -3107,7 +3107,7 @@
     "Platform": "XB",
     "Timestamp": 1709511097000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -3121,13 +3121,13 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-139 Divididosn",
     "Discoverer": "aragunde",
     "Glyphs": "0139A21117FF",
     "Platform": "ST",
-    "Timestamp": 1700162458000,
-    "Correctly Prefixed": false,
-    "Planets": 0
+    "Timestamp": 1722540951000,
+    "Correctly Prefixed": true,
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -3181,12 +3181,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-13F Ianails-Geni VII",
     "Discoverer": "randomsguy9454",
     "Glyphs": "013FA21117FF",
     "Platform": "XB",
-    "Timestamp": 1704835759000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722071789000,
+    "Correctly Prefixed": true,
     "Planets": 2
   },
   {
@@ -3227,7 +3227,7 @@
     "Platform": "XB",
     "Timestamp": 1709428717000,
     "Correctly Prefixed": true,
-    "Planets": 1
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -3341,12 +3341,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV1-197 Laciti-Hor",
+    "Name": "EV1-14F Laciti-Hor",
     "Discoverer": "AirosRhyner",
     "Glyphs": "014FA21117FF",
     "Platform": "ST",
-    "Timestamp": 1697738777000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722117828000,
+    "Correctly Prefixed": true,
     "Planets": 4
   },
   {
@@ -3387,7 +3387,7 @@
     "Platform": "XB",
     "Timestamp": 1709449323000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -3427,7 +3427,7 @@
     "Platform": "XB",
     "Timestamp": 1709429795000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -3437,7 +3437,7 @@
     "Platform": "XB",
     "Timestamp": 1709428530000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -3447,7 +3447,7 @@
     "Platform": "XB",
     "Timestamp": 1709421914000,
     "Correctly Prefixed": true,
-    "Planets": 1
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -3491,12 +3491,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-15E Odderia XII",
     "Discoverer": "randomsguy9454",
     "Glyphs": "015EA21117FF",
     "Platform": "XB",
-    "Timestamp": 1704845720000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722065000000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -3587,7 +3587,7 @@
     "Platform": "XB",
     "Timestamp": 1709448815000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -3601,12 +3601,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV1-168+1 Ravossenl XIV",
+    "Name": "EV1-169 Ravossenl XIV",
     "Discoverer": "AirosRhyner",
     "Glyphs": "0169A21117FF",
     "Platform": "ST",
-    "Timestamp": 1696853900000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722118815000,
+    "Correctly Prefixed": true,
     "Planets": 0
   },
   {
@@ -3621,12 +3621,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-16B Pienna",
     "Discoverer": "randomsguy9454",
     "Glyphs": "016BA21117FF",
     "Platform": "XB",
-    "Timestamp": 1704847357000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722065286000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -3797,7 +3797,7 @@
     "Platform": "ST",
     "Timestamp": 1697658229000,
     "Correctly Prefixed": true,
-    "Planets": 1
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -3821,12 +3821,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV5-17F Nicened",
+    "Name": "EV1-17F Nicened",
     "Discoverer": "cassiddidy",
     "Glyphs": "017FA21117FF",
     "Platform": "PS",
-    "Timestamp": 1697644493000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722027443000,
+    "Correctly Prefixed": true,
     "Planets": 2
   },
   {
@@ -3991,12 +3991,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-190 Fowelew-Moba XI",
     "Discoverer": "randomsguy9454",
     "Glyphs": "0190A21117FF",
     "Platform": "XB",
-    "Timestamp": 1704845944000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722064206000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -4031,12 +4031,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-194 Koyleroy",
     "Discoverer": "Damalvina",
     "Glyphs": "0194A21117FF",
     "Platform": "ST",
-    "Timestamp": 1704275519000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722761484000,
+    "Correctly Prefixed": true,
     "Planets": 2
   },
   {
@@ -4077,7 +4077,7 @@
     "Platform": "XB",
     "Timestamp": 1709447740000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -4097,7 +4097,7 @@
     "Platform": "XB",
     "Timestamp": 1709496518000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 3
   },
   {
     "Category": "SolarSystem",
@@ -4127,7 +4127,7 @@
     "Platform": "XB",
     "Timestamp": 1709434457000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -4217,7 +4217,7 @@
     "Platform": "XB",
     "Timestamp": 1709496381000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -4387,7 +4387,7 @@
     "Platform": "XB",
     "Timestamp": 1709448982000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -4407,7 +4407,7 @@
     "Platform": "XB",
     "Timestamp": 1709448049000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -4501,11 +4501,11 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV1-1Cthree Epusca I",
+    "Name": "EV1-01C3 Epusca I",
     "Discoverer": "cassiddidy",
     "Glyphs": "01C3A21117FF",
     "Platform": "PS",
-    "Timestamp": 1697430750000,
+    "Timestamp": 1722087225000,
     "Correctly Prefixed": false,
     "Planets": 6
   },
@@ -4697,7 +4697,7 @@
     "Platform": "XB",
     "Timestamp": 1709447960000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -4721,12 +4721,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV1-1D9 Paphank-Aymo XIII",
     "Discoverer": "randomsguy9454",
     "Glyphs": "01D9A21117FF",
     "Platform": "XB",
-    "Timestamp": 1704847316000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1722064669000,
+    "Correctly Prefixed": true,
     "Planets": 5
   },
   {
@@ -4917,7 +4917,7 @@
     "Platform": "XB",
     "Timestamp": 1709448164000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 2
   },
   {
     "Category": "SolarSystem",
@@ -4937,7 +4937,7 @@
     "Platform": "XB",
     "Timestamp": 1709435039000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -4967,7 +4967,7 @@
     "Platform": "XB",
     "Timestamp": 1709422119000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -5037,7 +5037,7 @@
     "Platform": "XB",
     "Timestamp": 1709441758000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 3
   },
   {
     "Category": "SolarSystem",
@@ -5227,7 +5227,7 @@
     "Platform": "XB",
     "Timestamp": 1709446720000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",

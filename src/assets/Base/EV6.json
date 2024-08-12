@@ -125,8 +125,8 @@
     "Discoverer": "Spinova_",
     "Glyphs": "2192A21107FE",
     "Platform": "PS",
-    "Timestamp": 1721608072000,
-    "Parts": 1338,
+    "Timestamp": 1722792165000,
+    "Parts": 1444,
     "Gamemode": "Normal"
   },
   {
@@ -241,6 +241,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Asanga",
+    "Discoverer": "Spinova",
+    "Glyphs": "41E1A21107FE",
+    "Platform": "NI",
+    "Timestamp": 1722831341000,
+    "Parts": 200,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Garlemald",
     "Discoverer": "Landulf",
     "Glyphs": "41EAA21107FE",
@@ -287,16 +297,6 @@
     "Platform": "ST",
     "Timestamp": 1706593038000,
     "Parts": 136,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
-    "Name": "Nb 2 Autofago Cobre",
-    "Discoverer": "tenaus",
-    "Glyphs": "60F6A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1703808947000,
-    "Parts": 90,
     "Gamemode": "Normal"
   },
   {

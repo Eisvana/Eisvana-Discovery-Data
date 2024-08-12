@@ -161,12 +161,12 @@
   },
   {
     "Category": "Base",
-    "Name": "Monist Moon Temple - Roboron",
-    "Discoverer": "Spinova_",
-    "Glyphs": "40D1A21117FF",
-    "Platform": "PS",
-    "Timestamp": 1721435941000,
-    "Parts": 67,
+    "Name": "Mystera Temple",
+    "Discoverer": "Lianeras",
+    "Glyphs": "40D5A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1723315975000,
+    "Parts": 51,
     "Gamemode": "Normal"
   },
   {
@@ -191,12 +191,12 @@
   },
   {
     "Category": "Base",
-    "Name": "Nuculloc Outpost",
+    "Name": "Monist Moon Temple - Pali",
     "Discoverer": "Spinova",
     "Glyphs": "501EA21117FF",
     "Platform": "NI",
-    "Timestamp": 1719527673000,
-    "Parts": 437,
+    "Timestamp": 1723119402000,
+    "Parts": 325,
     "Gamemode": "Normal"
   },
   {

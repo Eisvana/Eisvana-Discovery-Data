@@ -161,12 +161,12 @@
   },
   {
     "Category": "Base",
-    "Name": "Monist Moon Temple - Roboron",
-    "Discoverer": "Spinova_",
-    "Glyphs": "40D1A21117FF",
-    "Platform": "PS",
-    "Timestamp": 1721435941000,
-    "Parts": 67,
+    "Name": "Mystera Temple",
+    "Discoverer": "Lianeras",
+    "Glyphs": "40D5A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1723315975000,
+    "Parts": 51,
     "Gamemode": "Normal"
   },
   {
@@ -191,12 +191,12 @@
   },
   {
     "Category": "Base",
-    "Name": "Nuculloc Outpost",
+    "Name": "Monist Moon Temple - Pali",
     "Discoverer": "Spinova",
     "Glyphs": "501EA21117FF",
     "Platform": "NI",
-    "Timestamp": 1719527673000,
-    "Parts": 437,
+    "Timestamp": 1723119402000,
+    "Parts": 325,
     "Gamemode": "Normal"
   },
   {
@@ -207,6 +207,26 @@
     "Platform": "PS",
     "Timestamp": 1711162936000,
     "Parts": 13,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Keitho Colony",
+    "Discoverer": "Yuva5239",
+    "Glyphs": "102AA11117FF",
+    "Platform": "PS",
+    "Timestamp": 1722607901000,
+    "Parts": 66,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "A",
+    "Discoverer": "Spinova_",
+    "Glyphs": "1031A11117FF",
+    "Platform": "PS",
+    "Timestamp": 1722906654000,
+    "Parts": 370,
     "Gamemode": "Normal"
   },
   {
@@ -251,16 +271,6 @@
   },
   {
     "Category": "Base",
-    "Name": "Monist Moon Temple - Attea",
-    "Discoverer": "Spinova",
-    "Glyphs": "2168A11117FF",
-    "Platform": "NI",
-    "Timestamp": 1719178219000,
-    "Parts": 297,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
     "Name": "LordDra'Cool's Eisvanian Smuggling Ring",
     "Discoverer": "LordDraCool241",
     "Glyphs": "21F0A11117FF",
@@ -271,12 +281,22 @@
   },
   {
     "Category": "Base",
-    "Name": "Monist Moon Temple - Takelly",
+    "Name": "Home-256",
+    "Discoverer": "Lukachukai2",
+    "Glyphs": "3013A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1722460357000,
+    "Parts": 32,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Satori",
     "Discoverer": "Spinova",
-    "Glyphs": "3020A11117FF",
+    "Glyphs": "3185A11117FF",
     "Platform": "NI",
-    "Timestamp": 1718941212000,
-    "Parts": 186,
+    "Timestamp": 1722567381000,
+    "Parts": 339,
     "Gamemode": "Normal"
   },
   {
@@ -431,6 +451,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Greensboro",
+    "Discoverer": "Spinova_",
+    "Glyphs": "4160A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1722819780000,
+    "Parts": 172,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Monist Moon Monestary - Arnem",
     "Discoverer": "Spinova",
     "Glyphs": "504AA11127FF",
@@ -511,6 +541,26 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Barbelo",
+    "Discoverer": "Spinova_",
+    "Glyphs": "5094A21127FF",
+    "Platform": "PS",
+    "Timestamp": 1723390446000,
+    "Parts": 324,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Tathata",
+    "Discoverer": "Spinova_",
+    "Glyphs": "60EEA21127FF",
+    "Platform": "PS",
+    "Timestamp": 1723411612000,
+    "Parts": 261,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Triurobori Temple",
     "Discoverer": "cassiddidy",
     "Glyphs": "101AA21107FF",
@@ -547,6 +597,16 @@
     "Platform": "ST",
     "Timestamp": 1698170073000,
     "Parts": 813,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Eisvana Portal",
+    "Discoverer": "Spinova_",
+    "Glyphs": "1020A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1722699286000,
+    "Parts": 88,
     "Gamemode": "Normal"
   },
   {
@@ -601,6 +661,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Selene",
+    "Discoverer": "Spinova_",
+    "Glyphs": "2020A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1723391736000,
+    "Parts": 184,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Monist Moon Temple - Dharma",
     "Discoverer": "Spinova",
     "Glyphs": "2022A21107FF",
@@ -611,12 +681,12 @@
   },
   {
     "Category": "Base",
-    "Name": "Monist Moon Temple - Draco",
+    "Name": "Monist Moon Temple - Naga",
     "Discoverer": "Spinova",
     "Glyphs": "2040A21107FF",
     "Platform": "NI",
-    "Timestamp": 1721015887000,
-    "Parts": 250,
+    "Timestamp": 1722444641000,
+    "Parts": 249,
     "Gamemode": "Normal"
   },
   {
@@ -625,7 +695,7 @@
     "Discoverer": "McJoxen",
     "Glyphs": "205EA21107FF",
     "Platform": "PS",
-    "Timestamp": 1721789494000,
+    "Timestamp": 1723090793000,
     "Parts": 107,
     "Gamemode": "Normal"
   },
@@ -681,26 +751,6 @@
   },
   {
     "Category": "Base",
-    "Name": "Monist Moon Temple - Ayas 77",
-    "Discoverer": "Spinova",
-    "Glyphs": "20FBA21107FF",
-    "Platform": "NI",
-    "Timestamp": 1717959822000,
-    "Parts": 106,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
-    "Name": "Monist Moon Temple - Nouvelle ",
-    "Discoverer": "Spinova",
-    "Glyphs": "212AA21107FF",
-    "Platform": "NI",
-    "Timestamp": 1720273611000,
-    "Parts": 122,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
     "Name": "Monist Moon Temple - Tariki",
     "Discoverer": "Spinova",
     "Glyphs": "212DA21107FF",
@@ -751,16 +801,6 @@
   },
   {
     "Category": "Base",
-    "Name": "Monist Moon Temple - Iluminio",
-    "Discoverer": "Spinova",
-    "Glyphs": "21A2A21107FF",
-    "Platform": "NI",
-    "Timestamp": 1719082526000,
-    "Parts": 92,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
     "Name": "Nenosu Colony",
     "Discoverer": "tAlexBlack",
     "Glyphs": "21D7A21107FF",
@@ -791,16 +831,6 @@
   },
   {
     "Category": "Base",
-    "Name": "Monist Moon Temple - Ervinz Fez",
-    "Discoverer": "Spinova_",
-    "Glyphs": "303EA21107FF",
-    "Platform": "PS",
-    "Timestamp": 1720125613000,
-    "Parts": 178,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
     "Name": "Noverian Heights",
     "Discoverer": "ZimmerJ",
     "Glyphs": "305EA21107FF",
@@ -821,12 +851,12 @@
   },
   {
     "Category": "Base",
-    "Name": "Monist Moon Temple - Ledburb",
+    "Name": "Monist Moon Temple - Coolidge",
     "Discoverer": "Spinova",
     "Glyphs": "3150A21107FF",
     "Platform": "NI",
-    "Timestamp": 1719096486000,
-    "Parts": 118,
+    "Timestamp": 1723308982000,
+    "Parts": 124,
     "Gamemode": "Normal"
   },
   {
@@ -871,22 +901,42 @@
   },
   {
     "Category": "Base",
-    "Name": "Monist Moon Temple - Saya",
-    "Discoverer": "Spinova_",
-    "Glyphs": "4055A21107FF",
+    "Name": "Shark Island WIP",
+    "Discoverer": "revivemeplz85",
+    "Glyphs": "405EA21107FF",
     "Platform": "PS",
-    "Timestamp": 1720880527000,
-    "Parts": 346,
+    "Timestamp": 1723045678000,
+    "Parts": 435,
     "Gamemode": "Normal"
   },
   {
     "Category": "Base",
-    "Name": "Plasma Base",
+    "Name": "Arcadia Downtown",
     "Discoverer": "Capn",
     "Glyphs": "405EA21107FF",
     "Platform": "ST",
-    "Timestamp": 1721610655000,
-    "Parts": 370,
+    "Timestamp": 1722774332000,
+    "Parts": 421,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "<VISOR>Jolivi Peninsula Base",
+    "Discoverer": "Episode",
+    "Glyphs": "405EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1722727995000,
+    "Parts": 101,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Krame Outpost",
+    "Discoverer": "RoanonWolfe",
+    "Glyphs": "405EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1722076625000,
+    "Parts": 595,
     "Gamemode": "Normal"
   },
   {
@@ -1051,16 +1101,6 @@
   },
   {
     "Category": "Base",
-    "Name": "Shark Island WIP",
-    "Discoverer": "revivemeplz85",
-    "Glyphs": "405EA21107FF",
-    "Platform": "PS",
-    "Timestamp": 1711244617000,
-    "Parts": 430,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
     "Name": "My Base No 2",
     "Discoverer": "CraZy HorSe",
     "Glyphs": "405EA21107FF",
@@ -1101,36 +1141,6 @@
   },
   {
     "Category": "Base",
-    "Name": "Tower",
-    "Discoverer": "VedDovah",
-    "Glyphs": "405EA21107FF",
-    "Platform": "PS",
-    "Timestamp": 1709680855000,
-    "Parts": 447,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
-    "Name": "Monist Moon Temple - Tutayg VII",
-    "Discoverer": "Spinova",
-    "Glyphs": "4074A21107FF",
-    "Platform": "NI",
-    "Timestamp": 1718574275000,
-    "Parts": 107,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
-    "Name": "Monist Moon Temple - Hakyama",
-    "Discoverer": "Spinova_",
-    "Glyphs": "40F8A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1720280043000,
-    "Parts": 196,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
     "Name": "Monist Moon Temple - Lisigan",
     "Discoverer": "Spinova",
     "Glyphs": "4111A21107FF",
@@ -1147,16 +1157,6 @@
     "Platform": "PS",
     "Timestamp": 1720227359000,
     "Parts": 236,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
-    "Name": "Monist Moon Temple - Seve",
-    "Discoverer": "Spinova",
-    "Glyphs": "4155A21107FF",
-    "Platform": "NI",
-    "Timestamp": 1718570372000,
-    "Parts": 166,
     "Gamemode": "Normal"
   },
   {
@@ -1261,12 +1261,12 @@
   },
   {
     "Category": "Base",
-    "Name": "Monist Moon Temple - Owstockh Prime",
+    "Name": "Monist Moon Temple - Mappo",
     "Discoverer": "Spinova_",
-    "Glyphs": "5211A21107FF",
+    "Glyphs": "6053A21107FF",
     "Platform": "PS",
-    "Timestamp": 1720137252000,
-    "Parts": 164,
+    "Timestamp": 1722392362000,
+    "Parts": 226,
     "Gamemode": "Normal"
   },
   {
@@ -1395,8 +1395,8 @@
     "Discoverer": "Spinova_",
     "Glyphs": "2192A21107FE",
     "Platform": "PS",
-    "Timestamp": 1721608072000,
-    "Parts": 1338,
+    "Timestamp": 1722792165000,
+    "Parts": 1444,
     "Gamemode": "Normal"
   },
   {
@@ -1511,6 +1511,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Asanga",
+    "Discoverer": "Spinova",
+    "Glyphs": "41E1A21107FE",
+    "Platform": "NI",
+    "Timestamp": 1722831341000,
+    "Parts": 200,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Garlemald",
     "Discoverer": "Landulf",
     "Glyphs": "41EAA21107FE",
@@ -1557,16 +1567,6 @@
     "Platform": "ST",
     "Timestamp": 1706593038000,
     "Parts": 136,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
-    "Name": "Nb 2 Autofago Cobre",
-    "Discoverer": "tenaus",
-    "Glyphs": "60F6A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1703808947000,
-    "Parts": 90,
     "Gamemode": "Normal"
   },
   {
@@ -1677,6 +1677,16 @@
     "Platform": "ST",
     "Timestamp": 1716404616000,
     "Parts": 146,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Escape Goat",
+    "Discoverer": "Spinova_",
+    "Glyphs": "4095A21117FE",
+    "Platform": "PS",
+    "Timestamp": 1723163906000,
+    "Parts": 177,
     "Gamemode": "Normal"
   },
   {

@@ -111,6 +111,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Greensboro",
+    "Discoverer": "Spinova_",
+    "Glyphs": "4160A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1722819780000,
+    "Parts": 172,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Monist Moon Monestary - Arnem",
     "Discoverer": "Spinova",
     "Glyphs": "504AA11127FF",
