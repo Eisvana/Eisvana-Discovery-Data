@@ -15,7 +15,7 @@
   "devDependencies": {
     "@quasar/extras": "^1.16.12",
     "@quasar/vite-plugin": "^1.7.0",
-    "@types/node": "^22.2.0",
+    "@types/node": "^22.3.0",
     "@vitejs/plugin-vue": "^5.1.2",
     "@vueuse/core": "^10.11.1",
     "pinia": "^2.2.1",
