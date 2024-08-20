@@ -5,7 +5,7 @@ import { useDataStore } from '@/stores/data';
 import type { DiscoveryCategories, DiscoveryData } from '@/types/data';
 import type { Platform } from '@/types/platform';
 import { storeToRefs } from 'pinia';
-import { computed, ref, reactive } from 'vue';
+import { computed, ref, reactive, watch } from 'vue';
 import { format, type QTableColumn } from 'quasar';
 import type { PaginationObject } from '@/types/pagination';
 import { rowsPerPage } from '@/variables/pagination';
@@ -26,6 +26,9 @@ const pagination = ref<PaginationObject>({
   page: 1,
   rowsPerPage: 50,
 });
+
+// go to first page on every load event
+watch(isLoading, () => (pagination.value.page = 1));
 
 const currentItems = computed(() => {
   const { rowsPerPage, page } = pagination.value;
