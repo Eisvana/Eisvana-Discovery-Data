@@ -1,30 +1,15 @@
 <script setup lang="ts">
-import GalaxySwitches from './GalaxySwitches.vue';
 import ColumnFilter from './ColumnFilter.vue';
 import ActionButtons from '../ActionButtons.vue';
-import { useFilterStore } from '@/stores/filter';
-import { storeToRefs } from 'pinia';
 import RegionFilter from './RegionFilter.vue';
-
-const filterStore = useFilterStore();
-const { activeHubs } = storeToRefs(filterStore);
+import CategoryFilter from './CategoryFilter.vue';
 </script>
 
 <template>
-  <form @submit.prevent>
-    <GalaxySwitches />
-    <ColumnFilter />
-    <RegionFilter
-      v-for="hub in activeHubs"
-      :hub="hub"
-      :key="hub"
-    />
-    <ActionButtons />
-  </form>
+  <QForm class="q-mb-sm q-gutter-xs">
+    <CategoryFilter class="full-width shadow-1" />
+    <ColumnFilter class="full-width shadow-1" />
+    <RegionFilter class="full-width shadow-1" />
+    <ActionButtons class="full-width" />
+  </QForm>
 </template>
-
-<style scoped lang="scss">
-:deep(legend) {
-  display: none;
-}
-</style>

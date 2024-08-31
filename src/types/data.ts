@@ -1,39 +1,103 @@
-import type { Orders } from "@/objects/mappings";
+import type { categoryMapping, platformMapping } from '@/variables/mappings';
+import type { Platform } from './platform';
 
-export type Platform = 'ST' | 'PS' | 'XB' | 'GX' | 'NI';
+export type DiscoveryCategories = keyof typeof categoryMapping;
+
+export type PlatformLabels = (typeof platformMapping)[keyof typeof platformMapping]['label'];
 
 export interface DiscoveryData {
+  Category: DiscoveryCategories;
   Name: string;
   Glyphs: string;
   Discoverer: string;
   Platform: Platform;
-  Timestamp: string;
-  UnixTimestamp: number;
-  'Correctly Tagged': boolean;
-  galaxy: 'Euclid' | 'Calypso' | 'Eissentam';
+  Timestamp: number;
+  'Correctly Prefixed'?: boolean;
+  Planets?: number;
+  Bases?: number;
+  Settlements?: number;
+  Flora?: number;
+  Fauna?: number;
+  Minerals?: number;
+  Parts?: number;
+  Gamemode?: string;
 }
 
-export type Hub = 'GHub' | 'CalHub' | 'EisHub';
+export type PartialDiscoveryCategoryNumbers = Partial<Record<DiscoveryCategories, number>>;
 
-export interface Sorting {
-  col: number;
-  order: Orders
+interface BaseDiscoveryObject {
+  discoveries: number;
+  tags: number;
+  mistags: number;
 }
 
-export interface TableHeadings {
-  normal?: string[];
-  sortable?: string[];
-}
+export type DiscovererDataArray = PartialDiscoveryCategoryNumbers &
+  BaseDiscoveryObject & {
+    name: string;
+  };
 
 export interface DiscovererData {
-  [key: string]: {
-    discoveries: number;
-    tags: number;
+  [name: string]: Omit<DiscovererDataArray, 'name'>;
+}
+
+export type PlatformDataArray = PartialDiscoveryCategoryNumbers &
+  BaseDiscoveryObject & {
+    platform: Platform;
+  };
+
+export type TimestampDataArray = PartialDiscoveryCategoryNumbers &
+  BaseDiscoveryObject & {
+    ts: string;
+  };
+
+export interface TimestampData {
+  [ts: string]: Omit<TimestampDataArray, 'ts'>;
+}
+
+type PartialPlatformDiscoveryNumbers = Partial<Record<Platform, number>>;
+
+export type TimeTrackingCategories = 'individual' | 'accumulated';
+
+export type TimestampPlatformData = {
+  [ts: string]: Record<TimeTrackingCategories, PartialPlatformDiscoveryNumbers>;
+};
+
+export interface PlayerPaginationData {
+  name: string;
+  colour: string;
+  discoveries: number;
+}
+
+export interface PlayerDiscoveryNumbers {
+  [ts: string]: {
+    [name: string]: Pick<PlayerPaginationData, 'colour'> & Record<TimeTrackingCategories, number>;
   };
 }
 
-export interface DiscovererDataArray {
-  name: string;
+export type PlanetDetails = Partial<Record<DiscoveryCategories, DiscoveryData[]>>;
+
+export interface BaseDiscovererData {
+  platform?: string;
+  players?: number;
+  discoverer?: string;
   discoveries: number;
-  tags: number;
+  systems: number;
+  discPercent: number;
+  tagged: number;
+  taggedPercent: number;
+  taggedPercentSelf: number;
+}
+
+export interface DiscovererDataObject {
+  [key: string]: BaseDiscovererData;
+}
+
+export interface NumberStats {
+  systems: number;
+  systemsNotTagged: number;
+  allProcName: number;
+  systemsProcName: number;
+  discovererNumber: number;
+  avgDiscoverersPerDay: string; // because .toFixed() converts to string
+  systemsDuplicates: [string, number][];
 }

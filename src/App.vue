@@ -1,46 +1,70 @@
 <script setup lang="ts">
+import ThemeSwitch from './components/ThemeSwitch.vue';
+import PageFooter from './components/PageFooter.vue';
 import NavBar from './components/NavBar.vue';
-import FilterInputs from './components/filter/FilterInputs.vue';
-import ResultsCounter from './components/ResultsCounter.vue';
-import { RouterView, RouterLink } from 'vue-router';
-import PageFooter from '@/components/PageFooter.vue';
+import router from './router';
+import { useDataStore } from './stores/data';
+import { storeToRefs } from 'pinia';
+
+const dataStore = useDataStore();
+
+const { isLoading } = storeToRefs(dataStore);
+
+// setting the loading state to true during page transition to prevent expensive computations from delaying the navigation
+router.beforeResolve(() => (isLoading.value = true));
+
+router.afterEach(() => {
+  const transitionDuration = 300;
+  setTimeout(() => (isLoading.value = false), transitionDuration);
+});
 </script>
 
 <template>
-  <header>
-    <NavBar />
-    <h1 class="title">Hub Discovery Data</h1>
-  </header>
+  <QLayout view="hHh LpR fff">
+    <QHeader
+      class="bg-primary text-white"
+      elevated
+    >
+      <QToolbar>
+        <NavBar />
 
-  <main>
-    <FilterInputs />
-    <ResultsCounter />
-    <nav class="subpage-nav">
-      <RouterLink to="/">Table</RouterLink>
-      <RouterLink to="stats">Stats</RouterLink>
-      <RouterLink to="charts">Charts</RouterLink>
-    </nav>
-    <RouterView />
-  </main>
-  <PageFooter />
+        <QSpace class="xs" />
+
+        <QToolbarTitle class="text-center gt-xs">
+          <h1>Eisvana Discovery Data</h1>
+        </QToolbarTitle>
+
+        <ThemeSwitch />
+      </QToolbar>
+      <QToolbar class="xs q-mb-sm mobile-title-bar">
+        <QToolbarTitle class="text-center">
+          <h1>Eisvana Discovery Data</h1>
+        </QToolbarTitle>
+      </QToolbar>
+    </QHeader>
+
+    <QPageContainer>
+      <QPage padding>
+        <RouterView />
+      </QPage>
+    </QPageContainer>
+
+    <QFooter
+      class="bg-grey-8 text-white text-center"
+      elevated
+    >
+      <PageFooter />
+    </QFooter>
+  </QLayout>
 </template>
 
 <style scoped lang="scss">
-.title {
-  margin-block-end: 2rem;
-  text-align: center;
+h1 {
+  all: unset;
 }
 
-.subpage-nav {
-  justify-content: center;
-  gap: 2rem;
-  font-size: larger;
-  margin-block-end: 1rem;
-  flex-wrap: wrap;
-
-  a.router-link-exact-active {
-    color: inherit;
-    pointer-events: none;
-  }
+.mobile-title-bar {
+  min-height: unset;
+  margin-block-start: -0.5rem;
 }
 </style>

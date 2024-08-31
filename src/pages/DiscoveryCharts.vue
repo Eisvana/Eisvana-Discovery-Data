@@ -1,39 +1,90 @@
 <script setup lang="ts">
-import DiscovererChart from '@/components/stats/charts/DiscovererChart.vue';
-import PlatformChart from '@/components/stats/charts/PlatformChart.vue';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
-import TagChart from '@/components/stats/charts/TagChart.vue';
-import DiscoveriesChart from '@/components/stats/charts/DiscoveriesChart.vue';
-import PlayerPlatformChart from '@/components/stats/charts/PlayerPlatformChart.vue';
-import ContributionChart from '@/components/stats/charts/ContributionChart.vue';
-import PlatformTimeChart from '@/components/stats/charts/PlatformTimeChart.vue';
-import PlayerTimeChart from '@/components/stats/charts/PlayerTimeChart.vue';
+import ChartDropdown from '@/components/ChartDropdown.vue';
+import DiscovererChart from '@/components/charts/DiscovererChart.vue';
+import PlatformChart from '@/components/charts/PlatformChart.vue';
+import TagChart from '@/components/charts/TagChart.vue';
+import DiscoveriesChart from '@/components/charts/DiscoveriesChart.vue';
+import PlayerPlatformChart from '@/components/charts/PlayerPlatformChart.vue';
+import ContributionChart from '@/components/charts/ContributionChart.vue';
+import PlatformTimeChart from '@/components/charts/PlatformTimeChart.vue';
+import PlayerTimeChart from '@/components/charts/PlayerTimeChart.vue';
+import DiscoveryTypes from '@/components/charts/DiscoveryTypes.vue';
 
 const dataStore = useDataStore();
-const { filteredData } = storeToRefs(dataStore);
+const { dataLength } = storeToRefs(dataStore);
+
+const group = 'chart';
 </script>
 
 <template>
-  <p class="freeze-warning">Charting data over time can freeze the page for multiple seconds!</p>
+  <p class="text-center text-body2">Charting data over time can freeze the page for multiple seconds!</p>
   <div
-    v-if="filteredData.length"
-    class="stats-wrapper"
+    v-if="dataLength"
+    class="column"
   >
-    <DiscovererChart />
-    <PlatformChart />
-    <TagChart />
-    <DiscoveriesChart />
-    <PlayerPlatformChart />
-    <ContributionChart />
-    <PlatformTimeChart />
-    <PlayerTimeChart />
+    <ChartDropdown
+      :group
+      summary="Discoveries per Player"
+    >
+      <DiscovererChart />
+    </ChartDropdown>
+
+    <ChartDropdown
+      :group
+      summary="Discoveries per Category"
+    >
+      <DiscoveryTypes />
+    </ChartDropdown>
+
+    <ChartDropdown
+      :group
+      summary="Discoveries per Platform"
+    >
+      <PlatformChart />
+    </ChartDropdown>
+
+    <ChartDropdown
+      :group
+      summary="Discoveries per Day"
+    >
+      <TagChart />
+    </ChartDropdown>
+
+    <ChartDropdown
+      :group
+      summary="Discoveries over Time"
+    >
+      <DiscoveriesChart />
+    </ChartDropdown>
+
+    <ChartDropdown
+      :group
+      summary="Players per Platform"
+    >
+      <PlayerPlatformChart />
+    </ChartDropdown>
+
+    <ChartDropdown
+      :group
+      summary="Average Discoveries"
+    >
+      <ContributionChart />
+    </ChartDropdown>
+
+    <ChartDropdown
+      :group
+      summary="Platforms over Time"
+    >
+      <PlatformTimeChart />
+    </ChartDropdown>
+
+    <ChartDropdown
+      :group
+      summary="Players over Time"
+    >
+      <PlayerTimeChart />
+    </ChartDropdown>
   </div>
 </template>
-
-<style scoped lang="scss">
-.freeze-warning{
-  text-align: center;
-  font-size: initial;
-}
-</style>

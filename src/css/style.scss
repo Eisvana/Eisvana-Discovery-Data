@@ -5,71 +5,12 @@
     url('./fonts/NMS-Glyphs-Mono.ttf') format('truetype');
 }
 
-@font-face {
-  font-family: 'NMS-Glyphs-Tight';
-  src:
-    local('NMS-Glyphs-Tight'),
-    url('./fonts/NMS-Glyphs-Tight.ttf') format('truetype');
-}
-
 .glyphs {
-  font-family: NMS-Glyphs-Tight;
+  font-family: NMS-Glyphs-Mono;
   font-size: 2rem;
   vertical-align: sub;
-}
-
-.container {
-  margin-block-start: 1rem;
-  margin-block-end: 5rem;
-}
-
-html,
-body {
-  scrollbar-gutter: stable;
-}
-
-.table-header {
-  font-weight: bold;
-  border-block-end: 1px solid var(--color);
-  padding-block-end: 0.25rem;
-  padding-block-start: 0.5rem;
-  position: sticky;
-  top: 0;
-  background-color: var(--background-color);
-  white-space: pre;
-  align-self: auto !important;
-
-  &.sortable {
-    display: flex;
-    cursor: pointer;
-
-    &:after {
-      content: '';
-      margin-block-start: 0.5rem;
-      margin-inline-start: 0.15rem;
-      border-width: 4px 4px 0;
-      border-style: solid;
-      border-color: var(--color) transparent;
-      visibility: hidden;
-      user-select: none;
-      height: min-content;
-    }
-
-    &[aria-sort='ascending']:after {
-      border-top: none;
-      border-width: 0 4px 4px;
-    }
-
-    &[aria-sort]:after {
-      visibility: visible;
-      opacity: 0.6;
-    }
-
-    &:hover:after {
-      visibility: visible;
-      opacity: 1;
-    }
-  }
+  line-height: initial;
+  letter-spacing: -6px;
 }
 
 .stat-grid {
@@ -79,19 +20,45 @@ body {
   & > * {
     align-self: center;
   }
+
+  &.dynamic-cols {
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  }
 }
 
-details[open] {
-  width: 100%;
+.number-stats-wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  gap: 0.5rem 1rem;
+  width: fit-content;
 }
 
-.stats-wrapper {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  gap: 2rem;
+// this cannot be done with text-bold because of specificity
+.table-header th {
+  font-weight: bold;
+}
 
-  & > * {
-    flex-grow: 1;
+.chart {
+  max-height: 600px;
+}
+
+.select-min-width {
+  min-width: 150px;
+}
+
+// link colours copied from Pico CSS
+.body--light .link-colour {
+  color: rgb(1, 114, 173);
+
+  &:hover {
+    color: rgb(1, 88, 135);
+  }
+}
+
+.body--dark .link-colour {
+  color: rgb(1, 170, 255);
+
+  &:hover {
+    color: rgb(121, 192, 255);
   }
 }

@@ -1,23 +1,25 @@
 <script setup lang="ts">
-// determine preferred theme and update the html element with the respective tag
-const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-switchTheme(prefersDark ? 'dark' : 'light');
+import { Dark } from 'quasar';
 
-function switchTheme(theme: string | null = null) {
-  const currentTheme = document.documentElement.dataset.theme;
-  const computedNewTheme = currentTheme == 'dark' ? 'light' : 'dark';
-  const newTheme = theme ?? computedNewTheme;
-  document.documentElement.dataset.theme = newTheme;
+const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+const localStorageData = localStorage.getItem('theme');
+const initialTheme = (localStorageData ?? prefersDark.toString()) === 'true'; // true = dark; false = light
+switchTheme(initialTheme);
+
+function switchTheme(theme?: boolean) {
+  const newTheme = theme ?? !Dark.mode;
+  Dark.set(newTheme);
+  localStorage.setItem('theme', newTheme.toString());
 }
 </script>
 
 <template>
-  <button
-    role="button"
-    class="themeswitcher"
-    id="themeSwitch"
+  <QBtn
+    icon="settings_brightness"
+    title="Switch Theme"
+    flat
+    fab
     @click="switchTheme()"
   >
-    Switch Theme
-  </button>
+  </QBtn>
 </template>
