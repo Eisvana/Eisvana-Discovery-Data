@@ -103,7 +103,7 @@ function applyFilter(
     if (!isValidPlatform) return false;
 
     const isValidTagged =
-      tagged === '' || (tagged && item['Correctly Prefixed']) || (!tagged && !item['Correctly Prefixed']);
+      tagged === '' || (tagged && item['Correctly Prefixed']) || (!tagged && item['Correctly Prefixed'] === false);
 
     if (!isValidTagged) return false;
 
