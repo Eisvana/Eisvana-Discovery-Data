@@ -12,20 +12,23 @@ const { name: tab } = toRefs(route);
   <FilterInputs />
   <ResultsCounter />
   <nav>
-    <QTabs class="subpage-nav link-colour">
+    <QTabs class="subpage-nav">
       <QRouteTab
+        class="link-colour"
         name="table"
         to="/"
         exact
         >Table</QRouteTab
       >
       <QRouteTab
+        class="link-colour"
         name="stats"
         to="/stats"
         exact
         >Stats</QRouteTab
       >
       <QRouteTab
+        class="link-colour"
         name="charts"
         to="/charts"
         exact
