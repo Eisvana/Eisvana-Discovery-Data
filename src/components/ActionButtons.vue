@@ -2,161 +2,139 @@
 import { useDataStore } from '@/stores/data';
 import { useFilterStore } from '@/stores/filter';
 import type { DiscoveryData } from '@/types/data';
+import type { FilterConfig, LoaderWorkerMessage, LoaderWorkerResponse } from '@/types/worker';
 import { storeToRefs } from 'pinia';
-import { ref } from 'vue';
-import regions from '@/assets/regions.json';
+import { onMounted, ref, toRaw, watchEffect } from 'vue';
+import DataLoaderWorker from '@/worker/dataLoaderWorker?worker';
 
-const filterStore = useFilterStore();
 const dataStore = useDataStore();
+const filterStore = useFilterStore();
 
-const { unixTimestamp, tagged, intersections, searchTerms, caseSensitivity, activeRegions, activePlatforms } =
-  storeToRefs(filterStore);
-const { filteredData } = storeToRefs(dataStore);
+const {
+  unixTimestamp,
+  tagged,
+  procName,
+  intersections,
+  searchTerms,
+  caseSensitivity,
+  sortedCategories,
+  platforms,
+  sortedRegions,
+} = storeToRefs(filterStore);
+const { filteredData, isLoading } = storeToRefs(dataStore);
 
-const isLoading = ref(false);
+const temporaryData = ref<DiscoveryData[][]>([]);
 
-const resetStore = () => {
-  filterStore.$reset();
-  filteredData.value = [];
-  const event = new Event('reset');
-  document.dispatchEvent(event);
-};
+const workers: Worker[] = [];
+
+watchEffect(() => {
+  const newData = temporaryData.value.flat();
+  if (isLoading.value && !newData.length) return;
+  filteredData.value = newData;
+});
+
+/*
+I hate this.
+This was done because we now have the `Apply Filter` button.
+Since I don't want to `emit()` all the way to the App component, the loading logic is here.
+Why not as a store action? Because that would be hard as well, given the watchers and stuff we have here (see watcher above).
+Custom DOM events would have worked, but I usually try to avoid them when using a framework.
+We want the data to load on pageload though. So we use `onMounted()`.
+This would also trigger on navigation from a view page though (like system and planet overview pages).
+But for these navigations, the `filteredData` array is not empty. On pageload, it is empty.
+But because of the watcher above and the fake loading on route change, it would result in the data being blanked on route navigation from a view page.
+So the `temporaryData` array must not be empty on these navigations. And we do that by copying the current `fileredData` array into it.
+*/
+onMounted(() => {
+  temporaryData.value = [filteredData.value];
+  if (!filteredData.value.length) loadData();
+});
 
 async function loadData() {
-  isLoading.value = true;
-  try {
-    const { default: importedData } = await import(`../assets/eisvana.json`);
+  return new Promise<void>((resolve, reject) => {
+    workers.forEach((worker) => worker.terminate());
+    workers.length = 0;
 
-    const json: DiscoveryData[] = importedData as DiscoveryData[];
+    isLoading.value = true;
+    filterStore.applyFilter();
 
-    filteredData.value = applyFilter(json);
-  } catch (error) {
-    console.warn(error);
-  } finally {
-    isLoading.value = false;
-  }
+    const reactiveFilterData = {
+      regions: sortedRegions,
+      unixTimestamp,
+      tagged,
+      procName,
+      intersections,
+      searchTerms,
+      caseSensitivity,
+      platforms,
+    };
+
+    const filterDataArray = Object.entries(reactiveFilterData).map((item) => [item[0], toRaw(item[1].value)]);
+    const filterConfig: FilterConfig = Object.fromEntries(filterDataArray);
+
+    const workerMessage: LoaderWorkerMessage = {
+      categories: toRaw(sortedCategories.value),
+      filterConfig,
+    };
+
+    const dataLoaderWorker = new DataLoaderWorker();
+    workers.push(dataLoaderWorker);
+    dataLoaderWorker.postMessage(workerMessage);
+    dataLoaderWorker.onmessage = ({ data: responseData }: MessageEvent<LoaderWorkerResponse>) => {
+      const { status } = responseData;
+      switch (status) {
+        case 'initialised':
+          temporaryData.value = responseData.data;
+          break;
+
+        case 'running':
+          temporaryData.value[responseData.index] = responseData.data;
+          break;
+
+        case 'finished':
+          isLoading.value = false;
+          workers.length = 0;
+          resolve();
+          break;
+
+        case 'error':
+          console.warn(responseData.data);
+          reject(responseData.data);
+          break;
+      }
+    };
+  });
 }
 
-function applyFilter(data: DiscoveryData[]) {
-  const { startDate = 0, endDate = 0 } = unixTimestamp.value;
-
-  const regionData = activeRegions.value.map((item) => searchRegion(item));
-
-  // handle case sensitivity option
-  const searchName = caseSensitivity.value.name ? searchTerms.value.name : searchTerms.value.name.toLowerCase();
-  const searchDiscoverer = caseSensitivity.value.discoverer
-    ? searchTerms.value.discoverer
-    : searchTerms.value.discoverer.toLowerCase();
-
-  // shorten variable names
-  const intersectionName = intersections.value.name;
-  const intersectionGlyphs = intersections.value.glyphs;
-  const intersectionDiscoverer = intersections.value.discoverer;
-  const searchGlyphs = searchTerms.value.glyphs.slice(1).toUpperCase();
-
-  function filterFunc(item: DiscoveryData) {
-    // handle case sensitivity option
-    const itemName = caseSensitivity.value.name ? item.Name : item.Name.toLowerCase();
-    const itemDiscoverer = caseSensitivity.value.discoverer ? item.Discoverer : item.Discoverer.toLowerCase();
-
-    // shorten variable names
-    const itemGlyphs = item.Glyphs.slice(1);
-
-    // begin filtering
-    const dayInMs = 86400000;
-    const isValidDate =
-      (!startDate && !endDate) ||
-      (startDate < item.UnixTimestamp && item.UnixTimestamp < endDate + dayInMs) ||
-      (startDate < item.UnixTimestamp && !endDate) ||
-      (!startDate && item.UnixTimestamp < endDate + dayInMs);
-
-    if (!isValidDate) return false;
-
-    const isValidPlatform =
-      (!activePlatforms.value.length && !item.Platform) || activePlatforms.value.includes(item.Platform);
-
-    if (!isValidPlatform) return false;
-
-    const isValidTagged =
-      tagged.value === '' ||
-      (tagged.value && item['Correctly Prefixed']) ||
-      (!tagged.value && !item['Correctly Prefixed']);
-
-    if (!isValidTagged) return false;
-
-    const isValidName =
-      !searchName ||
-      (intersectionName === 'includes' && itemName.includes(searchName)) ||
-      (intersectionName === 'is' && itemName === searchName) ||
-      (intersectionName === '!includes' && !itemName.includes(searchName)) ||
-      (intersectionName === '!is' && itemName !== searchName);
-
-    if (!isValidName) return false;
-
-    const isValidGlyphs =
-      !searchGlyphs ||
-      (intersectionGlyphs === 'includes' && itemGlyphs.includes(searchGlyphs)) ||
-      (intersectionGlyphs === 'is' && itemGlyphs === searchGlyphs) ||
-      (intersectionGlyphs === '!includes' && !itemGlyphs.includes(searchGlyphs)) ||
-      (intersectionGlyphs === '!is' && itemGlyphs !== searchGlyphs);
-
-    if (!isValidGlyphs) return false;
-
-    const isValidDiscoverer =
-      !searchDiscoverer ||
-      (intersectionDiscoverer === 'includes' && itemDiscoverer.includes(searchDiscoverer)) ||
-      (intersectionDiscoverer === 'is' && itemDiscoverer === searchDiscoverer) ||
-      (intersectionDiscoverer === '!includes' && !itemDiscoverer.includes(searchDiscoverer)) ||
-      (intersectionDiscoverer === '!is' && itemDiscoverer !== searchDiscoverer);
-
-    if (!isValidDiscoverer) return false;
-
-    const isValidRegion =
-      (!regionData.length && !item.Glyphs) || regionData.some((region) => item.Glyphs.slice(4) === region.regionGlyphs); // NoSonar region glyphs start at index 4
-
-    return isValidRegion;
-  }
-
-  return data.filter(filterFunc);
-}
-
-function searchRegion(region: string) {
-  const regionGlyphs = Object.entries(regions).find((item) => item[1] === region)?.[0] ?? '';
-  return { regionGlyphs };
+function resetFilter() {
+  filterStore.resetStore();
+  loadData();
 }
 </script>
 
 <template>
-  <div class="actions">
-    <button
-      :aria-busy="isLoading"
-      role="button"
-      type="submit"
-      @click="loadData()"
-    >
-      Apply Filter
-    </button>
-
-    <input
-      role="button"
+  <div class="button-wrapper q-mt-sm">
+    <QBtn
+      :loading="isLoading"
+      class="col-grow"
+      color="primary"
+      label="Apply Filter"
+      @click="loadData"
+    />
+    <QBtn
+      class="col-grow"
+      label="Reset Filter"
       type="reset"
-      value="Reset Filter"
-      @click="resetStore"
+      outline
+      @click="resetFilter"
     />
   </div>
 </template>
 
 <style scoped lang="scss">
-.actions {
+.button-wrapper {
   display: flex;
   flex-wrap: wrap;
-  gap: 1rem;
-
-  & > * {
-    flex-basis: content;
-    flex-grow: 1;
-    max-width: 50%;
-  }
+  gap: 0.5rem 1rem;
 }
 </style>
-@/objects/mappings
