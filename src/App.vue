@@ -10,6 +10,7 @@ const dataStore = useDataStore();
 
 const { isLoading } = storeToRefs(dataStore);
 
+// setting the loading state to true during page transition to prevent expensive computations from delaying the navigation
 router.beforeResolve(() => (isLoading.value = true));
 
 router.afterEach(() => {
