@@ -93,6 +93,7 @@ export interface DiscovererDataObject {
 }
 
 export interface NumberStats {
+  systems: number;
   systemsNotTagged: number;
   allProcName: number;
   systemsProcName: number;

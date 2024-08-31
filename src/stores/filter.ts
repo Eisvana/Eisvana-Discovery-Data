@@ -4,11 +4,11 @@ import { regions as allEisvanaRegions } from '@/variables/regions';
 import { availableCategories } from '@/variables/categories';
 import { invertSwitches } from '@/helpers/filter';
 import { categoryMapping } from '@/variables/mappings';
-import { is } from 'quasar';
 import type { DiscoveryCategories } from '@/types/data';
 import { isValidCategory } from '@/helpers/categories';
 import { platformCodes } from '@/variables/platforms';
 import { toRaw } from 'vue';
+import { isObject } from '@/helpers/typeGuards';
 
 interface TextSearch<T> {
   name: T;
@@ -70,7 +70,7 @@ export const useFilterStore = defineStore('filter', {
     unixTimestamp: (state): UnixTimestamp => {
       const dateObj = state.date;
 
-      if (is.object(dateObj)) {
+      if (isObject(dateObj)) {
         // if it's an object, we have a range
         return {
           startDate: new Date(dateObj.from).getTime(),
@@ -91,6 +91,8 @@ export const useFilterStore = defineStore('filter', {
       availableCategories.filter((item) => state.activeFilterSettings.categories.includes(item)),
     sortedRegions: (state) =>
       Object.values(allEisvanaRegions).filter((item) => state.activeFilterSettings.regions.includes(item)),
+    dataHasSystems: (state) => state.activeFilterSettings.categories.includes('SolarSystem'),
+    dataHasOnlySystems: (state) => state.activeFilterSettings.categories.length === 1 && state.activeFilterSettings.categories[0] === 'SolarSystem',
   },
 
   actions: {

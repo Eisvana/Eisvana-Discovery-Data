@@ -13,7 +13,7 @@ const dataStore = useDataStore();
 const { filteredData, amountTagged, dataLength, dateRange } = storeToRefs(dataStore);
 
 const filterStore = useFilterStore();
-const { sortedCategories } = storeToRefs(filterStore);
+const { dataHasSystems, dataHasOnlySystems } = storeToRefs(filterStore);
 
 const differenceInDays = computed(() => {
   if (dateRange.value.some((date) => !date)) return 0;
@@ -29,10 +29,9 @@ const differenceInDays = computed(() => {
   return diffDays;
 });
 
-const dataHasSystems = computed(() => sortedCategories.value.includes('SolarSystem'));
-
 const numberStats = reactiveComputed(() => {
   const resultObj: NumberStats = {
+    systems: 0,
     systemsNotTagged: 0,
     allProcName: 0,
     systemsProcName: 0,
@@ -49,6 +48,9 @@ const numberStats = reactiveComputed(() => {
   // prettier-ignore
   for (let i = 0; i < filteredData.value.length; i++) { // NoSonar this is for better performance
     const item = filteredData.value[i];
+
+    // systems counter
+    if (item.Category === 'SolarSystem') resultObj.systems++;
 
     // not tagged
     if (item['Correctly Prefixed'] === false && item.Name) resultObj.systemsNotTagged++;
@@ -90,17 +92,24 @@ const numberStats = reactiveComputed(() => {
   return resultObj;
 });
 
-const { systemsNotTagged, systemsProcName, allProcName, discovererNumber, avgDiscoverersPerDay, systemsDuplicates } =
-  toRefs(numberStats);
+const {
+  systems,
+  systemsNotTagged,
+  systemsProcName,
+  allProcName,
+  discovererNumber,
+  avgDiscoverersPerDay,
+  systemsDuplicates,
+} = toRefs(numberStats);
 
 // tagged
-const systemsTaggedPercent = computed(() => getPercentage(amountTagged.value, dataLength.value));
+const systemsTaggedPercent = computed(() => getPercentage(amountTagged.value, systems.value));
 
 // not tagged
-const systemsNotTaggedPercent = computed(() => getPercentage(systemsNotTagged.value, dataLength.value));
+const systemsNotTaggedPercent = computed(() => getPercentage(systemsNotTagged.value, systems.value));
 
 // proc name system
-const systemsProcNamePercent = computed(() => getPercentage(systemsProcName.value, dataLength.value));
+const systemsProcNamePercent = computed(() => getPercentage(systemsProcName.value, systems.value));
 
 // proc name all
 const allProcNamePercent = computed(() => getPercentage(allProcName.value, dataLength.value));
@@ -133,12 +142,14 @@ const getDate = (dateString: string | undefined) => (dateString ? getFormattedUT
   >
     <div class="number-stats-wrapper q-px-md q-mt-sm">
       <template v-if="dataHasSystems">
-        <div>Tagged:</div>
+        <div>Systems correctly named:</div>
         <div>{{ amountTagged }} ({{ systemsTaggedPercent }}%)</div>
-        <div>Not/incorrectly prefixed:</div>
+        <div>Not/incorrectly named:</div>
         <div>{{ systemsNotTagged }} ({{ systemsNotTaggedPercent }}%)</div>
-        <div>Procedural name systems:</div>
-        <div>{{ systemsProcName }} ({{ systemsProcNamePercent }}%)</div>
+        <template v-if="!dataHasOnlySystems">
+          <div>Procedural name systems:</div>
+          <div>{{ systemsProcName }} ({{ systemsProcNamePercent }}%)</div>
+        </template>
       </template>
       <div>Procedural name:</div>
       <div>{{ allProcName }} ({{ allProcNamePercent }}%)</div>
