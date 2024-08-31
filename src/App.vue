@@ -35,7 +35,7 @@ router.afterEach(() => {
 
         <ThemeSwitch />
       </QToolbar>
-      <QToolbar class="xs">
+      <QToolbar class="xs q-mb-sm mobile-title-bar">
         <QToolbarTitle class="text-center">
           <h1>Eisvana Discovery Data</h1>
         </QToolbarTitle>
@@ -60,5 +60,10 @@ router.afterEach(() => {
 <style scoped lang="scss">
 h1 {
   all: unset;
+}
+
+.mobile-title-bar {
+  min-height: unset;
+  margin-block-start: -0.5rem;
 }
 </style>
