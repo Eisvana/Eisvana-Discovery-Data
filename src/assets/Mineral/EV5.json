@@ -5698,6 +5698,38 @@
   {
     "Category": "Mineral",
     "Name": "",
+    "Discoverer": "DaedalusR",
+    "Glyphs": "2059A21107FF",
+    "Platform": "NI",
+    "Timestamp": 1723580447000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "DaedalusR",
+    "Glyphs": "2059A21107FF",
+    "Platform": "NI",
+    "Timestamp": 1723580472000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "DaedalusR",
+    "Glyphs": "2059A21107FF",
+    "Platform": "NI",
+    "Timestamp": 1723580527000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "DaedalusR",
+    "Glyphs": "2059A21107FF",
+    "Platform": "NI",
+    "Timestamp": 1723580529000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "205EA21107FF",
     "Platform": "ST",
@@ -7646,6 +7678,14 @@
     "Glyphs": "301BA21107FF",
     "Platform": "PS",
     "Timestamp": 1705471376000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "301BA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1724206398000
   },
   {
     "Category": "Mineral",

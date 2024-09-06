@@ -81,12 +81,12 @@
   },
   {
     "Category": "Base",
-    "Name": "Monist Moon Temple - Budai",
+    "Name": "Monist Moon Temple - Nemesis",
     "Discoverer": "Spinova_",
     "Glyphs": "219EA21117FF",
     "Platform": "PS",
-    "Timestamp": 1721450102000,
-    "Parts": 150,
+    "Timestamp": 1725115482000,
+    "Parts": 171,
     "Gamemode": "Normal"
   },
   {
@@ -187,16 +187,6 @@
     "Platform": "NI",
     "Timestamp": 1719619097000,
     "Parts": 153,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
-    "Name": "Monist Moon Temple - Pali",
-    "Discoverer": "Spinova",
-    "Glyphs": "501EA21117FF",
-    "Platform": "NI",
-    "Timestamp": 1723119402000,
-    "Parts": 325,
     "Gamemode": "Normal"
   },
   {

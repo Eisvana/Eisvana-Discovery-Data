@@ -548,6 +548,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "1032A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1724521503000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "Damalvina",
     "Glyphs": "1034A21107FF",
     "Platform": "ST",
@@ -1008,10 +1021,10 @@
     "Platform": "ST",
     "Timestamp": 1699045888000,
     "Fauna": 11,
-    "Flora": 32,
+    "Flora": 33,
     "Minerals": 16,
     "Settlements": 0,
-    "Bases": 0
+    "Bases": 1
   },
   {
     "Category": "Planet",
@@ -1465,6 +1478,19 @@
     "Fauna": 6,
     "Flora": 6,
     "Minerals": 9,
+    "Settlements": 0,
+    "Bases": 1
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "108DA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1724522503000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
     "Settlements": 0,
     "Bases": 0
   },
@@ -3459,6 +3485,19 @@
   },
   {
     "Category": "Planet",
+    "Name": "Suess",
+    "Discoverer": "Spinova_",
+    "Glyphs": "1184A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1723510302000,
+    "Fauna": 3,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "1185A21107FF",
@@ -3589,6 +3628,19 @@
   },
   {
     "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "1195A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1723994242000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
     "Name": "Cocobush",
     "Discoverer": "YucaFrita",
     "Glyphs": "1196A21107FF",
@@ -3711,6 +3763,19 @@
     "Glyphs": "11A2A21107FF",
     "Platform": "ST",
     "Timestamp": 1705709227000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "Ein Sof",
+    "Discoverer": "Spinova_",
+    "Glyphs": "11A3A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1723915243000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -5141,7 +5206,7 @@
     "Glyphs": "2020A21107FF",
     "Platform": "PS",
     "Timestamp": 1723159577000,
-    "Fauna": 4,
+    "Fauna": 6,
     "Flora": 0,
     "Minerals": 0,
     "Settlements": 0,
@@ -5297,6 +5362,19 @@
     "Glyphs": "2031A21107FF",
     "Platform": "ST",
     "Timestamp": 1702900301000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "Triceratopia",
+    "Discoverer": "Mr.Barnicle",
+    "Glyphs": "2032A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1723940825000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -5688,8 +5766,8 @@
     "Platform": "ST",
     "Timestamp": 1699191088000,
     "Fauna": 11,
-    "Flora": 10,
-    "Minerals": 9,
+    "Flora": 20,
+    "Minerals": 13,
     "Settlements": 0,
     "Bases": 0
   },
@@ -5730,7 +5808,7 @@
     "Flora": 30,
     "Minerals": 19,
     "Settlements": 0,
-    "Bases": 6
+    "Bases": 7
   },
   {
     "Category": "Planet",
@@ -8334,6 +8412,19 @@
   },
   {
     "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "2195A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1723994249000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
     "Name": "Totimang",
     "Discoverer": "YucaFrita",
     "Glyphs": "2196A21107FF",
@@ -8443,6 +8534,19 @@
     "Glyphs": "21A2A21107FF",
     "Platform": "ST",
     "Timestamp": 1705710057000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "Mekubbal",
+    "Discoverer": "Spinova_",
+    "Glyphs": "21A3A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1723915305000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -9745,7 +9849,7 @@
     "Timestamp": 1700918221000,
     "Fauna": 6,
     "Flora": 8,
-    "Minerals": 11,
+    "Minerals": 12,
     "Settlements": 0,
     "Bases": 1
   },
@@ -10072,7 +10176,7 @@
     "Flora": 0,
     "Minerals": 0,
     "Settlements": 0,
-    "Bases": 1
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -10519,6 +10623,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "3069A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1724599940000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "RedFalcons-MDX",
     "Glyphs": "306AA21107FF",
     "Platform": "ST",
@@ -10862,6 +10979,19 @@
     "Platform": "ST",
     "Timestamp": 1721746133000,
     "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "308DA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1724521858000,
+    "Fauna": 5,
     "Flora": 0,
     "Minerals": 0,
     "Settlements": 0,
@@ -12573,6 +12703,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "3184A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1723915367000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "3185A21107FF",
     "Platform": "XB",
@@ -12703,6 +12846,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "3195A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1723994254000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "cassiddidy",
     "Glyphs": "3198A21107FF",
     "Platform": "PS",
@@ -12790,6 +12946,19 @@
     "Minerals": 0,
     "Settlements": 0,
     "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "Zohar",
+    "Discoverer": "Spinova_",
+    "Glyphs": "31A3A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1723915046000,
+    "Fauna": 4,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 1
   },
   {
     "Category": "Planet",
@@ -13815,7 +13984,7 @@
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
-    "Settlements": 0,
+    "Settlements": 1,
     "Bases": 0
   },
   {
@@ -14480,6 +14649,19 @@
     "Minerals": 0,
     "Settlements": 0,
     "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "Ragus",
+    "Discoverer": "Mr.Barnicle",
+    "Glyphs": "404FA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1723936503000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 1
   },
   {
     "Category": "Planet",
@@ -16473,6 +16655,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "4184A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1723915375000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "4185A21107FF",
     "Platform": "XB",
@@ -16555,6 +16750,19 @@
     "Glyphs": "4193A21107FF",
     "Platform": "XB",
     "Timestamp": 1721881209000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "4195A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1723994264000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -16659,6 +16867,19 @@
     "Glyphs": "41A2A21107FF",
     "Platform": "ST",
     "Timestamp": 1705710734000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "41A3A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1723915409000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -17819,6 +18040,19 @@
     "Fauna": 5,
     "Flora": 9,
     "Minerals": 9,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "RedFalcons-317",
+    "Glyphs": "5032A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1724521522000,
+    "Fauna": 7,
+    "Flora": 0,
+    "Minerals": 0,
     "Settlements": 0,
     "Bases": 0
   },
@@ -19788,6 +20022,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "5195A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1723994272000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "cassiddidy",
     "Glyphs": "5198A21107FF",
     "Platform": "PS",
@@ -19831,6 +20078,19 @@
     "Glyphs": "51A2A21107FF",
     "Platform": "ST",
     "Timestamp": 1705711277000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "51A3A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1723915416000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -22115,6 +22375,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "6184A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1723915382000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "6185A21107FF",
     "Platform": "XB",
@@ -22132,6 +22405,19 @@
     "Glyphs": "6187A21107FF",
     "Platform": "PS",
     "Timestamp": 1697686963000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "6195A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1723994280000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -22171,6 +22457,19 @@
     "Glyphs": "619EA21107FF",
     "Platform": "ST",
     "Timestamp": 1699777268000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "61A3A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1723915421000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,

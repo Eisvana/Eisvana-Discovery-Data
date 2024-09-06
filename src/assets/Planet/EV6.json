@@ -1119,6 +1119,19 @@
   },
   {
     "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Cr4ckHorse",
+    "Glyphs": "1064A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1725047606000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
     "Name": "Jojalmor",
     "Discoverer": "YucaFrita",
     "Glyphs": "1065A21107FE",
@@ -1267,9 +1280,9 @@
     "Glyphs": "1073A21107FE",
     "Platform": "ST",
     "Timestamp": 1721625519000,
-    "Fauna": 0,
-    "Flora": 0,
-    "Minerals": 0,
+    "Fauna": 5,
+    "Flora": 6,
+    "Minerals": 4,
     "Settlements": 0,
     "Bases": 1
   },
@@ -1458,6 +1471,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "Cr4ckHorse",
+    "Glyphs": "1085A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1725047637000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "108AA21107FE",
     "Platform": "ST",
@@ -1579,8 +1605,8 @@
     "Glyphs": "10A2A21107FE",
     "Platform": "ST",
     "Timestamp": 1696516375000,
-    "Fauna": 0,
-    "Flora": 0,
+    "Fauna": 1,
+    "Flora": 1,
     "Minerals": 0,
     "Settlements": 0,
     "Bases": 0
@@ -1631,6 +1657,19 @@
     "Glyphs": "10A6A21107FE",
     "Platform": "ST",
     "Timestamp": 1697734413000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Cr4ckHorse",
+    "Glyphs": "10A8A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1725047687000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -2030,6 +2069,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "SupremUnicorn",
+    "Glyphs": "10CFA21107FE",
+    "Platform": "PS",
+    "Timestamp": 1724537693000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "Barderico",
     "Glyphs": "10D0A21107FE",
     "Platform": "NI",
@@ -2268,7 +2320,7 @@
     "Glyphs": "10EDA21107FE",
     "Platform": "ST",
     "Timestamp": 1710444368000,
-    "Fauna": 0,
+    "Fauna": 6,
     "Flora": 0,
     "Minerals": 0,
     "Settlements": 0,
@@ -2373,8 +2425,8 @@
     "Platform": "ST",
     "Timestamp": 1696286624000,
     "Fauna": 9,
-    "Flora": 15,
-    "Minerals": 10,
+    "Flora": 19,
+    "Minerals": 11,
     "Settlements": 0,
     "Bases": 2
   },
@@ -3173,6 +3225,19 @@
   },
   {
     "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Ganyuu",
+    "Glyphs": "1154A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1724624992000,
+    "Fauna": 7,
+    "Flora": 3,
+    "Minerals": 2,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
     "Name": "Ilswo VIII",
     "Discoverer": "Goose of the wired",
     "Glyphs": "1156A21107FE",
@@ -3415,6 +3480,19 @@
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Ganyuu",
+    "Glyphs": "116FA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1724068618000,
+    "Fauna": 10,
+    "Flora": 19,
+    "Minerals": 19,
     "Settlements": 0,
     "Bases": 0
   },
@@ -5414,8 +5492,8 @@
     "Glyphs": "201BA21107FE",
     "Platform": "NI",
     "Timestamp": 1721834428000,
-    "Fauna": 0,
-    "Flora": 0,
+    "Fauna": 6,
+    "Flora": 9,
     "Minerals": 0,
     "Settlements": 0,
     "Bases": 0
@@ -6189,6 +6267,19 @@
   },
   {
     "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Cr4ckHorse",
+    "Glyphs": "2064A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1725047615000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
     "Name": "Pasagio",
     "Discoverer": "YucaFrita",
     "Glyphs": "2065A21107FE",
@@ -6515,6 +6606,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "Cr4ckHorse",
+    "Glyphs": "2085A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1725047645000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "208AA21107FE",
     "Platform": "ST",
@@ -6532,9 +6636,9 @@
     "Glyphs": "208EA21107FE",
     "Platform": "ST",
     "Timestamp": 1710629564000,
-    "Fauna": 0,
+    "Fauna": 3,
     "Flora": 1,
-    "Minerals": 0,
+    "Minerals": 1,
     "Settlements": 0,
     "Bases": 0
   },
@@ -6701,6 +6805,19 @@
     "Glyphs": "20A6A21107FE",
     "Platform": "ST",
     "Timestamp": 1697734422000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Cr4ckHorse",
+    "Glyphs": "20A8A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1725047695000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -7048,6 +7165,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "SupremUnicorn",
+    "Glyphs": "20CFA21107FE",
+    "Platform": "PS",
+    "Timestamp": 1724537704000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "Barderico",
     "Glyphs": "20D0A21107FE",
     "Platform": "NI",
@@ -7359,6 +7489,19 @@
   },
   {
     "Category": "Planet",
+    "Name": "",
+    "Discoverer": "SupremUnicorn",
+    "Glyphs": "20F5A21107FE",
+    "Platform": "PS",
+    "Timestamp": 1724537896000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
     "Name": "Ruderac Saga",
     "Discoverer": "Angel of the wired",
     "Glyphs": "20F6A21107FE",
@@ -7585,9 +7728,9 @@
     "Glyphs": "2111A21107FE",
     "Platform": "ST",
     "Timestamp": 1709239443000,
-    "Fauna": 0,
-    "Flora": 0,
-    "Minerals": 0,
+    "Fauna": 8,
+    "Flora": 11,
+    "Minerals": 17,
     "Settlements": 0,
     "Bases": 0
   },
@@ -7745,7 +7888,7 @@
     "Flora": 0,
     "Minerals": 0,
     "Settlements": 0,
-    "Bases": 0
+    "Bases": 1
   },
   {
     "Category": "Planet",
@@ -8126,6 +8269,19 @@
   },
   {
     "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Ganyuu",
+    "Glyphs": "2154A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1724625141000,
+    "Fauna": 4,
+    "Flora": 8,
+    "Minerals": 4,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
     "Name": "Tolethon IX",
     "Discoverer": "Goose of the wired",
     "Glyphs": "2156A21107FE",
@@ -8356,7 +8512,7 @@
     "Flora": 0,
     "Minerals": 0,
     "Settlements": 0,
-    "Bases": 0
+    "Bases": 1
   },
   {
     "Category": "Planet",
@@ -8370,6 +8526,19 @@
     "Minerals": 0,
     "Settlements": 0,
     "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Ganyuu",
+    "Glyphs": "216FA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1724143994000,
+    "Fauna": 15,
+    "Flora": 24,
+    "Minerals": 16,
+    "Settlements": 0,
+    "Bases": 1
   },
   {
     "Category": "Planet",
@@ -8430,8 +8599,8 @@
     "Glyphs": "2176A21107FE",
     "Platform": "PS",
     "Timestamp": 1709497535000,
-    "Fauna": 0,
-    "Flora": 0,
+    "Fauna": 5,
+    "Flora": 7,
     "Minerals": 0,
     "Settlements": 0,
     "Bases": 0
@@ -11077,6 +11246,19 @@
   },
   {
     "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Cr4ckHorse",
+    "Glyphs": "3064A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1725047620000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
     "Name": "Ilmira",
     "Discoverer": "YucaFrita",
     "Glyphs": "3065A21107FE",
@@ -11416,6 +11598,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "Cr4ckHorse",
+    "Glyphs": "3085A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1725047652000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "3088A21107FE",
     "Platform": "XB",
@@ -11597,11 +11792,37 @@
   },
   {
     "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Cr4ckHorse",
+    "Glyphs": "30A8A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1725047702000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
     "Name": "Western Direction",
     "Discoverer": "Spinova",
     "Glyphs": "30A9A21107FE",
     "Platform": "NI",
     "Timestamp": 1722356241000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "SupremUnicorn",
+    "Glyphs": "30AAA21107FE",
+    "Platform": "PS",
+    "Timestamp": 1724535242000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -11923,6 +12144,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "SupremUnicorn",
+    "Glyphs": "30CFA21107FE",
+    "Platform": "PS",
+    "Timestamp": 1724537709000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "Barderico",
     "Glyphs": "30D0A21107FE",
     "Platform": "NI",
@@ -12187,9 +12421,9 @@
     "Glyphs": "30F3A21107FE",
     "Platform": "ST",
     "Timestamp": 1697254864000,
-    "Fauna": 4,
-    "Flora": 1,
-    "Minerals": 3,
+    "Fauna": 5,
+    "Flora": 3,
+    "Minerals": 4,
     "Settlements": 0,
     "Bases": 0
   },
@@ -12208,14 +12442,27 @@
   },
   {
     "Category": "Planet",
+    "Name": "",
+    "Discoverer": "SupremUnicorn",
+    "Glyphs": "30F5A21107FE",
+    "Platform": "PS",
+    "Timestamp": 1724537903000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
     "Name": "Auleto Gamma",
     "Discoverer": "Angel of the wired",
     "Glyphs": "30F6A21107FE",
     "Platform": "ST",
     "Timestamp": 1696284455000,
     "Fauna": 7,
-    "Flora": 12,
-    "Minerals": 9,
+    "Flora": 15,
+    "Minerals": 14,
     "Settlements": 0,
     "Bases": 2
   },
@@ -12706,12 +12953,12 @@
     "Discoverer": "Spinova_",
     "Glyphs": "3137A21107FE",
     "Platform": "PS",
-    "Timestamp": 1722720247000,
-    "Fauna": 0,
+    "Timestamp": 1723506499000,
+    "Fauna": 1,
     "Flora": 0,
     "Minerals": 0,
     "Settlements": 0,
-    "Bases": 0
+    "Bases": 1
   },
   {
     "Category": "Planet",
@@ -12904,6 +13151,19 @@
     "Timestamp": 1721479470000,
     "Fauna": 0,
     "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Ganyuu",
+    "Glyphs": "3154A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1724625084000,
+    "Fauna": 2,
+    "Flora": 4,
     "Minerals": 0,
     "Settlements": 0,
     "Bases": 0
@@ -13139,6 +13399,19 @@
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Ganyuu",
+    "Glyphs": "316FA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1724146215000,
+    "Fauna": 6,
+    "Flora": 13,
+    "Minerals": 9,
     "Settlements": 0,
     "Bases": 0
   },
@@ -14098,7 +14371,7 @@
     "Glyphs": "31E5A21107FE",
     "Platform": "XB",
     "Timestamp": 1713228538000,
-    "Fauna": 2,
+    "Fauna": 3,
     "Flora": 0,
     "Minerals": 0,
     "Settlements": 0,
@@ -15705,6 +15978,19 @@
   },
   {
     "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Cr4ckHorse",
+    "Glyphs": "4064A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1725047626000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
     "Name": "Uiettana",
     "Discoverer": "YucaFrita",
     "Glyphs": "4065A21107FE",
@@ -16018,6 +16304,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "Cr4ckHorse",
+    "Glyphs": "4085A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1725047661000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "408AA21107FE",
     "Platform": "ST",
@@ -16160,6 +16459,19 @@
   },
   {
     "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Cr4ckHorse",
+    "Glyphs": "40A8A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1725047708000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
     "Name": "Sukhavati",
     "Discoverer": "Spinova",
     "Glyphs": "40A9A21107FE",
@@ -16173,11 +16485,11 @@
   },
   {
     "Category": "Planet",
-    "Name": "",
+    "Name": "51",
     "Discoverer": "Spinova_",
     "Glyphs": "40ABA21107FE",
     "Platform": "PS",
-    "Timestamp": 1723395884000,
+    "Timestamp": 1723917450000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -16408,6 +16720,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "SupremUnicorn",
+    "Glyphs": "40CFA21107FE",
+    "Platform": "PS",
+    "Timestamp": 1724537715000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "Barderico",
     "Glyphs": "40D0A21107FE",
     "Platform": "NI",
@@ -16620,6 +16945,19 @@
     "Glyphs": "40F4A21107FE",
     "Platform": "PS",
     "Timestamp": 1712704875000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "SupremUnicorn",
+    "Glyphs": "40F5A21107FE",
+    "Platform": "PS",
+    "Timestamp": 1724537912000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -17193,8 +17531,8 @@
     "Platform": "ST",
     "Timestamp": 1699722727000,
     "Fauna": 1,
-    "Flora": 1,
-    "Minerals": 1,
+    "Flora": 3,
+    "Minerals": 12,
     "Settlements": 0,
     "Bases": 0
   },
@@ -17208,6 +17546,19 @@
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Ganyuu",
+    "Glyphs": "4154A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1725118372000,
+    "Fauna": 11,
+    "Flora": 20,
+    "Minerals": 19,
     "Settlements": 0,
     "Bases": 0
   },
@@ -17390,6 +17741,19 @@
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Ganyuu",
+    "Glyphs": "416FA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1724143639000,
+    "Fauna": 13,
+    "Flora": 13,
+    "Minerals": 21,
     "Settlements": 0,
     "Bases": 0
   },
@@ -17937,7 +18301,7 @@
     "Flora": 0,
     "Minerals": 0,
     "Settlements": 0,
-    "Bases": 0
+    "Bases": 1
   },
   {
     "Category": "Planet",
@@ -19501,6 +19865,19 @@
   },
   {
     "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Cr4ckHorse",
+    "Glyphs": "5064A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1725047631000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
     "Name": "Upusc",
     "Discoverer": "YucaFrita",
     "Glyphs": "5065A21107FE",
@@ -19723,6 +20100,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "Cr4ckHorse",
+    "Glyphs": "5085A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1725047669000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "508AA21107FE",
     "Platform": "ST",
@@ -19809,7 +20199,7 @@
     "Flora": 0,
     "Minerals": 0,
     "Settlements": 0,
-    "Bases": 0
+    "Bases": 1
   },
   {
     "Category": "Planet",
@@ -19840,6 +20230,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "Cr4ckHorse",
+    "Glyphs": "50A8A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1725047714000,
+    "Fauna": 11,
+    "Flora": 13,
+    "Minerals": 10,
+    "Settlements": 0,
+    "Bases": 1
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "Spinova",
     "Glyphs": "50A9A21107FE",
     "Platform": "NI",
@@ -19853,15 +20256,28 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "SupremUnicorn",
+    "Glyphs": "50AAA21107FE",
+    "Platform": "PS",
+    "Timestamp": 1724535209000,
+    "Fauna": 1,
+    "Flora": 0,
+    "Minerals": 1,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "Lazar",
     "Discoverer": "Spinova_",
     "Glyphs": "50ABA21107FE",
     "Platform": "PS",
-    "Timestamp": 1723395893000,
-    "Fauna": 1,
-    "Flora": 0,
+    "Timestamp": 1723917440000,
+    "Fauna": 3,
+    "Flora": 2,
     "Minerals": 0,
     "Settlements": 0,
-    "Bases": 0
+    "Bases": 1
   },
   {
     "Category": "Planet",
@@ -20080,7 +20496,7 @@
     "Timestamp": 1712902355000,
     "Fauna": 5,
     "Flora": 0,
-    "Minerals": 0,
+    "Minerals": 1,
     "Settlements": 0,
     "Bases": 0
   },
@@ -20268,14 +20684,27 @@
   },
   {
     "Category": "Planet",
+    "Name": "",
+    "Discoverer": "SupremUnicorn",
+    "Glyphs": "50F5A21107FE",
+    "Platform": "PS",
+    "Timestamp": 1724537919000,
+    "Fauna": 3,
+    "Flora": 2,
+    "Minerals": 6,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
     "Name": "Hitby P1",
     "Discoverer": "Angel of the wired",
     "Glyphs": "50F6A21107FE",
     "Platform": "ST",
     "Timestamp": 1696285105000,
     "Fauna": 7,
-    "Flora": 2,
-    "Minerals": 4,
+    "Flora": 11,
+    "Minerals": 11,
     "Settlements": 0,
     "Bases": 0
   },
@@ -22596,6 +23025,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "Cr4ckHorse",
+    "Glyphs": "6085A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1725047678000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "6094A21107FE",
     "Platform": "XB",
@@ -22652,6 +23094,19 @@
     "Glyphs": "60A4A21107FE",
     "Platform": "ST",
     "Timestamp": 1721525053000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Cr4ckHorse",
+    "Glyphs": "60A8A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1725047722000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -23458,8 +23913,8 @@
     "Glyphs": "6176A21107FE",
     "Platform": "PS",
     "Timestamp": 1709497529000,
-    "Fauna": 4,
-    "Flora": 3,
+    "Fauna": 9,
+    "Flora": 15,
     "Minerals": 6,
     "Settlements": 0,
     "Bases": 0
@@ -23668,7 +24123,7 @@
     "Timestamp": 1721479605000,
     "Fauna": 10,
     "Flora": 8,
-    "Minerals": 6,
+    "Minerals": 7,
     "Settlements": 0,
     "Bases": 1
   },
@@ -23917,7 +24372,7 @@
     "Flora": 0,
     "Minerals": 0,
     "Settlements": 0,
-    "Bases": 0
+    "Bases": 1
   },
   {
     "Category": "Planet",
@@ -24018,7 +24473,7 @@
     "Platform": "ST",
     "Timestamp": 1697975284000,
     "Fauna": 9,
-    "Flora": 3,
+    "Flora": 8,
     "Minerals": 9,
     "Settlements": 0,
     "Bases": 2

@@ -3440,7 +3440,7 @@
     "Timestamp": 1712403280000,
     "Fauna": 0,
     "Flora": 0,
-    "Minerals": 0,
+    "Minerals": 2,
     "Settlements": 0,
     "Bases": 0
   },
@@ -24176,7 +24176,7 @@
     "Fauna": 3,
     "Flora": 2,
     "Minerals": 1,
-    "Settlements": 1,
+    "Settlements": 0,
     "Bases": 0
   },
   {
@@ -27063,7 +27063,7 @@
     "Flora": 0,
     "Minerals": 0,
     "Settlements": 0,
-    "Bases": 0
+    "Bases": 1
   },
   {
     "Category": "Planet",
@@ -27592,7 +27592,7 @@
     "Glyphs": "51C6A11117FF",
     "Platform": "XB",
     "Timestamp": 1712353004000,
-    "Fauna": 0,
+    "Fauna": 1,
     "Flora": 0,
     "Minerals": 0,
     "Settlements": 0,

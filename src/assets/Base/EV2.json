@@ -128,5 +128,15 @@
     "Timestamp": 1697164296000,
     "Parts": 225,
     "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Shinran",
+    "Discoverer": "Spinova",
+    "Glyphs": "517BA11117FF",
+    "Platform": "NI",
+    "Timestamp": 1723564124000,
+    "Parts": 160,
+    "Gamemode": "Normal"
   }
 ]

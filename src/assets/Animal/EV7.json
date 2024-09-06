@@ -2834,6 +2834,14 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "sskeen",
+    "Glyphs": "11E5A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1723568667000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "WraithRaptor",
     "Glyphs": "1207A21117FE",
     "Platform": "GX",

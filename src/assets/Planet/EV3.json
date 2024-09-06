@@ -938,6 +938,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "Lilac",
+    "Glyphs": "1053A11127FF",
+    "Platform": "NI",
+    "Timestamp": 1724012828000,
+    "Fauna": 12,
+    "Flora": 16,
+    "Minerals": 18,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "1054A11127FF",
     "Platform": "ST",
@@ -1059,7 +1072,7 @@
     "Glyphs": "105EA11127FF",
     "Platform": "PS",
     "Timestamp": 1720759159000,
-    "Fauna": 1,
+    "Fauna": 2,
     "Flora": 0,
     "Minerals": 0,
     "Settlements": 0,
@@ -6533,6 +6546,19 @@
     "Platform": "ST",
     "Timestamp": 1701016656000,
     "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Lilac",
+    "Glyphs": "2053A11127FF",
+    "Platform": "NI",
+    "Timestamp": 1724012821000,
+    "Fauna": 11,
     "Flora": 0,
     "Minerals": 0,
     "Settlements": 0,
@@ -12967,8 +12993,8 @@
     "Glyphs": "30A5A11127FF",
     "Platform": "ST",
     "Timestamp": 1700001481000,
-    "Fauna": 10,
-    "Flora": 7,
+    "Fauna": 11,
+    "Flora": 8,
     "Minerals": 15,
     "Settlements": 0,
     "Bases": 0
@@ -13175,7 +13201,7 @@
     "Glyphs": "30B8A11127FF",
     "Platform": "ST",
     "Timestamp": 1719396092000,
-    "Fauna": 1,
+    "Fauna": 2,
     "Flora": 7,
     "Minerals": 8,
     "Settlements": 0,
@@ -17175,6 +17201,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "Lilac",
+    "Glyphs": "4053A11127FF",
+    "Platform": "NI",
+    "Timestamp": 1724012812000,
+    "Fauna": 11,
+    "Flora": 0,
+    "Minerals": 15,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "4054A11127FF",
     "Platform": "ST",
@@ -19653,7 +19692,7 @@
     "Flora": 0,
     "Minerals": 1,
     "Settlements": 0,
-    "Bases": 1
+    "Bases": 0
   },
   {
     "Category": "Planet",
@@ -21392,10 +21431,10 @@
     "Platform": "NI",
     "Timestamp": 1722773916000,
     "Fauna": 0,
-    "Flora": 0,
-    "Minerals": 0,
+    "Flora": 12,
+    "Minerals": 6,
     "Settlements": 0,
-    "Bases": 0
+    "Bases": 1
   },
   {
     "Category": "Planet",

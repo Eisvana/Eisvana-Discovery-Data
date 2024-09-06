@@ -1,6 +1,6 @@
 <template>
   <div class="credits q-pb-md">
-    <p>Data last updated on 12 August 2024</p>
+    <p>Data last updated on 6 September 2024</p>
     <p>
       Project enabled by the research of the
       <a

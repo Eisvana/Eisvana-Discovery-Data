@@ -997,7 +997,7 @@
     "Platform": "XB",
     "Timestamp": 1713160302000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -1327,7 +1327,7 @@
     "Platform": "XB",
     "Timestamp": 1713153986000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -1677,7 +1677,7 @@
     "Platform": "XB",
     "Timestamp": 1713153777000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -1697,7 +1697,7 @@
     "Platform": "ST",
     "Timestamp": 1721649927000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 2
   },
   {
     "Category": "SolarSystem",
@@ -2067,7 +2067,7 @@
     "Platform": "ST",
     "Timestamp": 1696714218000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -2447,7 +2447,7 @@
     "Platform": "ST",
     "Timestamp": 1696241984000,
     "Correctly Prefixed": true,
-    "Planets": 1
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -3397,7 +3397,7 @@
     "Platform": "XB",
     "Timestamp": 1713152766000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -3667,7 +3667,7 @@
     "Platform": "XB",
     "Timestamp": 1712980597000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -4191,12 +4191,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV5-1A4 Shunaf",
+    "Name": "EV6-1A4 Shunaf",
     "Discoverer": "Damalvina",
     "Glyphs": "01A4A21107FE",
     "Platform": "ST",
-    "Timestamp": 1722761390000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1724254684000,
+    "Correctly Prefixed": true,
     "Planets": 4
   },
   {

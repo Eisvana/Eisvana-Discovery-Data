@@ -33,14 +33,6 @@
   },
   {
     "Category": "Settlement",
-    "Name": "Barnitown",
-    "Discoverer": "Mr.Barnicle",
-    "Glyphs": "5019A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1723358505000
-  },
-  {
-    "Category": "Settlement",
     "Name": "Little Jeppjar",
     "Discoverer": "mobposg",
     "Glyphs": "30B5A11127FF",
@@ -78,6 +70,14 @@
     "Glyphs": "11D7A21107FF",
     "Platform": "PS",
     "Timestamp": 1711934080000
+  },
+  {
+    "Category": "Settlement",
+    "Name": "Barnitopia",
+    "Discoverer": "Mr.Barnicle",
+    "Glyphs": "400EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1723849907000
   },
   {
     "Category": "Settlement",

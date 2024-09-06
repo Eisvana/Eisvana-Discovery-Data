@@ -33,6 +33,14 @@
   },
   {
     "Category": "Settlement",
+    "Name": "Barnitopia",
+    "Discoverer": "Mr.Barnicle",
+    "Glyphs": "400EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1723849907000
+  },
+  {
+    "Category": "Settlement",
     "Name": "Arcadia Accordia",
     "Discoverer": "Capn",
     "Glyphs": "405EA21107FF",
