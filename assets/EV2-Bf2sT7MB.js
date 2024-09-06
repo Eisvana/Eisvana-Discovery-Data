@@ -1,1 +1,0 @@
-const e=[{Category:"Settlement",Name:"Gedingcmouth",Discoverer:"Yuva5239",Glyphs:"102AA11117FF",Platform:"PS",Timestamp:172268311e4},{Category:"Settlement",Name:"Barnitown",Discoverer:"Mr.Barnicle",Glyphs:"5019A11117FF",Platform:"ST",Timestamp:1723358505e3}];export{e as default};
