@@ -71,12 +71,32 @@
   },
   {
     "Category": "Base",
+    "Name": "Rixham Base",
+    "Discoverer": "DaedalusR",
+    "Glyphs": "105EA21107FF",
+    "Platform": "NI",
+    "Timestamp": 1723564400000,
+    "Parts": 115,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Heginia Station",
     "Discoverer": "Yonahoy",
     "Glyphs": "1065A21107FF",
     "Platform": "PS",
     "Timestamp": 1709501918000,
     "Parts": 433,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "BarniCorp Factory",
+    "Discoverer": "Mr.Barnicle",
+    "Glyphs": "108CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1725160651000,
+    "Parts": 490,
     "Gamemode": "Normal"
   },
   {
@@ -105,8 +125,8 @@
     "Discoverer": "Spinova_",
     "Glyphs": "2020A21107FF",
     "Platform": "PS",
-    "Timestamp": 1723391736000,
-    "Parts": 184,
+    "Timestamp": 1725078919000,
+    "Parts": 251,
     "Gamemode": "Normal"
   },
   {
@@ -135,8 +155,18 @@
     "Discoverer": "McJoxen",
     "Glyphs": "205EA21107FF",
     "Platform": "PS",
-    "Timestamp": 1723090793000,
+    "Timestamp": 1725514383000,
     "Parts": 107,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "EIS - Hover base",
+    "Discoverer": "Cr4ckHorse",
+    "Glyphs": "205EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1724939411000,
+    "Parts": 99,
     "Gamemode": "Normal"
   },
   {
@@ -261,16 +291,6 @@
   },
   {
     "Category": "Base",
-    "Name": "Monist Moon Temple - Eau Claire",
-    "Discoverer": "Spinova",
-    "Glyphs": "303EA21107FF",
-    "Platform": "NI",
-    "Timestamp": 1721491074000,
-    "Parts": 87,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
     "Name": "Noverian Heights",
     "Discoverer": "ZimmerJ",
     "Glyphs": "305EA21107FF",
@@ -331,12 +351,32 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Zohar",
+    "Discoverer": "Spinova_",
+    "Glyphs": "31A3A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1723915129000,
+    "Parts": 404,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Digothbu Outpost",
     "Discoverer": "cassiddidy",
     "Glyphs": "4017A21107FF",
     "Platform": "PS",
     "Timestamp": 1704334325000,
     "Parts": 67,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Darkworm Stronghold",
+    "Discoverer": "Mr.Barnicle",
+    "Glyphs": "404FA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1725335576000,
+    "Parts": 255,
     "Gamemode": "Normal"
   },
   {
@@ -705,8 +745,8 @@
     "Discoverer": "Spinova_",
     "Glyphs": "6053A21107FF",
     "Platform": "PS",
-    "Timestamp": 1722392362000,
-    "Parts": 226,
+    "Timestamp": 1723508623000,
+    "Parts": 213,
     "Gamemode": "Normal"
   }
 ]

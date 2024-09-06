@@ -151,12 +151,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV7-10-Amun Ra",
+    "Name": "EV7-10 Amun Ra",
     "Discoverer": "admiraldeannadark",
     "Glyphs": "0010A21117FE",
     "Platform": "ST",
-    "Timestamp": 1696007720000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1723917605000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -2731,12 +2731,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV7-112-Canterbury",
+    "Name": "EV7-112 Canterbury",
     "Discoverer": "admiraldeannadark",
     "Glyphs": "0112A21117FE",
     "Platform": "ST",
-    "Timestamp": 1695800264000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1723917633000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -3911,12 +3911,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV7-188=Serenity",
+    "Name": "EV7-188 Serenity",
     "Discoverer": "admiraldeannadark",
     "Glyphs": "0188A21117FE",
     "Platform": "ST",
-    "Timestamp": 1695798266000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1723917045000,
+    "Correctly Prefixed": true,
     "Planets": 4
   },
   {
@@ -4491,12 +4491,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV7-1C2-Mayflower",
+    "Name": "EV7-1C2 Mayflower",
     "Discoverer": "admiraldeannadark",
     "Glyphs": "01C2A21117FE",
     "Platform": "ST",
-    "Timestamp": 1695798964000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1723917463000,
+    "Correctly Prefixed": true,
     "Planets": 1
   },
   {

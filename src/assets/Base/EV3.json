@@ -111,22 +111,22 @@
   },
   {
     "Category": "Base",
-    "Name": "Monist Moon Temple - Greensboro",
-    "Discoverer": "Spinova_",
-    "Glyphs": "4160A11127FF",
-    "Platform": "PS",
-    "Timestamp": 1722819780000,
-    "Parts": 172,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
     "Name": "Monist Moon Monestary - Arnem",
     "Discoverer": "Spinova",
     "Glyphs": "504AA11127FF",
     "Platform": "NI",
     "Timestamp": 1719084586000,
     "Parts": 296,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Violet Village",
+    "Discoverer": "Lilac",
+    "Glyphs": "5053A11127FF",
+    "Platform": "NI",
+    "Timestamp": 1724013020000,
+    "Parts": 1214,
     "Gamemode": "Normal"
   },
   {

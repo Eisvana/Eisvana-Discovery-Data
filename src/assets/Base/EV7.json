@@ -41,6 +41,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Cargo-Town",
+    "Discoverer": "Mr.Barnicle",
+    "Glyphs": "3033A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1725329895000,
+    "Parts": 2251,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Clear Oasis Canteen",
     "Discoverer": "RoananWolfe",
     "Glyphs": "3078A21117FE",

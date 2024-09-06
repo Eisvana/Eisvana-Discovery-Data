@@ -41,6 +41,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Upanishad",
+    "Discoverer": "Spinova_",
+    "Glyphs": "30ADA21127FF",
+    "Platform": "PS",
+    "Timestamp": 1725203865000,
+    "Parts": 533,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "EV4-177 Diusfloss",
     "Discoverer": "Onipuss",
     "Glyphs": "4177A21127FF",
@@ -65,8 +75,8 @@
     "Discoverer": "Spinova_",
     "Glyphs": "60EEA21127FF",
     "Platform": "PS",
-    "Timestamp": 1723411612000,
-    "Parts": 261,
+    "Timestamp": 1724517545000,
+    "Parts": 1248,
     "Gamemode": "Normal"
   }
 ]
