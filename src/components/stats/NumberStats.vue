@@ -144,7 +144,7 @@ const getDate = (dateString: string | undefined) => (dateString ? getFormattedUT
       <template v-if="dataHasSystems">
         <div>Systems correctly named:</div>
         <div>{{ amountTagged }} ({{ systemsTaggedPercent }}%)</div>
-        <div>Not/incorrectly named:</div>
+        <div>Incorrectly named:</div>
         <div>{{ systemsNotTagged }} ({{ systemsNotTaggedPercent }}%)</div>
         <template v-if="!dataHasOnlySystems">
           <div>Procedural name systems:</div>
