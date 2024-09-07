@@ -351,12 +351,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV2-24 Arechn",
     "Discoverer": "Binder198",
     "Glyphs": "0024A11117FF",
     "Platform": "ST",
-    "Timestamp": 1700094466000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1725638118000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -1641,11 +1641,11 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV2-A5 [Bryazn-Ribet X]",
+    "Name": "EV2-A5 Bryazn-Ribet X",
     "Discoverer": "Binder198",
     "Glyphs": "00A5A11117FF",
     "Platform": "ST",
-    "Timestamp": 1695757625000,
+    "Timestamp": 1725639426000,
     "Correctly Prefixed": true,
     "Planets": 5
   },
@@ -1851,11 +1851,11 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV2-BA [Varonye-Mapanc]",
+    "Name": "EV2-BA Varonye-Mapanc",
     "Discoverer": "Binder198",
     "Glyphs": "00BAA11117FF",
     "Platform": "ST",
-    "Timestamp": 1695756255000,
+    "Timestamp": 1725639726000,
     "Correctly Prefixed": true,
     "Planets": 6
   },
@@ -1911,11 +1911,11 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV2-C0 [Helyel-Painc]",
+    "Name": "EV2-C0 Helyel-Painc",
     "Discoverer": "Binder198",
     "Glyphs": "00C0A11117FF",
     "Platform": "ST",
-    "Timestamp": 1695761281000,
+    "Timestamp": 1725640056000,
     "Correctly Prefixed": true,
     "Planets": 4
   },
@@ -2261,11 +2261,11 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV2-E3 [Evron]y",
+    "Name": "EV2-E3 Evrony",
     "Discoverer": "Binder198",
     "Glyphs": "00E3A11117FF",
     "Platform": "ST",
-    "Timestamp": 1695756665000,
+    "Timestamp": 1725640442000,
     "Correctly Prefixed": true,
     "Planets": 3
   },
@@ -2301,22 +2301,22 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV2-E7 [KOVSKO IV]]",
+    "Name": "EV2-E7 KOVSKO IV",
     "Discoverer": "Binder198",
     "Glyphs": "00E7A11117FF",
     "Platform": "ST",
-    "Timestamp": 1695755790000,
+    "Timestamp": 1725640869000,
     "Correctly Prefixed": true,
     "Planets": 6
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV2-E8",
+    "Name": "EV2-E8 Ilkuleb-Guj",
     "Discoverer": "Binder198",
     "Glyphs": "00E8A11117FF",
     "Platform": "ST",
-    "Timestamp": 1725554318000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1725638826000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -2571,12 +2571,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV2- 102 Itogor-Arden",
+    "Name": "EV2-102 Itogor-Arden",
     "Discoverer": "Binder198",
     "Glyphs": "0102A11117FF",
     "Platform": "ST",
-    "Timestamp": 1725555051000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1725639078000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
