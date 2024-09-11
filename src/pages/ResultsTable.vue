@@ -6,10 +6,9 @@ import type { DiscoveryCategories, DiscoveryData } from '@/types/data';
 import type { Platform } from '@/types/platform';
 import { storeToRefs } from 'pinia';
 import { computed, ref, reactive, watch } from 'vue';
-import { format, type QTableColumn } from 'quasar';
+import { format, QTable, type QTableColumn } from 'quasar';
 import type { PaginationObject } from '@/types/pagination';
 import { rowsPerPage } from '@/variables/pagination';
-import { paginateData } from '@/helpers/paginate';
 import SkeletonTable from '@/components/SkeletonTable.vue';
 import FadeTransition from '@/components/FadeTransition.vue';
 import { unknownName } from '@/variables/table';
@@ -30,11 +29,9 @@ const pagination = ref<PaginationObject>({
 // go to first page on every load event
 watch(isLoading, () => (pagination.value.page = 1));
 
-const currentItems = computed(() => {
-  const { rowsPerPage, page } = pagination.value;
-  const paginatedData = paginateData(filteredData.value, rowsPerPage, page - 1);
-  return paginatedData;
-});
+const table = ref<QTable | null>(null);
+
+const currentItems = computed(() => [...(table.value?.computedRows ?? [])]);
 
 const requiredCols = computed(() => updateRequiredCols(currentItems.value));
 
@@ -169,11 +166,11 @@ function updateRequiredCols(newItems: DiscoveryData[]) {
   const usedFields = allFields.filter((field) => typeof field === 'string' && newItems.some((item) => field in item));
 
   // this is a stupid helper function that is necessary because TS currently cannot infer that .filter(Boolean) removes undefined values
-  const isStringArray = (item: unknown): item is string => typeof item === 'string';
+  const isString = (item: unknown): item is string => typeof item === 'string';
 
   const usedFieldColNames = usedFields
     .map((field) => columns.find((item) => item.field === field)?.name)
-    .filter(isStringArray); // see comment above for why this is not done with `Boolean`
+    .filter(isString); // see comment above for why this is not done with `Boolean`
 
   return usedFieldColNames;
 }
@@ -190,6 +187,7 @@ function updateRequiredCols(newItems: DiscoveryData[]) {
         :rows-per-page-options="rowsPerPage"
         :visible-columns="requiredCols"
         column-sort-order="da"
+        ref="table"
         table-header-class="table-header"
         flat
       >
