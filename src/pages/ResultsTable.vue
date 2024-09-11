@@ -174,8 +174,6 @@ function updateRequiredCols(newItems: DiscoveryData[]) {
 
   return usedFieldColNames;
 }
-
-watchEffect(() => console.log(requiredCols.value));
 </script>
 
 <template>
