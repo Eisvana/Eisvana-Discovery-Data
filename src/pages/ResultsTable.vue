@@ -5,7 +5,7 @@ import { useDataStore } from '@/stores/data';
 import type { DiscoveryCategories, DiscoveryData } from '@/types/data';
 import type { Platform } from '@/types/platform';
 import { storeToRefs } from 'pinia';
-import { computed, ref, reactive, watch, watchEffect } from 'vue';
+import { computed, ref, reactive, watch } from 'vue';
 import { format, QTable, type QTableColumn } from 'quasar';
 import type { PaginationObject } from '@/types/pagination';
 import { rowsPerPage } from '@/variables/pagination';
