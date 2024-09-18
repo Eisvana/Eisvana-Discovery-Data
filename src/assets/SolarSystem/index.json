@@ -3067,7 +3067,7 @@
     "Platform": "XB",
     "Timestamp": 1709443143000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 2
   },
   {
     "Category": "SolarSystem",
@@ -4477,7 +4477,7 @@
     "Platform": "XB",
     "Timestamp": 1709428934000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 2
   },
   {
     "Category": "SolarSystem",
@@ -6201,11 +6201,11 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV2-5D Poronyev",
+    "Name": "EV2-5D Veridia",
     "Discoverer": "LordDraCool241",
     "Glyphs": "005DA11117FF",
     "Platform": "XB",
-    "Timestamp": 1712348701000,
+    "Timestamp": 1726619859000,
     "Correctly Prefixed": true,
     "Planets": 5
   },
@@ -11457,7 +11457,7 @@
     "Platform": "XB",
     "Timestamp": 1712953144000,
     "Correctly Prefixed": true,
-    "Planets": 4
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -14617,7 +14617,7 @@
     "Platform": "XB",
     "Timestamp": 1717688252000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -15027,7 +15027,7 @@
     "Platform": "ST",
     "Timestamp": 1721294641000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -15167,7 +15167,7 @@
     "Platform": "ST",
     "Timestamp": 1721295309000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -15657,7 +15657,7 @@
     "Platform": "ST",
     "Timestamp": 1721320272000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 3
   },
   {
     "Category": "SolarSystem",
@@ -17687,7 +17687,7 @@
     "Platform": "GX",
     "Timestamp": 1695935980000,
     "Correctly Prefixed": true,
-    "Planets": 2
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -22321,11 +22321,11 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV5-6C Elgoeno",
+    "Name": "EV5-6C Clarity",
     "Discoverer": "RedFalcons-317",
     "Glyphs": "006CA21107FF",
     "Platform": "ST",
-    "Timestamp": 1721493088000,
+    "Timestamp": 1726658611000,
     "Correctly Prefixed": true,
     "Planets": 5
   },
@@ -27877,7 +27877,7 @@
     "Platform": "XB",
     "Timestamp": 1713153623000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -27937,7 +27937,7 @@
     "Platform": "XB",
     "Timestamp": 1713154199000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -28607,7 +28607,7 @@
     "Platform": "XB",
     "Timestamp": 1713154265000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -28747,7 +28747,7 @@
     "Platform": "XB",
     "Timestamp": 1713153835000,
     "Correctly Prefixed": true,
-    "Planets": 2
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -35021,11 +35021,11 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV7-137 Veridia",
+    "Name": "EV7-137 Sogbai-Taj XIII",
     "Discoverer": "Lenni",
     "Glyphs": "0137A21117FE",
     "Platform": "ST",
-    "Timestamp": 1700064417000,
+    "Timestamp": 1726647866000,
     "Correctly Prefixed": true,
     "Planets": 4
   },

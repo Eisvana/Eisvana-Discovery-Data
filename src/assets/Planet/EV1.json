@@ -3837,6 +3837,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "11C0A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1726068785000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "cassiddidy",
     "Glyphs": "11C1A21117FF",
     "Platform": "PS",
@@ -5886,7 +5899,7 @@
     "Flora": 13,
     "Minerals": 5,
     "Settlements": 1,
-    "Bases": 3
+    "Bases": 4
   },
   {
     "Category": "Planet",
@@ -7333,6 +7346,19 @@
   },
   {
     "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Uninvited Guest",
+    "Glyphs": "2133A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1726055879000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
     "Name": "Laion",
     "Discoverer": "YucaFrita",
     "Glyphs": "2135A21117FF",
@@ -8040,6 +8066,19 @@
     "Glyphs": "21BFA21117FF",
     "Platform": "PS",
     "Timestamp": 1697645751000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "21C0A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1726068671000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -11472,6 +11511,19 @@
     "Glyphs": "3130A21117FF",
     "Platform": "PS",
     "Timestamp": 1706585127000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Uninvited Guest",
+    "Glyphs": "3133A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1726055836000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,

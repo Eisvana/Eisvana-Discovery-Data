@@ -15,8 +15,8 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "11AFA21117FF",
     "Platform": "PS",
-    "Timestamp": 1709489006000,
-    "Parts": 173,
+    "Timestamp": 1726389829000,
+    "Parts": 174,
     "Gamemode": "Normal"
   },
   {
@@ -31,12 +31,22 @@
   },
   {
     "Category": "Base",
+    "Name": "GNR Substation",
+    "Discoverer": "RoanonWolfe",
+    "Glyphs": "207BA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1726502652000,
+    "Parts": 689,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "H4z-L's",
     "Discoverer": "cassiddidy",
     "Glyphs": "207BA21117FF",
     "Platform": "PS",
-    "Timestamp": 1711582149000,
-    "Parts": 1236,
+    "Timestamp": 1726388792000,
+    "Parts": 1235,
     "Gamemode": "Normal"
   },
   {
@@ -145,7 +155,7 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "312EA21117FF",
     "Platform": "PS",
-    "Timestamp": 1721515744000,
+    "Timestamp": 1726390510000,
     "Parts": 190,
     "Gamemode": "Normal"
   },

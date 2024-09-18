@@ -57,14 +57,6 @@
   },
   {
     "Category": "Settlement",
-    "Name": "Eisvana Relaxation Centre",
-    "Discoverer": "Lenni",
-    "Glyphs": "405EA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1698960444000
-  },
-  {
-    "Category": "Settlement",
     "Name": "Xinope Colony",
     "Discoverer": "RagemKagem",
     "Glyphs": "405EA21107FF",
@@ -86,5 +78,21 @@
     "Glyphs": "405EA21107FF",
     "Platform": "XB",
     "Timestamp": 1699119844000
+  },
+  {
+    "Category": "Settlement",
+    "Name": "Vodskotide",
+    "Discoverer": "Lenni",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1726608026000
+  },
+  {
+    "Category": "Settlement",
+    "Name": "<PET5>Eistopia",
+    "Discoverer": "McJoxen",
+    "Glyphs": "406CA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1726632682000
   }
 ]

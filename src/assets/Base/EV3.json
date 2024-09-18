@@ -71,6 +71,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Summerhome",
+    "Discoverer": "Royal",
+    "Glyphs": "31A7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1725962795000,
+    "Parts": 79,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Monist Moon Temple - Nufiel",
     "Discoverer": "Spinova",
     "Glyphs": "405AA11127FF",
@@ -125,8 +135,8 @@
     "Discoverer": "Lilac",
     "Glyphs": "5053A11127FF",
     "Platform": "NI",
-    "Timestamp": 1724013020000,
-    "Parts": 1214,
+    "Timestamp": 1726250030000,
+    "Parts": 1375,
     "Gamemode": "Normal"
   },
   {

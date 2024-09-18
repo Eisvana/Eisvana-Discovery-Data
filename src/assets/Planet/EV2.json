@@ -1197,11 +1197,11 @@
   },
   {
     "Category": "Planet",
-    "Name": "",
+    "Name": "Aurorae",
     "Discoverer": "Lenni",
     "Glyphs": "105DA11117FF",
     "Platform": "ST",
-    "Timestamp": 1722612104000,
+    "Timestamp": 1726645092000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -1323,7 +1323,7 @@
     "Flora": 3,
     "Minerals": 2,
     "Settlements": 0,
-    "Bases": 0
+    "Bases": 1
   },
   {
     "Category": "Planet",
@@ -7463,11 +7463,11 @@
   },
   {
     "Category": "Planet",
-    "Name": "",
+    "Name": "Symphonia",
     "Discoverer": "Lenni",
     "Glyphs": "205DA11117FF",
     "Platform": "ST",
-    "Timestamp": 1722612063000,
+    "Timestamp": 1726645033000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -13742,11 +13742,11 @@
   },
   {
     "Category": "Planet",
-    "Name": "",
+    "Name": "Pax",
     "Discoverer": "Lenni",
     "Glyphs": "305DA11117FF",
     "Platform": "ST",
-    "Timestamp": 1722612170000,
+    "Timestamp": 1726645047000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -19696,15 +19696,15 @@
   },
   {
     "Category": "Planet",
-    "Name": "",
+    "Name": "Avalonis",
     "Discoverer": "Lenni",
     "Glyphs": "405DA11117FF",
     "Platform": "ST",
-    "Timestamp": 1722611821000,
+    "Timestamp": 1726644993000,
     "Fauna": 11,
     "Flora": 19,
     "Minerals": 14,
-    "Settlements": 0,
+    "Settlements": 1,
     "Bases": 0
   },
   {
@@ -24935,11 +24935,11 @@
   },
   {
     "Category": "Planet",
-    "Name": "",
+    "Name": "Vespera",
     "Discoverer": "Lenni",
     "Glyphs": "505DA11117FF",
     "Platform": "ST",
-    "Timestamp": 1722612052000,
+    "Timestamp": 1726663251000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
