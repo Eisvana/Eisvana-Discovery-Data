@@ -231,12 +231,32 @@
   },
   {
     "Category": "Base",
+    "Name": "Fishing Shack",
+    "Discoverer": "iggdawg",
+    "Glyphs": "31CAA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1725893156000,
+    "Parts": 301,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Galactic Military Plaque",
     "Discoverer": "Darth Fox",
     "Glyphs": "31EBA21107FE",
     "Platform": "ST",
     "Timestamp": 1721689786000,
     "Parts": 81,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Acliu Base",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4024A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1725991735000,
+    "Parts": 66,
     "Gamemode": "Normal"
   },
   {
@@ -337,6 +357,26 @@
     "Platform": "PS",
     "Timestamp": 1723939260000,
     "Parts": 240,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "P",
+    "Discoverer": "WaZ",
+    "Glyphs": "50F6A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1726339786000,
+    "Parts": 81,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Advaita",
+    "Discoverer": "Spinova_",
+    "Glyphs": "519CA21107FE",
+    "Platform": "PS",
+    "Timestamp": 1725805512000,
+    "Parts": 428,
     "Gamemode": "Normal"
   },
   {

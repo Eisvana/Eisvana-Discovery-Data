@@ -15,8 +15,8 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "11AFA21117FF",
     "Platform": "PS",
-    "Timestamp": 1709489006000,
-    "Parts": 173,
+    "Timestamp": 1726389829000,
+    "Parts": 174,
     "Gamemode": "Normal"
   },
   {
@@ -31,12 +31,22 @@
   },
   {
     "Category": "Base",
+    "Name": "GNR Substation",
+    "Discoverer": "RoanonWolfe",
+    "Glyphs": "207BA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1726502652000,
+    "Parts": 689,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "H4z-L's",
     "Discoverer": "cassiddidy",
     "Glyphs": "207BA21117FF",
     "Platform": "PS",
-    "Timestamp": 1711582149000,
-    "Parts": 1236,
+    "Timestamp": 1726388792000,
+    "Parts": 1235,
     "Gamemode": "Normal"
   },
   {
@@ -145,7 +155,7 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "312EA21117FF",
     "Platform": "PS",
-    "Timestamp": 1721515744000,
+    "Timestamp": 1726390510000,
     "Parts": 190,
     "Gamemode": "Normal"
   },
@@ -227,6 +237,16 @@
     "Platform": "ST",
     "Timestamp": 1712084836000,
     "Parts": 22,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Golden Dream",
+    "Discoverer": "Binder198",
+    "Glyphs": "1066A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1725642256000,
+    "Parts": 267,
     "Gamemode": "Normal"
   },
   {
@@ -411,6 +431,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Summerhome",
+    "Discoverer": "Royal",
+    "Glyphs": "31A7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1725962795000,
+    "Parts": 79,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Monist Moon Temple - Nufiel",
     "Discoverer": "Spinova",
     "Glyphs": "405AA11127FF",
@@ -465,8 +495,8 @@
     "Discoverer": "Lilac",
     "Glyphs": "5053A11127FF",
     "Platform": "NI",
-    "Timestamp": 1724013020000,
-    "Parts": 1214,
+    "Timestamp": 1726250030000,
+    "Parts": 1375,
     "Gamemode": "Normal"
   },
   {
@@ -575,7 +605,7 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "101AA21107FF",
     "Platform": "PS",
-    "Timestamp": 1721704195000,
+    "Timestamp": 1726389441000,
     "Parts": 1176,
     "Gamemode": "Normal"
   },
@@ -725,7 +755,7 @@
     "Discoverer": "McJoxen",
     "Glyphs": "205EA21107FF",
     "Platform": "PS",
-    "Timestamp": 1725514383000,
+    "Timestamp": 1726183563000,
     "Parts": 107,
     "Gamemode": "Normal"
   },
@@ -811,11 +841,11 @@
   },
   {
     "Category": "Base",
-    "Name": "Onfiel-Twic Outpost (B)",
+    "Name": "Onfiel-Twic Outpost (P)",
     "Discoverer": "cassiddidy",
     "Glyphs": "2136A21107FF",
     "Platform": "PS",
-    "Timestamp": 1706673254000,
+    "Timestamp": 1726390288000,
     "Parts": 80,
     "Gamemode": "Normal"
   },
@@ -897,16 +927,6 @@
     "Platform": "PS",
     "Timestamp": 1720885360000,
     "Parts": 142,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
-    "Name": "Cellata Farm Experimental Base",
-    "Discoverer": "Breviceps",
-    "Glyphs": "3180A21107FF",
-    "Platform": "ST",
-    "Timestamp": 1697395127000,
-    "Parts": 1326,
     "Gamemode": "Normal"
   },
   {
@@ -1291,6 +1311,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Eissenhut Village",
+    "Discoverer": "McJoxen",
+    "Glyphs": "506CA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1726649521000,
+    "Parts": 232,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Monist Moon Temple - Avici",
     "Discoverer": "Spinova",
     "Glyphs": "50F5A21107FF",
@@ -1551,12 +1581,32 @@
   },
   {
     "Category": "Base",
+    "Name": "Fishing Shack",
+    "Discoverer": "iggdawg",
+    "Glyphs": "31CAA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1725893156000,
+    "Parts": 301,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Galactic Military Plaque",
     "Discoverer": "Darth Fox",
     "Glyphs": "31EBA21107FE",
     "Platform": "ST",
     "Timestamp": 1721689786000,
     "Parts": 81,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Acliu Base",
+    "Discoverer": "iggdawg",
+    "Glyphs": "4024A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1725991735000,
+    "Parts": 66,
     "Gamemode": "Normal"
   },
   {
@@ -1657,6 +1707,26 @@
     "Platform": "PS",
     "Timestamp": 1723939260000,
     "Parts": 240,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "P",
+    "Discoverer": "WaZ",
+    "Glyphs": "50F6A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1726339786000,
+    "Parts": 81,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Advaita",
+    "Discoverer": "Spinova_",
+    "Glyphs": "519CA21107FE",
+    "Platform": "PS",
+    "Timestamp": 1725805512000,
+    "Parts": 428,
     "Gamemode": "Normal"
   },
   {

@@ -1158,11 +1158,11 @@
   },
   {
     "Category": "Planet",
-    "Name": "",
+    "Name": "Cyrene",
     "Discoverer": "RedFalcons-317",
     "Glyphs": "106CA21107FF",
     "Platform": "ST",
-    "Timestamp": 1721493192000,
+    "Timestamp": 1726658460000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -5955,11 +5955,11 @@
   },
   {
     "Category": "Planet",
-    "Name": "",
+    "Name": "Aetheris XVI",
     "Discoverer": "RedFalcons-317",
     "Glyphs": "206CA21107FF",
     "Platform": "ST",
-    "Timestamp": 1721493175000,
+    "Timestamp": 1726658309000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -10661,11 +10661,11 @@
   },
   {
     "Category": "Planet",
-    "Name": "",
+    "Name": "Thasus",
     "Discoverer": "RedFalcons-317",
     "Glyphs": "306CA21107FF",
     "Platform": "ST",
-    "Timestamp": 1721493160000,
+    "Timestamp": 1726658482000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -12672,7 +12672,7 @@
     "Flora": 7,
     "Minerals": 7,
     "Settlements": 0,
-    "Bases": 2
+    "Bases": 1
   },
   {
     "Category": "Planet",
@@ -14816,7 +14816,7 @@
     "Fauna": 10,
     "Flora": 29,
     "Minerals": 30,
-    "Settlements": 6,
+    "Settlements": 5,
     "Bases": 24
   },
   {
@@ -14951,15 +14951,15 @@
   },
   {
     "Category": "Planet",
-    "Name": "",
+    "Name": "New Accordia",
     "Discoverer": "RedFalcons-317",
     "Glyphs": "406CA21107FF",
     "Platform": "ST",
-    "Timestamp": 1721493169000,
+    "Timestamp": 1726658127000,
     "Fauna": 14,
     "Flora": 21,
     "Minerals": 11,
-    "Settlements": 0,
+    "Settlements": 2,
     "Bases": 0
   },
   {
@@ -18617,16 +18617,16 @@
   },
   {
     "Category": "Planet",
-    "Name": "",
+    "Name": "Thalassa",
     "Discoverer": "RedFalcons-317",
     "Glyphs": "506CA21107FF",
     "Platform": "ST",
-    "Timestamp": 1721493183000,
+    "Timestamp": 1726658471000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
     "Settlements": 0,
-    "Bases": 0
+    "Bases": 1
   },
   {
     "Category": "Planet",

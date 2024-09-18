@@ -31,6 +31,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Golden Dream",
+    "Discoverer": "Binder198",
+    "Glyphs": "1066A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1725642256000,
+    "Parts": 267,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Lianeras' Lakeside Cabin",
     "Discoverer": "Lianeras",
     "Glyphs": "10C9A11117FF",
