@@ -10,7 +10,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "chart.js": "^4.4.4"
+    "chart.js": "^4.4.5"
   },
   "devDependencies": {
     "@quasar/extras": "^1.16.12",
