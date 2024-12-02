@@ -13,7 +13,7 @@
     "chart.js": "^4.4.6"
   },
   "devDependencies": {
-    "@quasar/extras": "^1.16.13",
+    "@quasar/extras": "^1.16.14",
     "@quasar/vite-plugin": "^1.8.1",
     "@types/node": "^22.9.3",
     "@vitejs/plugin-vue": "^5.2.0",
