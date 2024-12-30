@@ -937,11 +937,11 @@
   },
   {
     "Category": "Planet",
-    "Name": "",
+    "Name": "Bushando LXIV",
     "Discoverer": "Lilac",
     "Glyphs": "1053A11127FF",
     "Platform": "NI",
-    "Timestamp": 1724012828000,
+    "Timestamp": 1734481522000,
     "Fauna": 12,
     "Flora": 16,
     "Minerals": 18,
@@ -4655,6 +4655,19 @@
   },
   {
     "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Royal",
+    "Glyphs": "118FA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1726900877000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
     "Name": "Hyloliusi",
     "Discoverer": "YucaFrita",
     "Glyphs": "1190A11127FF",
@@ -5141,6 +5154,19 @@
     "Glyphs": "11C9A11127FF",
     "Platform": "XB",
     "Timestamp": 1713756471000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
+    "Discoverer": "Royal",
+    "Glyphs": "11CAA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1726733357000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -6579,11 +6605,11 @@
   },
   {
     "Category": "Planet",
-    "Name": "",
+    "Name": "Peekanjoh",
     "Discoverer": "Lilac",
     "Glyphs": "2053A11127FF",
     "Platform": "NI",
-    "Timestamp": 1724012821000,
+    "Timestamp": 1734481566000,
     "Fauna": 11,
     "Flora": 0,
     "Minerals": 0,
@@ -8304,7 +8330,7 @@
     "Flora": 9,
     "Minerals": 7,
     "Settlements": 0,
-    "Bases": 2
+    "Bases": 3
   },
   {
     "Category": "Planet",
@@ -10462,7 +10488,7 @@
     "Flora": 1,
     "Minerals": 0,
     "Settlements": 0,
-    "Bases": 0
+    "Bases": 1
   },
   {
     "Category": "Planet",
@@ -11103,11 +11129,11 @@
   },
   {
     "Category": "Planet",
-    "Name": "New Hope",
+    "Name": "Dhammapada",
     "Discoverer": "Spinova",
     "Glyphs": "21FCA11127FF",
     "Platform": "NI",
-    "Timestamp": 1722476564000,
+    "Timestamp": 1727224979000,
     "Fauna": 0,
     "Flora": 0,
     "Minerals": 0,
@@ -16238,16 +16264,16 @@
   },
   {
     "Category": "Planet",
-    "Name": "",
+    "Name": "Araham",
     "Discoverer": "Spinova",
     "Glyphs": "31FCA11127FF",
     "Platform": "NI",
-    "Timestamp": 1722397078000,
+    "Timestamp": 1727225181000,
     "Fauna": 1,
     "Flora": 0,
     "Minerals": 0,
     "Settlements": 0,
-    "Bases": 0
+    "Bases": 2
   },
   {
     "Category": "Planet",
@@ -17317,11 +17343,11 @@
   },
   {
     "Category": "Planet",
-    "Name": "",
+    "Name": "Eleetlored Sigma",
     "Discoverer": "Lilac",
     "Glyphs": "4053A11127FF",
     "Platform": "NI",
-    "Timestamp": 1724012812000,
+    "Timestamp": 1734481777000,
     "Fauna": 11,
     "Flora": 0,
     "Minerals": 15,
@@ -21555,16 +21581,16 @@
   },
   {
     "Category": "Planet",
-    "Name": "Lilacroplis",
+    "Name": "Lilacropolis",
     "Discoverer": "Lilac",
     "Glyphs": "5053A11127FF",
     "Platform": "NI",
-    "Timestamp": 1722773916000,
+    "Timestamp": 1734481395000,
     "Fauna": 0,
     "Flora": 12,
     "Minerals": 6,
-    "Settlements": 0,
-    "Bases": 1
+    "Settlements": 1,
+    "Bases": 2
   },
   {
     "Category": "Planet",
@@ -24676,6 +24702,19 @@
   {
     "Category": "Planet",
     "Name": "",
+    "Discoverer": "McJoxen",
+    "Glyphs": "6053A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1726980221000,
+    "Fauna": 0,
+    "Flora": 0,
+    "Minerals": 0,
+    "Settlements": 0,
+    "Bases": 0
+  },
+  {
+    "Category": "Planet",
+    "Name": "",
     "Discoverer": "Lunivore",
     "Glyphs": "6054A11127FF",
     "Platform": "ST",
@@ -26335,7 +26374,7 @@
     "Flora": 0,
     "Minerals": 0,
     "Settlements": 0,
-    "Bases": 0
+    "Bases": 1
   },
   {
     "Category": "Planet",

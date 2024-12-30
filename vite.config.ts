@@ -15,7 +15,7 @@ export default defineConfig({
     // https://github.com/quasarframework/quasar/blob/dev/vite-plugin/index.d.ts
     quasar({
       autoImportComponentCase: 'pascal',
-      sassVariables: 'src/css/quasar-variables.scss',
+      sassVariables: '/src/css/quasar-variables.scss',
     }),
   ],
   worker: {

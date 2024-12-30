@@ -1,6 +1,36 @@
 [
   {
     "Category": "Base",
+    "Name": "Lost Fish Resort | OS",
+    "Discoverer": "Smaxta",
+    "Glyphs": "102FA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732129721000,
+    "Parts": 2372,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Pier 8",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "102FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1731510617000,
+    "Parts": 833,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "BBB Eisvana Fishing Colony Trade Outpost",
+    "Discoverer": "BigBuffaloBill",
+    "Glyphs": "102FA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1729133232000,
+    "Parts": 88,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Iridescent Archipelagos TBD",
     "Discoverer": "BrokenNocturne",
     "Glyphs": "1146A21117FF",
@@ -17,6 +47,16 @@
     "Platform": "PS",
     "Timestamp": 1726389829000,
     "Parts": 174,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "The Valdez",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "202FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1731512171000,
+    "Parts": 778,
     "Gamemode": "Normal"
   },
   {
@@ -67,6 +107,16 @@
     "Platform": "ST",
     "Timestamp": 1699649634000,
     "Parts": 540,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Dogen",
+    "Discoverer": "Spinova_",
+    "Glyphs": "20DEA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1730950427000,
+    "Parts": 299,
     "Gamemode": "Normal"
   },
   {
@@ -171,6 +221,36 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Honen",
+    "Discoverer": "Spinova_",
+    "Glyphs": "31F4A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1728165067000,
+    "Parts": 606,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Søren",
+    "Discoverer": "Spinova_",
+    "Glyphs": "3202A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1732458589000,
+    "Parts": 325,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "BBB Eisvana Fishing Col Neon Archive",
+    "Discoverer": "BigBuffaloBill",
+    "Glyphs": "402FA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1728888014000,
+    "Parts": 61,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Mystera Temple",
     "Discoverer": "Lianeras",
     "Glyphs": "40D5A21117FF",
@@ -181,22 +261,32 @@
   },
   {
     "Category": "Base",
-    "Name": "Monist Moon Temple - Jieda",
-    "Discoverer": "Spinova",
-    "Glyphs": "412FA21117FF",
-    "Platform": "NI",
-    "Timestamp": 1719179457000,
-    "Parts": 388,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
     "Name": "Monist Moon Temple - Lex Solis",
     "Discoverer": "Spinova",
     "Glyphs": "4159A21117FF",
     "Platform": "NI",
     "Timestamp": 1719619097000,
     "Parts": 153,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "WET///RATLESS///FISHY",
+    "Discoverer": "mobposg",
+    "Glyphs": "502FA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1728161144000,
+    "Parts": 138,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Paragate",
+    "Discoverer": "Spinova_",
+    "Glyphs": "5121A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1730564968000,
+    "Parts": 203,
     "Gamemode": "Normal"
   },
   {

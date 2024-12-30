@@ -17,6 +17,14 @@
   },
   {
     "Category": "Settlement",
+    "Name": "Anning Cove",
+    "Discoverer": "ExplorerRowan",
+    "Glyphs": "10F0A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1728031239000
+  },
+  {
+    "Category": "Settlement",
     "Name": "New Atlantid",
     "Discoverer": "Gennie",
     "Glyphs": "1142A21107FF",
@@ -81,18 +89,26 @@
   },
   {
     "Category": "Settlement",
-    "Name": "Vodskotide",
-    "Discoverer": "Lenni",
-    "Glyphs": "406CA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1726608026000
-  },
-  {
-    "Category": "Settlement",
     "Name": "<PET5>Eistopia",
     "Discoverer": "McJoxen",
     "Glyphs": "406CA21107FF",
     "Platform": "PS",
     "Timestamp": 1726632682000
+  },
+  {
+    "Category": "Settlement",
+    "Name": "<RED>Eisengrad</>",
+    "Discoverer": "Jikal",
+    "Glyphs": "406CA21107FF",
+    "Platform": "XB",
+    "Timestamp": 1727400404000
+  },
+  {
+    "Category": "Settlement",
+    "Name": "Vodskotide",
+    "Discoverer": "Lenni",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1726608026000
   }
 ]
