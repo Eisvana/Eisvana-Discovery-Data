@@ -121,6 +121,26 @@
   },
   {
     "Category": "Base",
+    "Name": "Baza 102 - Eissentam Uskabar",
+    "Discoverer": "mr. Monk",
+    "Glyphs": "20C6A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1734190137000,
+    "Parts": 24,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Thoreau",
+    "Discoverer": "Spinova_",
+    "Glyphs": "2121A21107FE",
+    "Platform": "PS",
+    "Timestamp": 1731247544000,
+    "Parts": 301,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Monist Moon Temple - Union",
     "Discoverer": "Spinova_",
     "Glyphs": "2126A21107FE",
@@ -191,6 +211,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Cu+",
+    "Discoverer": "WaZ",
+    "Glyphs": "30F6A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1727524762000,
+    "Parts": 112,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Poneyh Activated Cu",
     "Discoverer": "SupremUnicorn",
     "Glyphs": "30F6A21107FE",
@@ -215,7 +245,7 @@
     "Discoverer": "Spinova_",
     "Glyphs": "3137A21107FE",
     "Platform": "PS",
-    "Timestamp": 1723506667000,
+    "Timestamp": 1730568675000,
     "Parts": 155,
     "Gamemode": "Normal"
   },
@@ -295,8 +325,8 @@
     "Discoverer": "Lunivore",
     "Glyphs": "41A8A21107FE",
     "Platform": "ST",
-    "Timestamp": 1698172909000,
-    "Parts": 1006,
+    "Timestamp": 1728922979000,
+    "Parts": 1187,
     "Gamemode": "Normal"
   },
   {
@@ -315,7 +345,7 @@
     "Discoverer": "Spinova",
     "Glyphs": "41E1A21107FE",
     "Platform": "NI",
-    "Timestamp": 1722831341000,
+    "Timestamp": 1730811738000,
     "Parts": 200,
     "Gamemode": "Normal"
   },
@@ -327,6 +357,16 @@
     "Platform": "ST",
     "Timestamp": 1718122129000,
     "Parts": 135,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Dharmadhatu",
+    "Discoverer": "Spinova_",
+    "Glyphs": "41F1A21107FE",
+    "Platform": "PS",
+    "Timestamp": 1730868762000,
+    "Parts": 296,
     "Gamemode": "Normal"
   },
   {
@@ -357,6 +397,16 @@
     "Platform": "PS",
     "Timestamp": 1723939260000,
     "Parts": 240,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Living Ship",
+    "Discoverer": "Aervyn",
+    "Glyphs": "50F6A21107FE",
+    "Platform": "PS",
+    "Timestamp": 1733078342000,
+    "Parts": 18,
     "Gamemode": "Normal"
   },
   {

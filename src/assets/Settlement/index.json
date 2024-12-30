@@ -49,6 +49,14 @@
   },
   {
     "Category": "Settlement",
+    "Name": "Yemvab Bridge",
+    "Discoverer": "Lilac_Chicky",
+    "Glyphs": "5053A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1734494198000
+  },
+  {
+    "Category": "Settlement",
     "Name": "Dharamshala",
     "Discoverer": "Spinova_",
     "Glyphs": "103FA21107FF",
@@ -62,6 +70,14 @@
     "Glyphs": "104FA21107FF",
     "Platform": "ST",
     "Timestamp": 1721525193000
+  },
+  {
+    "Category": "Settlement",
+    "Name": "Anning Cove",
+    "Discoverer": "ExplorerRowan",
+    "Glyphs": "10F0A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1728031239000
   },
   {
     "Category": "Settlement",
@@ -129,19 +145,27 @@
   },
   {
     "Category": "Settlement",
-    "Name": "Vodskotide",
-    "Discoverer": "Lenni",
-    "Glyphs": "406CA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1726608026000
-  },
-  {
-    "Category": "Settlement",
     "Name": "<PET5>Eistopia",
     "Discoverer": "McJoxen",
     "Glyphs": "406CA21107FF",
     "Platform": "PS",
     "Timestamp": 1726632682000
+  },
+  {
+    "Category": "Settlement",
+    "Name": "<RED>Eisengrad</>",
+    "Discoverer": "Jikal",
+    "Glyphs": "406CA21107FF",
+    "Platform": "XB",
+    "Timestamp": 1727400404000
+  },
+  {
+    "Category": "Settlement",
+    "Name": "Vodskotide",
+    "Discoverer": "Lenni",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1726608026000
   },
   {
     "Category": "Settlement",
@@ -166,6 +190,14 @@
     "Glyphs": "10C3A21107FE",
     "Platform": "ST",
     "Timestamp": 1695786735000
+  },
+  {
+    "Category": "Settlement",
+    "Name": "Radioactive",
+    "Discoverer": "Aervyn",
+    "Glyphs": "10F3A21107FE",
+    "Platform": "PS",
+    "Timestamp": 1733579991000
   },
   {
     "Category": "Settlement",

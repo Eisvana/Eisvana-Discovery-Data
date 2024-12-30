@@ -131,6 +131,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Portal - Eissentam",
+    "Discoverer": "Skorp",
+    "Glyphs": "4116A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1733847191000,
+    "Parts": 84,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Sanctuary in a Frozen Land",
     "Discoverer": "BestLegend134",
     "Glyphs": "4165A11117FF",
@@ -141,12 +151,22 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Rumi",
+    "Discoverer": "Spinova_",
+    "Glyphs": "4211A11117FF",
+    "Platform": "PS",
+    "Timestamp": 1735401703000,
+    "Parts": 370,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Monist Moon Temple - Shinran",
     "Discoverer": "Spinova",
     "Glyphs": "517BA11117FF",
     "Platform": "NI",
-    "Timestamp": 1723564124000,
-    "Parts": 160,
+    "Timestamp": 1730809969000,
+    "Parts": 391,
     "Gamemode": "Normal"
   }
 ]

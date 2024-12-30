@@ -21,12 +21,22 @@
   },
   {
     "Category": "Base",
+    "Name": "Starfleet Command Centre",
+    "Discoverer": "Smaxta",
+    "Glyphs": "20E7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1733072470000,
+    "Parts": 1736,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Houlden Colony (WIP)",
     "Discoverer": "cassiddidy",
     "Glyphs": "20E7A11127FF",
     "Platform": "PS",
-    "Timestamp": 1720805761000,
-    "Parts": 711,
+    "Timestamp": 1731513052000,
+    "Parts": 1537,
     "Gamemode": "Normal"
   },
   {
@@ -47,6 +57,16 @@
     "Platform": "XB",
     "Timestamp": 1704858070000,
     "Parts": 477,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Enjalib Outpost",
+    "Discoverer": "ドンペン",
+    "Glyphs": "21A3A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1730284945000,
+    "Parts": 133,
     "Gamemode": "Normal"
   },
   {
@@ -77,6 +97,26 @@
     "Platform": "ST",
     "Timestamp": 1725962795000,
     "Parts": 79,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Twin City",
+    "Discoverer": "Spinova_",
+    "Glyphs": "31FCA11127FF",
+    "Platform": "PS",
+    "Timestamp": 1733016359000,
+    "Parts": 11,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Araham",
+    "Discoverer": "Spinova",
+    "Glyphs": "31FCA11127FF",
+    "Platform": "NI",
+    "Timestamp": 1732771778000,
+    "Parts": 464,
     "Gamemode": "Normal"
   },
   {
@@ -135,8 +175,18 @@
     "Discoverer": "Lilac",
     "Glyphs": "5053A11127FF",
     "Platform": "NI",
-    "Timestamp": 1726250030000,
-    "Parts": 1375,
+    "Timestamp": 1734836206000,
+    "Parts": 1409,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Violet Village",
+    "Discoverer": "Lilac_Chicky",
+    "Glyphs": "5053A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1734216868000,
+    "Parts": 1405,
     "Gamemode": "Normal"
   },
   {
@@ -157,6 +207,16 @@
     "Platform": "NI",
     "Timestamp": 1719711129000,
     "Parts": 216,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "E-729 Iter",
+    "Discoverer": "mobposg",
+    "Glyphs": "61F6A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1728053812000,
+    "Parts": 72,
     "Gamemode": "Normal"
   }
 ]

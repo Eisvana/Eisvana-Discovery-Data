@@ -31,6 +31,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Ossoli",
+    "Discoverer": "Spinova_",
+    "Glyphs": "20B5A21127FF",
+    "Platform": "PS",
+    "Timestamp": 1735407741000,
+    "Parts": 144,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Nibiiwaakzi Gibojeying",
     "Discoverer": "Onipuss",
     "Glyphs": "211CA21127FF",
@@ -51,6 +61,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Qieci",
+    "Discoverer": "Spinova_",
+    "Glyphs": "40A4A21127FF",
+    "Platform": "PS",
+    "Timestamp": 1728157069000,
+    "Parts": 448,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "EV4-177 Diusfloss",
     "Discoverer": "Onipuss",
     "Glyphs": "4177A21127FF",
@@ -67,6 +87,16 @@
     "Platform": "PS",
     "Timestamp": 1723390446000,
     "Parts": 324,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Maitreya",
+    "Discoverer": "Spinova_",
+    "Glyphs": "60E2A21127FF",
+    "Platform": "PS",
+    "Timestamp": 1728221066000,
+    "Parts": 471,
     "Gamemode": "Normal"
   },
   {

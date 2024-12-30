@@ -1,6 +1,36 @@
 [
   {
     "Category": "Base",
+    "Name": "Lost Fish Resort | OS",
+    "Discoverer": "Smaxta",
+    "Glyphs": "102FA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732129721000,
+    "Parts": 2372,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Pier 8",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "102FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1731510617000,
+    "Parts": 833,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "BBB Eisvana Fishing Colony Trade Outpost",
+    "Discoverer": "BigBuffaloBill",
+    "Glyphs": "102FA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1729133232000,
+    "Parts": 88,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Iridescent Archipelagos TBD",
     "Discoverer": "BrokenNocturne",
     "Glyphs": "1146A21117FF",
@@ -17,6 +47,16 @@
     "Platform": "PS",
     "Timestamp": 1726389829000,
     "Parts": 174,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "The Valdez",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "202FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1731512171000,
+    "Parts": 778,
     "Gamemode": "Normal"
   },
   {
@@ -67,6 +107,16 @@
     "Platform": "ST",
     "Timestamp": 1699649634000,
     "Parts": 540,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Dogen",
+    "Discoverer": "Spinova_",
+    "Glyphs": "20DEA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1730950427000,
+    "Parts": 299,
     "Gamemode": "Normal"
   },
   {
@@ -171,6 +221,36 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Honen",
+    "Discoverer": "Spinova_",
+    "Glyphs": "31F4A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1728165067000,
+    "Parts": 606,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Søren",
+    "Discoverer": "Spinova_",
+    "Glyphs": "3202A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1732458589000,
+    "Parts": 325,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "BBB Eisvana Fishing Col Neon Archive",
+    "Discoverer": "BigBuffaloBill",
+    "Glyphs": "402FA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1728888014000,
+    "Parts": 61,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Mystera Temple",
     "Discoverer": "Lianeras",
     "Glyphs": "40D5A21117FF",
@@ -181,22 +261,32 @@
   },
   {
     "Category": "Base",
-    "Name": "Monist Moon Temple - Jieda",
-    "Discoverer": "Spinova",
-    "Glyphs": "412FA21117FF",
-    "Platform": "NI",
-    "Timestamp": 1719179457000,
-    "Parts": 388,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
     "Name": "Monist Moon Temple - Lex Solis",
     "Discoverer": "Spinova",
     "Glyphs": "4159A21117FF",
     "Platform": "NI",
     "Timestamp": 1719619097000,
     "Parts": 153,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "WET///RATLESS///FISHY",
+    "Discoverer": "mobposg",
+    "Glyphs": "502FA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1728161144000,
+    "Parts": 138,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Paragate",
+    "Discoverer": "Spinova_",
+    "Glyphs": "5121A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1730564968000,
+    "Parts": 203,
     "Gamemode": "Normal"
   },
   {
@@ -341,6 +431,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Portal - Eissentam",
+    "Discoverer": "Skorp",
+    "Glyphs": "4116A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1733847191000,
+    "Parts": 84,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Sanctuary in a Frozen Land",
     "Discoverer": "BestLegend134",
     "Glyphs": "4165A11117FF",
@@ -351,12 +451,22 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Rumi",
+    "Discoverer": "Spinova_",
+    "Glyphs": "4211A11117FF",
+    "Platform": "PS",
+    "Timestamp": 1735401703000,
+    "Parts": 370,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Monist Moon Temple - Shinran",
     "Discoverer": "Spinova",
     "Glyphs": "517BA11117FF",
     "Platform": "NI",
-    "Timestamp": 1723564124000,
-    "Parts": 160,
+    "Timestamp": 1730809969000,
+    "Parts": 391,
     "Gamemode": "Normal"
   },
   {
@@ -381,12 +491,22 @@
   },
   {
     "Category": "Base",
+    "Name": "Starfleet Command Centre",
+    "Discoverer": "Smaxta",
+    "Glyphs": "20E7A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1733072470000,
+    "Parts": 1736,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Houlden Colony (WIP)",
     "Discoverer": "cassiddidy",
     "Glyphs": "20E7A11127FF",
     "Platform": "PS",
-    "Timestamp": 1720805761000,
-    "Parts": 711,
+    "Timestamp": 1731513052000,
+    "Parts": 1537,
     "Gamemode": "Normal"
   },
   {
@@ -407,6 +527,16 @@
     "Platform": "XB",
     "Timestamp": 1704858070000,
     "Parts": 477,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Enjalib Outpost",
+    "Discoverer": "ドンペン",
+    "Glyphs": "21A3A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1730284945000,
+    "Parts": 133,
     "Gamemode": "Normal"
   },
   {
@@ -437,6 +567,26 @@
     "Platform": "ST",
     "Timestamp": 1725962795000,
     "Parts": 79,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Twin City",
+    "Discoverer": "Spinova_",
+    "Glyphs": "31FCA11127FF",
+    "Platform": "PS",
+    "Timestamp": 1733016359000,
+    "Parts": 11,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Araham",
+    "Discoverer": "Spinova",
+    "Glyphs": "31FCA11127FF",
+    "Platform": "NI",
+    "Timestamp": 1732771778000,
+    "Parts": 464,
     "Gamemode": "Normal"
   },
   {
@@ -495,8 +645,18 @@
     "Discoverer": "Lilac",
     "Glyphs": "5053A11127FF",
     "Platform": "NI",
-    "Timestamp": 1726250030000,
-    "Parts": 1375,
+    "Timestamp": 1734836206000,
+    "Parts": 1409,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Violet Village",
+    "Discoverer": "Lilac_Chicky",
+    "Glyphs": "5053A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1734216868000,
+    "Parts": 1405,
     "Gamemode": "Normal"
   },
   {
@@ -517,6 +677,16 @@
     "Platform": "NI",
     "Timestamp": 1719711129000,
     "Parts": 216,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "E-729 Iter",
+    "Discoverer": "mobposg",
+    "Glyphs": "61F6A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1728053812000,
+    "Parts": 72,
     "Gamemode": "Normal"
   },
   {
@@ -551,6 +721,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Ossoli",
+    "Discoverer": "Spinova_",
+    "Glyphs": "20B5A21127FF",
+    "Platform": "PS",
+    "Timestamp": 1735407741000,
+    "Parts": 144,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Nibiiwaakzi Gibojeying",
     "Discoverer": "Onipuss",
     "Glyphs": "211CA21127FF",
@@ -567,6 +747,16 @@
     "Platform": "PS",
     "Timestamp": 1725203865000,
     "Parts": 533,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Qieci",
+    "Discoverer": "Spinova_",
+    "Glyphs": "40A4A21127FF",
+    "Platform": "PS",
+    "Timestamp": 1728157069000,
+    "Parts": 448,
     "Gamemode": "Normal"
   },
   {
@@ -591,6 +781,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Monist Moon Temple - Maitreya",
+    "Discoverer": "Spinova_",
+    "Glyphs": "60E2A21127FF",
+    "Platform": "PS",
+    "Timestamp": 1728221066000,
+    "Parts": 471,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Monist Moon Temple - Tathata",
     "Discoverer": "Spinova_",
     "Glyphs": "60EEA21127FF",
@@ -605,7 +805,7 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "101AA21107FF",
     "Platform": "PS",
-    "Timestamp": 1726389441000,
+    "Timestamp": 1732463508000,
     "Parts": 1176,
     "Gamemode": "Normal"
   },
@@ -755,7 +955,7 @@
     "Discoverer": "McJoxen",
     "Glyphs": "205EA21107FF",
     "Platform": "PS",
-    "Timestamp": 1726183563000,
+    "Timestamp": 1734040670000,
     "Parts": 107,
     "Gamemode": "Normal"
   },
@@ -817,6 +1017,36 @@
     "Platform": "ST",
     "Timestamp": 1699215496000,
     "Parts": 109,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "<TRANS_TRA>Eissenfarm (dairy/honey)",
+    "Discoverer": "McJoxen",
+    "Glyphs": "206CA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1733954618000,
+    "Parts": 35,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Presidio de Santa Barbara",
+    "Discoverer": "ExplorerRowan",
+    "Glyphs": "20F0A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1728348339000,
+    "Parts": 835,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Saha",
+    "Discoverer": "Spinova_",
+    "Glyphs": "2107A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1727630302000,
+    "Parts": 891,
     "Gamemode": "Normal"
   },
   {
@@ -891,12 +1121,42 @@
   },
   {
     "Category": "Base",
+    "Name": "Stu's Crash on Omseyc XII",
+    "Discoverer": "Stu",
+    "Glyphs": "303DA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1728336855000,
+    "Parts": 113,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Portal",
+    "Discoverer": "DarthLeonite",
+    "Glyphs": "303DA21107FF",
+    "Platform": "XB",
+    "Timestamp": 1727405330000,
+    "Parts": 23,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Noverian Heights",
     "Discoverer": "ZimmerJ",
     "Glyphs": "305EA21107FF",
     "Platform": "ST",
     "Timestamp": 1707679295000,
     "Parts": 2261,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Silver farme",
+    "Discoverer": "Caosgamer__hd",
+    "Glyphs": "306CA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1729879092000,
+    "Parts": 166,
     "Gamemode": "Normal"
   },
   {
@@ -967,6 +1227,16 @@
     "Platform": "ST",
     "Timestamp": 1725335576000,
     "Parts": 255,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Hot Pink Volcanos",
+    "Discoverer": "QueennMayhem",
+    "Glyphs": "4058A21107FF",
+    "Platform": "XB",
+    "Timestamp": 1731425782000,
+    "Parts": 161,
     "Gamemode": "Normal"
   },
   {
@@ -1061,16 +1331,6 @@
   },
   {
     "Category": "Base",
-    "Name": "Holland's Hideaway",
-    "Discoverer": "Spinova_",
-    "Glyphs": "405EA21107FF",
-    "Platform": "PS",
-    "Timestamp": 1720123008000,
-    "Parts": 124,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
     "Name": "Loopolis Capital City",
     "Discoverer": "Mr.Barnicle",
     "Glyphs": "405EA21107FF",
@@ -1087,26 +1347,6 @@
     "Platform": "ST",
     "Timestamp": 1718759227000,
     "Parts": 679,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
-    "Name": "Ma'at House",
-    "Discoverer": "sskeen",
-    "Glyphs": "405EA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1717367976000,
-    "Parts": 166,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
-    "Name": "Portal Depot Eissantam - Eisvana Branch",
-    "Discoverer": "Bahann",
-    "Glyphs": "405EA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1715442791000,
-    "Parts": 220,
     "Gamemode": "Normal"
   },
   {
@@ -1207,6 +1447,126 @@
     "Platform": "NI",
     "Timestamp": 1709943947000,
     "Parts": 753,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Quarry Lake Resort",
+    "Discoverer": "Sterling Argent",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1735275965000,
+    "Parts": 774,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "<IMG>CREATURE<><GREEN> Edea's Eggporium",
+    "Discoverer": "Edea Ultimecia",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1734741211000,
+    "Parts": 1102,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "\"Clouds\" | Low Orbit | OS",
+    "Discoverer": "Smaxta",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1732129490000,
+    "Parts": 375,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Lakeside Cabin",
+    "Discoverer": "Lianeras",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1731857537000,
+    "Parts": 112,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Eisvana Welcome Center",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "406CA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1731512440000,
+    "Parts": 17,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Acoastia",
+    "Discoverer": "Mr.Barnicle",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1728849710000,
+    "Parts": 1317,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Neo Lilaccordia",
+    "Discoverer": "Lilac",
+    "Glyphs": "406CA21107FF",
+    "Platform": "NI",
+    "Timestamp": 1728270518000,
+    "Parts": 1240,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Caosspieler__hd home on New arcodia",
+    "Discoverer": "Caosgamer__hd",
+    "Glyphs": "406CA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1727603379000,
+    "Parts": 242,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Walmart Supercenter",
+    "Discoverer": "Monaarch",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1727585249000,
+    "Parts": 463,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Portal Depot - Eissentam Branch",
+    "Discoverer": "Bahann",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1727217849000,
+    "Parts": 497,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Lokahi",
+    "Discoverer": "sskeen",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1727022599000,
+    "Parts": 487,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Om So Hum",
+    "Discoverer": "Spinova_",
+    "Glyphs": "406CA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1727022096000,
+    "Parts": 1035,
     "Gamemode": "Normal"
   },
   {
@@ -1315,8 +1675,18 @@
     "Discoverer": "McJoxen",
     "Glyphs": "506CA21107FF",
     "Platform": "PS",
-    "Timestamp": 1726649521000,
-    "Parts": 232,
+    "Timestamp": 1735012627000,
+    "Parts": 234,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Nagarjuna",
+    "Discoverer": "Spinova_",
+    "Glyphs": "50BEA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1729351909000,
+    "Parts": 527,
     "Gamemode": "Normal"
   },
   {
@@ -1331,22 +1701,12 @@
   },
   {
     "Category": "Base",
-    "Name": "Monist Moon Temple - Mire 5",
-    "Discoverer": "Spinova_",
-    "Glyphs": "5184A21107FF",
-    "Platform": "PS",
-    "Timestamp": 1720397315000,
-    "Parts": 355,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
     "Name": "Monist Moon Temple - Mappo",
     "Discoverer": "Spinova_",
     "Glyphs": "6053A21107FF",
     "Platform": "PS",
-    "Timestamp": 1723508623000,
-    "Parts": 213,
+    "Timestamp": 1729833076000,
+    "Parts": 174,
     "Gamemode": "Normal"
   },
   {
@@ -1471,6 +1831,26 @@
   },
   {
     "Category": "Base",
+    "Name": "Baza 102 - Eissentam Uskabar",
+    "Discoverer": "mr. Monk",
+    "Glyphs": "20C6A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1734190137000,
+    "Parts": 24,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Thoreau",
+    "Discoverer": "Spinova_",
+    "Glyphs": "2121A21107FE",
+    "Platform": "PS",
+    "Timestamp": 1731247544000,
+    "Parts": 301,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Monist Moon Temple - Union",
     "Discoverer": "Spinova_",
     "Glyphs": "2126A21107FE",
@@ -1541,6 +1921,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Cu+",
+    "Discoverer": "WaZ",
+    "Glyphs": "30F6A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1727524762000,
+    "Parts": 112,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Poneyh Activated Cu",
     "Discoverer": "SupremUnicorn",
     "Glyphs": "30F6A21107FE",
@@ -1565,7 +1955,7 @@
     "Discoverer": "Spinova_",
     "Glyphs": "3137A21107FE",
     "Platform": "PS",
-    "Timestamp": 1723506667000,
+    "Timestamp": 1730568675000,
     "Parts": 155,
     "Gamemode": "Normal"
   },
@@ -1645,8 +2035,8 @@
     "Discoverer": "Lunivore",
     "Glyphs": "41A8A21107FE",
     "Platform": "ST",
-    "Timestamp": 1698172909000,
-    "Parts": 1006,
+    "Timestamp": 1728922979000,
+    "Parts": 1187,
     "Gamemode": "Normal"
   },
   {
@@ -1665,7 +2055,7 @@
     "Discoverer": "Spinova",
     "Glyphs": "41E1A21107FE",
     "Platform": "NI",
-    "Timestamp": 1722831341000,
+    "Timestamp": 1730811738000,
     "Parts": 200,
     "Gamemode": "Normal"
   },
@@ -1677,6 +2067,16 @@
     "Platform": "ST",
     "Timestamp": 1718122129000,
     "Parts": 135,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Monist Moon Temple - Dharmadhatu",
+    "Discoverer": "Spinova_",
+    "Glyphs": "41F1A21107FE",
+    "Platform": "PS",
+    "Timestamp": 1730868762000,
+    "Parts": 296,
     "Gamemode": "Normal"
   },
   {
@@ -1707,6 +2107,16 @@
     "Platform": "PS",
     "Timestamp": 1723939260000,
     "Parts": 240,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Living Ship",
+    "Discoverer": "Aervyn",
+    "Glyphs": "50F6A21107FE",
+    "Platform": "PS",
+    "Timestamp": 1733078342000,
+    "Parts": 18,
     "Gamemode": "Normal"
   },
   {

@@ -25,6 +25,14 @@
   },
   {
     "Category": "Settlement",
+    "Name": "Radioactive",
+    "Discoverer": "Aervyn",
+    "Glyphs": "10F3A21107FE",
+    "Platform": "PS",
+    "Timestamp": 1733579991000
+  },
+  {
+    "Category": "Settlement",
     "Name": "Lentirheart",
     "Discoverer": "Salvatore-09-24",
     "Glyphs": "112BA21107FE",
