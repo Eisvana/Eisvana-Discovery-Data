@@ -5,7 +5,7 @@
     "Discoverer": "cassiddidy",
     "Glyphs": "101AA21107FF",
     "Platform": "PS",
-    "Timestamp": 1732463508000,
+    "Timestamp": 1751982419000,
     "Parts": 1176,
     "Gamemode": "Normal"
   },
@@ -51,6 +51,36 @@
   },
   {
     "Category": "Base",
+    "Name": "Pupien Colony",
+    "Discoverer": "Rowam",
+    "Glyphs": "102AA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1757036415000,
+    "Parts": 74,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Magasu Outpost",
+    "Discoverer": "error__byte",
+    "Glyphs": "102AA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1757034281000,
+    "Parts": 257,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Magasu Outpost",
+    "Discoverer": "Errorbyte9901",
+    "Glyphs": "102AA21107FF",
+    "Platform": "XB",
+    "Timestamp": 1756836653000,
+    "Parts": 219,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Mountain Base",
     "Discoverer": "Dani",
     "Glyphs": "1030A21107FF",
@@ -67,6 +97,16 @@
     "Platform": "ST",
     "Timestamp": 1701970638000,
     "Parts": 103,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Колония Hurimsb-Oint",
+    "Discoverer": "NiKeyZ only",
+    "Glyphs": "105EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1738705215000,
+    "Parts": 48,
     "Gamemode": "Normal"
   },
   {
@@ -101,12 +141,32 @@
   },
   {
     "Category": "Base",
+    "Name": "Icy caves Venhag-Weces | OS",
+    "Discoverer": "Smaxta",
+    "Glyphs": "1401A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1739516643000,
+    "Parts": 508,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Wodens-Ilyn Colony (He+, Qu+)",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "1417A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1755762118000,
+    "Parts": 204,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Omyarda Colony (NaCl)",
     "Discoverer": "cassiddidy",
     "Glyphs": "201BA21107FF",
     "Platform": "PS",
-    "Timestamp": 1704768464000,
-    "Parts": 56,
+    "Timestamp": 1751983143000,
+    "Parts": 70,
     "Gamemode": "Normal"
   },
   {
@@ -151,11 +211,31 @@
   },
   {
     "Category": "Base",
+    "Name": "Trading hub",
+    "Discoverer": "SeaLeif",
+    "Glyphs": "205EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1756927668000,
+    "Parts": 124,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Olaas Base",
+    "Discoverer": "Capn",
+    "Glyphs": "205EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1753756186000,
+    "Parts": 101,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "<EXPED>Eissen Cabin",
     "Discoverer": "McJoxen",
     "Glyphs": "205EA21107FF",
     "Platform": "PS",
-    "Timestamp": 1734040670000,
+    "Timestamp": 1750288857000,
     "Parts": 107,
     "Gamemode": "Normal"
   },
@@ -225,7 +305,7 @@
     "Discoverer": "McJoxen",
     "Glyphs": "206CA21107FF",
     "Platform": "PS",
-    "Timestamp": 1733954618000,
+    "Timestamp": 1756805598000,
     "Parts": 35,
     "Gamemode": "Normal"
   },
@@ -237,6 +317,16 @@
     "Platform": "ST",
     "Timestamp": 1728348339000,
     "Parts": 835,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Diceanoo-Seyc Base (Co, Cu+, P)",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "20FEA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1748791705000,
+    "Parts": 167,
     "Gamemode": "Normal"
   },
   {
@@ -311,12 +401,22 @@
   },
   {
     "Category": "Base",
-    "Name": "Ookep-Dodle Colony (B, Ag)",
+    "Name": "Ookep-Dodle Colony (P, Ag)",
     "Discoverer": "cassiddidy",
     "Glyphs": "301BA21107FF",
     "Platform": "PS",
-    "Timestamp": 1704776986000,
-    "Parts": 126,
+    "Timestamp": 1751593356000,
+    "Parts": 129,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Alarming ambiance",
+    "Discoverer": "Capn",
+    "Glyphs": "3031A21107FF",
+    "Platform": "ST",
+    "Timestamp": 1742095638000,
+    "Parts": 77,
     "Gamemode": "Normal"
   },
   {
@@ -381,6 +481,16 @@
   },
   {
     "Category": "Base",
+    "Name": "East Olympia",
+    "Discoverer": "Quan2Colddd",
+    "Glyphs": "3155A21107FF",
+    "Platform": "XB",
+    "Timestamp": 1750750896000,
+    "Parts": 616,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Monist Moon Temple - Mani Padme",
     "Discoverer": "Spinova_",
     "Glyphs": "316CA21107FF",
@@ -407,6 +517,16 @@
     "Platform": "PS",
     "Timestamp": 1723915129000,
     "Parts": 404,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Rigier Outpost (CO²)",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "33EAA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1756050736000,
+    "Parts": 83,
     "Gamemode": "Normal"
   },
   {
@@ -441,22 +561,22 @@
   },
   {
     "Category": "Base",
+    "Name": "Arcadia Dance Hall",
+    "Discoverer": "Capn",
+    "Glyphs": "405EA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1752692476000,
+    "Parts": 236,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Shark Island WIP",
     "Discoverer": "revivemeplz85",
     "Glyphs": "405EA21107FF",
     "Platform": "PS",
     "Timestamp": 1723045678000,
     "Parts": 435,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
-    "Name": "Arcadia Downtown",
-    "Discoverer": "Capn",
-    "Glyphs": "405EA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1722774332000,
-    "Parts": 421,
     "Gamemode": "Normal"
   },
   {
@@ -651,12 +771,182 @@
   },
   {
     "Category": "Base",
+    "Name": "Tower",
+    "Discoverer": "VedDovah",
+    "Glyphs": "405EA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1709680855000,
+    "Parts": 447,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Tako Research Station",
+    "Discoverer": "The Strongest Tako",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1757416620000,
+    "Parts": 137,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "mp",
+    "Discoverer": "marcus_sakk",
+    "Glyphs": "406CA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1756555064000,
+    "Parts": 557,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "4AL Lakeside Cabin",
+    "Discoverer": "TP4AU",
+    "Glyphs": "406CA21107FF",
+    "Platform": "XB",
+    "Timestamp": 1756502919000,
+    "Parts": 263,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Randall Island (under const)",
+    "Discoverer": "Mad",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1755643686000,
+    "Parts": 205,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Heart of Esvana base of operation",
+    "Discoverer": "PuzzledPlayer69",
+    "Glyphs": "406CA21107FF",
+    "Platform": "XB",
+    "Timestamp": 1752857017000,
+    "Parts": 1698,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Lokahi",
+    "Discoverer": "sskeen",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1752420921000,
+    "Parts": 519,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Nakatomi Plaza",
+    "Discoverer": "D000PEEES",
+    "Glyphs": "406CA21107FF",
+    "Platform": "XB",
+    "Timestamp": 1751853044000,
+    "Parts": 807,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Popes First Base",
+    "Discoverer": "PopeyePG",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1749793595000,
+    "Parts": 1295,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "\"Clouds\" | Low Orbit | OS",
+    "Discoverer": "Smaxta",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1749767758000,
+    "Parts": 375,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Neo Lilaccordia",
+    "Discoverer": "Lilac_Chicky",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1749141679000,
+    "Parts": 1240,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Iggle-Eans Colony",
+    "Discoverer": "Mystic_Spiral_",
+    "Glyphs": "406CA21107FF",
+    "Platform": "PS",
+    "Timestamp": 1741220977000,
+    "Parts": 203,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Scorcese | Water Base | (In progress)",
+    "Discoverer": "Scorcese",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1740438774000,
+    "Parts": 1662,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Uffann-Chus Base",
+    "Discoverer": "Ladyboar",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1740011255000,
+    "Parts": 104,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Placey McPlaceholder",
+    "Discoverer": "iggdawg",
+    "Glyphs": "406CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1738600401000,
+    "Parts": 32,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "The great Bridge",
+    "Discoverer": "autismprim31698",
+    "Glyphs": "406CA21107FF",
+    "Platform": "XB",
+    "Timestamp": 1737758671000,
+    "Parts": 222,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Quarry Lake Resort",
     "Discoverer": "Sterling Argent",
     "Glyphs": "406CA21107FF",
     "Platform": "ST",
-    "Timestamp": 1735275965000,
-    "Parts": 774,
+    "Timestamp": 1737607248000,
+    "Parts": 2168,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Indigo Lake Retreat",
+    "Discoverer": "indigomist3661",
+    "Glyphs": "406CA21107FF",
+    "Platform": "XB",
+    "Timestamp": 1736133596000,
+    "Parts": 54,
     "Gamemode": "Normal"
   },
   {
@@ -667,16 +957,6 @@
     "Platform": "ST",
     "Timestamp": 1734741211000,
     "Parts": 1102,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
-    "Name": "\"Clouds\" | Low Orbit | OS",
-    "Discoverer": "Smaxta",
-    "Glyphs": "406CA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1732129490000,
-    "Parts": 375,
     "Gamemode": "Normal"
   },
   {
@@ -721,56 +1001,6 @@
   },
   {
     "Category": "Base",
-    "Name": "Caosspieler__hd home on New arcodia",
-    "Discoverer": "Caosgamer__hd",
-    "Glyphs": "406CA21107FF",
-    "Platform": "PS",
-    "Timestamp": 1727603379000,
-    "Parts": 242,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
-    "Name": "Walmart Supercenter",
-    "Discoverer": "Monaarch",
-    "Glyphs": "406CA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1727585249000,
-    "Parts": 463,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
-    "Name": "Portal Depot - Eissentam Branch",
-    "Discoverer": "Bahann",
-    "Glyphs": "406CA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1727217849000,
-    "Parts": 497,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
-    "Name": "Lokahi",
-    "Discoverer": "sskeen",
-    "Glyphs": "406CA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1727022599000,
-    "Parts": 487,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
-    "Name": "Om So Hum",
-    "Discoverer": "Spinova_",
-    "Glyphs": "406CA21107FF",
-    "Platform": "PS",
-    "Timestamp": 1727022096000,
-    "Parts": 1035,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
     "Name": "Monist Moon Temple - Lisigan",
     "Discoverer": "Spinova",
     "Glyphs": "4111A21107FF",
@@ -801,6 +1031,16 @@
   },
   {
     "Category": "Base",
+    "Name": "the goal",
+    "Discoverer": "SeaLeif",
+    "Glyphs": "417CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1756939056000,
+    "Parts": 458,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Paulett's Phosphorous Mine",
     "Discoverer": "Breviceps",
     "Glyphs": "4180A21107FF",
@@ -817,6 +1057,16 @@
     "Platform": "NI",
     "Timestamp": 1718481989000,
     "Parts": 117,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Thellen (Co, Fa, N)",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "41C9A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1755570185000,
+    "Parts": 179,
     "Gamemode": "Normal"
   },
   {
@@ -875,8 +1125,8 @@
     "Discoverer": "McJoxen",
     "Glyphs": "506CA21107FF",
     "Platform": "PS",
-    "Timestamp": 1735012627000,
-    "Parts": 234,
+    "Timestamp": 1756805679000,
+    "Parts": 255,
     "Gamemode": "Normal"
   },
   {
@@ -901,12 +1151,32 @@
   },
   {
     "Category": "Base",
+    "Name": "Pillar Of Salt",
+    "Discoverer": "maxxaviersteel",
+    "Glyphs": "602AA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1757375111000,
+    "Parts": 36,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Monist Moon Temple - Mappo",
     "Discoverer": "Spinova_",
     "Glyphs": "6053A21107FF",
     "Platform": "PS",
     "Timestamp": 1729833076000,
     "Parts": 174,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "G10 [In] Portal-Pillars (Essentiam)",
+    "Discoverer": "Frealaf91",
+    "Glyphs": "60A2A21107FF",
+    "Platform": "PS",
+    "Timestamp": 1743146225000,
+    "Parts": 55,
     "Gamemode": "Normal"
   }
 ]

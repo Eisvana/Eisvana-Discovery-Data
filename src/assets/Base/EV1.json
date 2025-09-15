@@ -5,8 +5,18 @@
     "Discoverer": "Smaxta",
     "Glyphs": "102FA21117FF",
     "Platform": "ST",
-    "Timestamp": 1732129721000,
+    "Timestamp": 1750469841000,
     "Parts": 2372,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "BBB Eisvana Fishing Colony Trade Outpost",
+    "Discoverer": "BigBuffaloBill",
+    "Glyphs": "102FA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738121047000,
+    "Parts": 99,
     "Gamemode": "Normal"
   },
   {
@@ -21,12 +31,12 @@
   },
   {
     "Category": "Base",
-    "Name": "BBB Eisvana Fishing Colony Trade Outpost",
-    "Discoverer": "BigBuffaloBill",
-    "Glyphs": "102FA21117FF",
-    "Platform": "ST",
-    "Timestamp": 1729133232000,
-    "Parts": 88,
+    "Name": "Autophage Settlement Sentinel Shutdown",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "107BA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1751508933000,
+    "Parts": 34,
     "Gamemode": "Normal"
   },
   {
@@ -41,12 +51,42 @@
   },
   {
     "Category": "Base",
+    "Name": "Wellie's Welding Soaps (Em, NaCl, O)",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "1180A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1755724499000,
+    "Parts": 229,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Loddone-Olis Outpost (Ag, Cu, Pf)",
     "Discoverer": "cassiddidy",
     "Glyphs": "11AFA21117FF",
     "Platform": "PS",
     "Timestamp": 1726389829000,
     "Parts": 174,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Dimas Outpost",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1425A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1743787097000,
+    "Parts": 90,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Olbian-Pasi Base (Li)",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "1425A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1738712217000,
+    "Parts": 98,
     "Gamemode": "Normal"
   },
   {
@@ -61,12 +101,32 @@
   },
   {
     "Category": "Base",
+    "Name": "Hazeleta Portal (Ag, Cu, O)",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "204CA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1755561610000,
+    "Parts": 199,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Traders Rock",
     "Discoverer": "Mimikyu1312",
     "Glyphs": "2078A21117FF",
     "Platform": "ST",
     "Timestamp": 1695843626000,
     "Parts": 570,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Jukuhafield",
+    "Discoverer": "carpibibble",
+    "Glyphs": "207BA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1751124965000,
+    "Parts": 89,
     "Gamemode": "Normal"
   },
   {
@@ -87,16 +147,6 @@
     "Platform": "PS",
     "Timestamp": 1726388792000,
     "Parts": 1235,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
-    "Name": "Jukuhafield",
-    "Discoverer": "carpibibble",
-    "Glyphs": "207BA21117FF",
-    "Platform": "PS",
-    "Timestamp": 1710011769000,
-    "Parts": 34,
     "Gamemode": "Normal"
   },
   {
@@ -151,12 +201,62 @@
   },
   {
     "Category": "Base",
+    "Name": "Shtonsa-Octa Base (B, Na)",
+    "Discoverer": "carpibibble",
+    "Glyphs": "21AAA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1755837841000,
+    "Parts": 148,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "The UnReliable",
+    "Discoverer": "Lianeras",
+    "Glyphs": "21B2A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1746450680000,
+    "Parts": 2997,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Cucan Colony (Pf)",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "2404A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1756056306000,
+    "Parts": 94,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Spark's Cansistors (Ag, Au, O)",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "240AA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1755995112000,
+    "Parts": 177,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Sea Air Bar'N'Grill",
     "Discoverer": "AirosRhyner",
     "Glyphs": "300BA21117FF",
     "Platform": "ST",
     "Timestamp": 1696738656000,
     "Parts": 201,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "The UnReliable WIPP",
+    "Discoverer": "Lianeras",
+    "Glyphs": "3051A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1745696626000,
+    "Parts": 2968,
     "Gamemode": "Normal"
   },
   {
@@ -275,8 +375,8 @@
     "Discoverer": "mobposg",
     "Glyphs": "502FA21117FF",
     "Platform": "XB",
-    "Timestamp": 1728161144000,
-    "Parts": 138,
+    "Timestamp": 1738251041000,
+    "Parts": 335,
     "Gamemode": "Normal"
   },
   {
@@ -287,6 +387,16 @@
     "Platform": "PS",
     "Timestamp": 1730564968000,
     "Parts": 203,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Esembar-Eovi Base (Py)",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "516EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1756528522000,
+    "Parts": 70,
     "Gamemode": "Normal"
   },
   {

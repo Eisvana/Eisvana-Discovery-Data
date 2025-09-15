@@ -37,7 +37,7 @@
     "Platform": "XB",
     "Timestamp": 1709447457000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -1217,7 +1217,7 @@
     "Platform": "GX",
     "Timestamp": 1695963683000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -1747,7 +1747,7 @@
     "Platform": "ST",
     "Timestamp": 1721398482000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2217,7 +2217,7 @@
     "Platform": "GX",
     "Timestamp": 1695933067000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -2247,7 +2247,7 @@
     "Platform": "GX",
     "Timestamp": 1695935281000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2327,7 +2327,7 @@
     "Platform": "GX",
     "Timestamp": 1695962372000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -2567,7 +2567,7 @@
     "Platform": "ST",
     "Timestamp": 1721543475000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -3557,7 +3557,7 @@
     "Platform": "GX",
     "Timestamp": 1696300972000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -3647,7 +3647,7 @@
     "Platform": "GX",
     "Timestamp": 1696017202000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 2
   },
   {
     "Category": "SolarSystem",
@@ -4377,7 +4377,7 @@
     "Platform": "GX",
     "Timestamp": 1696291495000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -4607,7 +4607,7 @@
     "Platform": "ST",
     "Timestamp": 1721632446000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -4707,7 +4707,7 @@
     "Platform": "ST",
     "Timestamp": 1721637853000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -4817,7 +4817,7 @@
     "Platform": "XB",
     "Timestamp": 1712985465000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -4867,7 +4867,7 @@
     "Platform": "XB",
     "Timestamp": 1712984427000,
     "Correctly Prefixed": true,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -5288,5 +5288,395 @@
     "Timestamp": 1695962823000,
     "Correctly Prefixed": true,
     "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-3E9 Ufjord-Luo",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "03E9A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1755625484000,
+    "Correctly Prefixed": true,
+    "Planets": 2
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-3ED Atfilit",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "03EDA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1755794157000,
+    "Correctly Prefixed": true,
+    "Planets": 3
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-3EE Kufslu",
+    "Discoverer": "iggdawg",
+    "Glyphs": "03EEA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1738352113000,
+    "Correctly Prefixed": true,
+    "Planets": 2
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-3EF Yolansfor",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "03EFA21127FF",
+    "Platform": "XB",
+    "Timestamp": 1749050521000,
+    "Correctly Prefixed": true,
+    "Planets": 3
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-3F0 Zachar",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "03F0A21127FF",
+    "Platform": "XB",
+    "Timestamp": 1740249407000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-3F1 Mundek-Sover XIII",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "03F1A21127FF",
+    "Platform": "XB",
+    "Timestamp": 1749158155000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-3F4 Eisonlig",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "03F4A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1754159708000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-3F5 Reolei IV",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "03F5A21127FF",
+    "Platform": "XB",
+    "Timestamp": 1743590353000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-3F7 Okumen",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "03F7A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1754941747000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-3FA Nekisk",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "03FAA21127FF",
+    "Platform": "XB",
+    "Timestamp": 1743150659000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-3FB Cacessi",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "03FBA21127FF",
+    "Platform": "XB",
+    "Timestamp": 1743687740000,
+    "Correctly Prefixed": true,
+    "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-400 Uonnusk X",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "0400A21127FF",
+    "Platform": "XB",
+    "Timestamp": 1743589894000,
+    "Correctly Prefixed": true,
+    "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-401 Lesiki-Sio V",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "0401A21127FF",
+    "Platform": "XB",
+    "Timestamp": 1749161124000,
+    "Correctly Prefixed": true,
+    "Planets": 3
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-402 Syfirdin IV",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "0402A21127FF",
+    "Platform": "XB",
+    "Timestamp": 1743150364000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-404 Bentha",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "0404A21127FF",
+    "Platform": "XB",
+    "Timestamp": 1740023553000,
+    "Correctly Prefixed": true,
+    "Planets": 3
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-405 Olekstile",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "0405A21127FF",
+    "Platform": "XB",
+    "Timestamp": 1743594985000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-407 Aaning",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0406A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1738330849000,
+    "Correctly Prefixed": false,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-408 Nufarha-Eei",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "0408A21127FF",
+    "Platform": "XB",
+    "Timestamp": 1749146881000,
+    "Correctly Prefixed": true,
+    "Planets": 1
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-409 Ciperg Batov",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0409A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1738345397000,
+    "Correctly Prefixed": true,
+    "Planets": 2
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-40B Agboka",
+    "Discoverer": "iggdawg",
+    "Glyphs": "040BA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1755793038000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-40C Rulusastii",
+    "Discoverer": "iggdawg",
+    "Glyphs": "040CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1738349241000,
+    "Correctly Prefixed": true,
+    "Planets": 2
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-40E Optibeet",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "040EA21127FF",
+    "Platform": "XB",
+    "Timestamp": 1749050391000,
+    "Correctly Prefixed": true,
+    "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-410 Eurisem",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "0410A21127FF",
+    "Platform": "XB",
+    "Timestamp": 1749069318000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-412 Duluth",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0412A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1738424991000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-413 Packet-Duza",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "0413A21127FF",
+    "Platform": "XB",
+    "Timestamp": 1740023728000,
+    "Correctly Prefixed": true,
+    "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-416 Holafss",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "0416A21127FF",
+    "Platform": "XB",
+    "Timestamp": 1743156722000,
+    "Correctly Prefixed": true,
+    "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-417 Thesaudk",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "0417A21127FF",
+    "Platform": "XB",
+    "Timestamp": 1740249757000,
+    "Correctly Prefixed": true,
+    "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-418 Traumu",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0418A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1738499272000,
+    "Correctly Prefixed": true,
+    "Planets": 3
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-419 Keuskrip",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "0419A21127FF",
+    "Platform": "XB",
+    "Timestamp": 1740024868000,
+    "Correctly Prefixed": true,
+    "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-41A Sobolut",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "041AA21127FF",
+    "Platform": "XB",
+    "Timestamp": 1749161256000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-41B Idurhete",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "041BA21127FF",
+    "Platform": "XB",
+    "Timestamp": 1740249508000,
+    "Correctly Prefixed": true,
+    "Planets": 2
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-41C Alokoe-Kom",
+    "Discoverer": "YucaFrita",
+    "Glyphs": "041CA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1754769171000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-41E Viking Mule",
+    "Discoverer": "iggdawg",
+    "Glyphs": "041EA21127FF",
+    "Platform": "ST",
+    "Timestamp": 1738499364000,
+    "Correctly Prefixed": false,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-41F Lastavuu",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "041FA21127FF",
+    "Platform": "XB",
+    "Timestamp": 1740249600000,
+    "Correctly Prefixed": true,
+    "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-422 Krepeager XVIII",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "0422A21127FF",
+    "Platform": "XB",
+    "Timestamp": 1743150516000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-426 Nevermore",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "0426A21127FF",
+    "Platform": "XB",
+    "Timestamp": 1743593771000,
+    "Correctly Prefixed": true,
+    "Planets": 5
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-427 Diskriv-Sotuo I",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "0427A21127FF",
+    "Platform": "XB",
+    "Timestamp": 1740249677000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-428 Eferane",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0428A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1738346065000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV4-429 Rautim",
+    "Discoverer": "iggdawg",
+    "Glyphs": "0429A21127FF",
+    "Platform": "ST",
+    "Timestamp": 1738500193000,
+    "Correctly Prefixed": true,
+    "Planets": 6
   }
 ]

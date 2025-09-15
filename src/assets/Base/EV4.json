@@ -81,12 +81,32 @@
   },
   {
     "Category": "Base",
+    "Name": "Bewdleyiw-Wotry Base",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "41BEA21127FF",
+    "Platform": "PS",
+    "Timestamp": 1736309154000,
+    "Parts": 18,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Monist Moon Temple - Barbelo",
     "Discoverer": "Spinova_",
     "Glyphs": "5094A21127FF",
     "Platform": "PS",
     "Timestamp": 1723390446000,
     "Parts": 324,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Nice Big Cogs (Cu, Fe++, Fe²O³, O)",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "51C2A21127FF",
+    "Platform": "PS",
+    "Timestamp": 1755663558000,
+    "Parts": 460,
     "Gamemode": "Normal"
   },
   {
