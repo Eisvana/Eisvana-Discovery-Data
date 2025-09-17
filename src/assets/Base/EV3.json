@@ -1,6 +1,36 @@
 [
   {
     "Category": "Base",
+    "Name": "Quartz Valley",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1407A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1756732163000,
+    "Parts": 1825,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Aborda Base (He, CH4)",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "1407A11127FF",
+    "Platform": "PS",
+    "Timestamp": 1751812866000,
+    "Parts": 132,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "BATHYPELAGIC///APHOTIC///SANCTUARY",
+    "Discoverer": "mobposg",
+    "Glyphs": "1425A11127FF",
+    "Platform": "XB",
+    "Timestamp": 1738464967000,
+    "Parts": 296,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Monist Moon Temple - Ropal",
     "Discoverer": "Spinova",
     "Glyphs": "2065A11127FF",
@@ -15,17 +45,17 @@
     "Discoverer": "Lianeras",
     "Glyphs": "20D5A11127FF",
     "Platform": "ST",
-    "Timestamp": 1711192214000,
-    "Parts": 1137,
+    "Timestamp": 1753538105000,
+    "Parts": 1100,
     "Gamemode": "Normal"
   },
   {
     "Category": "Base",
-    "Name": "Starfleet Command Centre",
+    "Name": "Starfleet Command Centre | OS",
     "Discoverer": "Smaxta",
     "Glyphs": "20E7A11127FF",
     "Platform": "ST",
-    "Timestamp": 1733072470000,
+    "Timestamp": 1750470467000,
     "Parts": 1736,
     "Gamemode": "Normal"
   },
@@ -81,6 +111,16 @@
   },
   {
     "Category": "Base",
+    "Name": "plant creature outpost",
+    "Discoverer": "Uncultured_Fungi",
+    "Glyphs": "30B8A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1744542564000,
+    "Parts": 19,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Bubble's Ship and Salvage",
     "Discoverer": "parsnipphoenix",
     "Glyphs": "3159A11127FF",
@@ -95,8 +135,8 @@
     "Discoverer": "Royal",
     "Glyphs": "31A7A11127FF",
     "Platform": "ST",
-    "Timestamp": 1725962795000,
-    "Parts": 79,
+    "Timestamp": 1738215806000,
+    "Parts": 84,
     "Gamemode": "Normal"
   },
   {
@@ -172,21 +212,21 @@
   {
     "Category": "Base",
     "Name": "Violet Village",
-    "Discoverer": "Lilac",
+    "Discoverer": "Lilac_Chicky",
     "Glyphs": "5053A11127FF",
-    "Platform": "NI",
-    "Timestamp": 1734836206000,
+    "Platform": "ST",
+    "Timestamp": 1749141530000,
     "Parts": 1409,
     "Gamemode": "Normal"
   },
   {
     "Category": "Base",
     "Name": "Violet Village",
-    "Discoverer": "Lilac_Chicky",
+    "Discoverer": "Lilac",
     "Glyphs": "5053A11127FF",
-    "Platform": "ST",
-    "Timestamp": 1734216868000,
-    "Parts": 1405,
+    "Platform": "NI",
+    "Timestamp": 1734836206000,
+    "Parts": 1409,
     "Gamemode": "Normal"
   },
   {

@@ -51,6 +51,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Agbaoqi Town Base",
+    "Discoverer": "Smaxta",
+    "Glyphs": "10E9A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1749984469000,
+    "Parts": 111,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Paulavi-Adca Colony",
     "Discoverer": "LordDraCool241",
     "Glyphs": "1178A11117FF",
@@ -111,6 +121,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Union of Intergalactic Systems Embassy",
+    "Discoverer": "TheCatPilot2327",
+    "Glyphs": "405DA11117FF",
+    "Platform": "XB",
+    "Timestamp": 1750065900000,
+    "Parts": 417,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Crystorm Crag",
     "Discoverer": "Lunivore",
     "Glyphs": "40CDA11117FF",
@@ -142,11 +162,11 @@
   {
     "Category": "Base",
     "Name": "Sanctuary in a Frozen Land",
-    "Discoverer": "BestLegend134",
+    "Discoverer": "Legend134",
     "Glyphs": "4165A11117FF",
     "Platform": "ST",
-    "Timestamp": 1697164296000,
-    "Parts": 225,
+    "Timestamp": 1751227319000,
+    "Parts": 374,
     "Gamemode": "Normal"
   },
   {
@@ -157,6 +177,16 @@
     "Platform": "PS",
     "Timestamp": 1735401703000,
     "Parts": 370,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Fishing - Radioactive",
+    "Discoverer": "Skorp",
+    "Glyphs": "5091A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1739638781000,
+    "Parts": 130,
     "Gamemode": "Normal"
   },
   {

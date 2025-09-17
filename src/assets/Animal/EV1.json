@@ -129,6 +129,22 @@
   },
   {
     "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "1010A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1729748450000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Lunivore",
+    "Glyphs": "1010A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1729748457000
+  },
+  {
+    "Category": "Animal",
     "Name": "Almostbird (Z. Ryeeaum)",
     "Discoverer": "YucaFrita",
     "Glyphs": "1012A21117FF",
@@ -494,6 +510,14 @@
     "Glyphs": "102FA21117FF",
     "Platform": "ST",
     "Timestamp": 1721994223000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "102FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1731042061000
   },
   {
     "Category": "Animal",
@@ -1026,10 +1050,58 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "107FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1755899760000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "107FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1755899767000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Caosgamer__hd",
     "Glyphs": "108BA21117FF",
     "Platform": "PS",
     "Timestamp": 1722692920000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "1092A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1756673898000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "1092A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1756673908000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "1092A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1756674630000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "1092A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1756687266000
   },
   {
     "Category": "Animal",
@@ -2090,6 +2162,14 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "1107A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732530318000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "1109A21117FF",
     "Platform": "ST",
@@ -2850,6 +2930,14 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "1162A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738286047000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "cassiddidy",
     "Glyphs": "116EA21117FF",
     "Platform": "PS",
@@ -2886,6 +2974,14 @@
     "Glyphs": "116EA21117FF",
     "Platform": "PS",
     "Timestamp": 1723103333000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "116EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1755661300000
   },
   {
     "Category": "Animal",
@@ -3566,6 +3662,54 @@
     "Glyphs": "11B7A21117FF",
     "Platform": "PS",
     "Timestamp": 1722709198000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "11C0A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753989873000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "11C0A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753989882000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "11C0A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753989891000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "11C0A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753989906000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "11C0A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753989911000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "11C0A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753989916000
   },
   {
     "Category": "Animal",
@@ -4322,6 +4466,718 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "gustavsbc~",
+    "Glyphs": "13EBA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1756316911000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "gustavsbc~",
+    "Glyphs": "13EBA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1756316920000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "13F5A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1757007869000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "13F5A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1757007968000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "13FCA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1756340947000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "13FCA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1756340951000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "13FCA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1756340956000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "13FCA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1756340964000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "13FCA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1756340969000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "13FCA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1756340975000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "13FCA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1756340985000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "13FCA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1756340991000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "13FCA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1756340997000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "13FCA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1756341007000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "13FCA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1756341015000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "1404A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1749241351000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "1404A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1749241361000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "1404A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1749241374000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "1404A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1749241417000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Royal",
+    "Glyphs": "1406A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738217877000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "1408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739512648000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "1408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739512660000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "1408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739512668000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "1408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739512677000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "1408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739512691000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "1408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739512700000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "1408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739512708000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "1408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739512718000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "1408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739512759000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "1408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739512769000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1409A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738348917000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1409A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738424723000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "140AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513818000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "140AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513820000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "140AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513840000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "140AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513853000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "140AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513868000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "140AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513877000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "140AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513890000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "140AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513913000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "140AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513923000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "140AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513931000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "1412A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1738593300000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "1413A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743589919000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "1413A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743589929000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "1413A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743589935000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "1413A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743589944000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "1413A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743589952000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "1413A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743589960000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "1413A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743589970000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "1413A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743589977000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1415A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1757000849000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1415A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1757000876000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "1418A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1738593227000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "1418A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1738593234000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "1419A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740032953000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "1419A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740032959000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "1419A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740032967000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "1419A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740032976000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "1419A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740032986000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "1419A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740032995000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "141BA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513414000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "141BA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513423000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "141BA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513437000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "141BA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513446000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "141BA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513462000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "141BA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513478000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "141BA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513507000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "141BA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513519000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "141BA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513525000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "141BA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513532000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "141BA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513547000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "141BA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513555000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Erik",
+    "Glyphs": "141DA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738554807000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Erik",
+    "Glyphs": "141DA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738554932000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Erik",
+    "Glyphs": "141DA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738555178000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Erik",
+    "Glyphs": "141DA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738555348000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1425A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738275179000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1425A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738281465000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1425A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738500784000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1425A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738500837000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "1425A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1738593310000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "1427A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1738495560000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "1427A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1738495564000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "1427A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1738495569000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Royal",
+    "Glyphs": "1428A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738223853000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Royal",
+    "Glyphs": "1428A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738223862000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Royal",
+    "Glyphs": "1428A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738223870000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Royal",
+    "Glyphs": "1428A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738223875000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "2002A21117FF",
     "Platform": "ST",
@@ -4382,6 +5238,46 @@
     "Glyphs": "2002A21117FF",
     "Platform": "ST",
     "Timestamp": 1695936619000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Чмоня",
+    "Glyphs": "2006A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1756808037000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Чмоня",
+    "Glyphs": "2006A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1756808216000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Чмоня",
+    "Glyphs": "2006A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1756808292000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Чмоня",
+    "Glyphs": "2006A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1756808440000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Чмоня",
+    "Glyphs": "2006A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1756808593000
   },
   {
     "Category": "Animal",
@@ -4526,6 +5422,46 @@
     "Glyphs": "200AA21117FF",
     "Platform": "ST",
     "Timestamp": 1695887861000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "2011A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1732678991000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "2011A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1732679024000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "2011A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1732679032000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "2011A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1732679057000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "2011A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1732679062000
   },
   {
     "Category": "Animal",
@@ -4714,6 +5650,102 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "gustavsbc~",
+    "Glyphs": "202AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1756316769000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "gustavsbc~",
+    "Glyphs": "202AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1756316776000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "gustavsbc~",
+    "Glyphs": "202AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1756316792000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "gustavsbc~",
+    "Glyphs": "202AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1756316798000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "gustavsbc~",
+    "Glyphs": "202AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1756316804000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "gustavsbc~",
+    "Glyphs": "202AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1756316867000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "gustavsbc~",
+    "Glyphs": "202AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1756316876000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "gustavsbc~",
+    "Glyphs": "202AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1756316881000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "gustavsbc~",
+    "Glyphs": "202AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1756316887000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "202FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1727055632000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "202FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1727055639000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "202FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1731042084000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Lenni",
     "Glyphs": "203AA21117FF",
     "Platform": "ST",
@@ -4814,6 +5846,94 @@
     "Glyphs": "203EA21117FF",
     "Platform": "ST",
     "Timestamp": 1709316896000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "205AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732529760000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "205AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732529767000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "205AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732529776000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "205AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732529782000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "205AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732529788000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "205AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732529795000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "205AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732529801000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "205AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732529810000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "205AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732529817000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "205AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732529823000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "205AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732529831000
   },
   {
     "Category": "Animal",
@@ -5046,6 +6166,54 @@
     "Glyphs": "207BA21117FF",
     "Platform": "PS",
     "Timestamp": 1709139901000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "207FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1752590703000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "207FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1752590710000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "207FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1752590718000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "207FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1752590723000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "207FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1752590733000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "207FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1752590742000
   },
   {
     "Category": "Animal",
@@ -5714,6 +6882,38 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "20DEA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1731165620000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "20DEA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1731165627000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "20DEA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1731165633000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "20DEA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1731792233000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "cassiddidy",
     "Glyphs": "20F9A21117FF",
     "Platform": "PS",
@@ -6106,6 +7306,14 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Uninvited Guest",
+    "Glyphs": "2133A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1726055891000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "2135A21117FF",
     "Platform": "ST",
@@ -6491,6 +7699,46 @@
     "Category": "Animal",
     "Name": "",
     "Discoverer": "cassiddidy",
+    "Glyphs": "216EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1752590758000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "216EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1752590763000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "216EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1752590770000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "216EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1752620768000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "216EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1752620777000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
     "Glyphs": "2170A21117FF",
     "Platform": "PS",
     "Timestamp": 1701469542000
@@ -6746,6 +7994,14 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Чмоня",
+    "Glyphs": "2192A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739207477000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Lenni",
     "Glyphs": "219AA21117FF",
     "Platform": "ST",
@@ -6810,6 +8066,14 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "stubkitty",
+    "Glyphs": "219AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739848227000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "cassiddidy",
     "Glyphs": "21AAA21117FF",
     "Platform": "PS",
@@ -6854,6 +8118,22 @@
     "Glyphs": "21AAA21117FF",
     "Platform": "PS",
     "Timestamp": 1696677054000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Чмоня",
+    "Glyphs": "21ADA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739215148000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Чмоня",
+    "Glyphs": "21ADA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739215160000
   },
   {
     "Category": "Animal",
@@ -6954,6 +8234,14 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Lenni",
+    "Glyphs": "21C0A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1726068763000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "cassiddidy",
     "Glyphs": "21C1A21117FF",
     "Platform": "PS",
@@ -7027,6 +8315,14 @@
     "Category": "Animal",
     "Name": "",
     "Discoverer": "cassiddidy",
+    "Glyphs": "21C1A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1755899748000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
     "Glyphs": "21C5A21117FF",
     "Platform": "PS",
     "Timestamp": 1701533449000
@@ -7086,6 +8382,22 @@
     "Glyphs": "21CAA21117FF",
     "Platform": "PS",
     "Timestamp": 1696770308000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "gustav~",
+    "Glyphs": "21D0A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1737578875000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "gustav~",
+    "Glyphs": "21D0A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1737578884000
   },
   {
     "Category": "Animal",
@@ -7322,6 +8634,38 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "gustav~",
+    "Glyphs": "21F6A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1737810401000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "gustav~",
+    "Glyphs": "21F6A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1737810407000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "gustav~",
+    "Glyphs": "21F6A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1737810414000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "gustav~",
+    "Glyphs": "21F6A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1737811050000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "cassiddidy",
     "Glyphs": "21FCA21117FF",
     "Platform": "PS",
@@ -7342,6 +8686,14 @@
     "Glyphs": "21FCA21117FF",
     "Platform": "PS",
     "Timestamp": 1723102899000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "21FCA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1751515196000
   },
   {
     "Category": "Animal",
@@ -7446,6 +8798,326 @@
     "Glyphs": "220FA21117FF",
     "Platform": "ST",
     "Timestamp": 1699777381000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "23EAA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740018428000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "23EAA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740018433000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "23EAA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740018443000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "23EAA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740018451000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "23EAA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740018457000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "23EAA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740018465000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "23EAA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740018492000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "23EAA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740018561000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "23EAA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740019143000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "23EAA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740019146000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "23EAA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740019156000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "23EAA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740019349000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "23EAA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740019355000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "23EAA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740019616000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "23EAA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740019736000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Erik",
+    "Glyphs": "23F0A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738560874000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "2408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739512843000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "2408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739512855000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "2408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739512864000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "2408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739512871000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "2408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739512880000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "2408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739512914000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "240AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739514031000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "2412A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1738593364000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "2412A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1738593377000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "2412A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1738593394000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "2416A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1749228963000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "2416A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1749228972000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "2419A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740115602000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "2419A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740115612000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "2419A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740115619000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "2419A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1740115626000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "241BA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513734000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "241BA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513770000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Royal",
+    "Glyphs": "2423A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738220459000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Royal",
+    "Glyphs": "2423A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738220466000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "2427A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1738496217000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "2427A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1738496228000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "2427A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1738496236000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "2427A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1738593159000
   },
   {
     "Category": "Animal",
@@ -7718,6 +9390,38 @@
     "Glyphs": "302FA21117FF",
     "Platform": "ST",
     "Timestamp": 1723454497000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "302FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1727055679000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "302FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1727055705000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "302FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1732678948000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "302FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1732678959000
   },
   {
     "Category": "Animal",
@@ -8194,6 +9898,14 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "ExplorerRowan",
+    "Glyphs": "307BA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1743641386000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "3080A21117FF",
     "Platform": "ST",
@@ -8206,6 +9918,54 @@
     "Glyphs": "308AA21117FF",
     "Platform": "PS",
     "Timestamp": 1722436541000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "3092A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753165304000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "3092A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753165314000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "3092A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753165334000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "3092A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753165340000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "3092A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753165358000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "3092A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753165367000
   },
   {
     "Category": "Animal",
@@ -8841,6 +10601,22 @@
   },
   {
     "Category": "Animal",
+    "Name": "Dustprowler",
+    "Discoverer": "ExplorerRowan",
+    "Glyphs": "30FEA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1728647475000
+  },
+  {
+    "Category": "Animal",
+    "Name": "Duneshark",
+    "Discoverer": "ExplorerRowan",
+    "Glyphs": "30FEA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1728853556000
+  },
+  {
+    "Category": "Animal",
     "Name": "Carnivine (L. Lobugdum)",
     "Discoverer": "YucaFrita",
     "Glyphs": "3106A21117FF",
@@ -9394,6 +11170,110 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "3162A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738296647000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "3162A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738296656000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "3162A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738296670000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "3162A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738296677000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "3162A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738296700000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "3162A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738296706000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "3162A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738296734000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "3162A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738296741000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "3162A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738296774000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "3162A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738296781000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "3162A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738296790000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "3162A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738296797000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "3162A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738296807000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Caosgamer__hd",
     "Glyphs": "3167A21117FF",
     "Platform": "PS",
@@ -9666,10 +11546,74 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Чмоня",
+    "Glyphs": "3192A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738567306000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Чмоня",
+    "Glyphs": "3192A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738567322000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Чмоня",
+    "Glyphs": "3192A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738567827000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Чмоня",
+    "Glyphs": "3192A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738567873000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Чмоня",
+    "Glyphs": "3192A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738567905000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Чмоня",
+    "Glyphs": "3192A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739207444000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "3197A21117FF",
     "Platform": "ST",
     "Timestamp": 1704051331000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "319EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753165390000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "319EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753165401000
   },
   {
     "Category": "Animal",
@@ -9954,6 +11898,126 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "31F4A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1728220771000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "31F4A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1728220779000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "31F4A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1728220786000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "31F4A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1728220802000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "31F4A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1728220815000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "31F4A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1728220821000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "3202A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1732459017000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "3202A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1732459036000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "3202A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1732459043000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "3202A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1732459053000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "3202A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1732459058000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "3202A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1732459066000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "3202A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1732459076000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "3202A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1732459109000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "3202A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1732459136000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "3206A21117FF",
     "Platform": "ST",
@@ -10102,6 +12166,182 @@
     "Glyphs": "3209A21117FF",
     "Platform": "ST",
     "Timestamp": 1705770675000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "gustavsbc~",
+    "Glyphs": "33EBA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1756326304000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "gustavsbc~",
+    "Glyphs": "33EBA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1756366947000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "gustavsbc~",
+    "Glyphs": "33EBA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1756366955000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "gustavsbc~",
+    "Glyphs": "33EBA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1756366969000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "gustavsbc~",
+    "Glyphs": "33EBA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1756366980000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "gustavsbc~",
+    "Glyphs": "33EBA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1756366986000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "33F5A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1757007801000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "33F5A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1757007846000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "33F5A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1757007895000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Чмоня",
+    "Glyphs": "3408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739215040000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Чмоня",
+    "Glyphs": "3408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739215059000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Чмоня",
+    "Glyphs": "3408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739215067000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Чмоня",
+    "Glyphs": "3408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739215085000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Чмоня",
+    "Glyphs": "3408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739215089000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "3408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513314000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "340AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739514134000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "340FA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743139079000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "340FA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743139085000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "340FA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743139095000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "340FA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743139102000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "340FA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743139110000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "340FA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743139932000
   },
   {
     "Category": "Animal",
@@ -10366,6 +12606,70 @@
     "Glyphs": "4023A21117FF",
     "Platform": "PS",
     "Timestamp": 1722360102000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "402FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1727027390000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "402FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1727027395000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "402FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1727027400000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "402FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1727027408000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "402FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1727027415000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "402FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1727027596000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "402FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1727027605000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "402FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1727027615000
   },
   {
     "Category": "Animal",
@@ -11450,6 +13754,78 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "4162A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738296816000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "4162A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738296825000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "4162A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738296835000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "4162A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738296843000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "4162A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738296899000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "416EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753165408000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "416EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753165424000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "416EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753165437000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "416EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753165446000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "cassiddidy",
     "Glyphs": "418AA21117FF",
     "Platform": "PS",
@@ -11486,6 +13862,38 @@
     "Glyphs": "418AA21117FF",
     "Platform": "PS",
     "Timestamp": 1706581656000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "418CA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1728220724000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "418CA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1728220731000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "418CA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1728220739000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "418CA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1728220749000
   },
   {
     "Category": "Animal",
@@ -12074,6 +14482,22 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Чмоня",
+    "Glyphs": "4202A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739215123000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Чмоня",
+    "Glyphs": "4202A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739215124000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Greens",
     "Glyphs": "4209A21117FF",
     "Platform": "ST",
@@ -12118,6 +14542,150 @@
     "Glyphs": "4209A21117FF",
     "Platform": "ST",
     "Timestamp": 1705769390000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "43FDA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743137491000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "43FDA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743137501000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "43FDA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743137507000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "43FDA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743137513000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "43FDA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743137520000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "43FDA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743137529000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "43FDA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743137536000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "4408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739512933000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "4408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739512947000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "4408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739512956000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "4408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513046000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "4408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513056000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Royal",
+    "Glyphs": "4423A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738220484000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Royal",
+    "Glyphs": "4423A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738220484000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Royal",
+    "Glyphs": "4423A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738220484000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "4427A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1738518838000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "4427A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1738524253000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "4427A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1738529458000
   },
   {
     "Category": "Animal",
@@ -12414,6 +14982,54 @@
     "Glyphs": "502EA21117FF",
     "Platform": "PS",
     "Timestamp": 1722566289000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "502FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1727055671000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "502FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1727238155000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "502FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1727238162000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "502FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1727238170000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "502FA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1727339260000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Smaxta",
+    "Glyphs": "502FA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732196475000
   },
   {
     "Category": "Animal",
@@ -12762,6 +15378,54 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "507BA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1751180863000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "507BA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1751180871000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "507BA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1751180879000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "507BA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1751180885000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "507BA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1751180894000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "507BA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1751180902000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "5080A21117FF",
     "Platform": "ST",
@@ -12846,6 +15510,14 @@
     "Glyphs": "50A7A21117FF",
     "Platform": "PS",
     "Timestamp": 1717273615000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "50B0A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1729352479000
   },
   {
     "Category": "Animal",
@@ -13134,6 +15806,54 @@
     "Glyphs": "511DA21117FF",
     "Platform": "ST",
     "Timestamp": 1706447641000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "5121A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1729443646000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "5121A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1729443655000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "5121A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1729443664000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "5121A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1729443671000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "5121A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1729443681000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "5121A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1730566428000
   },
   {
     "Category": "Animal",
@@ -13451,6 +16171,22 @@
     "Category": "Animal",
     "Name": "",
     "Discoverer": "cassiddidy",
+    "Glyphs": "5149A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1732678968000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "5149A21117FF",
+    "Platform": "PS",
+    "Timestamp": 1732678977000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
     "Glyphs": "516EA21117FF",
     "Platform": "PS",
     "Timestamp": 1696999216000
@@ -13462,6 +16198,46 @@
     "Glyphs": "516EA21117FF",
     "Platform": "PS",
     "Timestamp": 1696999226000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "516EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1752590553000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "516EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1752590561000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "516EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1752590586000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "516EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1752590610000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "516EA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1756677453000
   },
   {
     "Category": "Animal",
@@ -13550,6 +16326,14 @@
     "Glyphs": "51C5A21117FF",
     "Platform": "PS",
     "Timestamp": 1701406604000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Spinova_",
+    "Glyphs": "51CDA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1736611485000
   },
   {
     "Category": "Animal",
@@ -13742,6 +16526,118 @@
     "Glyphs": "5209A21117FF",
     "Platform": "ST",
     "Timestamp": 1705771359000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "5402A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743154541000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "5402A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743154550000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "5402A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743154561000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "5402A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743154608000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "5402A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743156747000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "5402A21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743156754000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "5408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513106000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "5408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513114000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "5408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513121000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "5408A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1739513190000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "540FA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743138365000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "540FA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743138370000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "540FA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743138822000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "LordDraCool241",
+    "Glyphs": "540FA21117FF",
+    "Platform": "XB",
+    "Timestamp": 1743138830000
   },
   {
     "Category": "Animal",
@@ -13954,6 +16850,94 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "605AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732529880000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "605AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732529888000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "605AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732529897000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "605AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732529902000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "605AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732529910000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "605AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732529916000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "605AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732529925000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "605AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732529933000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "605AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732529939000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "605AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732529946000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Greens",
+    "Glyphs": "605AA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1732529953000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "Lenni",
     "Glyphs": "6066A21117FF",
     "Platform": "ST",
@@ -14038,6 +17022,14 @@
     "Glyphs": "6066A21117FF",
     "Platform": "ST",
     "Timestamp": 1724235735000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "OutNinjad",
+    "Glyphs": "6066A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1740413525000
   },
   {
     "Category": "Animal",
@@ -14898,6 +17890,14 @@
   {
     "Category": "Animal",
     "Name": "",
+    "Discoverer": "Mimikyu1312",
+    "Glyphs": "6162A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738296617000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
     "Discoverer": "cassiddidy",
     "Glyphs": "61C5A21117FF",
     "Platform": "PS",
@@ -15166,5 +18166,69 @@
     "Glyphs": "6209A21117FF",
     "Platform": "ST",
     "Timestamp": 1705769338000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "640BA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753989758000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "640BA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753989764000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "640BA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753989774000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "640BA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753989780000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "cassiddidy",
+    "Glyphs": "640BA21117FF",
+    "Platform": "PS",
+    "Timestamp": 1753989796000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Royal",
+    "Glyphs": "6423A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738219074000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Royal",
+    "Glyphs": "6423A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738219080000
+  },
+  {
+    "Category": "Animal",
+    "Name": "",
+    "Discoverer": "Royal",
+    "Glyphs": "6423A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1738219087000
   }
 ]

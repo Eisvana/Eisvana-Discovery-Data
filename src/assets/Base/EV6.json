@@ -61,16 +61,6 @@
   },
   {
     "Category": "Base",
-    "Name": "Club Cafe 42",
-    "Discoverer": "elkrokis",
-    "Glyphs": "113BA21107FE",
-    "Platform": "PS",
-    "Timestamp": 1714755466000,
-    "Parts": 321,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
     "Name": "SOVHOZ im. Lenina",
     "Discoverer": "ВОЕВАТЕЛЬ",
     "Glyphs": "113BA21107FE",
@@ -87,6 +77,16 @@
     "Platform": "PS",
     "Timestamp": 1705804300000,
     "Parts": 284,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Pyramid Excavation | OS",
+    "Discoverer": "Smaxta",
+    "Glyphs": "11E2A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1750472073000,
+    "Parts": 1134,
     "Gamemode": "Normal"
   },
   {
@@ -211,6 +211,26 @@
   },
   {
     "Category": "Base",
+    "Name": "Portal Eissentam",
+    "Discoverer": "rdudhane",
+    "Glyphs": "30F6A21107FE",
+    "Platform": "PS",
+    "Timestamp": 1745675997000,
+    "Parts": 70,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Dead Master Auleto Gamma BASE",
+    "Discoverer": "soundsofsivaya",
+    "Glyphs": "30F6A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1736651520000,
+    "Parts": 85,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Cu+",
     "Discoverer": "WaZ",
     "Glyphs": "30F6A21107FE",
@@ -241,6 +261,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Yiractic Colony",
+    "Discoverer": "Nightwish_King",
+    "Glyphs": "3102A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1740097366000,
+    "Parts": 314,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Monist Moon Temple - Amida",
     "Discoverer": "Spinova_",
     "Glyphs": "3137A21107FE",
@@ -251,12 +281,32 @@
   },
   {
     "Category": "Base",
+    "Name": "Commod-Eovi Base",
+    "Discoverer": "iggdawg",
+    "Glyphs": "318AA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1756906249000,
+    "Parts": 13,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "The Bounty",
     "Discoverer": "Scrapiron",
     "Glyphs": "319FA21107FE",
     "Platform": "ST",
     "Timestamp": 1720239366000,
     "Parts": 623,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Ejess Colony",
+    "Discoverer": "iggdawg",
+    "Glyphs": "31C2A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1738599842000,
+    "Parts": 16,
     "Gamemode": "Normal"
   },
   {
@@ -277,16 +327,6 @@
     "Platform": "ST",
     "Timestamp": 1721689786000,
     "Parts": 81,
-    "Gamemode": "Normal"
-  },
-  {
-    "Category": "Base",
-    "Name": "Acliu Base",
-    "Discoverer": "iggdawg",
-    "Glyphs": "4024A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1725991735000,
-    "Parts": 66,
     "Gamemode": "Normal"
   },
   {
@@ -365,7 +405,7 @@
     "Discoverer": "Spinova_",
     "Glyphs": "41F1A21107FE",
     "Platform": "PS",
-    "Timestamp": 1730868762000,
+    "Timestamp": 1748269523000,
     "Parts": 296,
     "Gamemode": "Normal"
   },
@@ -401,6 +441,36 @@
   },
   {
     "Category": "Base",
+    "Name": "Kappa Outpost",
+    "Discoverer": "Sugarcane",
+    "Glyphs": "50D5A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1757189944000,
+    "Parts": 311,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Joeleut Outpost",
+    "Discoverer": "Rowam",
+    "Glyphs": "50D5A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1757131606000,
+    "Parts": 43,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Near Living Ship BASE",
+    "Discoverer": "soundsofsivaya",
+    "Glyphs": "50F6A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1736648529000,
+    "Parts": 148,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Living Ship",
     "Discoverer": "Aervyn",
     "Glyphs": "50F6A21107FE",
@@ -425,8 +495,8 @@
     "Discoverer": "Spinova_",
     "Glyphs": "519CA21107FE",
     "Platform": "PS",
-    "Timestamp": 1725805512000,
-    "Parts": 428,
+    "Timestamp": 1739669634000,
+    "Parts": 455,
     "Gamemode": "Normal"
   },
   {
@@ -481,6 +551,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Serenity WIP",
+    "Discoverer": "Lianeras",
+    "Glyphs": "614CA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1757253294000,
+    "Parts": 2739,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "In Memory of December",
     "Discoverer": "Lunivore",
     "Glyphs": "6174A21107FE",
@@ -491,12 +571,52 @@
   },
   {
     "Category": "Base",
-    "Name": "Diego Base",
+    "Name": "Honey Syrup!!",
+    "Discoverer": "변성현",
+    "Glyphs": "618DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1757194059000,
+    "Parts": 24,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Hygetow-Otne-Floradae-Jo's",
+    "Discoverer": "jolinker_pilley",
+    "Glyphs": "618DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1750460695000,
+    "Parts": 18,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Small milk farm",
+    "Discoverer": "SnugglesBear82",
+    "Glyphs": "618DA21107FE",
+    "Platform": "XB",
+    "Timestamp": 1739755397000,
+    "Parts": 85,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Ephailse-Edua Outpost",
+    "Discoverer": "eemory",
+    "Glyphs": "618DA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1736529491000,
+    "Parts": 182,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "Moldy McMoldBase",
     "Discoverer": "iggdawg",
     "Glyphs": "61A9A21107FE",
     "Platform": "ST",
-    "Timestamp": 1721741769000,
-    "Parts": 13,
+    "Timestamp": 1756995568000,
+    "Parts": 226,
     "Gamemode": "Normal"
   },
   {

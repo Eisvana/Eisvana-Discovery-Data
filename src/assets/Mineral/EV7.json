@@ -1034,6 +1034,22 @@
   {
     "Category": "Mineral",
     "Name": "",
+    "Discoverer": "CorgiBawlz",
+    "Glyphs": "117BA21117FE",
+    "Platform": "XB",
+    "Timestamp": 1748527874000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Conte Mascetti",
+    "Glyphs": "117DA21117FE",
+    "Platform": "ST",
+    "Timestamp": 1744562434000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
     "Discoverer": "Conte Mascetti",
     "Glyphs": "117EA21117FE",
     "Platform": "ST",
@@ -1538,6 +1554,46 @@
   {
     "Category": "Mineral",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "13FBA21117FE",
+    "Platform": "ST",
+    "Timestamp": 1738257646000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "13FBA21117FE",
+    "Platform": "ST",
+    "Timestamp": 1738257655000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "13FBA21117FE",
+    "Platform": "ST",
+    "Timestamp": 1738257664000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1406A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1738338646000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "1426A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1738269958000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "2031A21117FE",
     "Platform": "ST",
@@ -1958,6 +2014,14 @@
     "Glyphs": "20FEA21117FE",
     "Platform": "XB",
     "Timestamp": 1712645446000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Goodwil",
+    "Glyphs": "210FA21117FE",
+    "Platform": "ST",
+    "Timestamp": 1756921125000
   },
   {
     "Category": "Mineral",
@@ -2466,6 +2530,14 @@
   {
     "Category": "Mineral",
     "Name": "",
+    "Discoverer": "iggdawg",
+    "Glyphs": "23F4A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1738259209000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
     "Discoverer": "Onipuss",
     "Glyphs": "3001A21117FE",
     "Platform": "ST",
@@ -2734,6 +2806,30 @@
     "Glyphs": "3162A21117FE",
     "Platform": "ST",
     "Timestamp": 1723445413000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Nightwish_King",
+    "Glyphs": "316BA21117FE",
+    "Platform": "ST",
+    "Timestamp": 1739708146000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Nightwish_King",
+    "Glyphs": "316BA21117FE",
+    "Platform": "ST",
+    "Timestamp": 1739708153000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Nightwish_King",
+    "Glyphs": "316BA21117FE",
+    "Platform": "ST",
+    "Timestamp": 1739708161000
   },
   {
     "Category": "Mineral",
@@ -3606,6 +3702,46 @@
     "Glyphs": "417EA21117FE",
     "Platform": "ST",
     "Timestamp": 1722365313000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Conte Mascetti",
+    "Glyphs": "417EA21117FE",
+    "Platform": "ST",
+    "Timestamp": 1744813051000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Conte Mascetti",
+    "Glyphs": "417EA21117FE",
+    "Platform": "ST",
+    "Timestamp": 1744813057000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Conte Mascetti",
+    "Glyphs": "417EA21117FE",
+    "Platform": "ST",
+    "Timestamp": 1744813070000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Conte Mascetti",
+    "Glyphs": "417EA21117FE",
+    "Platform": "ST",
+    "Timestamp": 1744813075000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Conte Mascetti",
+    "Glyphs": "417EA21117FE",
+    "Platform": "ST",
+    "Timestamp": 1744905868000
   },
   {
     "Category": "Mineral",

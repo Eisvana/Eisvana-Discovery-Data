@@ -31,6 +31,16 @@
   },
   {
     "Category": "Base",
+    "Name": "Black and White planet Outpost | OS",
+    "Discoverer": "Smaxta",
+    "Glyphs": "20D9A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1750472546000,
+    "Parts": 450,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
     "Name": "Woodstock Intergalatic Spaceport",
     "Discoverer": "RoananWolfe",
     "Glyphs": "3012A21117FE",
@@ -57,6 +67,16 @@
     "Platform": "XB",
     "Timestamp": 1707841634000,
     "Parts": 616,
+    "Gamemode": "Normal"
+  },
+  {
+    "Category": "Base",
+    "Name": "A New Start EIS",
+    "Discoverer": "Nightwish_King",
+    "Glyphs": "316BA21117FE",
+    "Platform": "ST",
+    "Timestamp": 1739706886000,
+    "Parts": 159,
     "Gamemode": "Normal"
   },
   {
