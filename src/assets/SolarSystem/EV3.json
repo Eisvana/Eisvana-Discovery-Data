@@ -5331,6 +5331,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV3-3E8 Nurtini",
+    "Discoverer": "Lenni",
+    "Glyphs": "03E8A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1758059658000,
+    "Correctly Prefixed": true,
+    "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV3-3E9 Arenqiulo",
     "Discoverer": "YucaFrita",
     "Glyphs": "03E9A11127FF",
@@ -5378,6 +5388,16 @@
     "Timestamp": 1738263668000,
     "Correctly Prefixed": true,
     "Planets": 1
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV3-3EE Uranns",
+    "Discoverer": "Lenni",
+    "Glyphs": "03EEA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1758059709000,
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -5521,6 +5541,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV3-3FD Maqukan-Ulmat XV",
+    "Discoverer": "Lenni",
+    "Glyphs": "03FDA11127FF",
+    "Platform": "ST",
+    "Timestamp": 1758059769000,
+    "Correctly Prefixed": true,
+    "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV3-3FE Duyuanhua",
     "Discoverer": "Lilac_Chicky",
     "Glyphs": "03FEA11127FF",
@@ -5578,6 +5608,16 @@
     "Timestamp": 1740022156000,
     "Correctly Prefixed": true,
     "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV3-404 Hashiong",
+    "Discoverer": "Lenni",
+    "Glyphs": "0404A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1758059878000,
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -5698,6 +5738,16 @@
     "Timestamp": 1738561539000,
     "Correctly Prefixed": true,
     "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV3-411 Yanshiz-Fukti",
+    "Discoverer": "Lenni",
+    "Glyphs": "0411A11127FF",
+    "Platform": "ST",
+    "Timestamp": 1758059934000,
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",

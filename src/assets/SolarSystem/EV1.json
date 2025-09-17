@@ -5281,6 +5281,26 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV1-3E8 Ernaeane",
+    "Discoverer": "Lenni",
+    "Glyphs": "03E8A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1758059142000,
+    "Correctly Prefixed": true,
+    "Planets": 2
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV1-3E9 Secesth-Fofany XIX",
+    "Discoverer": "Lenni",
+    "Glyphs": "03E9A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1758059250000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV1-3EA Dabachu XVI",
     "Discoverer": "LordDraCool241",
     "Glyphs": "03EAA21117FF",
@@ -5411,6 +5431,26 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV1-3F7 Videob X",
+    "Discoverer": "ExplorerRowan",
+    "Glyphs": "03F7A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1757994914000,
+    "Correctly Prefixed": true,
+    "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV1-3F8 Welanth",
+    "Discoverer": "Lenni",
+    "Glyphs": "03F8A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1758059364000,
+    "Correctly Prefixed": true,
+    "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV1-3F9 Liverm",
     "Discoverer": "Royal",
     "Glyphs": "03F9A21117FF",
@@ -5468,6 +5508,16 @@
     "Timestamp": 1738288281000,
     "Correctly Prefixed": true,
     "Planets": 2
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV1-3FF Nagatelawr",
+    "Discoverer": "Lenni",
+    "Glyphs": "03FFA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1758059424000,
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
     "Category": "SolarSystem",
@@ -5781,6 +5831,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV1-41F Zagrant",
+    "Discoverer": "Lenni",
+    "Glyphs": "041FA21117FF",
+    "Platform": "ST",
+    "Timestamp": 1758059473000,
+    "Correctly Prefixed": true,
+    "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV1-420 Isiared",
     "Discoverer": "Lianeras",
     "Glyphs": "0420A21117FF",
@@ -5788,6 +5848,16 @@
     "Timestamp": 1738954052000,
     "Correctly Prefixed": true,
     "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV1-421 Xandyus-Dis XIII",
+    "Discoverer": "Lenni",
+    "Glyphs": "0421A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1758059545000,
+    "Correctly Prefixed": true,
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -5808,6 +5878,16 @@
     "Timestamp": 1738219028000,
     "Correctly Prefixed": true,
     "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV1-424 Nilwaukel",
+    "Discoverer": "Lenni",
+    "Glyphs": "0424A21117FF",
+    "Platform": "ST",
+    "Timestamp": 1758059604000,
+    "Correctly Prefixed": true,
+    "Planets": 3
   },
   {
     "Category": "SolarSystem",

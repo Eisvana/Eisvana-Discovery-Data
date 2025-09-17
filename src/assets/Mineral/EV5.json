@@ -690,6 +690,14 @@
   {
     "Category": "Mineral",
     "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "101CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1757983296000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
     "Discoverer": "YucaFrita",
     "Glyphs": "1028A21107FF",
     "Platform": "ST",
@@ -7046,6 +7054,30 @@
     "Glyphs": "206CA21107FF",
     "Platform": "ST",
     "Timestamp": 1729979241000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Stu",
+    "Glyphs": "206CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1757979361000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Stu",
+    "Glyphs": "206CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1757979369000
+  },
+  {
+    "Category": "Mineral",
+    "Name": "",
+    "Discoverer": "Stu",
+    "Glyphs": "206CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1757979375000
   },
   {
     "Category": "Mineral",

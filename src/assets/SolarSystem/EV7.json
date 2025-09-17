@@ -5371,6 +5371,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV7-3EF Yihwey-Yern",
+    "Discoverer": "Lenni",
+    "Glyphs": "03EFA21117FE",
+    "Platform": "ST",
+    "Timestamp": 1758063516000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV7-3F0 Huwasard",
     "Discoverer": "Smaxta",
     "Glyphs": "03F0A21117FE",
@@ -5431,6 +5441,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV7-3F6 Jinandin",
+    "Discoverer": "Lenni",
+    "Glyphs": "03F6A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1758063618000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV7-3F7 Agado",
     "Discoverer": "iggdawg",
     "Glyphs": "03F7A21117FE",
@@ -5458,6 +5478,16 @@
     "Timestamp": 1738285579000,
     "Correctly Prefixed": true,
     "Planets": 1
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV7-3FA Xongach-Mamad",
+    "Discoverer": "Lenni",
+    "Glyphs": "03FAA21117FE",
+    "Platform": "ST",
+    "Timestamp": 1758063672000,
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -5528,6 +5558,16 @@
     "Timestamp": 1738287388000,
     "Correctly Prefixed": true,
     "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV7-402 Nagneui IV",
+    "Discoverer": "Lenni",
+    "Glyphs": "0402A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1758063742000,
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -5611,6 +5651,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV7-40B Seongmarr IV",
+    "Discoverer": "Lenni",
+    "Glyphs": "040BA21117FE",
+    "Platform": "ST",
+    "Timestamp": 1758063782000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV7-40C Leteng-Toyir",
     "Discoverer": "LordDraCool241",
     "Glyphs": "040CA21117FE",
@@ -5631,6 +5681,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV7-40E Midalup-Bolon XVI",
+    "Discoverer": "Lenni",
+    "Glyphs": "040EA21117FE",
+    "Platform": "ST",
+    "Timestamp": 1758063892000,
+    "Correctly Prefixed": true,
+    "Planets": 3
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV7-40F Yirnuh-Glaik XII",
     "Discoverer": "LordDraCool241",
     "Glyphs": "040FA21117FE",
@@ -5638,6 +5698,16 @@
     "Timestamp": 1739528209000,
     "Correctly Prefixed": true,
     "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV7-410 Hyuanj-Otman",
+    "Discoverer": "Lenni",
+    "Glyphs": "0410A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1758063963000,
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
     "Category": "SolarSystem",
@@ -5796,6 +5866,16 @@
     "Glyphs": "0420A21117FE",
     "Platform": "ST",
     "Timestamp": 1738260312000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV7-421 Nuende-Num",
+    "Discoverer": "Lenni",
+    "Glyphs": "0421A21117FE",
+    "Platform": "ST",
+    "Timestamp": 1758064002000,
     "Correctly Prefixed": true,
     "Planets": 6
   },

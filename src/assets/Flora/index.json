@@ -57978,6 +57978,14 @@
   {
     "Category": "Flora",
     "Name": "",
+    "Discoverer": "Stu",
+    "Glyphs": "206CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1757979355000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
     "Discoverer": "Orli863",
     "Glyphs": "2076A21107FF",
     "Platform": "PS",
@@ -60422,6 +60430,22 @@
     "Glyphs": "301CA21107FF",
     "Platform": "PS",
     "Timestamp": 1700125423000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "301CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1757983348000
+  },
+  {
+    "Category": "Flora",
+    "Name": "",
+    "Discoverer": "Gennie",
+    "Glyphs": "301CA21107FF",
+    "Platform": "ST",
+    "Timestamp": 1757983358000
   },
   {
     "Category": "Flora",

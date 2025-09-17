@@ -5571,6 +5571,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV2-3FE Masakyvi XIV",
+    "Discoverer": "Lenni",
+    "Glyphs": "03FEA11117FF",
+    "Platform": "ST",
+    "Timestamp": 1758059000000,
+    "Correctly Prefixed": true,
+    "Planets": 4
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV2-3FF Yonskoi",
     "Discoverer": "LordDraCool241",
     "Glyphs": "03FFA11117FF",
@@ -5618,6 +5628,16 @@
     "Timestamp": 1740247408000,
     "Correctly Prefixed": true,
     "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-404 Mashkan-Zuna",
+    "Discoverer": "Lenni",
+    "Glyphs": "0404A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1758059065000,
+    "Correctly Prefixed": true,
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -5966,6 +5986,26 @@
     "Glyphs": "0427A11117FF",
     "Platform": "XB",
     "Timestamp": 1740247299000,
+    "Correctly Prefixed": true,
+    "Planets": 6
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-428 Rikule",
+    "Discoverer": "Lenni",
+    "Glyphs": "0428A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1757976050000,
+    "Correctly Prefixed": true,
+    "Planets": 3
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV2-429 Tionezhg",
+    "Discoverer": "Lenni",
+    "Glyphs": "0429A11117FF",
+    "Platform": "ST",
+    "Timestamp": 1757976133000,
     "Correctly Prefixed": true,
     "Planets": 6
   }

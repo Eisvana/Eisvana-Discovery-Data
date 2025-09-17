@@ -5351,6 +5351,16 @@
   },
   {
     "Category": "SolarSystem",
+    "Name": "EV6-3E8 Uderren-Emb",
+    "Discoverer": "Lenni",
+    "Glyphs": "03E8A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1758063344000,
+    "Correctly Prefixed": true,
+    "Planets": 3
+  },
+  {
+    "Category": "SolarSystem",
     "Name": "EV6-3E9 Johnnyme",
     "Discoverer": "iggdawg",
     "Glyphs": "03E9A21107FE",
@@ -5368,6 +5378,16 @@
     "Timestamp": 1739598767000,
     "Correctly Prefixed": true,
     "Planets": 0
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-3EB Hireensbo XII",
+    "Discoverer": "Lenni",
+    "Glyphs": "03EBA21107FE",
+    "Platform": "ST",
+    "Timestamp": 1758063394000,
+    "Correctly Prefixed": true,
+    "Planets": 2
   },
   {
     "Category": "SolarSystem",
@@ -5648,6 +5668,16 @@
     "Timestamp": 1739376719000,
     "Correctly Prefixed": true,
     "Planets": 3
+  },
+  {
+    "Category": "SolarSystem",
+    "Name": "EV6-408 Ueneed-Achim",
+    "Discoverer": "Lenni",
+    "Glyphs": "0408A21107FE",
+    "Platform": "ST",
+    "Timestamp": 1758063452000,
+    "Correctly Prefixed": true,
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
