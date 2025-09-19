@@ -3741,12 +3741,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV5-177 Ayskyv",
     "Discoverer": "YucaFrita",
     "Glyphs": "0177A21107FF",
     "Platform": "ST",
-    "Timestamp": 1696603857000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758136951000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -5601,12 +5601,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV6-404 Citgo",
+    "Name": "EV5-404 Citgo",
     "Discoverer": "iggdawg",
     "Glyphs": "0404A21107FF",
     "Platform": "ST",
-    "Timestamp": 1738290123000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758113733000,
+    "Correctly Prefixed": true,
     "Planets": 5
   },
   {
@@ -5621,11 +5621,11 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV6-407 Pukhilk",
+    "Name": "EV6-406 Pukhilk",
     "Discoverer": "iggdawg",
     "Glyphs": "0406A21107FF",
     "Platform": "ST",
-    "Timestamp": 1738261865000,
+    "Timestamp": 1758114014000,
     "Correctly Prefixed": false,
     "Planets": 6
   },
@@ -5731,12 +5731,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV5-411 Lavsko Olhe",
     "Discoverer": "iggdawg",
     "Glyphs": "0411A21107FF",
     "Platform": "ST",
-    "Timestamp": 1738340917000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758114253000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -5831,12 +5831,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV5-41D Zodokiat",
+    "Name": "EV5-41B Zodokiat",
     "Discoverer": "iggdawg",
     "Glyphs": "041BA21107FF",
     "Platform": "ST",
-    "Timestamp": 1738357138000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758114479000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -5891,12 +5891,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV6-421 New Way",
+    "Name": "EV5-421 New Way",
     "Discoverer": "iggdawg",
     "Glyphs": "0421A21107FF",
     "Platform": "ST",
-    "Timestamp": 1738266639000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758114906000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {

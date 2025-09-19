@@ -5351,12 +5351,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "2-3E8 Nekurta",
+    "Name": "EV2-3E8 Nekurta",
     "Discoverer": "YucaFrita",
     "Glyphs": "03E8A11117FF",
     "Platform": "ST",
-    "Timestamp": 1757782889000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758136736000,
+    "Correctly Prefixed": true,
     "Planets": 3
   },
   {
@@ -5521,12 +5521,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV2-3FE Ratio Mu",
+    "Name": "EV2-3F9 Ratio Mu",
     "Discoverer": "iggdawg",
     "Glyphs": "03F9A11117FF",
     "Platform": "ST",
-    "Timestamp": 1756156705000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758112846000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -5541,12 +5541,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "2-3FB Sukhtar-Kan",
+    "Name": "EV2-3FB Sukhtar-Kan",
     "Discoverer": "YucaFrita",
     "Glyphs": "03FBA11117FF",
     "Platform": "ST",
-    "Timestamp": 1757962707000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758136334000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
