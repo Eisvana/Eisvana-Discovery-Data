@@ -5671,12 +5671,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV3-40AXenkyer-Aif II",
+    "Name": "EV3-40A Xenkyer-Aif II",
     "Discoverer": "Lilac_Chicky",
     "Glyphs": "040AA11127FF",
     "Platform": "ST",
-    "Timestamp": 1738559776000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758113933000,
+    "Correctly Prefixed": true,
     "Planets": 0
   },
   {

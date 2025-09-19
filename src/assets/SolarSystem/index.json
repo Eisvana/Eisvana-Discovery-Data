@@ -5571,12 +5571,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV1-406 Reshnu",
+    "Name": "EV1-405 Reshnu",
     "Discoverer": "iggdawg",
     "Glyphs": "0405A21117FF",
     "Platform": "ST",
-    "Timestamp": 1757091742000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758111786000,
+    "Correctly Prefixed": true,
     "Planets": 4
   },
   {
@@ -5611,12 +5611,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV3-409 Radofo",
+    "Name": "EV1-409 Radofo",
     "Discoverer": "iggdawg",
     "Glyphs": "0409A21117FF",
     "Platform": "ST",
-    "Timestamp": 1738348404000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758111980000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -5801,12 +5801,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV3-41C Meforduw",
+    "Name": "EV1-41C Meforduw",
     "Discoverer": "iggdawg",
     "Glyphs": "041CA21117FF",
     "Platform": "ST",
-    "Timestamp": 1738348536000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758112549000,
+    "Correctly Prefixed": true,
     "Planets": 2
   },
   {
@@ -11291,12 +11291,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "2-3E8 Nekurta",
+    "Name": "EV2-3E8 Nekurta",
     "Discoverer": "YucaFrita",
     "Glyphs": "03E8A11117FF",
     "Platform": "ST",
-    "Timestamp": 1757782889000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758136736000,
+    "Correctly Prefixed": true,
     "Planets": 3
   },
   {
@@ -11461,12 +11461,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV2-3FE Ratio Mu",
+    "Name": "EV2-3F9 Ratio Mu",
     "Discoverer": "iggdawg",
     "Glyphs": "03F9A11117FF",
     "Platform": "ST",
-    "Timestamp": 1756156705000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758112846000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -11481,12 +11481,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "2-3FB Sukhtar-Kan",
+    "Name": "EV2-3FB Sukhtar-Kan",
     "Discoverer": "YucaFrita",
     "Glyphs": "03FBA11117FF",
     "Platform": "ST",
-    "Timestamp": 1757962707000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758136334000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -17621,12 +17621,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV3-40AXenkyer-Aif II",
+    "Name": "EV3-40A Xenkyer-Aif II",
     "Discoverer": "Lilac_Chicky",
     "Glyphs": "040AA11127FF",
     "Platform": "ST",
-    "Timestamp": 1738559776000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758113933000,
+    "Correctly Prefixed": true,
     "Planets": 0
   },
   {
@@ -23531,12 +23531,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV4-407 Aaning",
+    "Name": "EV4-406 Aaning",
     "Discoverer": "iggdawg",
     "Glyphs": "0406A21127FF",
     "Platform": "ST",
-    "Timestamp": 1738330849000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758113138000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -23771,12 +23771,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV2-41E Viking Mule",
+    "Name": "EV4-41E Viking Mule",
     "Discoverer": "iggdawg",
     "Glyphs": "041EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1738499364000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758110938000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -27631,12 +27631,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV5-177 Ayskyv",
     "Discoverer": "YucaFrita",
     "Glyphs": "0177A21107FF",
     "Platform": "ST",
-    "Timestamp": 1696603857000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758136951000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -29491,12 +29491,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV6-404 Citgo",
+    "Name": "EV5-404 Citgo",
     "Discoverer": "iggdawg",
     "Glyphs": "0404A21107FF",
     "Platform": "ST",
-    "Timestamp": 1738290123000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758113733000,
+    "Correctly Prefixed": true,
     "Planets": 5
   },
   {
@@ -29511,11 +29511,11 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV6-407 Pukhilk",
+    "Name": "EV6-406 Pukhilk",
     "Discoverer": "iggdawg",
     "Glyphs": "0406A21107FF",
     "Platform": "ST",
-    "Timestamp": 1738261865000,
+    "Timestamp": 1758114014000,
     "Correctly Prefixed": false,
     "Planets": 6
   },
@@ -29621,12 +29621,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV5-411 Lavsko Olhe",
     "Discoverer": "iggdawg",
     "Glyphs": "0411A21107FF",
     "Platform": "ST",
-    "Timestamp": 1738340917000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758114253000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -29721,12 +29721,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV5-41D Zodokiat",
+    "Name": "EV5-41B Zodokiat",
     "Discoverer": "iggdawg",
     "Glyphs": "041BA21107FF",
     "Platform": "ST",
-    "Timestamp": 1738357138000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758114479000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -29781,12 +29781,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV6-421 New Way",
+    "Name": "EV5-421 New Way",
     "Discoverer": "iggdawg",
     "Glyphs": "0421A21107FF",
     "Platform": "ST",
-    "Timestamp": 1738266639000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758114906000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -35681,12 +35681,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV6-417 Ogorgiel",
+    "Name": "EV6-416 Ogorgiel",
     "Discoverer": "iggdawg",
     "Glyphs": "0416A21107FE",
     "Platform": "ST",
-    "Timestamp": 1738286293000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758115402000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {

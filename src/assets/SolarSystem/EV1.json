@@ -5571,12 +5571,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV1-406 Reshnu",
+    "Name": "EV1-405 Reshnu",
     "Discoverer": "iggdawg",
     "Glyphs": "0405A21117FF",
     "Platform": "ST",
-    "Timestamp": 1757091742000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758111786000,
+    "Correctly Prefixed": true,
     "Planets": 4
   },
   {
@@ -5611,12 +5611,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV3-409 Radofo",
+    "Name": "EV1-409 Radofo",
     "Discoverer": "iggdawg",
     "Glyphs": "0409A21117FF",
     "Platform": "ST",
-    "Timestamp": 1738348404000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758111980000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -5801,12 +5801,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV3-41C Meforduw",
+    "Name": "EV1-41C Meforduw",
     "Discoverer": "iggdawg",
     "Glyphs": "041CA21117FF",
     "Platform": "ST",
-    "Timestamp": 1738348536000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758112549000,
+    "Correctly Prefixed": true,
     "Planets": 2
   },
   {

@@ -5591,12 +5591,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV4-407 Aaning",
+    "Name": "EV4-406 Aaning",
     "Discoverer": "iggdawg",
     "Glyphs": "0406A21127FF",
     "Platform": "ST",
-    "Timestamp": 1738330849000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758113138000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
@@ -5831,12 +5831,12 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV2-41E Viking Mule",
+    "Name": "EV4-41E Viking Mule",
     "Discoverer": "iggdawg",
     "Glyphs": "041EA21127FF",
     "Platform": "ST",
-    "Timestamp": 1738499364000,
-    "Correctly Prefixed": false,
+    "Timestamp": 1758110938000,
+    "Correctly Prefixed": true,
     "Planets": 6
   },
   {
