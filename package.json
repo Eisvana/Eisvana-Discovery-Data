@@ -7,7 +7,10 @@
     "dev": "vite",
     "build": "vue-tsc && vite build",
     "preview": "vite preview",
-    "format": "prettier --write src/"
+    "format": "oxfmt",
+    "lint": "oxlint",
+    "lint:fix": "oxlint --fix",
+    "lint:ci": "oxlint --deny-warnings"
   },
   "dependencies": {
     "chart.js": "^4.5.1"
@@ -18,6 +21,8 @@
     "@types/node": "^25.3.0",
     "@vitejs/plugin-vue": "^6.0.4",
     "@vueuse/core": "^14.2.1",
+    "oxfmt": "^0.35.0",
+    "oxlint": "^1.50.0",
     "pinia": "^3.0.4",
     "prettier": "^3.8.1",
     "quasar": "^2.18.6",
