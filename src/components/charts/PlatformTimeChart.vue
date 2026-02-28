@@ -99,10 +99,10 @@ function buildChartData(platform: Platform, property: TimeTrackingCategories): C
 
 const data = computed(() => {
   const individualDatasets: ChartData[] = sortedPlatforms.value.map((platform) =>
-    buildChartData(platform, 'individual')
+    buildChartData(platform, 'individual'),
   );
   const accumulatedDatasets: ChartData[] = sortedPlatforms.value.map((platform) =>
-    buildChartData(platform, 'accumulated')
+    buildChartData(platform, 'accumulated'),
   );
 
   return [

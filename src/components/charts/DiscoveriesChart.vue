@@ -131,7 +131,7 @@ const data = computed(() => {
         label: 'Incorrect Tags',
         backgroundColor: chartColours.red,
         data: mistags,
-      }
+      },
     );
   }
   datasets.forEach((item) => (item.borderColor = item.backgroundColor + '70'));

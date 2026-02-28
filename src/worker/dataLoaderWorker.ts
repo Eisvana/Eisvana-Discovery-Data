@@ -65,7 +65,7 @@ async function addData(getData: () => Promise<unknown>, index: number, filterCon
 
 function applyFilter(
   data: DiscoveryData[],
-  { regions, unixTimestamp, tagged, procName, intersections, searchTerms, caseSensitivity, platforms }: FilterConfig
+  { regions, unixTimestamp, tagged, procName, intersections, searchTerms, caseSensitivity, platforms }: FilterConfig,
 ) {
   const { startDate = 0, endDate = 0 } = unixTimestamp;
 

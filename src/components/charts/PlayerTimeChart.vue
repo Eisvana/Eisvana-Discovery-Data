@@ -134,10 +134,10 @@ function buildChartData(playerObj: PlayerPaginationData, property: TimeTrackingC
 
 const data = computed(() => {
   const individualDatasets: ChartData[] = paginatedPlayerData.value.map((player) =>
-    buildChartData(player, 'individual')
+    buildChartData(player, 'individual'),
   );
   const accumulatedDatasets: ChartData[] = paginatedPlayerData.value.map((player) =>
-    buildChartData(player, 'accumulated')
+    buildChartData(player, 'accumulated'),
   );
 
   return [

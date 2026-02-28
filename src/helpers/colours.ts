@@ -6,7 +6,7 @@ import type { PlatformLabels } from '@/types/data';
 export function setPlatformColours(platformLabelArray: PlatformLabels[]) {
   const platformMappingObjectValues = Object.values(platformMapping);
   return platformLabelArray.map(
-    (platform) => platformMappingObjectValues.find((item) => item.label === platform)?.colour ?? ''
+    (platform) => platformMappingObjectValues.find((item) => item.label === platform)?.colour ?? '',
   );
 }
 

@@ -116,18 +116,18 @@ const allProcNamePercent = computed(() => getPercentage(allProcName.value, dataL
 
 // average discoveries per day
 const avgDiscoveriesPerDay = computed(
-  () => (differenceInDays.value ? (dataLength.value / differenceInDays.value).toFixed(2) : 0) // NoSonar this generates two decimals
+  () => (differenceInDays.value ? (dataLength.value / differenceInDays.value).toFixed(2) : 0), // NoSonar this generates two decimals
 );
 
 // average prefixes per day
 const avgCorrectTagsPerDay = computed(
-  () => (differenceInDays.value ? (amountTagged.value / differenceInDays.value).toFixed(2) : 0) // NoSonar this generates two decimals
+  () => (differenceInDays.value ? (amountTagged.value / differenceInDays.value).toFixed(2) : 0), // NoSonar this generates two decimals
 );
 
 // average incorrect prefixes per day
 const avgIncorrectTagsPerDay = computed(
   () =>
-    differenceInDays.value ? ((systemsNotTagged.value + systemsProcName.value) / differenceInDays.value).toFixed(2) : 0 // NoSonar this generates two decimals
+    differenceInDays.value ? ((systemsNotTagged.value + systemsProcName.value) / differenceInDays.value).toFixed(2) : 0, // NoSonar this generates two decimals
 );
 
 const duplicateNamesHeaders = ['Name', 'Amount of duplicates'];

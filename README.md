@@ -1,7 +1,7 @@
 # Eisvana-Discovery-Data
 
 Viewer for discovery data and associated stats of Eisvana
- 
+
 ## Project Setup
 
 ```sh

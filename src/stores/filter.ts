@@ -92,7 +92,8 @@ export const useFilterStore = defineStore('filter', {
     sortedRegions: (state) =>
       Object.values(allEisvanaRegions).filter((item) => state.activeFilterSettings.regions.includes(item)),
     dataHasSystems: (state) => state.activeFilterSettings.categories.includes('SolarSystem'),
-    dataHasOnlySystems: (state) => state.activeFilterSettings.categories.length === 1 && state.activeFilterSettings.categories[0] === 'SolarSystem',
+    dataHasOnlySystems: (state) =>
+      state.activeFilterSettings.categories.length === 1 && state.activeFilterSettings.categories[0] === 'SolarSystem',
   },
 
   actions: {

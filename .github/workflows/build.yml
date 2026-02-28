@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: "build"
+  group: 'build'
   cancel-in-progress: true
 
 jobs:

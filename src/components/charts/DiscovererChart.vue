@@ -91,7 +91,7 @@ const barChartData = computed(() => {
         label: 'Not Tagged',
         backgroundColor: chartColours.red,
         data: playerMistags,
-      }
+      },
     );
   } else {
     const mappedDatasets = sortedCategories.value.map((cat) => {
