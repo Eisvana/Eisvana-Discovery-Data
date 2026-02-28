@@ -2,24 +2,24 @@
 import { platformMapping } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
 import {
-  Chart as ChartJS,
   CategoryScale,
+  Chart as ChartJS,
+  Legend,
+  LineElement,
   LinearScale,
   PointElement,
-  LineElement,
   Title,
   Tooltip,
-  Legend,
 } from 'chart.js';
 import { storeToRefs } from 'pinia';
 import { computed, ref, watchEffect } from 'vue';
 import { Line } from 'vue-chartjs';
-import { getUTCDateString, getDatesBetween } from '@/helpers/date';
+import { getDatesBetween, getUTCDateString } from '@/helpers/date';
 import type { ChartData } from '@/types/chart';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import { chartOptions } from '@/variables/chart';
-import type { TimestampPlatformData, TimeTrackingCategories } from '@/types/data';
+import type { TimeTrackingCategories, TimestampPlatformData } from '@/types/data';
 import { useFilterStore } from '@/stores/filter';
 import type { Platform } from '@/types/platform';
 import ChartContainer from '../ChartContainer.vue';

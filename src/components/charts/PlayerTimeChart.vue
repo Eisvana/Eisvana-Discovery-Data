@@ -1,19 +1,19 @@
 <script setup lang="ts">
 import { useDataStore } from '@/stores/data';
 import {
-  Chart as ChartJS,
   CategoryScale,
+  Chart as ChartJS,
+  Legend,
+  LineElement,
   LinearScale,
   PointElement,
-  LineElement,
   Title,
   Tooltip,
-  Legend,
 } from 'chart.js';
 import { storeToRefs } from 'pinia';
 import { computed, ref, watchEffect } from 'vue';
 import { Line } from 'vue-chartjs';
-import { getUTCDateString, getDatesBetween } from '@/helpers/date';
+import { getDatesBetween, getUTCDateString } from '@/helpers/date';
 import { paginateData } from '@/helpers/paginate';
 import { getRandomColour } from '@/helpers/colours';
 import type { ChartData } from '@/types/chart';

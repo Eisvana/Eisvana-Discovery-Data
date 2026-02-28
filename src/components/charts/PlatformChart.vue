@@ -1,12 +1,12 @@
 <script setup lang="ts">
 import { Bar, Pie } from 'vue-chartjs';
-import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale, ArcElement } from 'chart.js';
+import { ArcElement, BarElement, CategoryScale, Chart as ChartJS, Legend, LinearScale, Title, Tooltip } from 'chart.js';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed, ref, watchEffect } from 'vue';
 import { categoryMapping, chartColours, platformMapping } from '@/variables/mappings';
 import type { Platform } from '@/types/platform';
-import { chartOptions, barChartOptions } from '@/variables/chart';
+import { barChartOptions, chartOptions } from '@/variables/chart';
 import { refDebounced } from '@vueuse/core';
 import { debounceDelay } from '@/variables/debounce';
 import PieChartWrapper from '../PieChartWrapper.vue';
@@ -37,11 +37,11 @@ const platformStats = computed(() => {
   for (let i = 0; i < debouncedFilteredData.value.length; i++) {  // NoSonar this is for performance
     const data = debouncedFilteredData.value[i];
     if (!platformData.has(data.Platform))
-      platformData.set(data.Platform, {
+      {platformData.set(data.Platform, {
         discoveries: 0,
         tags: 0,
         mistags: 0,
-      });
+      });}
 
     const platformObject = platformData.get(data.Platform);
     if (!platformObject) continue;
@@ -57,7 +57,7 @@ const platformStats = computed(() => {
     }
   }
 
-  const platformDataArray = Array.from(platformData);
+  const platformDataArray = [...platformData];
 
   const sortedPlatformDataArray = platformDataArray.toSorted((a, b) => b[1].discoveries - a[1].discoveries);
 

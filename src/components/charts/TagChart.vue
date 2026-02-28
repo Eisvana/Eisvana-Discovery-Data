@@ -2,14 +2,14 @@
 import { categoryMapping, chartColours } from '@/variables/mappings';
 import { useDataStore } from '@/stores/data';
 import {
-  Chart as ChartJS,
   CategoryScale,
+  Chart as ChartJS,
+  Legend,
+  LineElement,
   LinearScale,
   PointElement,
-  LineElement,
   Title,
   Tooltip,
-  Legend,
 } from 'chart.js';
 import { storeToRefs } from 'pinia';
 import { computed, ref, watchEffect } from 'vue';

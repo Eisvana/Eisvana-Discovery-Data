@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { Pie } from 'vue-chartjs';
-import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale, ArcElement } from 'chart.js';
+import { ArcElement, BarElement, CategoryScale, Chart as ChartJS, Legend, LinearScale, Title, Tooltip } from 'chart.js';
 import { useDataStore } from '@/stores/data';
 import { storeToRefs } from 'pinia';
 import { computed, ref, watchEffect } from 'vue';
@@ -39,7 +39,7 @@ const platformStats = computed((): PlatformStats => {
       platformData.get(data.Platform)?.add(data.Discoverer);
     }
 
-  const platformDataArray = Array.from(platformData);
+  const platformDataArray = [...platformData];
 
   const sortedPlatformDataArray = platformDataArray.toSorted((a, b) => b[1].size - a[1].size);
 
@@ -48,8 +48,8 @@ const platformStats = computed((): PlatformStats => {
   sortedPlatformDataArray.forEach(([key, val]) => platformData.set(key, val));
 
   return {
-    platforms: Array.from(platformData.keys()).map((item) => platformMapping[item].label),
-    players: Array.from(platformData.values()).map((item) => item.size),
+    platforms: [...platformData.keys()].map((item) => platformMapping[item].label),
+    players: [...platformData.values()].map((item) => item.size),
   };
 });
 

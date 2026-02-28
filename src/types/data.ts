@@ -36,9 +36,7 @@ export type DiscovererDataArray = PartialDiscoveryCategoryNumbers &
     name: string;
   };
 
-export interface DiscovererData {
-  [name: string]: Omit<DiscovererDataArray, 'name'>;
-}
+export type DiscovererData = Record<string, Omit<DiscovererDataArray, 'name'>>;
 
 export type PlatformDataArray = PartialDiscoveryCategoryNumbers &
   BaseDiscoveryObject & {
@@ -50,17 +48,15 @@ export type TimestampDataArray = PartialDiscoveryCategoryNumbers &
     ts: string;
   };
 
-export interface TimestampData {
-  [ts: string]: Omit<TimestampDataArray, 'ts'>;
-}
+export type TimestampData = Record<string, Omit<TimestampDataArray, 'ts'>>;
 
 type PartialPlatformDiscoveryNumbers = Partial<Record<Platform, number>>;
 
 export type TimeTrackingCategories = 'individual' | 'accumulated';
 
-export type TimestampPlatformData = {
+export interface TimestampPlatformData {
   [ts: string]: Record<TimeTrackingCategories, PartialPlatformDiscoveryNumbers>;
-};
+}
 
 export interface PlayerPaginationData {
   name: string;
@@ -69,9 +65,7 @@ export interface PlayerPaginationData {
 }
 
 export interface PlayerDiscoveryNumbers {
-  [ts: string]: {
-    [name: string]: Pick<PlayerPaginationData, 'colour'> & Record<TimeTrackingCategories, number>;
-  };
+  [ts: string]: Record<string, Pick<PlayerPaginationData, 'colour'> & Record<TimeTrackingCategories, number>>;
 }
 
 export type PlanetDetails = Partial<Record<DiscoveryCategories, DiscoveryData[]>>;
@@ -88,9 +82,7 @@ export interface BaseDiscovererData {
   taggedPercentSelf: number;
 }
 
-export interface DiscovererDataObject {
-  [key: string]: BaseDiscovererData;
-}
+export type DiscovererDataObject = Record<string, BaseDiscovererData>;
 
 export interface NumberStats {
   systems: number;
