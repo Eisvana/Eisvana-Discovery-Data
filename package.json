@@ -20,7 +20,7 @@
     "@quasar/vite-plugin": "^1.12.0",
     "@types/node": "^26.1.1",
     "@vitejs/plugin-vue": "^6.0.8",
-    "@vueuse/core": "^14.3.0",
+    "@vueuse/core": "^14.4.0",
     "oxfmt": "^0.57.0",
     "oxlint": "^1.75.0",
     "pinia": "^4.0.2",
