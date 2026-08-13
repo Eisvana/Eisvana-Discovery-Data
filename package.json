@@ -22,7 +22,7 @@
     "@vitejs/plugin-vue": "^6.0.8",
     "@vueuse/core": "^14.4.0",
     "oxfmt": "^0.61.0",
-    "oxlint": "^1.75.0",
+    "oxlint": "^1.77.0",
     "pinia": "^4.0.2",
     "quasar": "^2.24.0",
     "sass": "^1.102.0",
